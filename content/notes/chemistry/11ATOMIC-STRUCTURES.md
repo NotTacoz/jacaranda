@@ -86,7 +86,25 @@ huge thanks to jonathan l for providing me with his notes :]
 		- an electron can transition to a higher state by absorbing a photo with energy equal to the exact difference in energies between 2 electron orbits (final and initial)
 		- an electron can transition to a lower state by emitting a photo with energy equal to the exact difference in energies between 2 electron orbits (final and initial)
 - ### emission spectra
-	- when an electric discharge is passed throguha.
+	- when an electric discharge is passed through a discharge tube, electrons that are found in the discharge transfer some kinetic energy during collision to the atoms' electrons.
+	- the electron issued the atom is then excited to a higher energy state, and the incident electron will decelerate and be deflected in another direction (?)
+	- electrons become unstable in higher energy state, and will transition down to the ground state. 
+		- this releases energy in the form of radiation, the energy is equal to E2-E1.
+	- frequency of the radiation (therefore colour) is proportional to the energy it has, one specific wavelength/frequency of light will be produced per transition.
+	- a unique set of photons with a specific wavelength is produced (as multiple transitions can occur within an atom). when these emissions are captured and analysed in a line spectrometer, you can only see one light present.
+- unique spectra: discrete energy levels for atoms are fixed and unique/atom.
+	- as a result the discrete energy level differences are also fixed and unique to each element.
+	- each element has difference emission and absorption spectra as the range frequencies of light emitted are based on the discrete energy level differences.
+- ### problems with bohrs model
+	- multi-electron atoms
+		- does not work with atoms with 1+ electrons in the valence shell, as it's not possible to calculate all the spectral lines of all other atoms, as this model has classical components (electrostatic attraction)
+	- relative intensities of spectral lines
+		- the spectral lines are not of equal density
+		- bohrs model doesn't explain why some electron transition would be favoured, and wavelength of light appears more intense in the spectra.
+	- hyperfine lines
+		- 2 bands contained in a single band
+	- zeeman effect
+		- when a gas is excited in a magnetic field, emission spectrum shows a splitting of the spectral lines.
 
 
 # Development of atomic structure
