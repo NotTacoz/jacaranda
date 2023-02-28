@@ -1,3 +1,5 @@
+//wtf am i reading
+
 async function drawGraph(baseUrl, isHome, pathColors, graphConfig) {
 
   let {
@@ -147,6 +149,7 @@ async function drawGraph(baseUrl, isHome, pathColors, graphConfig) {
     .attr("stroke-width", 2)
     .attr("data-source", (d) => d.source.id)
     .attr("data-target", (d) => d.target.id)
+  
 
   // svg groups
   const graphNode = svg.append("g").selectAll("g").data(data.nodes).enter().append("g")
@@ -169,6 +172,8 @@ async function drawGraph(baseUrl, isHome, pathColors, graphConfig) {
     .on("click", (_, d) => {
       // SPA navigation
       const targ = `${baseUrl}${decodeURI(d.id).replace(/\s+/g, "-")}/`
+      console.log(baseUrl);
+      console.log(decodeURI(d.id).replace(/\s+/g, "-"));
       window.Million.navigate(new URL(targ), ".singlePage")
       plausible("Link Click", {
         props: {
