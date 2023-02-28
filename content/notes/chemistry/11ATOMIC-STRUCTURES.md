@@ -76,12 +76,17 @@ huge thanks to jonathan l for providing me with his notes :]
 - Orbitals of electrons, and the line emission spectra.
 - Scientists found that when an electric discharge is passed throguh a discharge tube containing hydrogen gas at low pressure, it emits light.
 - The light when passed through a prism split sup into a set of 5 lines. This spectrum is called the line spectrum of hydrogen. This is known as the <u>line emission spectrum</u>. Scientists were unable to explain this.
-- ## bohrs model
+- ## bohr's model
 - bohr's model stated the following: (the three postulates)
 	- **fixed orbital**: electrons move in a circular orbit around the nucleus under influence of electrostatic attraction of the nucleus.
 	- **angular momentum is quantised**
 		- electrons occupy fixed energy levels
-		- these fixed energy levels do not emit radiation, as these orbits are stable (Maxwell's Law)
+		- these fixed energy levels do not emit radiation, as these orbits are stable ([Maxwell's Law](notes/chemistry/11MAXWELLS-LAW.md))
+	- **energy transitions**: electrons can transition to higher or lower energy levels by emitting or absorbing fixed quantities of energy (photons)
+		- an electron can transition to a higher state by absorbing a photo with energy equal to the exact difference in energies between 2 electron orbits (final and initial)
+		- an electron can transition to a lower state by emitting a photo with energy equal to the exact difference in energies between 2 electron orbits (final and initial)
+- ### emission spectra
+	- when an electric discharge is passed throguha.
 
 
 # Development of atomic structure

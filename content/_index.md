@@ -2,7 +2,7 @@
 title: home
 enableToc: false
 ---
-# hello
+# ![](content/notes/images/Pasted%20image%2020230228195052.png)hello!
 these are whats important:
 - [notes](notes/notes.md)
 	- [method notes](notes/subsections/methods.md)
@@ -13,8 +13,3 @@ these are whats important:
 	- [english notes](notes/subsections/eng.md)
 
 enjoy your stay!
-<br />
-while you're here check out [my website](https://nottacoz.github.io) or my [startpage](https://nottacoz.github.io/startpage)
-
-
-[Hugo](https://gohugo.io/)

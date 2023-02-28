@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "4b60b154662ee836",
+        "id": "87a863329bfa86be",
         "type": "tabs",
         "children": [
           {
-            "id": "e60eff22dc5931f6",
+            "id": "964f382a706ba8cf",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -18,21 +18,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "f73cc9a24507f9ea",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "content/_index.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -82,7 +69,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "e14aa4bd0de7979d",
@@ -98,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/_index.md",
+                "file": "content/notes/chemistry/11ATOMIC-STRUCTURES.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "content/_index.md",
+                "file": "content/notes/chemistry/11ATOMIC-STRUCTURES.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "content/_index.md"
+                "file": "content/notes/chemistry/11ATOMIC-STRUCTURES.md"
               }
             }
           }
@@ -159,16 +147,22 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "f73cc9a24507f9ea",
+  "active": "964f382a706ba8cf",
   "lastOpenFiles": [
-    "content/notes/chemistry/11MAXELLS-LAW.md",
     "content/notes/chemistry/11ATOMIC-STRUCTURES.md",
-    "content/notes/methods/11WEEK5LESSON1.md",
-    "content/notes/chemistry/lessonnotes/28feb.md",
-    "content/notes/chemistry/10ORGANIC-CHEMISTRY.md",
-    "content/notes/chemistry/11DEFINITIONS.md",
-    "content/notes/english/Untitled.md",
+    "content/notes/chemistry/11MAXWELLS-LAW.md",
     "content/notes/english/11WTCS-CONTEXT.md",
+    "notes/chemistry/11MAXWELLS-LAW.md",
+    "notes/chemistry",
+    "notes",
+    "content/notes/chemistry/11DEFINITIONS.md",
+    "content/notes/chemistry/lessonnotes/28feb.md",
+    "content/notes/methods/11WEEK5LESSON1.md",
+    "content/notes/().md",
+    "content/_index.md",
+    "content/notes/images/Pasted image 20230228195052.png",
+    "content/notes/chemistry/10ORGANIC-CHEMISTRY.md",
+    "content/notes/english/Untitled.md",
     "content/notes/images/Pasted image 20230228124915.png",
     "content/notes/images/Pasted image 20230228140559.png",
     "content/notes/specialist/11PIGEONHOLE.md",

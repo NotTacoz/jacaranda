@@ -1,4 +1,0 @@
----
-title: "maxwell's law"
----
-
