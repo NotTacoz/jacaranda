@@ -12,5 +12,9 @@ these are whats important:
 	- [japanese notes](notes/subsections/jap.md)
 	- [english notes](notes/subsections/eng.md)
 
-enjoy your stay
+enjoy your stay!
+<br />
 while you're here check out [my website](https://nottacoz.github.io) or my [startpage](https://nottacoz.github.io/startpage)
+
+
+[Hugo](https://gohugo.io/)
