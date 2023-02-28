@@ -13,3 +13,4 @@ these are whats important:
 	- [english notes](notes/subsections/eng.md)
 
 enjoy your stay
+while you're here check out [my website](https://nottacoz.github.io) or my [startpage](https://nottacoz.github.io/startpage)

@@ -4,24 +4,24 @@ title: "extended response research task: atomic structure"
 [go back](notes/subsections/chem.md)
 
 huge thanks to jonathan l for providing me with his notes :]
+- [ ] research discrete thingy
 # suggested resources
 - [ ] Pearson Chapter 2.1 to 2.3: Atomic theory, describing atoms, isotopes
 - [x] Lucarelli Chapter 2: Discovering the atom’s structure
-- [ ] [http://thehistoryoftheatom.weebly.com/index.html](http://thehistoryoftheatom.weebly.com/index.html)
-# Lucarelli Chapter 2 Summary
+- [x] [http://thehistoryoftheatom.weebly.com/index.html](http://thehistoryoftheatom.weebly.com/index.html) (link broken)
 
-## Origins
+# Origins
 -   Idea of matter is thought by Ancient Greek philosophers
 -   They believed matter consisted of 4 elements, and matter was infinitely divisible.
 -   New greek guy came alone and disagreed, and described a particle called atomos which is not divisible
 -   Not challenged properly by the scientific community until late seventeenth century
 
-## Breakthroughs and Discoveries
+# Breakthroughs and Discoveries
 -   First evidence leading to discoveries began appearing very late in the 18th century.
 -   “Law of conservation of mass”, published by Antoine Laurent Lavoisier.
 -   He discovered there was no change in mass during a chemical reaction.
 
-## John Dalton 1807
+# John Dalton 1807
 -   Atomic Theory of Matter, which states that
 	1.  Elements are composed of small, indivisible particles called atoms.
 	2.  Atoms of given element are identical having same size, mass and chemical properties.
@@ -38,7 +38,7 @@ huge thanks to jonathan l for providing me with his notes :]
 	3. Elements are not in fact different in all aspects, eg argon calcium both have AMU of 40 (isobars)
 	4. dalton claims elements combine in whole number ratio, which isnt true in complex compounds
 	5. allotropes contradict the statement elements of the same kind have same properties. e.g. charcoal, graphite, diamond.
-## JJ Thomson 1897
+# JJ Thomson 1897
 -   Discovered the electron.
 - cathode ray experiment
 	- in a partially evacuated glass tube, invisible rays called cathode rays are produced from a cathode, which causes certain materials (called phosphors) to glow.
@@ -48,8 +48,7 @@ huge thanks to jonathan l for providing me with his notes :]
 			- thus cathode rays are affected by electric and magnetic fields.
 			- the field deviates towards the positive plate.
 - He determined the mass of the particle to be 1/1000 AMU since the magnitude of the fields is known.
-
-- plum pudding model
+- ## plum pudding model
 	- he knew atoms were neutral and contained negative charge.
 		- therefore they must contain equal positive charge.
 	- thomson suggested atom is comprised of electrons and protons spread with uniform mass and charge.
@@ -57,7 +56,7 @@ huge thanks to jonathan l for providing me with his notes :]
 		- electrons is now known to be occupying fixed orbitals
 		- under the model, alpha particles would repel against an element, which does not align with the results found in the gold leaf experiment.
 
-## Ernest Rutherford 1908-1913
+# Ernest Rutherford 1908-1913
 - alpha particles shoot at gold leaf (a thin sheet of gold a few atoms wide)
 - surrounded by zinc sulfide
 - alpha particles collide with zinc sulfide to make flashes of light and microscope is used to observe the impact position.
@@ -70,12 +69,19 @@ huge thanks to jonathan l for providing me with his notes :]
 		- this also means that the positively charged region is a small part of the atom.
 	3. some alpha particles were deflected (significantly)
 		- reconfirms that protons must be concentrated at the centre of the atom (nucleus)
-
-- rutherfords model
+- ### rutherfords model
 	- atom comprises of mostly empty space. the space is occupied by electrons.
 	- electron orbits a small central region (0.05%)
-
-Discrete (research)
+# Niels Bohr 1913
+- Orbitals of electrons, and the line emission spectra.
+- Scientists found that when an electric discharge is passed throguh a discharge tube containing hydrogen gas at low pressure, it emits light.
+- The light when passed through a prism split sup into a set of 5 lines. This spectrum is called the line spectrum of hydrogen. This is known as the <u>line emission spectrum</u>. Scientists were unable to explain this.
+- ## bohrs model
+- bohr's model stated the following: (the three postulates)
+	- **fixed orbital**: electrons move in a circular orbit around the nucleus under influence of electrostatic attraction of the nucleus.
+	- **angular momentum is quantised**
+		- electrons occupy fixed energy levels
+		- these fixed energy levels do not emit radiation, as these orbits are stable (Maxwell's Law)
 
 
 # Development of atomic structure

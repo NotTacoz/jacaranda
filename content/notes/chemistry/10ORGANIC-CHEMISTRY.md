@@ -1,5 +1,5 @@
 ---
-title: "10 oragnic chemistry"
+title: "10 organic chemistry"
 ---
 [go back](notes/subsections/chem.md)
 # 10.2 Organic Chemistryඞඞ

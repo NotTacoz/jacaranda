@@ -1,0 +1,180 @@
+{
+  "main": {
+    "id": "887e482beb574d23",
+    "type": "split",
+    "children": [
+      {
+        "id": "4b60b154662ee836",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e60eff22dc5931f6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "content/notes/chemistry/11ATOMIC-STRUCTURES.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "f73cc9a24507f9ea",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "content/_index.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "da9e832e14567ee8",
+    "type": "split",
+    "children": [
+      {
+        "id": "818a0829218ffac4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c1953f457c03d799",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "8f8580ba36d83744",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "91bfb1f5348fdb6b",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "e14aa4bd0de7979d",
+    "type": "split",
+    "children": [
+      {
+        "id": "32845eab176e7115",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4e1b0ee83a26bd23",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "content/_index.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "4eeec15dc787ddce",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "content/_index.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "e13d191abe0c534c",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "4908a3780942425a",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "content/_index.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "f73cc9a24507f9ea",
+  "lastOpenFiles": [
+    "content/notes/chemistry/11MAXELLS-LAW.md",
+    "content/notes/chemistry/11ATOMIC-STRUCTURES.md",
+    "content/notes/methods/11WEEK5LESSON1.md",
+    "content/notes/chemistry/lessonnotes/28feb.md",
+    "content/notes/chemistry/10ORGANIC-CHEMISTRY.md",
+    "content/notes/chemistry/11DEFINITIONS.md",
+    "content/notes/english/Untitled.md",
+    "content/notes/english/11WTCS-CONTEXT.md",
+    "content/notes/images/Pasted image 20230228124915.png",
+    "content/notes/images/Pasted image 20230228140559.png",
+    "content/notes/specialist/11PIGEONHOLE.md",
+    "content/notes/subsections/methods.md",
+    "content/notes/subsections/jap.md",
+    "content/notes/subsections/eng.md",
+    "content/notes/subsections/chem.md"
+  ]
+}

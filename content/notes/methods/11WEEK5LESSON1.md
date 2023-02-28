@@ -7,3 +7,11 @@ Cambridge Chapter 2 Review
 - The distance and midpoint between point A (x1, y1) and point B (x2, y2) can be found as:
 Distance: $$AB = \sqrt{(y_2-y_1)^2+(x_2-x_1)^2}$$
 Midpoint: $$M_{AB}=(\frac{x_1+x_2}{2},\frac{y_1+y_2}{2})$$
+- a linear relationship relates two variables two each other and produces a straight line graph.
+- some key features of a linear relationship are:
+Gradient (slope) (through (x1, y1) and (x2, y2)) $$m=\frac{rise}{run}=\frac{y_2-y_1}{x_2-x_1}$$
+Angle of inclination (Anti clockwise from +ve x-direction) $$m=\tan\theta,0\degree\leq\theta<180\degree$$
+![](Pasted%20image%2020230228140559.png)
+- y-intercept (0, c) subsitute x=0 to find c
+- x-intercept (a, 0) subsitute y=0 to find a
+- 

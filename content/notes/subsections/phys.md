@@ -1,4 +1,4 @@
 ---
 title: "physics masterlist"
 ---
-[Return Home](../notes)
+[go back](notes/notes.md)

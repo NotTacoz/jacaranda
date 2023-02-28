@@ -1,5 +1,5 @@
 ---
-title: "Y11 Specialist Pigeonhole Principle"
+title: "pigeonhole principle"
 ---
 [go back](notes/subsections/spec.md)
 
