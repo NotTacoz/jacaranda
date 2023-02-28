@@ -1,5 +1,5 @@
 ---
-title: "extended response research task: atomic structure"
+title: "research task: atomic structure"
 ---
 [go back](notes/subsections/chem.md)
 
@@ -106,6 +106,14 @@ huge thanks to jonathan l for providing me with his notes :]
 	- zeeman effect
 		- when a gas is excited in a magnetic field, emission spectrum shows a splitting of the spectral lines.
 
+# James Chadwick 1932
+- discovered the neutron
+- determined protons made only 1/2 the mass of the atom when he analysed Rutherford's experimental data; specifically the extent and frequency of alpha particle defllection.
+- Thus he believed there was a hidden component of the atom that constituted its remaining mass (50%)
+- ## Experiment
+- in 1932, he discovered that beryllium when bombarded with alpha particles emitted a very energetic stream of radiation, originally thought to be gamma.
+- the properties did not align with gamma rays. it was penetrating alike gamma rays, and it was not deflected upon passing through a magnetic field, therefore it was neutral.
+- radiation when collided with paraffin
 
 # Development of atomic structure
 
