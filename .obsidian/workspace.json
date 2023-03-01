@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/notes/AE/chemistry/ATOMIC-STRUCTURES.md",
+                "file": "content/notes/AE/chemistry/FLAME-TEST.md",
                 "mode": "source",
                 "source": false
               }
@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/notes/subsections/chem.md",
+                "file": "content/notes/AE/chemistry/INQ-SKILLS.md",
                 "mode": "source",
                 "source": false
               }
@@ -54,9 +54,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "e4151cdedbefcccc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "content/notes/AE/chemistry/ATOMIC-STRUCTURES.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -106,7 +118,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "e14aa4bd0de7979d",
@@ -122,7 +135,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/notes/subsections/chem.md",
+                "file": "content/notes/AE/chemistry/ATOMIC-STRUCTURES.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +152,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "content/notes/subsections/chem.md",
+                "file": "content/notes/AE/chemistry/ATOMIC-STRUCTURES.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +175,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "content/notes/subsections/chem.md"
+                "file": "content/notes/AE/chemistry/ATOMIC-STRUCTURES.md"
               }
             }
           },
@@ -193,17 +206,18 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "ab3d0dadccd54884",
+  "active": "e4151cdedbefcccc",
   "lastOpenFiles": [
+    "content/notes/AE/chemistry/FLAME-TEST.md",
     "content/notes/AE/chemistry/ATOMIC-STRUCTURES.md",
+    "content/notes/images/Pasted image 20230301185219.png",
     "content/notes/AE/chemistry/CAP1CHECKLIST.md",
-    "content/notes/subsections/chem.md",
-    "content/notes/AE/chemistry/INQ-SKILLS.md",
     "content/notes/AE/chemistry/EMISSION-SPECTRA.md",
+    "content/notes/AE/chemistry/INQ-SKILLS.md",
     "content/notes/AE/chemistry/DEFINITIONS.md",
+    "content/notes/subsections/chem.md",
     "content/notes/AE/specialist/PIGEON-HOLE.md",
     "content/notes/AE/chemistry/lessonnotes/28feb.md",
-    "content/notes/AE/chemistry/FLAME-TEST.md",
     "notes/images/Pasted image 20230228195052.png.md",
     "content/notes/AE/specialist/lessonnotes/1mar.md",
     "content/notes/AE/chemistry/MAXWELLS-LAW.md",
@@ -230,7 +244,6 @@
     "content/notes/images/Pasted image 20230228195052.png",
     "content/notes/images/Pasted image 20230228124915.png",
     "notes/chemistry/11MAXWELLS-LAW.md",
-    "notes/chemistry",
-    "content/notes/().md"
+    "notes/chemistry"
   ]
 }

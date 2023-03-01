@@ -155,6 +155,47 @@ Niels bohr proposed electron orbit and energy levels of electrons.
 
 Ground state blah blah blah
 
+# tl:dr
+lazy fuck
+1. john dalton 1803
+	1. atomic theory of matter
+	2. said a lot of wrong shit, but was fundamental to modern atomic theory
+	3. said
+		1. everything is made up of undivisible particles called atoms
+		2. atoms of different elements have different physical/chemical properties
+		3. atoms of the same elements has the same physical/chemical properties e.g. size n stuff
+		4. atoms cannot be created or destroyed
+			1. therefore in a equation the reactants must equal the products
+		5. A chemical reaction involves only separation, combination. Or rearrangement of atoms.
+		6. there exists compounds, which is atoms but in a specific ratio.
+2. jj thomson 1904
+	1. discovered electrons
+	2. cathode ray tube experiment
+		1. partially evacuated tube
+		2. cathode and anode on each side
+		3. the tube produces cathode rays (electrons)
+		4. jj thomson discovered that positive magnetic and electric forces deviated the cathode ray towards it. (deflects towards the positive plate)
+			1. this is because negative particles are attracted to positive plate.
+		5. jj thomson observed this and concluded that negatively charged. particles must exist in an atom (a positively charged "soup")
+		6. the experiment was done with cathodes made of multiple materials.
+3. ernest rutherford 1911
+	1. discovered nucleus
+	2. gold leaf experiment
+		1. bombarded thin gold leaf (gold because it is malleable) with hella alpha particles (because alpha particles are positively charged)
+		2. the gold leaf is surrounded by zinc sulfide screen (cos the screen glows when alpha particles strike it)
+		3. the alpha particles mostly passed through the leaf, but some were deflected (minorly and majorly)
+		4. this led rutherford to conclude there is a concentrated area of the atom where the mass is.
+4. niels bohr 1913
+	1. bohr modified rutherfords model
+	2. he stated electrons moved around the nucleus in orbits.
+	3. and electron energy is quantised (electrons are found in discrete energy levels)
+	4. electrons could not occupy transitional states (between energy levels)
+5. james chadwick 1932
+	1. discovered the neutron
+	2. 
+
+![](notes/images/Pasted%20image%2020230301185219.png)
+
 related: 
 - [emission spectra](notes/AE/chemistry/EMISSION-SPECTRA.md)
 - [flame test](notes/AE/chemistry/FLAME-TEST.md)
