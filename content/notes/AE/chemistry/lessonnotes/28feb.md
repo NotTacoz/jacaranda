@@ -4,7 +4,7 @@ title: "28th feb lesson notes"
 [go back](notes/subsections/chem.md)
 
 # Electronic Configuration
-## Subshells
+## Sub-shells
 - Shells are divided into sub-shells
 - Sub-shells are called s, p, d, f (dont need to know names *sharp, principal, diffuse, fundamental*)
 	- 's' sub-shell: 2 electrons. (group 1-2)

@@ -14,7 +14,7 @@ huge thanks to jonathan l for providing me with his notes :]
 - [x] Specific experiments done by the scientists, and how outcomes of these experiments advanced our understanding of the structure of the atom.
 - [x] Major discoveries that were made, theories that were developed, and developments to atomic models that were proposed.
 - [x] Properties and locations of subatomic particles, and how we use the Periodic Table to establish numbers and arrangements of subatomic particles.
-- [ ] Isotopes of elements, their similarities and differences in terms of atomic structure and physical and chemical properties.
+- [x] Isotopes of elements, their similarities and differences in terms of atomic structure and physical and chemical properties.
 
 # Origins
 -  Idea of matter is thought by Ancient Greek philosophers
@@ -78,7 +78,7 @@ huge thanks to jonathan l for providing me with his notes :]
 		- electrons is now known to be occupying fixed orbitals
 		- under the model, alpha particles would repel against an element, which does not align with the results found in the gold leaf experiment.
 
-# Ernest Rutherford 1908-1913
+# Ernest Rutherford 1911
 - alpha particles shoot at gold leaf (a thin sheet of gold a few atoms wide)
 - sheet is surrounded by zinc sulfide
 	- alpha particles collide with zinc sulfide to make flashes of light and microscope is used to observe the impact position.
@@ -158,3 +158,4 @@ Ground state blah blah blah
 related: 
 - [emission spectra](notes/AE/chemistry/EMISSION-SPECTRA.md)
 - [flame test](notes/AE/chemistry/FLAME-TEST.md)
+- [cap checklist](notes/AE/chemistry/CAP1CHECKLIST.md)
