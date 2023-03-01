@@ -6,5 +6,6 @@
   "showUnsupportedFiles": true,
   "attachmentFolderPath": "content/notes/images",
   "promptDelete": false,
-  "spellcheck": true
+  "spellcheck": true,
+  "alwaysUpdateLinks": true
 }

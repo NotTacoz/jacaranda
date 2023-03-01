@@ -5,4 +5,4 @@ title: "methods masterlist"
 
 # Year 11
 ## Lesson Notes
-- [week 5 lesson 1](notes/methods/11WEEK5LESSON1.md)
+- [week 5 lesson 1](content/notes/AE/methods/WEEK5L1.md)

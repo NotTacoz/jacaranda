@@ -1,0 +1,37 @@
+---
+title: "essay structure"
+---
+[go back](notes/notes.md)
+
+- # Introduction format (GROT)
+	- ## G
+		- Global statement.
+		- broad statement, hook.
+		- If a quote is chosen, link it to the body paragraphs, have a reason for the quote being there.
+	- ## R
+		- Reference the text.
+		- Director (author), Year, Title is the bare minimum when you are referencing the text.
+	- ## O
+		- Outline the text.
+		- A brief summary - 1 sentence about what happens in the text. Try to keep it to the bare minimum.
+	- ## T
+		- Topic Sentence.
+		- Explicitly answer the question.
+		- Use the language of the question to explicitly answer the question. A thesis should be a sign post for marker.
+- # Body Paragraph
+	- ## T
+		- Topic Sentence
+	- ## E
+		- Evidence
+	- ## E
+		- Elaborate
+	- ## E
+	- ## E
+	- ## L
+		- Link
+- # Conclusion
+	- ## R
+		- Restate the thesis
+	- ## I 
+		- 
+	- ## P

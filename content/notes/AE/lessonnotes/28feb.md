@@ -37,7 +37,7 @@ $$1s^22s^2p^63s^23p^64s^23d^{10}4d^6$$
 	- p orbital is like an 8
 	- 2 electrons maximum, regardless of its orbital
 	- d orbital is like a silly shape
-	- ![](notes/images/Pasted%20image%2020230228124915.png)
+	- ![](content/notes/images/Pasted%20image%2020230228124915.png)
 
 # How to put electrons in boxes
 n= 4 | \_ \_ \_ \_ \__ 
