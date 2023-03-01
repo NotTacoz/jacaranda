@@ -43,7 +43,8 @@ title: "essay structure"
 		- Link back to point 1 thesis statement
 - # Conclusion
 	- ## R
-		- Restate the thesis
+		- Restate the thesis statement (main argument of essay)
 	- ## I 
-		- 
+		- Identify your main points and summarise body paragraphs (look at topic sentence)
 	- ## P
+		- Point out significance of text in relation to question - easy way to do this is linking to global statement of the introduction. 

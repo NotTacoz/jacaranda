@@ -9,6 +9,12 @@ huge thanks to jonathan l for providing me with his notes :]
 - [ ] Pearson Chapter 2.1 to 2.3: Atomic theory, describing atoms, isotopes
 - [x] Lucarelli Chapter 2: Discovering the atom’s structure
 - [x] [http://thehistoryoftheatom.weebly.com/index.html](http://thehistoryoftheatom.weebly.com/index.html) (link broken)
+# research checklist
+- [x] The chronology of the discoveries by the scientists in question – how do they fit together to form a timeline?
+- [ ] Specific experiments done by the scientists, and how outcomes of these experiments advanced our understanding of the structure of the atom.
+- [x] Major discoveries that were made, theories that were developed, and developments to atomic models that were proposed.
+- [ ] Properties and locations of subatomic particles, and how we use the Periodic Table to establish numbers and arrangements of subatomic particles.
+- [ ] Isotopes of elements, their similarities and differences in terms of atomic structure and physical and chemical properties.
 
 # Origins
 -  Idea of matter is thought by Ancient Greek philosophers
@@ -21,7 +27,7 @@ huge thanks to jonathan l for providing me with his notes :]
 -  “Law of conservation of mass”, published by Antoine Laurent Lavoisier.
 -  He discovered there was no change in mass during a chemical reaction.
 
-# John Dalton 1807
+# John Dalton 1808
 - ## Came up with the Atomic Theory of Matter, 
 - which states that:
 	1.  Elements are composed of small, indivisible particles called atoms.
