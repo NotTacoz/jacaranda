@@ -151,7 +151,7 @@ JJ Thompson plum pudding model - showed that there exists electrons (negatively 
 
 Ernest Rutherford nuclear model, discovered the nucleus, and assumed negative charge surrounds it through the gold leaf experiment, some alpha particles were deflected. Flaw was electron rush into nucleus causing it to collapse
 
-Niels bohr proposed electron orbit and energy levels of electrons.
+Niels Bohr proposed electron orbit and energy levels of electrons.
 
 Ground state blah blah blah
 
