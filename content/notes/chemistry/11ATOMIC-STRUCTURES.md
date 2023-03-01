@@ -106,6 +106,8 @@ huge thanks to jonathan l for providing me with his notes :]
 - unique spectra: discrete energy levels for atoms are fixed and unique/atom.
 	- as a result the discrete energy level differences are also fixed and unique to each element.
 	- each element has difference emission and absorption spectra as the range frequencies of light emitted are based on the discrete energy level differences.
+	- electrons are quantised (only specific/discrete values are allowed), as in they cannot be between electron energy shells.
+		- the electrons are bumped up/down by absorbing or emitting photon energy.
 - ### problems with bohrs model
 	- multi-electron atoms
 		- does not work with atoms with 1+ electrons in the valence shell, as it's not possible to calculate all the spectral lines of all other atoms, as this model has classical components (electrostatic attraction)

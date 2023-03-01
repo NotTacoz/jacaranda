@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/notes/chemistry/11ATOMIC-STRUCTURES.md",
+                "file": "content/notes/chemistry/11FLAME-TEST.md",
                 "mode": "source",
                 "source": false
               }
@@ -94,8 +94,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "e14aa4bd0de7979d",
@@ -111,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/notes/chemistry/11ATOMIC-STRUCTURES.md",
+                "file": "content/notes/chemistry/11FLAME-TEST.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -128,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "content/notes/chemistry/11ATOMIC-STRUCTURES.md",
+                "file": "content/notes/chemistry/11FLAME-TEST.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -151,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "content/notes/chemistry/11ATOMIC-STRUCTURES.md"
+                "file": "content/notes/chemistry/11FLAME-TEST.md"
               }
             }
           }
@@ -174,20 +173,20 @@
   },
   "active": "c2f38cad2d971dc4",
   "lastOpenFiles": [
+    "content/notes/notes.md",
+    "content/_index.md",
+    "content/notes/chemistry/11ATOMIC-STRUCTURES.md",
     "content/notes/chemistry/11DEFINITIONS.md",
     "content/notes/chemistry/11EMISSION-SPECTRA.md",
     "content/notes/chemistry/11FLAME-TEST.md",
-    "content/notes/chemistry/11ATOMIC-STRUCTURES.md",
     "content/notes/chemistry/10ORGANIC-CHEMISTRY.md",
     "content/notes/images/Pasted image 20230301090847.png",
     "content/notes/methods/11WEEK5LESSON1.md",
     "content/notes/chemistry/lessonnotes/28feb.md",
     "content/notes/images/Pasted image 20230228140559.png",
     "content/notes/images/Pasted image 20230228195052.png",
-    "content/_index.md",
     "content/notes/chemistry/11MAXWELLS-LAW.md",
     "content/notes/images/Pasted image 20230228124915.png",
-    "content/notes/chemistry/notes.md",
     "content/notes/subsections/methods.md",
     "content/notes/english/11WTCS-CONTEXT.md",
     "notes/chemistry/11MAXWELLS-LAW.md",
