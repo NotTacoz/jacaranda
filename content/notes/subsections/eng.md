@@ -5,6 +5,6 @@ title: "english masterlist"
 
 # Year 11
 ## Responding
-- [Essay Structure](content/notes/AE/english/ESSAY-STRUCTURE.md)
+- [Essay Structure](notes/AE/english/ESSAY-STRUCTURE.md)
 ### Text Study: Where the Crawdads Sing
-- [WTCS: Context of Production](content/notes/AE/english/WTCS-CONTEXT.md)
+- [WTCS: Context of Production](notes/AE/english/WTCS-CONTEXT.md)

@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/notes/AE/chemistry/ATOMIC-STRUCTURES.md",
+                "file": "content/notes/AE/chemistry/DEFINITIONS.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/notes/AE/chemistry/ATOMIC-STRUCTURES.md",
+                "file": "content/notes/AE/chemistry/DEFINITIONS.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "content/notes/AE/chemistry/ATOMIC-STRUCTURES.md",
+                "file": "content/notes/AE/chemistry/DEFINITIONS.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "content/notes/AE/chemistry/ATOMIC-STRUCTURES.md"
+                "file": "content/notes/AE/chemistry/DEFINITIONS.md"
               }
             }
           }
@@ -173,34 +173,36 @@
   },
   "active": "512c971c11e87f9d",
   "lastOpenFiles": [
-    "content/notes/AE/english/WTCS-CONTEXT.md",
+    "content/notes/AE/chemistry/EMISSION-SPECTRA.md",
+    "content/notes/AE/chemistry/FLAME-TEST.md",
     "content/notes/AE/english/ESSAY-STRUCTURE.md",
+    "content/notes/AE/chemistry/MAXWELLS-LAW.md",
+    "content/notes/AE/chemistry/DEFINITIONS.md",
+    "content/notes/AE/chemistry/ATOMIC-STRUCTURES.md",
+    "content/notes/AE/english/WTCS-CONTEXT.md",
     "content/notes/AE/lessonnotes/28feb.md",
     "content/notes/AE/methods/WEEK5L1.md",
     "content/notes/AE/specialist/PIGEON-HOLE.md",
-    "content/notes/AE/chemistry/DEFINITIONS.md",
-    "content/notes/AE/chemistry/MAXWELLS-LAW.md",
-    "content/notes/AE/chemistry/FLAME-TEST.md",
-    "content/notes/AE/chemistry/ATOMIC-STRUCTURES.md",
+    "content/notes/subsections/spec.md",
+    "content/notes/subsections/phys.md",
+    "content/notes/subsections/methods.md",
+    "content/notes/subsections/jap.md",
+    "content/notes/subsections/eng.md",
+    "content/notes/subsections/chem.md",
+    "content/notes/notes.md",
     "content/notes/AE",
-    "content/notes/AE/chemistry/EMISSION-SPECTRA.md",
     "content/notes/10/ORGANIC-CHEMISTRY.md",
     "content/notes/10",
     "content/notes/AE/chemistry/AE",
-    "content/notes/subsections/eng.md",
-    "content/notes/notes.md",
     "content/_index.md",
     "content/private/private-note.md",
     "content/notes/images/Pasted image 20230301090847.png",
     "content/notes/images/Pasted image 20230228140559.png",
     "content/notes/images/Pasted image 20230228195052.png",
     "content/notes/images/Pasted image 20230228124915.png",
-    "content/notes/subsections/methods.md",
     "notes/chemistry/11MAXWELLS-LAW.md",
     "notes/chemistry",
     "notes",
-    "content/notes/().md",
-    "content/notes/subsections/jap.md",
-    "content/notes/subsections/chem.md"
+    "content/notes/().md"
   ]
 }

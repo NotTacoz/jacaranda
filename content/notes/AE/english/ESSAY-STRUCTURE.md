@@ -21,14 +21,26 @@ title: "essay structure"
 - # Body Paragraph
 	- ## T
 		- Topic Sentence
+		- States specific point of paragraph, using language of question.
 	- ## E
-		- Evidence
+		- Not always needed.
+		- Elaborate.
+		- Expand on the previous point
 	- ## E
-		- Elaborate
+		- Evidence 1
+		- Integrate first piece of evidence - analysing conventions/features.
 	- ## E
+		- Explain 1
+		- Link course concepts - context, purpose, audience, effect.
 	- ## E
+		- Evidence 2
+		- Second textual evidence.
+	- ## E
+		- Explain 2
+		- Link to course concepts in explanation, ensuring it remains focused on argument.
 	- ## L
 		- Link
+		- Link back to point 1 thesis statement
 - # Conclusion
 	- ## R
 		- Restate the thesis
