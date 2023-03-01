@@ -36,17 +36,27 @@ huge thanks to jonathan l for providing me with his notes :]
 	5. A chemical reaction involves only separation, combination. Or rearrangement of atoms.
 	6. Compounds are formed when atoms of more than one element combine in a specific ration.
 - Many of the atomic theory is wrong and disproven by modern atomic theory (1, 2, 5), but his original proposition granted a new perspective on atoms.
+- ### three laws (DO WE EVEN NEED TO KNOW THIS)
+	- #### The law of definite proportions:
+		- mr dalton proposed "compounds are formed when atoms of more than one element combine in a specific ratio" 
+		- this is true given our modern understanding of chemistry.
+		- e.g. calcium oxide will only occur with ca and o in fixed ratios
+	- #### The law of conservation of mass
+		- mr dalton proposed "atoms are not created nor destroyed or changed into different types; a chemical reaction involves separation, combination or rearrangement of atoms." thus there must be the same amount of atoms in the reactants of a chemical reaction as the atoms in the product.
+	- #### The law of multiple proportions
+		- mr dalton proposed "whenever two elements form more than one compound, the different masses of one element that combines with a fixed mass of the " WRONG WRONG WRONG WRONG THIS IS LIMITED AND DISPROVEN THROUGH POLYMERS (?) AND OLIGOMERS (?)
 - ## disadvantages of his theory:
 	1. Atoms are divisible, they are made of smaller particles known as subatomic particles.
 	2. Not all atoms for a given element are identical: some elements have atoms that differ in terms of <u>mass</u> and <u>density</u> (different number of neutrons). These are called isotopes.
 	3. Elements are not in fact different in all aspects, eg argon calcium both have AMU of 40 (isobars)
 	4. dalton claims elements combine in whole number ratio, which isn't true in complex compounds
 	5. allotropes contradict the statement elements of the same kind have same properties. e.g. charcoal, graphite, diamond.
+	6. no suggestion to the structure of the atom
 # JJ Thomson 1897-1904
 - Discovered the electron.
 - cathode ray experiment
-	- in a sealed (evaporated) glass tube, with metal terminals at each end acting as electrodes
-	- invisible rays called cathode rays are produced from a cathode, which causes certain materials (called phosphors) to glow.
+	- in a sealed (evaporated) glass tube, metal terminals are placed at each end, acting as electrodes.
+	- invisible rays called cathode rays are produced from a cathode (negative terminal) towards the anode, which causes certain materials (called phosphors, such as neon) to glow.
 	- Thomson observed and concluded that cathode rays was a stream of negatively charged particles with mass, which became known as electrons.
 		- Passed through electric and magnetic fields:
 			- cathode rays passed straight through

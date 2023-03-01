@@ -4,22 +4,35 @@
     "type": "split",
     "children": [
       {
-        "id": "87a863329bfa86be",
+        "id": "e68f9d1589c3c05a",
         "type": "tabs",
         "children": [
           {
-            "id": "8105183e127ac5d7",
+            "id": "b8f3505ec37edb0e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/_index.md",
+                "file": "content/notes/AE/specialist/PIGEON-HOLE.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "efd4eb76877d4075",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "content/notes/AE/chemistry/ATOMIC-STRUCTURES.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -69,7 +82,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "e14aa4bd0de7979d",
@@ -85,7 +99,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/_index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "content/_index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +136,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "content/_index.md"
-              }
+              "state": {}
             }
           }
         ],
@@ -147,30 +157,32 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "8105183e127ac5d7",
+  "active": "c1953f457c03d799",
   "lastOpenFiles": [
-    "content/notes/AE/english/WTCS-CONTEXT.md",
+    "content/notes/Untitled.md",
+    "content/notes/AE/chemistry/ATOMIC-STRUCTURES.md",
     "notes/images/Pasted image 20230228195052.png.md",
+    "content/notes/AE/specialist/lessonnotes/1mar.md",
+    "content/notes/AE/chemistry/FLAME-TEST.md",
+    "content/notes/AE/chemistry/EMISSION-SPECTRA.md",
+    "content/notes/AE/chemistry/DEFINITIONS.md",
+    "content/notes/AE/chemistry/MAXWELLS-LAW.md",
+    "content/notes/AE/specialist/PIGEON-HOLE.md",
+    "content/notes/AE/chemistry/lessonnotes/28feb.md",
+    "content/notes/subsections/chem.md",
+    "content/notes/subsections/methods.md",
+    "content/notes/AE/specialist/lessonnotes",
+    "content/notes/AE/english/WTCS-CONTEXT.md",
     "content/_index.md",
     "notes/images",
     "notes",
-    "content/notes/AE/chemistry/FLAME-TEST.md",
-    "content/notes/AE/chemistry/DEFINITIONS.md",
-    "content/notes/AE/chemistry/ATOMIC-STRUCTURES.md",
     "content/notes/subsections/eng.md",
     "content/notes/AE/english/ESSAY-STRUCTURE.md",
-    "content/notes/Untitled.md",
-    "content/notes/AE/chemistry/EMISSION-SPECTRA.md",
     "content/notes/10/ORGANIC-CHEMISTRY.md",
-    "content/notes/AE/chemistry/MAXWELLS-LAW.md",
-    "content/notes/AE/lessonnotes/28feb.md",
     "content/notes/AE/methods/WEEK5L1.md",
-    "content/notes/AE/specialist/PIGEON-HOLE.md",
     "content/notes/subsections/spec.md",
     "content/notes/subsections/phys.md",
-    "content/notes/subsections/methods.md",
     "content/notes/subsections/jap.md",
-    "content/notes/subsections/chem.md",
     "content/notes/notes.md",
     "content/notes/AE",
     "content/notes/10",
