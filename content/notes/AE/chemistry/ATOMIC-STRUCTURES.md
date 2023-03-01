@@ -76,7 +76,7 @@ huge thanks to jonathan l for providing me with his notes :]
 	- thomson suggested atom is comprised of electrons and protons spread with uniform mass and charge.
 	- weaknesses
 		- electrons is now known to be occupying fixed orbitals
-		- under the model, alpha particles would repel against an element, which does not align with the results found in the gold leaf experiment.
+		- under the model, alpha particles would not be deflected against an element, and passes right through, which does not align with the results found in the gold leaf experiment.
 
 # Ernest Rutherford 1911
 - alpha particles shoot at gold leaf (a thin sheet of gold a few atoms wide)
