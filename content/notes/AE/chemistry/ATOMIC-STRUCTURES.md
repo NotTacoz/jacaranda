@@ -6,14 +6,14 @@ title: "research task: atomic structure"
 huge thanks to jonathan l for providing me with his notes :]
 - [ ] research discrete thingy
 # suggested resources
-- [ ] Pearson Chapter 2.1 to 2.3: Atomic theory, describing atoms, isotopes
+- [x] Pearson Chapter 2.1 to 2.3: Atomic theory, describing atoms, isotopes
 - [x] Lucarelli Chapter 2: Discovering the atom’s structure
 - [x] [http://thehistoryoftheatom.weebly.com/index.html](http://thehistoryoftheatom.weebly.com/index.html) (link broken)
 # research checklist
 - [x] The chronology of the discoveries by the scientists in question – how do they fit together to form a timeline?
-- [ ] Specific experiments done by the scientists, and how outcomes of these experiments advanced our understanding of the structure of the atom.
+- [x] Specific experiments done by the scientists, and how outcomes of these experiments advanced our understanding of the structure of the atom.
 - [x] Major discoveries that were made, theories that were developed, and developments to atomic models that were proposed.
-- [ ] Properties and locations of subatomic particles, and how we use the Periodic Table to establish numbers and arrangements of subatomic particles.
+- [x] Properties and locations of subatomic particles, and how we use the Periodic Table to establish numbers and arrangements of subatomic particles.
 - [ ] Isotopes of elements, their similarities and differences in terms of atomic structure and physical and chemical properties.
 
 # Origins
@@ -27,25 +27,22 @@ huge thanks to jonathan l for providing me with his notes :]
 -  “Law of conservation of mass”, published by Antoine Laurent Lavoisier.
 -  He discovered there was no change in mass during a chemical reaction.
 
-# John Dalton 1808
+# John Dalton 1803-1808
 - ## Came up with the Atomic Theory of Matter, 
 - which states that:
-	1.  Elements are composed of small, indivisible particles called atoms.
-	2.  Atoms of given element are identical having same size, mass and chemical properties.
-	3.  Atoms of different elements have different size, mass and chemical properties.
-	4.  Atoms are not created or destroyed during chemical reaction.
-	5.  A chemical reaction involves only separation, combination. Or rearrangement of atoms.
-	6.  Compounds are formed when atoms of more than one element combine in a specific ration.
-	7.  Law of multiple proportions, two elements form more than one compound, ratio something something.
-	8. Atom is a sphere
-- Many of the atomic theory is wrong and disproven by modern atomic theory, but his original proposition granted a new perspective on atoms.
+	1. Elements are composed of extremely small, indivisible particles called atoms.
+	2. All Atoms of given element are identical having same size, mass and chemical properties. Atoms of different elements have different size, mass and chemical properties.
+	4. Atoms are not created or destroyed during chemical reaction.
+	5. A chemical reaction involves only separation, combination. Or rearrangement of atoms.
+	6. Compounds are formed when atoms of more than one element combine in a specific ration.
+- Many of the atomic theory is wrong and disproven by modern atomic theory (1, 2, 5), but his original proposition granted a new perspective on atoms.
 - ## disadvantages of his theory:
 	1. Atoms are divisible, they are made of smaller particles known as subatomic particles.
 	2. Not all atoms for a given element are identical: some elements have atoms that differ in terms of <u>mass</u> and <u>density</u> (different number of neutrons). These are called isotopes.
 	3. Elements are not in fact different in all aspects, eg argon calcium both have AMU of 40 (isobars)
-	4. dalton claims elements combine in whole number ratio, which isnt true in complex compounds
+	4. dalton claims elements combine in whole number ratio, which isn't true in complex compounds
 	5. allotropes contradict the statement elements of the same kind have same properties. e.g. charcoal, graphite, diamond.
-# JJ Thomson 1897
+# JJ Thomson 1897-1904
 - Discovered the electron.
 - cathode ray experiment
 	- in a sealed (evaporated) glass tube, with metal terminals at each end acting as electrodes

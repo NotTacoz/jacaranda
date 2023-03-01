@@ -1,7 +1,7 @@
 ---
 title: "essay structure"
 ---
-[go back](notes/notes.md)
+[go back](notes/subsections/eng.md)
 
 - # Introduction format (GROT)
 	- ## G
