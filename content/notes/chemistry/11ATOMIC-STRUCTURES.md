@@ -11,18 +11,19 @@ huge thanks to jonathan l for providing me with his notes :]
 - [x] [http://thehistoryoftheatom.weebly.com/index.html](http://thehistoryoftheatom.weebly.com/index.html) (link broken)
 
 # Origins
--   Idea of matter is thought by Ancient Greek philosophers
--   They believed matter consisted of 4 elements, and matter was infinitely divisible.
--   New greek guy came alone and disagreed, and described a particle called atomos which is not divisible
--   Not challenged properly by the scientific community until late seventeenth century
+-  Idea of matter is thought by Ancient Greek philosophers
+-  They believed matter consisted of 4 elements, and matter was infinitely divisible.
+-  New greek guy came alone and disagreed, and described a particle called atomos which is not divisible
+-  Not challenged properly by the scientific community until late seventeenth century
 
 # Breakthroughs and Discoveries
--   First evidence leading to discoveries began appearing very late in the 18th century.
--   “Law of conservation of mass”, published by Antoine Laurent Lavoisier.
--   He discovered there was no change in mass during a chemical reaction.
+-  First evidence leading to discoveries began appearing very late in the 18th century.
+-  “Law of conservation of mass”, published by Antoine Laurent Lavoisier.
+-  He discovered there was no change in mass during a chemical reaction.
 
 # John Dalton 1807
--   Atomic Theory of Matter, which states that
+- ## Came up with the Atomic Theory of Matter, 
+- which states that:
 	1.  Elements are composed of small, indivisible particles called atoms.
 	2.  Atoms of given element are identical having same size, mass and chemical properties.
 	3.  Atoms of different elements have different size, mass and chemical properties.
@@ -32,22 +33,30 @@ huge thanks to jonathan l for providing me with his notes :]
 	7.  Law of multiple proportions, two elements form more than one compound, ratio something something.
 	8. Atom is a sphere
 - Many of the atomic theory is wrong and disproven by modern atomic theory, but his original proposition granted a new perspective on atoms.
-- Examples of disadvantages of his theory is:
+- ## disadvantages of his theory:
 	1. Atoms are divisible, they are made of smaller particles known as subatomic particles.
 	2. Not all atoms for a given element are identical: some elements have atoms that differ in terms of <u>mass</u> and <u>density</u> (different number of neutrons). These are called isotopes.
 	3. Elements are not in fact different in all aspects, eg argon calcium both have AMU of 40 (isobars)
 	4. dalton claims elements combine in whole number ratio, which isnt true in complex compounds
 	5. allotropes contradict the statement elements of the same kind have same properties. e.g. charcoal, graphite, diamond.
 # JJ Thomson 1897
--   Discovered the electron.
+- Discovered the electron.
 - cathode ray experiment
-	- in a partially evacuated glass tube, invisible rays called cathode rays are produced from a cathode, which causes certain materials (called phosphors) to glow.
+	- in a sealed (evaporated) glass tube, with metal terminals at each end acting as electrodes
+	- invisible rays called cathode rays are produced from a cathode, which causes certain materials (called phosphors) to glow.
 	- Thomson observed and concluded that cathode rays was a stream of negatively charged particles with mass, which became known as electrons.
 		- Passed through electric and magnetic fields:
 			- cathode rays passed straight through
-			- thus cathode rays are affected by electric and magnetic fields.
-			- the field deviates towards the positive plate.
-- He determined the mass of the particle to be 1/1000 AMU since the magnitude of the fields is known.
+				- thus cathode rays are affected by electric and magnetic fields.
+			- the field deviates towards the positive plate. 
+				- thus the ray is negatively charged
+			- diagram: ![](content/notes/images/Pasted%20image%2020230301090847.png)
+- He determined the mass of the particle to be ~1/2000 AMU since the magnitude of the fields is known.
+- he realised that
+	- atoms contain negatively charged particles.
+		- he repeated the experiment with multiple types of materials in the cathode, but the beam is produced every time.
+	- since all atoms are neutral:
+	- atoms also must contain a positively charged particles.
 - ## plum pudding model
 	- he knew atoms were neutral and contained negative charge.
 		- therefore they must contain equal positive charge.
@@ -58,8 +67,8 @@ huge thanks to jonathan l for providing me with his notes :]
 
 # Ernest Rutherford 1908-1913
 - alpha particles shoot at gold leaf (a thin sheet of gold a few atoms wide)
-- surrounded by zinc sulfide
-- alpha particles collide with zinc sulfide to make flashes of light and microscope is used to observe the impact position.
+- sheet is surrounded by zinc sulfide
+	- alpha particles collide with zinc sulfide to make flashes of light and microscope is used to observe the impact position.
 - observations:
 	1. most alpha particles pass through gold foil
 		- this means that most of an element is empty space
@@ -69,6 +78,8 @@ huge thanks to jonathan l for providing me with his notes :]
 		- this also means that the positively charged region is a small part of the atom.
 	3. some alpha particles were deflected (significantly)
 		- reconfirms that protons must be concentrated at the centre of the atom (nucleus)
+	- expectations of the atom was that
+		- the alpha particles pass through the atom or none passes through, but instead some were deflected.
 - ### rutherfords model
 	- atom comprises of mostly empty space. the space is occupied by electrons.
 	- electron orbits a small central region (0.05%)
@@ -128,3 +139,7 @@ Ernest Rutherford nuclear model, discovered the nucleus, and assumed negative ch
 Niels bohr proposed electron orbit and energy levels of electrons.
 
 Ground state blah blah blah
+
+related: 
+- [emission spectra](notes/chemistry/11EMISSION-SPECTRA)
+- [flame test](notes/chemistry/11FLAME-TEST)

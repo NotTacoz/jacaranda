@@ -11,7 +11,7 @@ Midpoint: $$M_{AB}=(\frac{x_1+x_2}{2},\frac{y_1+y_2}{2})$$
 - some key features of a linear relationship are:
 Gradient (slope) (through (x1, y1) and (x2, y2)) $$m=\frac{rise}{run}=\frac{y_2-y_1}{x_2-x_1}$$
 Angle of inclination (Anti clockwise from +ve x-direction) $$m=\tan\theta,0\degree\leq\theta<180\degree$$
-![](Pasted%20image%2020230228140559.png)
-- y-intercept (0, c) subsitute x=0 to find c
+![](content/notes/images/Pasted%20image%2020230228140559.png)
+- y-cintercept (0, c) subsitute x=0 to find c
 - x-intercept (a, 0) subsitute y=0 to find a
 - 

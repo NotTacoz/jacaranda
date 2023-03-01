@@ -2,7 +2,7 @@
 title: home
 enableToc: false
 ---
-# ![](content/notes/images/Pasted%20image%2020230228195052.png)hello!
+# ![](notes/images/Pasted%20image%2020230228195052.png)hello!
 these are whats important:
 - [notes](notes/notes.md)
 	- [method notes](notes/subsections/methods.md)

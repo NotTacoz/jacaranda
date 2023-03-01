@@ -13,13 +13,38 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/_index.md",
+                "file": "content/notes/chemistry/10ORGANIC-CHEMISTRY.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "8105183e127ac5d7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "content/notes/chemistry/11FLAME-TEST.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "c2f38cad2d971dc4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "content/notes/chemistry/11ATOMIC-STRUCTURES.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -69,7 +94,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "e14aa4bd0de7979d",
@@ -85,7 +111,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/_index.md",
+                "file": "content/notes/chemistry/11ATOMIC-STRUCTURES.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +128,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "content/_index.md",
+                "file": "content/notes/chemistry/11ATOMIC-STRUCTURES.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +151,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "content/_index.md"
+                "file": "content/notes/chemistry/11ATOMIC-STRUCTURES.md"
               }
             }
           }
@@ -146,26 +172,30 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "964f382a706ba8cf",
+  "active": "c2f38cad2d971dc4",
   "lastOpenFiles": [
+    "content/notes/chemistry/11DEFINITIONS.md",
+    "content/notes/chemistry/11EMISSION-SPECTRA.md",
+    "content/notes/chemistry/11FLAME-TEST.md",
     "content/notes/chemistry/11ATOMIC-STRUCTURES.md",
+    "content/notes/chemistry/10ORGANIC-CHEMISTRY.md",
+    "content/notes/images/Pasted image 20230301090847.png",
+    "content/notes/methods/11WEEK5LESSON1.md",
+    "content/notes/chemistry/lessonnotes/28feb.md",
+    "content/notes/images/Pasted image 20230228140559.png",
+    "content/notes/images/Pasted image 20230228195052.png",
+    "content/_index.md",
     "content/notes/chemistry/11MAXWELLS-LAW.md",
+    "content/notes/images/Pasted image 20230228124915.png",
+    "content/notes/chemistry/notes.md",
+    "content/notes/subsections/methods.md",
     "content/notes/english/11WTCS-CONTEXT.md",
     "notes/chemistry/11MAXWELLS-LAW.md",
     "notes/chemistry",
     "notes",
-    "content/notes/chemistry/11DEFINITIONS.md",
-    "content/notes/chemistry/lessonnotes/28feb.md",
-    "content/notes/methods/11WEEK5LESSON1.md",
     "content/notes/().md",
-    "content/_index.md",
-    "content/notes/images/Pasted image 20230228195052.png",
-    "content/notes/chemistry/10ORGANIC-CHEMISTRY.md",
     "content/notes/english/Untitled.md",
-    "content/notes/images/Pasted image 20230228124915.png",
-    "content/notes/images/Pasted image 20230228140559.png",
     "content/notes/specialist/11PIGEONHOLE.md",
-    "content/notes/subsections/methods.md",
     "content/notes/subsections/jap.md",
     "content/notes/subsections/eng.md",
     "content/notes/subsections/chem.md"
