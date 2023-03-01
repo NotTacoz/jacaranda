@@ -61,7 +61,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/notes/AE/chemistry/ATOMIC-STRUCTURES.md",
+                "file": "content/notes/AE/chemistry/EMISSION-SPECTRA.md",
                 "mode": "source",
                 "source": false
               }
@@ -135,7 +135,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/notes/AE/chemistry/ATOMIC-STRUCTURES.md",
+                "file": "content/notes/AE/chemistry/EMISSION-SPECTRA.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -152,7 +152,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "content/notes/AE/chemistry/ATOMIC-STRUCTURES.md",
+                "file": "content/notes/AE/chemistry/EMISSION-SPECTRA.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -175,7 +175,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "content/notes/AE/chemistry/ATOMIC-STRUCTURES.md"
+                "file": "content/notes/AE/chemistry/EMISSION-SPECTRA.md"
               }
             }
           },
@@ -208,9 +208,9 @@
   },
   "active": "e4151cdedbefcccc",
   "lastOpenFiles": [
-    "content/notes/AE/chemistry/CAP1CHECKLIST.md",
-    "content/notes/AE/chemistry/ATOMIC-STRUCTURES.md",
     "content/notes/AE/chemistry/FLAME-TEST.md",
+    "content/notes/AE/chemistry/ATOMIC-STRUCTURES.md",
+    "content/notes/AE/chemistry/CAP1CHECKLIST.md",
     "content/notes/images/Pasted image 20230301185219.png",
     "content/notes/AE/chemistry/EMISSION-SPECTRA.md",
     "content/notes/AE/chemistry/INQ-SKILLS.md",
