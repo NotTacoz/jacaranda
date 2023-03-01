@@ -192,7 +192,8 @@ lazy fuck
 	4. electrons could not occupy transitional states (between energy levels)
 5. james chadwick 1932
 	1. discovered the neutron
-	2. 
+	2. polonium source produced alpha particles bombarding beryllium, which produced an intense radiation.
+	3. the particles were about the same mass as the proton.
 
 ![](notes/images/Pasted%20image%2020230301185219.png)
 
