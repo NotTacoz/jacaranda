@@ -32,9 +32,9 @@ huge thanks to jonathan l for providing me with his notes :]
 - which states that:
 	1. Elements are composed of extremely small, indivisible particles called atoms.
 	2. All Atoms of given element are identical having same size, mass and chemical properties. Atoms of different elements have different size, mass and chemical properties.
-	4. Atoms are not created or destroyed during chemical reaction.
-	5. A chemical reaction involves only separation, combination. Or rearrangement of atoms.
-	6. Compounds are formed when atoms of more than one element combine in a specific ration.
+	3. Atoms are not created or destroyed during chemical reaction.
+	4. A chemical reaction involves only separation, combination. Or rearrangement of atoms.
+	5. Compounds are formed when atoms of more than one element combine in a specific ratio.
 - Many of the atomic theory is wrong and disproven by modern atomic theory (1, 2, 5), but his original proposition granted a new perspective on atoms.
 - ### three laws (DO WE EVEN NEED TO KNOW THIS)
 	- #### The law of definite proportions:
