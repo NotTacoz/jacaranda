@@ -15,6 +15,12 @@ based on the stawa book lol
 - when an element is heated the electrons in their ground state absorb energy and move to higher energy levels.
 - when they return to lower energy levels, energy is emitted as light.
 	- light can be seen as distinct colours.
+## procedure
+1. the substance is vaporised, and put into a discharge tube.
+2. an electric discharge is passed through the tube. electrons in the discharge excite other electrons by transferring kinetic energy during collision, then deflecting and losing energy.
+3. the electrons are excited to a higher energy state (as it has experience an increase in energy exactly equal to E2-E1)
+4. since they are unstable in their excited state, they will transition down to their ground state, and release energy in the form of radiation that has energy exactly equal to E2 - E1.
+5. this produces a single stream of radiation, as all the wavelengths are compressed together.
 
 related: 
 - [atomic structures](notes/AE/chemistry/ATOMIC-STRUCTURES.md)

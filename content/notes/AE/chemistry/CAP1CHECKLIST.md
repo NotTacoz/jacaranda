@@ -19,7 +19,7 @@ It will also be important to understand the underlying chemistry concepts, parti
 - [x] Niels Bohr
 - [x] James Chadwick, 
 - [x] chronology of the discoveries by the scientists in question – how do they fit together to form a timeline?
-- [ ] Specific experiments done by the scientists, and how outcomes of these experiments advanced our understanding of the structure of the atom.
+- [x] Specific experiments done by the scientists, and how outcomes of these experiments advanced our understanding of the structure of the atom.
 - [x] Major discoveries that were made, theories that were developed, and developments to atomic models that were proposed.
 - [x] Properties and locations of subatomic particles, and how we use the Periodic Table to establish numbers and arrangements of subatomic particles.
 - [ ] Isotopes of elements, their similarities and differences in terms of atomic structure and physical and chemical properties.
