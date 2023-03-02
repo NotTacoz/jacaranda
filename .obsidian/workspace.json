@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/notes/subsections/spec.md",
+                "file": "content/notes/AE/specialist/feedback/CAP1-FEEDBACK.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/notes/subsections/spec.md",
+                "file": "content/notes/AE/specialist/feedback/CAP1-FEEDBACK.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "content/notes/subsections/spec.md",
+                "file": "content/notes/AE/specialist/feedback/CAP1-FEEDBACK.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "content/notes/subsections/spec.md"
+                "file": "content/notes/AE/specialist/feedback/CAP1-FEEDBACK.md"
               }
             }
           },
@@ -156,10 +156,10 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "c1953f457c03d799",
+  "active": "e2ac2a2194b8cfb5",
   "lastOpenFiles": [
-    "content/notes/AE/specialist/feedback/CAP1-FEEDBACK.md",
     "content/notes/subsections/spec.md",
+    "content/notes/AE/specialist/feedback/CAP1-FEEDBACK.md",
     "notes/specialist/feedback/AE/CAP1-FEEDBACK.md",
     "notes/specialist/feedback/AE",
     "notes/specialist/feedback",

@@ -11,5 +11,4 @@ title: "feedback spec cap 1 XD"
 - just give counter example lmao (hahahahjhajh jhajh i am normal) (dont write a general rpoof) (7a)
 - check your working ajhajhajhahahahhahahahha (7b)
 - learn how to read questions loser (8a)
-- learn how to multiply loser (9b)
-- 
+- XDDD 3^3 IS 27 NOT 9 FJKAJFKJAKJJJ!J!!!!! (9b)
