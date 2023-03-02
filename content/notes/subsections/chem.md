@@ -10,7 +10,8 @@ title: "chemistry masterlist"
 - [inquiry skills](notes/AE/chemistry/INQ-SKILLS.md)
 
 ## Lesson notes
-- [28th feburary](notes/AE/chemistry/lessonnotes/28feb.md)
+- [T1W4L2](notes/AE/chemistry/lessonnotes/T1W4L2.md)
+- [T1W5L3](notes/AE/chemistry/lessonnotes/T1W5L3.md)
 
 # Year 10
 - [organic chemistry](notes/10/ORGANIC-CHEMISTRY.md)
