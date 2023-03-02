@@ -4,35 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "d59ea77aefd0e0b8",
+        "id": "049e9a80d8055d16",
         "type": "tabs",
         "children": [
           {
-            "id": "da253d8423edcba7",
+            "id": "0edc62e092113d1d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/notes/subsections/methods.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "133a6040dec1b1cb",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "content/notes/AE/methods/lessonnotes/T1W5L3.md",
+                "file": "content/notes/AE/physics/INVESTIGATION1.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -82,8 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "e14aa4bd0de7979d",
@@ -99,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/notes/AE/methods/lessonnotes/T1W5L3.md",
+                "file": "content/notes/AE/physics/INVESTIGATION1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "content/notes/AE/methods/lessonnotes/T1W5L3.md",
+                "file": "content/notes/AE/physics/INVESTIGATION1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "content/notes/AE/methods/lessonnotes/T1W5L3.md"
+                "file": "content/notes/AE/physics/INVESTIGATION1.md"
               }
             }
           },
@@ -170,10 +156,16 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "133a6040dec1b1cb",
+  "active": "0edc62e092113d1d",
   "lastOpenFiles": [
-    "content/notes/AE/methods/lessonnotes/T1W6L1.md",
+    "content/notes/subsections/phys.md",
+    "content/notes/AE/physics/INVESTIGATION1.md",
+    "content/notes/subsections/Untitled.md",
+    "content/notes/AE/physics",
+    "content/notes/notes.md",
+    "content/notes/subsections/methods.md",
     "content/notes/AE/methods/lessonnotes/T1W5L3.md",
+    "content/notes/AE/methods/lessonnotes/T1W6L1.md",
     "content/notes/AE/methods/lessonnotes/T1W5L2.md",
     "content/notes/AE/methods/lessonnotes/T1W5L1.md",
     "content/notes/AE/methods/lessonnotes/T1W10L4.md",
@@ -193,11 +185,6 @@
     "content/notes/AE/methods/lessonnotes/T1W7L2.md",
     "content/notes/AE/methods/lessonnotes/T1W7L1.md",
     "content/notes/AE/methods/lessonnotes/T1W6L4.md",
-    "content/notes/AE/methods/lessonnotes/T1W6L3.md",
-    "content/notes/AE/methods/lessonnotes/T1W6L2.md",
-    "content/notes/subsections/methods.md",
-    "content/notes/subsections/spec.md",
-    "content/notes/AE/methods/lessonnotes/T1W5L4.md",
     "content/notes/AE/methods/lessonnotes",
     "notes/AE/specialist/lessonnotes",
     "notes/AE/specialist",
@@ -209,7 +196,6 @@
     "notes/specialist",
     "content/notes/AE/specialist/feedback",
     "content/notes/images/Pasted image 20230301185219.png",
-    "content/notes/AE/specialist/lessonnotes",
     "content/notes/images/Pasted image 20230301090847.png",
     "content/notes/images/Pasted image 20230228140559.png",
     "content/notes/images/Pasted image 20230228195052.png",
