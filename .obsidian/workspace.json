@@ -4,22 +4,35 @@
     "type": "split",
     "children": [
       {
-        "id": "b60826ee0cab6aaf",
+        "id": "d59ea77aefd0e0b8",
         "type": "tabs",
         "children": [
           {
-            "id": "e2ac2a2194b8cfb5",
+            "id": "da253d8423edcba7",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/notes/AE/specialist/feedback/CAP1-FEEDBACK.md",
+                "file": "content/notes/subsections/methods.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "133a6040dec1b1cb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "content/notes/AE/methods/lessonnotes/T1W5L3.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -65,11 +78,13 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "e14aa4bd0de7979d",
@@ -85,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/notes/AE/specialist/feedback/CAP1-FEEDBACK.md",
+                "file": "content/notes/AE/methods/lessonnotes/T1W5L3.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +117,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "content/notes/AE/specialist/feedback/CAP1-FEEDBACK.md",
+                "file": "content/notes/AE/methods/lessonnotes/T1W5L3.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +140,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "content/notes/AE/specialist/feedback/CAP1-FEEDBACK.md"
+                "file": "content/notes/AE/methods/lessonnotes/T1W5L3.md"
               }
             }
           },
@@ -156,45 +171,46 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "e2ac2a2194b8cfb5",
+  "active": "133a6040dec1b1cb",
   "lastOpenFiles": [
+    "content/notes/subsections/methods.md",
+    "content/notes/AE/methods/lessonnotes/T1W5L3.md",
     "content/notes/subsections/spec.md",
-    "content/notes/AE/specialist/feedback/CAP1-FEEDBACK.md",
-    "notes/specialist/feedback/AE/CAP1-FEEDBACK.md",
+    "content/notes/AE/methods/lessonnotes/T1W5L2.md",
+    "content/notes/AE/methods/lessonnotes/T1W5L4.md",
+    "content/notes/AE/methods/lessonnotes/T1W6L2.md",
+    "content/notes/AE/methods/lessonnotes/T1W5L1.md",
+    "content/notes/AE/methods/lessonnotes/T1W10L4.md",
+    "content/notes/AE/methods/lessonnotes/T1W10L2.md",
+    "content/notes/AE/methods/lessonnotes/T1W10L1.md",
+    "content/notes/AE/methods/lessonnotes/T1W9L4.md",
+    "content/notes/AE/methods/lessonnotes/T1W9L3.md",
+    "content/notes/AE/methods/lessonnotes/T1W10L3.md",
+    "content/notes/AE/methods/lessonnotes/T1W9L2.md",
+    "content/notes/AE/methods/lessonnotes/T1W9L1.md",
+    "content/notes/AE/methods/lessonnotes/T1W10L4 copy.md",
+    "content/notes/AE/methods/lessonnotes/T1W10L2 copy.md",
+    "content/notes/AE/methods/lessonnotes/T1W10L1 copy.md",
+    "content/notes/AE/methods/lessonnotes/T1W10L3 copy.md",
+    "content/notes/AE/methods/lessonnotes/T1W9L4 copy.md",
+    "content/notes/AE/methods/lessonnotes/T1W9L3 copy.md",
+    "content/notes/AE/methods/lessonnotes/T1W9L2 copy.md",
+    "content/notes/AE/methods/lessonnotes/T1W9L1 copy.md",
+    "content/notes/AE/methods/lessonnotes/T1W8L4 copy.md",
+    "content/notes/AE/methods/lessonnotes/T1W8L2 copy.md",
+    "content/notes/AE/methods/lessonnotes/T1W8L1 copy.md",
+    "content/notes/AE/methods/lessonnotes",
+    "notes/AE/specialist/lessonnotes",
+    "notes/AE/specialist",
+    "notes/AE",
+    "notes",
+    "content/notes/images/Pasted image 20230302120119.png",
     "notes/specialist/feedback/AE",
     "notes/specialist/feedback",
     "notes/specialist",
-    "notes",
-    "content/notes/subsections/phys.md",
-    "content/notes/AE/specialist/PIGEON-HOLE.md",
-    "content/templates/post.md",
-    "notes/specialist/feedback/CAP1-FEEDBACK.md",
-    "content/notes/subsections/methods.md",
     "content/notes/AE/specialist/feedback",
-    "content/notes/AE/chemistry/FLAME-TEST.md",
-    "content/notes/AE/chemistry/INQ-SKILLS.md",
-    "content/notes/AE/chemistry/EMISSION-SPECTRA.md",
-    "content/notes/AE/chemistry/CAP1CHECKLIST.md",
-    "content/notes/AE/chemistry/ATOMIC-STRUCTURES.md",
     "content/notes/images/Pasted image 20230301185219.png",
-    "content/notes/AE/chemistry/DEFINITIONS.md",
-    "content/notes/subsections/chem.md",
-    "content/notes/AE/chemistry/lessonnotes/28feb.md",
-    "notes/images/Pasted image 20230228195052.png.md",
-    "content/notes/AE/specialist/lessonnotes/1mar.md",
-    "content/notes/AE/chemistry/MAXWELLS-LAW.md",
     "content/notes/AE/specialist/lessonnotes",
-    "content/notes/AE/english/WTCS-CONTEXT.md",
-    "content/_index.md",
-    "notes/images",
-    "content/notes/subsections/eng.md",
-    "content/notes/AE/english/ESSAY-STRUCTURE.md",
-    "content/notes/10/ORGANIC-CHEMISTRY.md",
-    "content/notes/AE/methods/WEEK5L1.md",
-    "content/notes/subsections/jap.md",
-    "content/notes/AE",
-    "content/notes/10",
-    "content/notes/AE/chemistry/AE",
     "content/notes/images/Pasted image 20230301090847.png",
     "content/notes/images/Pasted image 20230228140559.png",
     "content/notes/images/Pasted image 20230228195052.png",
