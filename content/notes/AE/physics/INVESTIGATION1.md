@@ -11,9 +11,9 @@ title: "Motion Investigation"
 - acceleration
 ## controlled variables
 - total mass
-- displacement (133cm)
-- 
+- displacement (131cm)
 # method
 1. 
 # results
+
 # processing results
