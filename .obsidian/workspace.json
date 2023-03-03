@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/notes/AE/chemistry/lessonnotes/T1W5L3.md",
+                "file": "content/notes/AE/physics/INVESTIGATION1.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/notes/AE/chemistry/lessonnotes/T1W5L3.md",
+                "file": "content/notes/AE/physics/INVESTIGATION1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "content/notes/AE/chemistry/lessonnotes/T1W5L3.md",
+                "file": "content/notes/AE/physics/INVESTIGATION1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "content/notes/AE/chemistry/lessonnotes/T1W5L3.md"
+                "file": "content/notes/AE/physics/INVESTIGATION1.md"
               }
             }
           },
@@ -171,9 +171,9 @@
   },
   "active": "dfac86bacb027a19",
   "lastOpenFiles": [
+    "content/notes/AE/chemistry/lessonnotes/T1W5L3.md",
     "content/notes/subsections/chem.md",
     "content/notes/AE/chemistry/lessonnotes/T1W4L2.md",
-    "content/notes/AE/chemistry/lessonnotes/T1W5L3.md",
     "content/notes/AE/physics/INVESTIGATION1.md",
     "content/notes/subsections/phys.md",
     "content/notes/subsections/Untitled.md",
