@@ -23,3 +23,4 @@ title: "Motion Investigation"
 # processing results
 
 $\vec{a}=\frac{2s}{t^2}$ and $\vec{a}=\frac{m\vec{g}}{m+M}$
+t^2 = 2s/a
