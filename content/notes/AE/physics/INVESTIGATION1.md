@@ -21,13 +21,5 @@ title: "Motion Investigation"
 # results
 
 # processing results
-F=ma
-a = m/F
-m = 
 
-s: 131cm
-u: 0
-v: v
-a: ?
-
-$a=\frac{2s}{t^2}$
+$\vec{a}=\frac{2s}{t^2}$ and $\vec{a}=\frac{m\vec{g}}{m+M}$
