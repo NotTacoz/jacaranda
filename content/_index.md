@@ -12,5 +12,6 @@ these are whats important:
 	- [physics notes](notes/subsections/phys.md)
 	- [japanese notes](notes/subsections/jap.md)
 	- [english notes](notes/subsections/eng.md)
+- [the daily taco]()
 
 enjoy your stay!
