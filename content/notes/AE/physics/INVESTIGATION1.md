@@ -7,11 +7,14 @@ title: "Motion Investigation"
 # variables
 - ## independent variable
 	- the weight force of the hanging mass
-- ## dependent variable
-	- acceleration
+- ## dependent variable(s)
+	- **acceleration**
+	- time
+	- final velocity
 - ## controlled variables
 	- total mass
 	- displacement (131cm)
+	- initial velocity
 # method
 1. setup a cart on an elevated surface such the cart will travel 131cm before coming to a stop due to collision.
 2. 
