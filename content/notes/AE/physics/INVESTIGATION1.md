@@ -21,3 +21,6 @@ title: "Motion Investigation"
 # results
 
 # processing results
+F=ma
+a = m/F
+m = 
