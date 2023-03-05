@@ -26,30 +26,54 @@
 }
 
 [saved-theme=dark] {
-  --callout-summary: #00b0ff !important;
-  --callout-summary-accent: #00587f !important;
-  --callout-bug: #f50057 !important;
-  --callout-bug-accent: #7a002b !important;
-  --callout-danger: #ff1744 !important;
-  --callout-danger-accent: #8b001a !important;
-  --callout-example: #7c4dff !important;
-  --callout-example-accent: #2b00a6 !important;
-  --callout-fail: #ff5252 !important;
-  --callout-fail-accent: #a80000 !important;
-  --callout-info: #00b8d4 !important;
-  --callout-info-accent: #005c6a !important;
-  --callout-note: #448aff !important;
-  --callout-note-accent: #003ca1 !important;
-  --callout-question: #64dd17 !important;
-  --callout-question-accent: #006429 !important;
-  --callout-quote: #9e9e9e !important;
-  --callout-quote-accent: #4f4f4f !important;
-  --callout-done: #00c853 !important;
-  --callout-done-accent: #006429 !important;
-  --callout-important: #00bfa5 !important;
-  --callout-important-accent: #005f52 !important;
-  --callout-warning: #ff9100 !important;
-  --callout-warning-accent: #7f4800 !important;
+  // --callout-summary: #00b0ff !important;
+  // --callout-summary-accent: #00587f !important;
+  // --callout-bug: #f50057 !important;
+  // --callout-bug-accent: #7a002b !important;
+  // --callout-danger: #ff1744 !important;
+  // --callout-danger-accent: #8b001a !important;
+  // --callout-example: #7c4dff !important;
+  // --callout-example-accent: #2b00a6 !important;
+  // --callout-fail: #ff5252 !important;
+  // --callout-fail-accent: #a80000 !important;
+  // --callout-info: #00b8d4 !important;
+  // --callout-info-accent: #005c6a !important;
+  // --callout-note: #448aff !important;
+  // --callout-note-accent: #003ca1 !important;
+  // --callout-question: #64dd17 !important;
+  // --callout-question-accent: #006429 !important;
+  // --callout-quote: #9e9e9e !important;
+  // --callout-quote-accent: #4f4f4f !important;
+  // --callout-done: #00c853 !important;
+  // --callout-done-accent: #006429 !important;
+  // --callout-important: #00bfa5 !important;
+  // --callout-important-accent: #005f52 !important;
+  // --callout-warning: #ff9100 !important;
+  // --callout-warning-accent: #7f4800 !important;
+  --callout-summary: #00b0ff;
+  --callout-summary-accent: #7fd7ff;
+  --callout-bug: #f50057;
+  --callout-bug-accent: #ff7aa9;
+  --callout-danger: #ff1744;
+  --callout-danger-accent: #ff8aa1;
+  --callout-example: #7c4dff;
+  --callout-example-accent: #bda5ff;
+  --callout-fail: #ff5252;
+  --callout-fail-accent: #ffa8a8;
+  --callout-info: #00b8d4;
+  --callout-info-accent: #69ebff;
+  --callout-note: #448aff;
+  --callout-note-accent: #a1c4ff;
+  --callout-question: #64dd17;
+  --callout-question-accent: #b0f286;
+  --callout-quote: #9e9e9e;
+  --callout-quote-accent: #cecece;
+  --callout-done: #00c853;
+  --callout-done-accent: #63ffa4;
+  --callout-important: #00bfa5;
+  --callout-important-accent: #5fffe9;
+  --callout-warning: #ff9100;
+  --callout-warning-accent: #ffc87f;
 }
 
 blockquote.callout-collapsible {
