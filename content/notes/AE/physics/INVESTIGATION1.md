@@ -16,9 +16,23 @@ title: "Motion Investigation"
 	- displacement (131cm)
 	- initial velocity
 # method
-1. setup a cart on an elevated surface such the cart will travel 131cm before coming to a stop due to collision.
-2. 
+materials needed
+- dynamics cart
+- pulley string
+- pulley
+- 5 x 50g weights
+- hangar
+- dynamics track
+- computer with correct software installed
+procedure
+1. setup a cart on an elevated track such the cart will travel 131cm before coming to a stop due to collision from the sensor.
+2. the track elevation should be high enough such the pulley string on cart collision doesn't touch the ground.
+3. tie pulley string to the dynamics cart, and tie the other end to a hanger, and place the string on the pulley.
+4. start with 5 x 50g weights on the cart, and let go of the cart and record time to collide.
+5. repeat process 3 times total
+6. move weight from cart to hangar and repeat entire procedure.
 # results
+
 
 # processing results
 

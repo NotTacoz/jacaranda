@@ -30,9 +30,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "36b8b6f8011e474e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "content/notes/AE/physics/INVESTIGATION1.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -82,7 +94,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "e14aa4bd0de7979d",
@@ -98,7 +111,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/notes/AE/japanese/listening/LISTENING-PRACTICE1.md",
+                "file": "content/notes/AE/physics/INVESTIGATION1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +128,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "content/notes/AE/japanese/listening/LISTENING-PRACTICE1.md",
+                "file": "content/notes/AE/physics/INVESTIGATION1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +151,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "content/notes/AE/japanese/listening/LISTENING-PRACTICE1.md"
+                "file": "content/notes/AE/physics/INVESTIGATION1.md"
               }
             }
           },
@@ -169,10 +182,10 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "22b7d0997b9346e1",
+  "active": "36b8b6f8011e474e",
   "lastOpenFiles": [
-    "content/notes/AE/chemistry/lessonnotes/T1W4L2.md",
     "content/notes/AE/japanese/listening/LISTENING-PRACTICE1.md",
+    "content/notes/AE/chemistry/lessonnotes/T1W4L2.md",
     "content/notes/AE/japanese/listening",
     "content/notes/AE/japanese",
     "content/daily/2023-03-04.md",
