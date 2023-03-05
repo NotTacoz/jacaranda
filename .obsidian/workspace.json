@@ -32,6 +32,18 @@
             }
           },
           {
+            "id": "38bdbfd6a0112922",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "content/notes/AE/japanese/listening/XDDDD.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "36b8b6f8011e474e",
             "type": "leaf",
             "state": {
@@ -94,8 +106,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "e14aa4bd0de7979d",
@@ -111,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/notes/AE/physics/INVESTIGATION1.md",
+                "file": "content/notes/AE/japanese/listening/XDDDD.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -128,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "content/notes/AE/physics/INVESTIGATION1.md",
+                "file": "content/notes/AE/japanese/listening/XDDDD.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -151,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "content/notes/AE/physics/INVESTIGATION1.md"
+                "file": "content/notes/AE/japanese/listening/XDDDD.md"
               }
             }
           },
@@ -182,14 +193,15 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "904c653af2d90210",
+  "active": "38bdbfd6a0112922",
   "lastOpenFiles": [
     "content/notes/AE/japanese/listening/LISTENING-PRACTICE1.md",
+    "content/notes/AE/japanese/listening/XDDDD.md",
+    "content/notes/AE/physics/INVESTIGATION1.md",
     "content/daily/2023-03-04.md",
     "content/daily/2023-03-05.md",
     "content/daily/DAILY.md",
     "content/notes/AE/chemistry/lessonnotes/T1W4L2.md",
-    "content/notes/AE/physics/INVESTIGATION1.md",
     "content/notes/AE/japanese/listening",
     "content/notes/AE/japanese",
     "content/_index.md",
@@ -213,7 +225,6 @@
     "content/notes/AE/methods/lessonnotes/T1W9L4.md",
     "content/notes/AE/methods/lessonnotes/T1W9L3.md",
     "content/notes/AE/methods/lessonnotes/T1W9L2.md",
-    "content/notes/AE/methods/lessonnotes/T1W9L1.md",
     "content/notes/AE/methods/lessonnotes",
     "notes/AE/specialist/lessonnotes",
     "notes/AE/specialist",
