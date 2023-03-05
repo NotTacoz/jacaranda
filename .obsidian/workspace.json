@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/daily/2023-03-05.md",
+                "file": "content/daily/2023-03-04.md",
                 "mode": "source",
                 "source": false
               }
@@ -43,7 +43,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -110,7 +111,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/daily/2023-03-05.md",
+                "file": "content/notes/AE/physics/INVESTIGATION1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +128,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "content/daily/2023-03-05.md",
+                "file": "content/notes/AE/physics/INVESTIGATION1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +151,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "content/daily/2023-03-05.md"
+                "file": "content/notes/AE/physics/INVESTIGATION1.md"
               }
             }
           },
@@ -181,13 +182,13 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "0edc62e092113d1d",
+  "active": "904c653af2d90210",
   "lastOpenFiles": [
+    "content/notes/AE/japanese/listening/LISTENING-PRACTICE1.md",
     "content/daily/2023-03-04.md",
     "content/daily/2023-03-05.md",
     "content/daily/DAILY.md",
     "content/notes/AE/chemistry/lessonnotes/T1W4L2.md",
-    "content/notes/AE/japanese/listening/LISTENING-PRACTICE1.md",
     "content/notes/AE/physics/INVESTIGATION1.md",
     "content/notes/AE/japanese/listening",
     "content/notes/AE/japanese",
