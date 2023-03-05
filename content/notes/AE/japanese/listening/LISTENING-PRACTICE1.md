@@ -8,3 +8,4 @@ title: "LISTENING-PRACTICE1"
 - [ ] japanese podcasts writing in japanese.
 
 - [ ] revise past tense of plain form
+- [ ] time periods
