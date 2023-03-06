@@ -56,7 +56,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -123,7 +123,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/notes/AE/japanese/listening/XDDDD.md",
+                "file": "content/notes/AE/physics/INVESTIGATION1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -140,7 +140,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "content/notes/AE/japanese/listening/XDDDD.md",
+                "file": "content/notes/AE/physics/INVESTIGATION1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -163,7 +163,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "content/notes/AE/japanese/listening/XDDDD.md"
+                "file": "content/notes/AE/physics/INVESTIGATION1.md"
               }
             }
           },
@@ -194,10 +194,10 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "38bdbfd6a0112922",
+  "active": "36b8b6f8011e474e",
   "lastOpenFiles": [
-    "content/notes/AE/japanese/listening/LISTENING-PRACTICE1.md",
     "content/notes/AE/japanese/listening/XDDDD.md",
+    "content/notes/AE/japanese/listening/LISTENING-PRACTICE1.md",
     "content/notes/AE/physics/INVESTIGATION1.md",
     "content/daily/2023-03-04.md",
     "content/daily/2023-03-05.md",

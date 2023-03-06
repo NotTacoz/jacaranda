@@ -38,3 +38,7 @@ procedure
 
 $\vec{a}=\frac{2s}{t^2}$ and $\vec{a}=\frac{m\vec{g}}{m+M}$
 t^2 = 2s/a
+
+uncertainty calculation
+displacement measuring uncertainty: 131cm +- 0.1 (0.05\*2 since 2 rulers were used)
+time (human timed) measuring uncertainty: x +- 0.005s or x +- 5ms
