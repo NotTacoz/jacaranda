@@ -8,6 +8,7 @@ title: "spec masterlist"
 ## Lesson Notes
 - [T1W3L2](notes/AE/specialist/lessonnotes/T1W3L2.md)
 - [T1W3L3](notes/AE/specialist/lessonnotes/T1W3L3.md)
+- [T1W6L1: Vectors](notes/AE/specialist/lessonnotes/T1W6L1.md)
 
 ## Test Feedback
 - [cap1 feedback fjsfajfksajf](notes/AE/specialist/feedback/CAP1-FEEDBACK.md)

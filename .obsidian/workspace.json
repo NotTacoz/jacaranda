@@ -49,7 +49,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/notes/AE/physics/INVESTIGATION1.md",
+                "file": "content/notes/subsections/spec.md",
                 "mode": "source",
                 "source": false
               }
@@ -106,8 +106,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "e14aa4bd0de7979d",
@@ -123,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/notes/AE/physics/INVESTIGATION1.md",
+                "file": "content/notes/subsections/spec.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -140,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "content/notes/AE/physics/INVESTIGATION1.md",
+                "file": "content/notes/subsections/spec.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -163,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "content/notes/AE/physics/INVESTIGATION1.md"
+                "file": "content/notes/subsections/spec.md"
               }
             }
           },
@@ -196,9 +195,17 @@
   },
   "active": "36b8b6f8011e474e",
   "lastOpenFiles": [
+    "content/notes/subsections/phys.md",
+    "notes/speciaist/T1W6L1.md",
+    "content/notes/subsections/spec.md",
+    "notes/speciaist",
+    "notes",
+    "content/notes/AE/specialist/lessonnotes/T1W6L1.md",
+    "content/notes/AE/specialist/lessonnotes/T1W5.md",
+    "content/notes/AE/specialist/lessonnotes/T1W3L2.md",
+    "content/notes/AE/physics/INVESTIGATION1.md",
     "content/notes/AE/japanese/listening/XDDDD.md",
     "content/notes/AE/japanese/listening/LISTENING-PRACTICE1.md",
-    "content/notes/AE/physics/INVESTIGATION1.md",
     "content/daily/2023-03-04.md",
     "content/daily/2023-03-05.md",
     "content/daily/DAILY.md",
@@ -210,7 +217,6 @@
     "content/daily",
     "content/notes/AE/chemistry/lessonnotes/T1W5L3.md",
     "content/notes/subsections/chem.md",
-    "content/notes/subsections/phys.md",
     "content/notes/subsections/Untitled.md",
     "content/notes/AE/physics",
     "content/notes/notes.md",
@@ -221,18 +227,11 @@
     "content/notes/AE/methods/lessonnotes/T1W5L1.md",
     "content/notes/AE/methods/lessonnotes/T1W10L4.md",
     "content/notes/AE/methods/lessonnotes/T1W10L3.md",
-    "content/notes/AE/methods/lessonnotes/T1W10L2.md",
-    "content/notes/AE/methods/lessonnotes/T1W10L1.md",
-    "content/notes/AE/methods/lessonnotes/T1W9L4.md",
-    "content/notes/AE/methods/lessonnotes/T1W9L3.md",
-    "content/notes/AE/methods/lessonnotes/T1W9L2.md",
     "content/notes/AE/methods/lessonnotes",
     "notes/AE/specialist/lessonnotes",
     "notes/AE/specialist",
     "notes/AE",
-    "notes",
     "content/notes/images/Pasted image 20230302120119.png",
-    "notes/specialist/feedback/AE",
     "content/notes/images/Pasted image 20230301185219.png",
     "content/notes/images/Pasted image 20230301090847.png",
     "content/notes/images/Pasted image 20230228140559.png",
