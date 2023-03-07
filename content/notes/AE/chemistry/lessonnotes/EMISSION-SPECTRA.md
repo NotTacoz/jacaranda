@@ -21,5 +21,5 @@ based on the stawa book lol
 9. because all elements have a unique spectra, we can identify the elements based on this.
 
 related: 
-- [atomic structures](notes/AE/chemistry/ATOMIC-STRUCTURES.md)
-- [flame test](notes/AE/chemistry/FLAME-TEST.md)
+- [atomic structures](notes/AE/chemistry/lessonnotes/ATOMIC-STRUCTURES.md)
+- [flame test](notes/AE/chemistry/lessonnotes/FLAME-TEST.md)

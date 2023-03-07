@@ -25,7 +25,7 @@ It will also be important to understand the underlying chemistry concepts, parti
 - [ ] Isotopes of elements, their similarities and differences in terms of atomic structure and physical and chemical properties.
 
 related:
-- [atomic structures](notes/AE/chemistry/ATOMIC-STRUCTURES.md)
-- [emission spectra](notes/AE/chemistry/EMISSION-SPECTRA.md)
-- [flame test](notes/AE/chemistry/FLAME-TEST.md)
-- [inquiry skills](notes/AE/chemistry/INQ-SKILLS.md)
+- [atomic structures](notes/AE/chemistry/lessonnotes/ATOMIC-STRUCTURES.md)
+- [emission spectra](notes/AE/chemistry/lessonnotes/EMISSION-SPECTRA.md)
+- [flame test](notes/AE/chemistry/lessonnotes/FLAME-TEST.md)
+- [inquiry skills](notes/AE/chemistry/lessonnotes/INQ-SKILLS.md)

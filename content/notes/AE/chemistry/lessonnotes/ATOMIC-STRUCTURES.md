@@ -105,7 +105,7 @@ huge thanks to jonathan l for providing me with his notes :]
 	- **fixed orbital**: electrons move in a circular orbit around the nucleus under influence of electrostatic attraction of the nucleus.
 	- **angular momentum is quantised**
 		- electrons occupy fixed energy levels
-		- these fixed energy levels do not emit radiation, as these orbits are stable (see [Maxwell's Law](notes/AE/chemistry/MAXWELLS-LAW.md))
+		- these fixed energy levels do not emit radiation, as these orbits are stable (see [Maxwell's Law](notes/AE/chemistry/lessonnotes/MAXWELLS-LAW.md))
 	- **energy transitions**: electrons can transition to higher or lower energy levels by emitting or absorbing fixed quantities of energy (photons)
 		- an electron can transition to a higher state by absorbing a photo with energy equal to the exact difference in energies between 2 electron orbits (final and initial)
 		- an electron can transition to a lower state by emitting a photo with energy equal to the exact difference in energies between 2 electron orbits (final and initial)
@@ -198,6 +198,6 @@ lazy fuck
 ![](notes/images/Pasted%20image%2020230301185219.png)
 
 related: 
-- [emission spectra](notes/AE/chemistry/EMISSION-SPECTRA.md)
-- [flame test](notes/AE/chemistry/FLAME-TEST.md)
-- [cap checklist](notes/AE/chemistry/CAP1CHECKLIST.md)
+- [emission spectra](notes/AE/chemistry/lessonnotes/EMISSION-SPECTRA.md)
+- [flame test](notes/AE/chemistry/lessonnotes/FLAME-TEST.md)
+- [cap checklist](notes/AE/chemistry/lessonnotes/CAP1CHECKLIST.md)
