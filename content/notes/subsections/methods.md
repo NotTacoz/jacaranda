@@ -9,4 +9,5 @@ title: "methods masterlist"
 - [week 5 lesson 2](notes/AE/methods/lessonnotes/T1W5L2.md)
 - [week 5 lesson 3](notes/AE/methods/lessonnotes/T1W5L3.md)
 - public holiday
-- [week 6 lesson 2](notes/AE/methods/lessonnotes/T1W6L2.md)
+- [week 6 lesson 2](notes/AE/methods/lessonnotes/T1W6L1.md)
+- [week 6 lesson 3](notes/AE/methods/lessonnotes/T1W6L2.md)
