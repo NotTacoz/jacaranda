@@ -13,6 +13,7 @@ title: "chemistry masterlist"
 - [T1W4L2](notes/AE/chemistry/lessonnotes/T1W4L2.md)
 - [T1W5L3](notes/AE/chemistry/lessonnotes/T1W5L3.md)
 - [T1W6L2](notes/AE/chemistry/lessonnotes/T1W6L2)
+- [T1W6L3](notes/AE/chemistry/lessonnotes/T1W6L3)
 
 # Year 10
 - [organic chemistry](notes/10/ORGANIC-CHEMISTRY.md)
