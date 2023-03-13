@@ -5,7 +5,7 @@ title: "pigeonhole principle"
 
 *based on the cambridge seniors maths chapter 1H*
 
-# Pigeonhole principle
+## Pigeonhole principle
 > If n+1 or more objects are placed into n holes, then some hole contains at least two objects
 
 > ### Example 31
@@ -16,7 +16,7 @@ title: "pigeonhole principle"
 > R B G
 > Selecting just three socks is clearly not sufficient, as you might pick one sock colour. Selet four socks and place each sock into the hole corresponding to the colour of the sock. As there are four socks and three holes, the pigeonhole principle guarantees that some hole contains at least two socks. This is the required pair.
 
-# Generalised Pigeonhole principle
+## Generalised Pigeonhole principle
 > If at least mn + 1 objects are placed into n holes, then some hole contains at least m + 1 objects
 
 > ### Example 33
