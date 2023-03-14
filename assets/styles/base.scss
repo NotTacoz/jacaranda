@@ -254,14 +254,6 @@ sup > a {
   padding: 0 0.1em 0 0.2em;
 }
 
-#page-title {
-  margin: 0;
-  & > a {
-    font-family: var(--font-header);
-  }
-  color: var(--dark);
-}
-
 a {
   font-size: 1em;
   font-weight: 700;
@@ -270,6 +262,15 @@ a {
   color: var(--secondary);
   &:hover {
     color: var(--tertiary) !important;
+  }
+}
+
+
+#page-title {
+  margin: 0;
+  & > a {
+    font-family: var(--font-header);
+    color: var(--dark);
   }
 }
 
