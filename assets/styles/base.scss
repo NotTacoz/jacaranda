@@ -259,7 +259,7 @@ sup > a {
   & > a {
     font-family: var(--font-header);
   }
-  color: --dark;
+  color: var(--dark);
 }
 
 a {
@@ -626,5 +626,13 @@ mark {
 }
 
 strong {
-  color: var(--secondary)
+  color: var(--secondary);
+}
+
+u {
+  color: var(--secondary);
+}
+
+em {
+  color: var(--secondary);
 }
