@@ -259,6 +259,7 @@ sup > a {
   & > a {
     font-family: var(--font-header);
   }
+  color: --dark;
 }
 
 a {
@@ -622,4 +623,8 @@ header {
 mark {
   background-color: var(--highlighted);
   color: var(--gray);
+}
+
+strong {
+  color: var(--secondary)
 }

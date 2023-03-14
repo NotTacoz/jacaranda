@@ -1,7 +1,7 @@
 ---
 title: "Science Inquiry Skills Definitions"
 ---
-
+#chemistry #AE #SIS 
 - Hypothesis: link between independent and dependent variable, and a prediction on what is going to happen (observation).
 - Independent variable: the variable that is changed, it is the one being investigated. (Use units when possible)
 - Dependent variable: the variable that is measured (Use units when possible)
