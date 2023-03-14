@@ -3,10 +3,10 @@ title: "english masterlist"
 ---
 [go back](notes/notes.md)
 
-# Year 11
-## general
+## Year 11
+### general
 - [analysing texts](notes/AE/english/ANALYSING-TEXTS.md)
-## Responding
+### Responding
 - [Essay Structure](notes/AE/english/ESSAY-STRUCTURE.md)
 ### Text Study: Where the Crawdads Sing
 - [WTCS: Context of Production](notes/AE/english/WTCS-CONTEXT.md)

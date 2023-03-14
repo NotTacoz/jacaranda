@@ -1,5 +1,5 @@
 ---
-title: "T1W5"
+title: "T1W5L?"
 ---
 
 how many integers from 1 to 140 inclusive are not divisible by 2, 5, or 7
