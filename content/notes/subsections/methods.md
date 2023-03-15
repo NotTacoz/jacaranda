@@ -14,3 +14,4 @@ title: "methods masterlist"
 - [T1W6L2](notes/AE/methods/lessonnotes/T1W6L2.md)
 - [T1W6L3](notes/AE/methods/lessonnotes/T1W6L3.md)
 - [T1W6L3: Quadratics (S)](notes/AE/methods/lessonnotes/T1W6L4.md)
+- [T1W7L1: Inverse Proportion](notes/AE/methods/lessonnotes/T1W7L1.md)
