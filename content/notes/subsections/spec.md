@@ -14,6 +14,7 @@ title: "spec masterlist"
 - [T1W6L4: no notes](notes/AE/specialist/lessonnotes/T1W6L4.md)
 - [T1W7L1](notes/AE/specialist/lessonnotes/T1W7L1.md)
 - [T1W7L2: vectors in component form](notes/AE/specialist/lessonnotes/T1W7L2.md)
+- [T1W7L3: vectors continued](notes/AE/specialist/lessonnotes/T1W7L3.md)
 
 #### Test Feedback
 - [cap1 feedback fjsfajfksajf](notes/AE/specialist/feedback/CAP1-FEEDBACK.md)

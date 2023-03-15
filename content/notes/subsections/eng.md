@@ -14,3 +14,5 @@ title: "english masterlist"
 - [WTCS-PRAC2 & other evidence](notes/AE/english/WTCS-PRAC2.md)
 - [WTCS: Values & Attitudes](notes/AE/english/WTCS-VALUES-ATTITUDES.md)
 -  [WTCS: The Other](notes/AE/english/WTCS-THE-OTHER.md)
+## class work
+- [T1W7L2: research into some stuff :!](notes/AE/english/lessonnotes/T1W7L2.md)
