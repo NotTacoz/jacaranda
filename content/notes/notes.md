@@ -1,8 +1,6 @@
 ---
 title: "notes"
 ---
-[index](_index.md)
-
 - [Methods Notes](notes/subsections/methods.md)
 - [Specialist Notes](notes/subsections/spec.md)
 - [Chemistry Notes](notes/subsections/chem.md)

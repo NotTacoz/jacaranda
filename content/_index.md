@@ -13,8 +13,5 @@ these are whats important:
 	- [japanese notes](notes/subsections/jap.md)
 	- [english notes](notes/subsections/eng.md)
 - [the daily taco](daily/DAILY.md)
-- obsidian thingies (dw abt it :) )
-	- [template (empty)](templates/post.md)
-	- [private note (you can't see it)](private/private-note.md)
 
 enjoy your stay!
