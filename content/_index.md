@@ -15,12 +15,3 @@ these are whats important:
 - [the daily taco](daily/DAILY.md)
 
 enjoy your stay!
-
-<div>
-<button onclick="lmao()">hi</button>
-</div>
-<script>
-function lmao() {
-	alert("f");
-}
-</script>
