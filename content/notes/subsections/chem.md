@@ -17,6 +17,8 @@ title: "chemistry masterlist"
 - [T1W6L4](notes/AE/chemistry/lessonnotes/T1W6L4.md)
 - [T1W7L1: Metallic Bonding](notes/AE/chemistry/lessonnotes/T1W7L1.md)
 - [T1W7L2: Ionic Bonding](notes/AE/chemistry/lessonnotes/T1W7L2.md)
+- [T1W7L3: worksheet](notes/AE/chemistry/lessonnotes/T1W7L3.md)
+- [T1W7L4: not much happened](notes/AE/chemistry/lessonnotes/T1W7L4.md)
 
 ### Year 10
 - [organic chemistry](notes/10/ORGANIC-CHEMISTRY.md)

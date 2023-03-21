@@ -15,3 +15,6 @@ title: "methods masterlist"
 - [T1W6L3](notes/AE/methods/lessonnotes/T1W6L3.md)
 - [T1W6L3: Quadratics (S)](notes/AE/methods/lessonnotes/T1W6L4.md)
 - [T1W7L1: Inverse Proportion](notes/AE/methods/lessonnotes/T1W7L1.md)
+- T1W7L2: Private Study
+- T1W7L3: Private Study
+- [T1W7L4: Hyerbolas](notes/AE/methods/lessonnotes/T1W7L4.md)
