@@ -15,3 +15,4 @@ these are whats important:
 - [the daily taco](daily/DAILY.md)
 
 enjoy your stay!
+- [empty](empty.md)
