@@ -16,3 +16,5 @@ these are whats important:
 
 enjoy your stay!
 - [empty](empty.md)
+
+<iframe src="https://spicata.github.io/" width="1000" height="600"></iframe>
