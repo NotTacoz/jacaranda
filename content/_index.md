@@ -15,6 +15,3 @@ these are whats important:
 - [the daily taco](daily/DAILY.md)
 
 enjoy your stay!
-- [empty](empty.md)
-
-<iframe src="https://spicata.github.io/" width="1000" height="600"></iframe>

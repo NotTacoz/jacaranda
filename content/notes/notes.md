@@ -7,3 +7,4 @@ title: "notes"
 - [Physics Notes](notes/subsections/phys.md)
 - [Japanese Notes](notes/subsections/jap.md)
 - [English Notes](notes/subsections/eng.md)
+- [empty](empty.md)
