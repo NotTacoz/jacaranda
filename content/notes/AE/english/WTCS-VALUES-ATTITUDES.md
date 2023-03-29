@@ -1,4 +1,4 @@
-	---
+---
 title: "WTCS-VALUES-ATTITUDES"
 ---
 # values and attitudes

@@ -6,6 +6,7 @@ title: "english masterlist"
 ## Year 11
 ### general
 - [analysing texts](notes/AE/english/ANALYSING-TEXTS.md)
+- [responding feedback](notes/AE/english/feedback.md)
 ### Responding
 - [Essay Structure](notes/AE/english/ESSAY-STRUCTURE.md)
 ### Text Study: Where the Crawdads Sing
@@ -15,4 +16,5 @@ title: "english masterlist"
 - [WTCS: Values & Attitudes](notes/AE/english/WTCS-VALUES-ATTITUDES.md)
 -  [WTCS: The Other](notes/AE/english/WTCS-THE-OTHER.md)
 ## class work
-- [T1W7L2: research into some stuff :!](notes/AE/english/lessonnotes/T1W7L2.md)
+- [T1W7L2: research into some stuff !](notes/AE/english/lessonnotes/T1W7L2.md)
+- [T1W8L1: the adventure of the speckeld band](notes/AE/english/lessonnotes/T1W8L1.md)

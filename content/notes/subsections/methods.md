@@ -18,3 +18,6 @@ title: "methods masterlist"
 - T1W7L2: Private Study
 - T1W7L3: Private Study
 - [T1W7L4: Hyerbolas](notes/AE/methods/lessonnotes/T1W7L4.md)
+- [T1W8L1: intro to polynomials](notes/AE/methods/lessonnotes/T1W8L1.md)
+- [T1W8L2: ??](notes/AE/methods/lessonnotes/T1W8L2.md)
+- [T1W8L3: cubic function (?) idk](notes/AE/methods/lessonnotes/T1W8L3.md)

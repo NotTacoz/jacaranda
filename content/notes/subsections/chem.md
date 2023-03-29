@@ -19,7 +19,11 @@ title: "chemistry masterlist"
 - [T1W7L2: Ionic Bonding](notes/AE/chemistry/lessonnotes/T1W7L2.md)
 - [T1W7L3: worksheet](notes/AE/chemistry/lessonnotes/T1W7L3.md)
 - [T1W7L4: not much happened](notes/AE/chemistry/lessonnotes/T1W7L4.md)
-  T1W8L2: in class practical of like funny hydrated and anhydrous salts
+- [T1W8L1: salts and covalent bonding](notes/AE/chemistry/lessonnotes/T1W8L1.md)``
+- T1W8L2: in class practical of like funny hydrated and anhydrous salts
+- [T1W8L3: nanotechnology (we did worksheet in class)](notes/AE/chemistry/lessonnotes/T1W8L3.md)
+- [T1W9L1: intermolecular forces](notes/AE/chemistry/lessonnotes/T1W9L1.md)
+  
 
 ### Year 10
 - [organic chemistry](notes/10/ORGANIC-CHEMISTRY.md)

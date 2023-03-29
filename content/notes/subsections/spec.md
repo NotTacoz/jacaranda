@@ -18,6 +18,8 @@ title: "spec masterlist"
 - [T1W7L2: vectors in component form](notes/AE/specialist/lessonnotes/T1W7L2.md)
 - [T1W7L3: vectors continued](notes/AE/specialist/lessonnotes/T1W7L3.md)
 - [T1W7L4: position vectors](notes/AE/specialist/lessonnotes/T1W7L4.md)
+- [T1W8L1: vector multiplication](notes/AE/specialist/lessonnotes/T1W8L1.md)
+- [T1W9L1: scalar projection & vector projection](notes/AE/specialist/lessonnotes/T1W9L1.md)
 
 #### Test Feedback
 - [cap1 feedback fjsfajfksajf](notes/AE/specialist/feedback/CAP1-FEEDBACK.md)
