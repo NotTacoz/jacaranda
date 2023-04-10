@@ -1,0 +1,253 @@
+
+2023-04-08.md
+_index.md
+daily/2023-03-04.md
+daily/2023-03-05.md
+daily/2023-03-07.md
+daily/2023-03-09.md
+daily/DAILY.md
+daily/Untitled.md
+empty.md
+notes/10/ORGANIC-CHEMISTRY.md
+notes/10/ORGANIC-CHEMISTRY.md#10.2 Organic Chemistryඞඞ
+notes/10/ORGANIC-CHEMISTRY.md#Energy Consumption & Fossil Fuels#Direct vs Indirect Energy Usage
+notes/10/ORGANIC-CHEMISTRY.md#Energy Consumption & Fossil Fuels#Direct vs Indirect Energy Usage#Formation Process of Coal (Fossil Fuels)
+notes/10/ORGANIC-CHEMISTRY.md#Energy Consumption & Fossil Fuels#Direct vs Indirect Energy Usage#Formation Process of Crude Oil (Fossil Fuels)
+notes/10/ORGANIC-CHEMISTRY.md#Energy Consumption & Fossil Fuels#Energy Consumption
+notes/10/ORGANIC-CHEMISTRY.md#Energy Consumption & Fossil Fuels#I can state what energy is.
+notes/10/ORGANIC-CHEMISTRY.md#Energy Consumption & Fossil Fuels#The Greenhouse Effect Diagram#The Enhanced Greenhouse Effect
+notes/10/ORGANIC-CHEMISTRY.md#Organic Chemistry#Alkanes, alkenes, alkynes, cycloalkanes, cycloalkenes
+notes/10/ORGANIC-CHEMISTRY.md#Organic Chemistry#Alkanes, alkenes, alkynes, cycloalkanes, cycloalkenes#Alkane
+notes/10/ORGANIC-CHEMISTRY.md#Organic Chemistry#Alkanes, alkenes, alkynes, cycloalkanes, cycloalkenes#Alkenes
+notes/10/ORGANIC-CHEMISTRY.md#Organic Chemistry#Alkanes, alkenes, alkynes, cycloalkanes, cycloalkenes#Alkyl
+notes/10/ORGANIC-CHEMISTRY.md#Organic Chemistry#Alkanes, alkenes, alkynes, cycloalkanes, cycloalkenes#Alkynes
+notes/10/ORGANIC-CHEMISTRY.md#Organic Chemistry#Alkanes, alkenes, alkynes, cycloalkanes, cycloalkenes#Cycloalkanes
+notes/10/ORGANIC-CHEMISTRY.md#Organic Chemistry#Alkanes, alkenes, alkynes, cycloalkanes, cycloalkenes#Cycloalkene
+notes/10/ORGANIC-CHEMISTRY.md#Organic Chemistry#Chemical properties of Hydrocarbons.#Alkanes
+notes/10/ORGANIC-CHEMISTRY.md#Organic Chemistry#Chemical properties of Hydrocarbons.#Alkenes
+notes/10/ORGANIC-CHEMISTRY.md#Organic Chemistry#Chemical properties of Hydrocarbons.#Alyknes
+notes/10/ORGANIC-CHEMISTRY.md#Organic Chemistry#Chemical properties of Hydrocarbons.#Trends in physical properties of hydrocarbons (melting point, boiling point, viscosity, volatility, flammability)
+notes/10/ORGANIC-CHEMISTRY.md#Organic Chemistry#Chemical properties of Hydrocarbons.#Viscosity
+notes/10/ORGANIC-CHEMISTRY.md#Organic Chemistry#Chemical properties of Hydrocarbons.#Volatility
+notes/10/ORGANIC-CHEMISTRY.md#Organic Chemistry#Fractional Distillation
+notes/10/ORGANIC-CHEMISTRY.md#Organic Chemistry#Fractional Distillation in Steps
+notes/10/ORGANIC-CHEMISTRY.md#Organic Chemistry#Isomers
+notes/10/ORGANIC-CHEMISTRY.md#Organic Chemistry#Isomers#Use IUPAC naming system to name structural isomers.
+notes/10/ORGANIC-CHEMISTRY.md#Organic Chemistry#Outcomes of Complete and Incomplete Combustion Formulas#Incomplete Combustion Formula
+notes/10/ORGANIC-CHEMISTRY.md#Organic Chemistry#Saturated & unsaturated hydrocarbons:#Saturated
+notes/10/ORGANIC-CHEMISTRY.md#Organic Chemistry#Saturated & unsaturated hydrocarbons:#Unsaturated
+notes/10/ORGANIC-CHEMISTRY.md#Organic Chemistry#Usage of different hydrocarbon fractions
+notes/10/ORGANIC-CHEMISTRY.md#Organic Chemistry#What is Organic Chemistry?
+notes/AE/chemistry/lessonnotes/ATOMIC-STRUCTURES.md
+notes/AE/chemistry/lessonnotes/ATOMIC-STRUCTURES.md#Breakthroughs and Discoveries
+notes/AE/chemistry/lessonnotes/ATOMIC-STRUCTURES.md#Development of atomic structure
+notes/AE/chemistry/lessonnotes/ATOMIC-STRUCTURES.md#Ernest Rutherford 1911
+notes/AE/chemistry/lessonnotes/ATOMIC-STRUCTURES.md#JJ Thomson 1897-1904
+notes/AE/chemistry/lessonnotes/ATOMIC-STRUCTURES.md#James Chadwick 1932
+notes/AE/chemistry/lessonnotes/ATOMIC-STRUCTURES.md#John Dalton 1803-1808
+notes/AE/chemistry/lessonnotes/ATOMIC-STRUCTURES.md#Niels Bohr 1913
+notes/AE/chemistry/lessonnotes/ATOMIC-STRUCTURES.md#Origins
+notes/AE/chemistry/lessonnotes/ATOMIC-STRUCTURES.md#research checklist
+notes/AE/chemistry/lessonnotes/ATOMIC-STRUCTURES.md#suggested resources
+notes/AE/chemistry/lessonnotes/ATOMIC-STRUCTURES.md#tl:dr
+notes/AE/chemistry/lessonnotes/CAP1CHECKLIST.md
+notes/AE/chemistry/lessonnotes/CAP1CHECKLIST.md#task 1: line spectra
+notes/AE/chemistry/lessonnotes/CAP1CHECKLIST.md#task 6
+notes/AE/chemistry/lessonnotes/DEFINITIONS.md
+notes/AE/chemistry/lessonnotes/EMISSION-SPECTRA.md
+notes/AE/chemistry/lessonnotes/EMISSION-SPECTRA.md#experiment 9: emission spectra
+notes/AE/chemistry/lessonnotes/EMISSION-SPECTRA.md#experiment 9: emission spectra#procedure
+notes/AE/chemistry/lessonnotes/FLAME-TEST.md
+notes/AE/chemistry/lessonnotes/FLAME-TEST.md#experiment 8: flame test
+notes/AE/chemistry/lessonnotes/FLAME-TEST.md#experiment 8: flame test#What can the test be used for
+notes/AE/chemistry/lessonnotes/FLAME-TEST.md#experiment 8: flame test#weaknesses of flame test
+notes/AE/chemistry/lessonnotes/INQ-SKILLS.md
+notes/AE/chemistry/lessonnotes/MAXWELLS-LAW.md
+notes/AE/chemistry/lessonnotes/T1W10L1.md
+notes/AE/chemistry/lessonnotes/T1W4L2.md
+notes/AE/chemistry/lessonnotes/T1W4L2.md#Electronic Configuration#Sub-shells
+notes/AE/chemistry/lessonnotes/T1W4L2.md#Electronic Configuration#Sub-shells#Order of filling of sub-shells
+notes/AE/chemistry/lessonnotes/T1W4L2.md#Electronic Configuration#Sub-shells#Order of filling of sub-shells#Practice
+notes/AE/chemistry/lessonnotes/T1W4L2.md#How to put electrons in boxes
+notes/AE/chemistry/lessonnotes/T1W5L3.md
+notes/AE/chemistry/lessonnotes/T1W6L2.md
+notes/AE/chemistry/lessonnotes/T1W6L3.md
+notes/AE/chemistry/lessonnotes/T1W6L3.md#electronegativity revision
+notes/AE/chemistry/lessonnotes/T1W6L3.md#ionisation energy
+notes/AE/chemistry/lessonnotes/T1W6L4.md
+notes/AE/chemistry/lessonnotes/T1W7L1.md
+notes/AE/chemistry/lessonnotes/T1W7L1.md#bonding and structure
+notes/AE/chemistry/lessonnotes/T1W7L1.md#electrical conductivity
+notes/AE/chemistry/lessonnotes/T1W7L1.md#metallic bonding
+notes/AE/chemistry/lessonnotes/T1W7L1.md#metallic bonding#comparing ionic compounds to ???
+notes/AE/chemistry/lessonnotes/T1W7L1.md#network
+notes/AE/chemistry/lessonnotes/T1W7L2.md
+notes/AE/chemistry/lessonnotes/T1W7L2.md#different types of bonding
+notes/AE/chemistry/lessonnotes/T1W7L2.md#ionic bonding
+notes/AE/chemistry/lessonnotes/T1W7L2.md#ionic bonding#physical properties
+notes/AE/chemistry/lessonnotes/T1W7L2.md#lewis diagram
+notes/AE/chemistry/lessonnotes/T1W7L3.md
+notes/AE/chemistry/lessonnotes/T1W7L4.md
+notes/AE/chemistry/lessonnotes/T1W8L1.md
+notes/AE/chemistry/lessonnotes/T1W8L1.md#covalent bonding
+notes/AE/chemistry/lessonnotes/T1W8L1.md#covalent bonding#combining power
+notes/AE/chemistry/lessonnotes/T1W8L1.md#salts
+notes/AE/chemistry/lessonnotes/T1W8L1.md#salts#copper sulphate (example)
+notes/AE/chemistry/lessonnotes/T1W8L1.md#salts#example question
+notes/AE/chemistry/lessonnotes/T1W8L3.md
+notes/AE/chemistry/lessonnotes/T1W8L3.md#nano-materials
+notes/AE/chemistry/lessonnotes/T1W8L3.md#nanoparticles
+notes/AE/chemistry/lessonnotes/T1W9L1.md
+notes/AE/chemistry/lessonnotes/T1W9L2.md
+notes/AE/chemistry/testnotes/CAP2.md
+notes/AE/english/ANALYSING-TEXTS.md
+notes/AE/english/ESSAY-STRUCTURE.md
+notes/AE/english/WTCS-CONTEXT.md
+notes/AE/english/WTCS-CONTEXT.md#booklet notes
+notes/AE/english/WTCS-CONTEXT.md#similarities between the novel and the context
+notes/AE/english/WTCS-CONTEXT.md#video notes on context
+notes/AE/english/WTCS-PRAC1.md
+notes/AE/english/WTCS-PRAC1.md#Body Paragraph 1
+notes/AE/english/WTCS-PRAC1.md#Body Paragraph 2
+notes/AE/english/WTCS-PRAC1.md#Body Paragraph 3
+notes/AE/english/WTCS-PRAC1.md#Introduction
+notes/AE/english/WTCS-PRAC2.md
+notes/AE/english/WTCS-THE-OTHER.md
+notes/AE/english/WTCS-THE-OTHER.md#binary oppositions
+notes/AE/english/WTCS-THE-OTHER.md#gender
+notes/AE/english/WTCS-THE-OTHER.md#how to construct others
+notes/AE/english/WTCS-THE-OTHER.md#outsiders
+notes/AE/english/WTCS-THE-OTHER.md#politics
+notes/AE/english/WTCS-THE-OTHER.md#relation to values and attitudes and ideologies.
+notes/AE/english/WTCS-THE-OTHER.md#the concept of the other
+notes/AE/english/WTCS-VALUES-ATTITUDES.md
+notes/AE/english/WTCS-VALUES-ATTITUDES.md#consider kyas situation:
+notes/AE/english/WTCS-VALUES-ATTITUDES.md#values and attitudes
+notes/AE/english/feedback.md
+notes/AE/english/lessonnotes/T1W7L2.md
+notes/AE/english/lessonnotes/T1W8L1.md
+notes/AE/english/lessonnotes/T1W9L4.md
+notes/AE/japanese/listening/LISTENING-PRACTICE1.md
+notes/AE/japanese/listening/XDDDD.md
+notes/AE/methods/lessonnotes/T1W1L2.md
+notes/AE/methods/lessonnotes/T1W2L1.md
+notes/AE/methods/lessonnotes/T1W5L1.md
+notes/AE/methods/lessonnotes/T1W5L3.md
+notes/AE/methods/lessonnotes/T1W5L3.md#quadratic equations
+notes/AE/methods/lessonnotes/T1W5L3.md#quadratics in turning point form
+notes/AE/methods/lessonnotes/T1W6L1.md
+notes/AE/methods/lessonnotes/T1W6L1.md#completing the square
+notes/AE/methods/lessonnotes/T1W6L1.md#completing the square{1}
+notes/AE/methods/lessonnotes/T1W6L1.md#recap
+notes/AE/methods/lessonnotes/T1W6L2.md
+notes/AE/methods/lessonnotes/T1W6L2.md#discriminant
+notes/AE/methods/lessonnotes/T1W6L2.md#the quadratic formula
+notes/AE/methods/lessonnotes/T1W6L3.md
+notes/AE/methods/lessonnotes/T1W6L4.md
+notes/AE/methods/lessonnotes/T1W7L1.md
+notes/AE/methods/lessonnotes/T1W7L1.md#inverse proportion
+notes/AE/methods/lessonnotes/T1W7L1.md#inverse proportion#graphing inverse proportion
+notes/AE/methods/lessonnotes/T1W7L1.md#inverse proportion#practice
+notes/AE/methods/lessonnotes/T1W7L1.md#recap: direct proportion
+notes/AE/methods/lessonnotes/T1W7L4.md
+notes/AE/methods/lessonnotes/T1W8L1.md
+notes/AE/methods/lessonnotes/T1W8L2.md
+notes/AE/methods/lessonnotes/T1W8L3.md
+notes/AE/methods/lessonnotes/T1W8L3.md#basic cubic function
+notes/AE/methods/lessonnotes/T1W8L3.md#features of f(x) = a(x-h)^3 + k
+notes/AE/methods/lessonnotes/T1W9L4.md
+notes/AE/physics/INVESTIGATION1.md
+notes/AE/physics/INVESTIGATION1.md#hypothesis
+notes/AE/physics/INVESTIGATION1.md#method
+notes/AE/physics/INVESTIGATION1.md#processing results
+notes/AE/physics/INVESTIGATION1.md#variables
+notes/AE/physics/pearson/7.1.md
+notes/AE/physics/pearson/7.1.md#REVIEW
+notes/AE/physics/pearson/7.1.md#centre of mass
+notes/AE/physics/pearson/7.1.md#converting between $kmh^{-1}$ and $ms^{-1}$
+notes/AE/physics/pearson/7.1.md#position, distance displacement
+notes/AE/physics/pearson/7.1.md#speed and velocity
+notes/AE/physics/pearson/7.2.md
+notes/AE/physics/pearson/7.2.md#acceleration
+notes/AE/physics/pearson/7.2.md#finding change in velocity and change
+notes/AE/physics/pearson/7.2.md#review
+notes/AE/physics/testnotes/CAP1.md
+notes/AE/physics/testnotes/CAP1.md#energy#work
+notes/AE/physics/testnotes/CAP1.md#linear motion#science as a human endeavour
+notes/AE/physics/testnotes/CAP1.md#momentum
+notes/AE/physics/testnotes/CAP1.md#momentum#change in momentum // impulse
+notes/AE/physics/testnotes/CAP1.md#momentum#conservation of momentum (1d collisions)
+notes/AE/physics/testnotes/CAP1.md#science understanding#applications of suvat, and the equations
+notes/AE/physics/testnotes/CAP1.md#science understanding#newton's three laws of motion#1. an object in motion stays in motion (maintain constant velocity) unless an unbalanced, external force acts upon it (the object).
+notes/AE/physics/testnotes/CAP1.md#science understanding#newton's three laws of motion#2. force = mass x acceleration
+notes/AE/physics/testnotes/CAP1.md#science understanding#newton's three laws of motion#3. every force has an equal and opposing force.
+notes/AE/physics/testnotes/CAP1.md#science understanding#newton's three laws of motion#force preface
+notes/AE/physics/testnotes/CAP1.md#science understanding#representations, graphs, and equations of motion#acceleration time graphs
+notes/AE/physics/testnotes/CAP1.md#science understanding#representations, graphs, and equations of motion#position time graphs
+notes/AE/physics/testnotes/CAP1.md#science understanding#representations, graphs, and equations of motion#uniform acceleration
+notes/AE/physics/testnotes/CAP1.md#science understanding#representations, graphs, and equations of motion#velocity time graphs
+notes/AE/physics/testnotes/CAP1.md#science understanding#scalar vs vector quantities
+notes/AE/physics/testnotes/CAP1.md#science understanding#scalar vs vector quantities#vector addition
+notes/AE/physics/testnotes/CAP1.md#science understanding#vertical motion and gravity
+notes/AE/specialist/PIGEON-HOLE.md
+notes/AE/specialist/PIGEON-HOLE.md#Generalised Pigeonhole principle
+notes/AE/specialist/PIGEON-HOLE.md#Pigeonhole principle
+notes/AE/specialist/feedback/CAP1-FEEDBACK.md
+notes/AE/specialist/lessonnotes/T1W10L1.md
+notes/AE/specialist/lessonnotes/T1W3L2.md
+notes/AE/specialist/lessonnotes/T1W3L2.md#difference between permutation and combination
+notes/AE/specialist/lessonnotes/T1W3L2.md#digression
+notes/AE/specialist/lessonnotes/T1W3L2.md#taken r at a time
+notes/AE/specialist/lessonnotes/T1W3L3.md
+notes/AE/specialist/lessonnotes/T1W5L?.md
+notes/AE/specialist/lessonnotes/T1W6L2.md
+notes/AE/specialist/lessonnotes/T1W6L3.md
+notes/AE/specialist/lessonnotes/T1W6L4.md
+notes/AE/specialist/lessonnotes/T1W7L1.md
+notes/AE/specialist/lessonnotes/T1W7L1.md#mathematical rules for abstract vectors#equality
+notes/AE/specialist/lessonnotes/T1W7L1.md#mathematical rules for abstract vectors#negative vectors
+notes/AE/specialist/lessonnotes/T1W7L1.md#scalar multiplication
+notes/AE/specialist/lessonnotes/T1W7L1.md#scalar multiplication#subtracting vectors
+notes/AE/specialist/lessonnotes/T1W7L1.md#scalar multiplication#the zero vector.
+notes/AE/specialist/lessonnotes/T1W7L1.md#vectors in euclidean geometry
+notes/AE/specialist/lessonnotes/T1W7L1.md#vectors in euclidean geometry#addition of vectors in geometry
+notes/AE/specialist/lessonnotes/T1W7L1.md#vectors in euclidean geometry#notations
+notes/AE/specialist/lessonnotes/T1W7L2.md
+notes/AE/specialist/lessonnotes/T1W7L2.md#the story so far (like the band)
+notes/AE/specialist/lessonnotes/T1W7L2.md#the story so far (like the band)#conversion
+notes/AE/specialist/lessonnotes/T1W7L2.md#the story so far (like the band)#idk what to title this something something equilibrium
+notes/AE/specialist/lessonnotes/T1W7L3.md
+notes/AE/specialist/lessonnotes/T1W7L3.md#alternate method (continued from last lesson)
+notes/AE/specialist/lessonnotes/T1W7L3.md#unit vector
+notes/AE/specialist/lessonnotes/T1W7L3.md#vector equations
+notes/AE/specialist/lessonnotes/T1W7L3.md#vector equations#typical question
+notes/AE/specialist/lessonnotes/T1W7L3.md#vector equations#typical question#when drawing vectors
+notes/AE/specialist/lessonnotes/T1W7L4.md
+notes/AE/specialist/lessonnotes/T1W7L4.md#positon vectors
+notes/AE/specialist/lessonnotes/T1W7L4.md#positon vectors#general rule#how is it derived
+notes/AE/specialist/lessonnotes/T1W7L4.md#positon vectors#why?
+notes/AE/specialist/lessonnotes/T1W8L1.md
+notes/AE/specialist/lessonnotes/T1W8L1.md#how to take two vectors and multiply them together??
+notes/AE/specialist/lessonnotes/T1W8L1.md#how to take two vectors and multiply them together??#scalar product
+notes/AE/specialist/lessonnotes/T1W9L1.md
+notes/notes.md
+notes/subsections/chem.md
+notes/subsections/chem.md#Year 11
+notes/subsections/chem.md#Year 11#Lesson notes
+notes/subsections/chem.md#Year 11#Year 10
+notes/subsections/eng.md
+notes/subsections/eng.md#Year 11#Responding
+notes/subsections/eng.md#Year 11#Text Study: Where the Crawdads Sing
+notes/subsections/eng.md#Year 11#general
+notes/subsections/eng.md#class work
+notes/subsections/jap.md
+notes/subsections/methods.md
+notes/subsections/phys.md
+notes/subsections/phys.md#Year 11
+notes/subsections/phys.md#Year 11#test notes
+notes/subsections/spec.md
+notes/subsections/spec.md#Year 11
+notes/subsections/spec.md#Year 11#Lesson Notes#no idea lmao
+notes/subsections/spec.md#Year 11#Test Feedback
+private/private-note.md
+templates/post.md
