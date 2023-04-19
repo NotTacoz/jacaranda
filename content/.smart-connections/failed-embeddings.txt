@@ -100,6 +100,13 @@ notes/AE/chemistry/lessonnotes/T1W8L3.md#nanoparticles
 notes/AE/chemistry/lessonnotes/T1W9L1.md
 notes/AE/chemistry/lessonnotes/T1W9L2.md
 notes/AE/chemistry/testnotes/CAP2.md
+notes/AE/chemistry/testnotes/CAP2.md#Topic 2: BONDING, INTERMOLECULAR FORCES, AND PROPERTIES#Covalent Bonding
+notes/AE/chemistry/testnotes/CAP2.md#Topic 2: BONDING, INTERMOLECULAR FORCES, AND PROPERTIES#Intermolecular Forces
+notes/AE/chemistry/testnotes/CAP2.md#Topic 2: BONDING, INTERMOLECULAR FORCES, AND PROPERTIES#Introduction to Bonding
+notes/AE/chemistry/testnotes/CAP2.md#Topic 2: BONDING, INTERMOLECULAR FORCES, AND PROPERTIES#Ionic Bonding
+notes/AE/chemistry/testnotes/CAP2.md#Topic 2: BONDING, INTERMOLECULAR FORCES, AND PROPERTIES#Metallic Bonding
+notes/AE/chemistry/testnotes/CAP2.md#Topic 2: BONDING, INTERMOLECULAR FORCES, AND PROPERTIES#Nanomaterials
+notes/AE/chemistry/testnotes/Untitled.md
 notes/AE/english/ANALYSING-TEXTS.md
 notes/AE/english/ESSAY-STRUCTURE.md
 notes/AE/english/WTCS-CONTEXT.md
