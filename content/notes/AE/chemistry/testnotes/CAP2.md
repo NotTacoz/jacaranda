@@ -47,9 +47,9 @@ ill do this shit later
 			- their mobility and charge enable them to conduct an electric current through the ionic solution.
 			- the current consists of positive ions moving toward the negative electrode and negative ions moving towards the positive electrode.
 48. Calculate percentage composition of an ionic compound from the relative atomic masses of the constituent species. 
-49. Define and describe the difference between anhydrous and hydrated salts, and explain the role of water of crystallisation. 
-50. Calculate the formula of an ionic compound from empirical data, including the formula of a hydrated salt. 
-51. Perform stoichiometric calculations in order to establish percentage composition and empirical formula of ionic compounds.
+	1. Define and describe the difference between anhydrous and hydrated salts, and explain the role of water of crystallisation. 
+49. Calculate the formula of an ionic compound from empirical data, including the formula of a hydrated salt. 
+50. Perform stoichiometric calculations in order to establish percentage composition and empirical formula of ionic compounds.
 ### Metallic Bonding 
 52. Describe how metallic bonding holds metal atoms together, in a lattice of positively charged ions surrounded by delocalised electrons. 
 53. Explain the physical properties of metals, including: a. malleability and ductility b. thermal and electrical conductivity c. generally high melting and boiling points. 
@@ -81,10 +81,40 @@ ill do this shit later
 	- Intermolecular forces are much weaker.
 		- **occur within** molecules, bonding between **molecules**
 		- much easier to overcome when a molecular substance **melts**, **boils**, or **evaporates**.
-		- two types of intermolecular forces exist.
+		- three types of intermolecular forces.
 			- **dispersion**
+				- occur in all molecular materials
+				- however, it is the only intermolecular forces of attraction present in non-polar substances like hydrocarbons and gases like N2, O2, and CO2
+				- generally increases in strength with number of electrons.
+					- clearly seen in non-polar, alkane family of compounds
+						- boiling point increases with increasing molar mass.
+							- because of this property, it is often stated that dispersion forces increase with molar mass / molecular size
+				- dispersion forces are stronger in molecules with shapes allowing maximum surface contact between molecules, ie linear in preference to branched or spherical shapes.
+					- thus linear molecules will have stronger dispersion forces and hence higher melting points and boiling points than spherical or branched shapes of similar mass.
+				- dispersion force arise when random motion of electrons produce short lived **temporary dipoles**.
+					- this makes non-polar molecules temporarily polar.
+					- cause nearby molecules to form similar temporary dipoles called **induced dipoles**.
+					- temporary dipole and induced dipole experience weak electrostatic known as **dispersion forces**. 
+					- these forces constantly change due to temporary and induced dipoles being constantly formed, rapidly disappearing and then reforming elsewhere.
 			- **dipole-dipole**
+				- polar (see notes on [polarity](notes/AE/chemistry/notes/polarity.md)) molecules attract one another due to weak electrostatic attraction between their dipoles.
+				- dipole dipole forces **increase melting points and boiling points**.
+					- because of this, substances with polar molecules have slightly higher melting and boiling points than other substances of similar molecular size.
+				- generally substances with dipole-dipole forces, ie polar ones, will be soluble in one another but not soluble in non-polar substances, ie ones that can't interact by dipole-dipole forces.
+					- this is why ethanol (polar) and water (polar) are soluble in one another, but mineral turpentine (non-polar) isn't soluble in water.
+				- ability to dissolve ionic solutes.
+				- this property is due to attraction between the dipole of a polar molecule and an ion's charge. 
+					- called ion-dipole forces, not a type of intermolecular forces.
+			- **hydrogen bond**
+				- **directional** intermolecular forces. (? what does that mean)
+				- only exists between molecules having Hydrogen-F/O/N arrangement of atoms.
+				- due to electrostatic attraction between a **lone pair** of electrons (negative) of a F, O, or N atom and an H atom already covalently bonded to another F, O or N atom.
+				- sometimes described as extreme dipole-dipole attraction, where strong positive dipole of an H atom, ie one bonded to a highly electronegative F, O or N atom, is attracted to a strongly negatively dipole of another F, O or N atom.
+				- can be part of the same molecule or from different molecules.
+				- **melting and boiling points** are much **higher** for substances that can hydrogen bond than for those of similar molecular size that cannot hydrogen bond.
+				- solubility is also affected - substances experiencing hydrogen bonding between molecules are **extremely soluble** in other substances which are also hydrogen bonded.
 1. Compare the relative strength of ionic, covalent and metallic bonding with intermolecular forces. 
+	- 
 2. Recognise that intermolecular forces are present in all substances, but are most significant in discussion of the properties of covalent molecular substances, due to the lack of any stronger interactions between molecules. 
 3. Describe how dispersion forces arise in all substances, and explain how molecular shape, and number of atoms affect the strength of dispersion forces. 
 4. Use knowledge of electronegativity to establish bond polarity. 
@@ -95,7 +125,7 @@ ill do this shit later
 9. Compare the relative strength of the types of intermolecular forces. 
 10. Use understanding of bond polarity, molecular shape and symmetry to establish the nature and strength of intermolecular forces present in a covalent molecular substance. 
 11. Explain how the physical properties of covalent molecular substances depend on the strength of intermolecular forces, including: a. melting and boiling point b. vapour pressure c. solubility in water and organic solvents 
-12. TUse understanding of intermolecular forces to explain patterns or relationships in melting and boiling points of covalent molecular substances.
+12. Use understanding of intermolecular forces to explain patterns or relationships in melting and boiling points of covalent molecular substances.
 
 RELATED
 - [T1W4L2](notes/AE/chemistry/lessonnotes/T1W4L2.md)
