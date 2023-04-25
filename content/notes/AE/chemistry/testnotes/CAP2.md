@@ -11,10 +11,16 @@ ill do this shit later
 40. Describe the valency of an atom as a measure of the atom’s bonding capacity, and use the periodic table to establish the valency of an atom for periods 1 to 3. 
 	- 
 41. Explain how the ability of atoms to form chemical bonds is related to its electronic structure, particularly the stability of the valence shell. 
+	- what are the 4 structures of chemical arrangements?
+		- giant metallic
+			- 
+		- giant iconic
+		- giant molecular
+		- simple molecular
+1. Explain how electrostatic attraction between oppositely charges species / regions leads to chemical bonds. 
 	- 
-43. Explain how electrostatic attraction between oppositely charges species / regions leads to chemical bonds. 
-44. Use the periodic table to establish the type of bonding present in elements and compounds. 
-45. Explain why the type of bonding present in a substance defines the physical properties of that substance, including melting and boiling points, conductivity of heat and electricity, and hardness. 
+2. Use the periodic table to establish the type of bonding present in elements and compounds. 
+3. Explain why the type of bonding present in a substance defines the physical properties of that substance, including melting and boiling points, conductivity of heat and electricity, and hardness. 
 ### Ionic Bonding 
 45. Define ions as atoms or groups of atoms that are electrically charged due to loss or gain of electrons. 
 	- ion is an atom or a group of atoms that has are electrically charged.
@@ -46,7 +52,7 @@ ill do this shit later
 			- individual ions from the ionic solid are mobile and free to move independently of one another.
 			- their mobility and charge enable them to conduct an electric current through the ionic solution.
 			- the current consists of positive ions moving toward the negative electrode and negative ions moving towards the positive electrode.
-48. Calculate percentage composition of an ionic compound from the relative atomic masses of the constituent species. 
+48. Calculate percentage composition of an ionic compound from the relative atomic masses of the constituent speci es. 
 	1. Define and describe the difference between anhydrous and hydrated salts, and explain the role of water of crystallisation. 
 49. Calculate the formula of an ionic compound from empirical data, including the formula of a hydrated salt. 
 50. Perform stoichiometric calculations in order to establish percentage composition and empirical formula of ionic compounds.
@@ -59,8 +65,10 @@ ill do this shit later
 57. Use the valence shell electron pair repulsion (VSEPR) theory along with Lewis structures to explain, predict and draw the shapes of molecules and polyatomic ions. 
 58. Explain the physical properties of covalent molecular substances, including: a. low melting and boiling points b. non-conductivity c. softness and brittleness. 
 59. Recognise some common covalent network substances, including diamond, graphite and silicon dioxide. 
-60. Describe the range of allotropes of elemental carbon (diamond, graphite and fullerenes), and explain why they have significantly different physical and chemical properties. 
-61. Explain the physical properties of covalent network substances, including: a. high melting and boiling points b. hardness and brittleness c. thermal conductivity d. electrical conductivity 
+	- What has a higher boiling point: covalent network substances or covalent molecular substances in the same period.
+		- Covalent network substances because it is purely covalent bonds.
+1. Describe the range of allotropes of elemental carbon (diamond, graphite and fullerenes), and explain why they have significantly different physical and chemical properties. 
+2. Explain the physical properties of covalent network substances, including: a. high melting and boiling points b. hardness and brittleness c. thermal conductivity d. electrical conductivity 
 ### Nanomaterials 
 61. Describe what nanomaterials are. 
        - nanomaterials are materials which have at least one dimension in the **1-100 nanometre** range. (1 nanometre = $1\times 10^{-9}$ metres).
