@@ -67,21 +67,34 @@ title: "CAP2"
 		- decreases across periods 
 		- increase down groups
 		- why?
-			- across periods, there is larger electrostatic forces of attraction because of increased nuclear charge (?)
+			- across periods, there is larger electrostatic forces of attraction because of increased nuclear charge, so atomic radius decreases as the outermost energy level is pulled in more.
+			- across groups, there are more energy levels, so the distance between outermost valence shell and nucleus is further, increasing the radius.
 	- valency trend
+		- (?)
 	- electronegativity trend
+		- (?)
+	- electron shielding
+		- blocking of the outer most energy level's electron's attraction to the nucleus, due to the presence of inner-shell electrons.
+		- since electrons repel other electrons.
+		- across period, strength of shielding stays relatively the same
+		- down a group, strength of shielding increases
 
 ## Topic 2: BONDING, INTERMOLECULAR FORCES, AND PROPERTIES
 ### Introduction to Bonding 
 40. Describe the valency of an atom as a measure of the atom’s bonding capacity, and use the periodic table to establish the valency of an atom for periods 1 to 3. 
-	- 
-41. Explain how the ability of atoms to form chemical bonds is related to its electronic structure, particularly the stability of the valence shell. 
+	- p1: valency of +1
+	- p2: valency of +2
+	- p3: valency of +3
+	- idk what this objective means
+1. Explain how the ability of atoms to form chemical bonds is related to its electronic structure, particularly the stability of the valence shell. 
+	- why do atoms form chemical bonds?
+		- to achieve stability where a valence shell is full.
 	- what are the 4 structures of chemical arrangements?
 		- giant metallic
 			- what is giant metallic structure?
 				- lattice consists of regularly arranged ions (not atoms), surrounded by a sea of delocalised electrons. 
 				- the outer electrons are free to move around the positive metal ions formed
-		- giant iconic
+		- giant ionic
 			- strong electrostatic forces of attraction between oppositely charged ions.
 		- giant molecular
 			- what is giant molecular structure?
@@ -90,10 +103,10 @@ title: "CAP2"
 			- what is a simple molecular structure?
 				- contains only a few atoms held together by covalent bonds. ie CO2
 				- there exists weaker intermolecular forces between atoms.
-1. Explain how electrostatic attraction between oppositely charges species / regions leads to chemical bonds. 
-	- a
-2. Use the periodic table to establish the type of bonding present in elements and compounds. 
-3. Explain why the type of bonding present in a substance defines the physical properties of that substance, including melting and boiling points, conductivity of heat and electricity, and hardness. 
+3. Explain how electrostatic attraction between oppositely charges species / regions leads to chemical bonds. 
+	- two oppositely charged species leads to an electrostatic attraction as the metal loses electrons to become a positive ion, and the non-metal gain the electrons lost by the metal to become a negative ion. 
+4. Use the periodic table to establish the type of bonding present in elements and compounds. 
+5. Explain why the type of bonding present in a substance defines the physical properties of that substance, including melting and boiling points, conductivity of heat and electricity, and hardness. 
 ### Ionic Bonding 
 45. Define ions as atoms or groups of atoms that are electrically charged due to loss or gain of electrons. 
 	- ion is an atom or a group of atoms that has are electrically charged.
@@ -169,7 +182,6 @@ title: "CAP2"
 	- how to draw lewis structure diagram 
 	- ![300](notes/images/Pasted%20image%2020230427092439.png)
 2. Use the valence shell electron pair repulsion (VSEPR) theory along with Lewis structures to explain, predict and draw the shapes of molecules and polyatomic ions. 
-	- 
 3. Explain the physical properties of covalent molecular substances, including: 
 	- a. low melting and boiling points 
 		- why does covalent molecular substances have low melting and boiling points?
@@ -253,20 +265,58 @@ title: "CAP2"
 		- rapid state of change - constantly form, disappear and reform.
 1. Describe how dispersion forces arise in all substances, and explain how molecular shape, and number of atoms affect the strength of dispersion forces. 
 2. Use knowledge of electronegativity to establish bond polarity. 
-3. Use understanding of molecular shape, bond polarity and symmetry to establish and explain the polarity of molecules. 
-4. Describe how dipole-dipole forces arise, and explain how the relative size of a molecular dipole affects the strength of dipole-dipole forces. 
+	- what is bond polarity?
+		- difference in electronegativity
+1. Use understanding of molecular shape, bond polarity and symmetry to establish and explain the polarity of molecules. 
+2. Describe how dipole-dipole forces arise, and explain how the relative size of a molecular dipole affects the strength of dipole-dipole forces. 
 	- f
-5. Describe how hydrogen bonding arises, end explain why this special case of dipole-dipole bonding is so much stronger than other examples of dipole-dipole bonding. 
-6. Draw diagrams to show how all types of intermolecular forces occur between neighbouring molecules. 
-7. Compare the relative strength of the types of intermolecular forces. 
+3. Describe how hydrogen bonding arises, end explain why this special case of dipole-dipole bonding is so much stronger than other examples of dipole-dipole bonding. 
+4. Draw diagrams to show how all types of intermolecular forces occur between neighbouring molecules. 
+5. Compare the relative strength of the types of intermolecular forces. 
 	- order in strength?
-		- strongest is ion-dipole, but i dont think we need to know that.
+		- strongest is ion-dipole
 		- hydrogen bonding
 		- dipole dipole
 		- dispersion forces
-8. Use understanding of bond polarity, molecular shape and symmetry to establish the nature and strength of intermolecular forces present in a covalent molecular substance. 
-9. Explain how the physical properties of covalent molecular substances depend on the strength of intermolecular forces, including: a. melting and boiling point b. vapour pressure c. solubility in water and organic solvents 
-10. Use understanding of intermolecular forces to explain patterns or relationships in melting and boiling points of covalent molecular substances.
+6. Use understanding of bond polarity, molecular shape and symmetry to establish the nature and strength of intermolecular forces present in a covalent molecular substance. 
+7. Explain how the physical properties of covalent molecular substances depend on the strength of intermolecular forces, including: 
+	- a. melting and boiling point 
+		- trend?
+			- increases with intermolecular force strength
+		- why trend occur?
+			- because boiling point and melting point describes the energy required to break the IMF within molecules. 
+		- what is the relation to different intermolecular forces?
+			- dispersion
+				- all molecules have dispersion forces, for molecules with only dispersion forces present, as dispersion forces increase in strength, so would boiling and melting point.
+			- dipole-dipole
+				- substances with dipole-dipole will have slightly higher melting + boiling point than substances of similar molecular size that can't interact this way
+			- hydrogen bonding
+				- substances with hydrogen bonding will have high melting + boiling points than substances of similar molecular size (that can't hydrogen bond)
+	- b. vapour pressure 
+		- what is vapour pressure?
+			- tendency of substance to evaporate
+		- what is vapour pressure measured in?
+			- kPa
+		- how does a substance evaporate?
+			- it must escape the intermolecular forces keeping it in liquid phase.
+		- what does this mean?
+			- thus weak intermolecular forces = easily evaporate = high vapour pressure
+		- trend with temperature and evaporation
+			- all substances have greater temp > increase vapour pressure.
+			- why is this the case?
+				- high temp = higher avg molecular kinetic energies
+	- c. solubility in water and organic solvents 
+		- usually strength of solubility needs to be **comparable in strength** for the solvent and the solute.
+		- this means that non-polar molecules, ie those with dispersion forces can be dissolved in other non-polar substances that also attract strongly by dispersion force.
+			- however these substances won't be soluble in polar substances whose molecules attract strongly by dipole-dipole forces.
+		- also the case for hydrogen bonding, where compounds that attract strongly by hydrogen bonding are extremely soluble in other compounds that also attract strongly by hydrogen bonding.
+1. Use understanding of intermolecular forces to explain patterns or relationships in melting and boiling points of covalent molecular substances.
+	- what is it's melting and boiling point (relatively speaking?)?
+		- it is low to moderate
+	- why is that the case?
+		- only the weak intermolecular forces (dispersion) needs to be broken or overcome.
+		- weakly bonded lattice of molecules is easily disrupted by heat energy.
+		- strong covalent bonds are unaffected.
 
 RELATED
 - [T1W4L2](notes/AE/chemistry/lessonnotes/T1W4L2.md)
