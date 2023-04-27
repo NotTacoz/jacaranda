@@ -57,6 +57,19 @@ title: "CAP2"
 	- what is electronegativity
 		- ability of an atom to attract bonding pair of electrons in covalent bonds
 39. Describe and explain the trends in first ionisation energy, atomic radius, valency & electronegativity in the periodic table, with reference to groups 1, 2, 13 – 18 and periods 1 – 3.
+	- first ionisation energy trend
+		- increases across period
+		- decreases down groups
+		- why?
+			- across periods, more protons = more electrostatic forces of attraction (?)
+			- down groups, larger atomic radius = larger distance from outermost energy level to nucleus = weaker electrostatic forces of attraction (?)
+	- atomic radius trend
+		- decreases across periods 
+		- increase down groups
+		- why?
+			- across periods, there is larger electrostatic forces of attraction because of increased nuclear charge (?)
+	- valency trend
+	- electronegativity trend
 
 ## Topic 2: BONDING, INTERMOLECULAR FORCES, AND PROPERTIES
 ### Introduction to Bonding 
@@ -232,22 +245,28 @@ title: "CAP2"
 1. Compare the relative strength of ionic, covalent and metallic bonding with intermolecular forces. 
 	- intermolecular forces are relatively **weaker** than intramolecular forces (ionic, covalent, metallic)
 2. Recognise that intermolecular forces are present in all substances, but are most significant in discussion of the properties of covalent molecular substances, due to the lack of any stronger interactions between molecules. 
-3. Describe how dispersion forces arise in all substances, and explain how molecular shape, and number of atoms affect the strength of dispersion forces. 
-4. Use knowledge of electronegativity to establish bond polarity. 
-5. Use understanding of molecular shape, bond polarity and symmetry to establish and explain the polarity of molecules. 
-6. Describe how dipole-dipole forces arise, and explain how the relative size of a molecular dipole affects the strength of dipole-dipole forces. 
+	- why is intermolecular forces present in all substances?
+		- because of dispersion force
+		- it arises when the random motion of electrons within a molecule produce short lived **temporary dipoles** (makes non-polar molecules temporarily polar)
+		- polar molecules cause nearby molecules to form similar temporary dipoles called **induced dipoles**
+		- these dipoles create temporary and weak electrostatic attraction called dispersion.
+		- rapid state of change - constantly form, disappear and reform.
+1. Describe how dispersion forces arise in all substances, and explain how molecular shape, and number of atoms affect the strength of dispersion forces. 
+2. Use knowledge of electronegativity to establish bond polarity. 
+3. Use understanding of molecular shape, bond polarity and symmetry to establish and explain the polarity of molecules. 
+4. Describe how dipole-dipole forces arise, and explain how the relative size of a molecular dipole affects the strength of dipole-dipole forces. 
 	- f
-7. Describe how hydrogen bonding arises, end explain why this special case of dipole-dipole bonding is so much stronger than other examples of dipole-dipole bonding. 
-8. Draw diagrams to show how all types of intermolecular forces occur between neighbouring molecules. 
-9. Compare the relative strength of the types of intermolecular forces. 
+5. Describe how hydrogen bonding arises, end explain why this special case of dipole-dipole bonding is so much stronger than other examples of dipole-dipole bonding. 
+6. Draw diagrams to show how all types of intermolecular forces occur between neighbouring molecules. 
+7. Compare the relative strength of the types of intermolecular forces. 
 	- order in strength?
 		- strongest is ion-dipole, but i dont think we need to know that.
 		- hydrogen bonding
 		- dipole dipole
 		- dispersion forces
-10. Use understanding of bond polarity, molecular shape and symmetry to establish the nature and strength of intermolecular forces present in a covalent molecular substance. 
-11. Explain how the physical properties of covalent molecular substances depend on the strength of intermolecular forces, including: a. melting and boiling point b. vapour pressure c. solubility in water and organic solvents 
-12. Use understanding of intermolecular forces to explain patterns or relationships in melting and boiling points of covalent molecular substances.
+8. Use understanding of bond polarity, molecular shape and symmetry to establish the nature and strength of intermolecular forces present in a covalent molecular substance. 
+9. Explain how the physical properties of covalent molecular substances depend on the strength of intermolecular forces, including: a. melting and boiling point b. vapour pressure c. solubility in water and organic solvents 
+10. Use understanding of intermolecular forces to explain patterns or relationships in melting and boiling points of covalent molecular substances.
 
 RELATED
 - [T1W4L2](notes/AE/chemistry/lessonnotes/T1W4L2.md)
