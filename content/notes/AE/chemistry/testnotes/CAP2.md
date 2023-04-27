@@ -78,7 +78,7 @@ title: "CAP2"
 				- contains only a few atoms held together by covalent bonds. ie CO2
 				- there exists weaker intermolecular forces between atoms.
 1. Explain how electrostatic attraction between oppositely charges species / regions leads to chemical bonds. 
-	- 
+	- a
 2. Use the periodic table to establish the type of bonding present in elements and compounds. 
 3. Explain why the type of bonding present in a substance defines the physical properties of that substance, including melting and boiling points, conductivity of heat and electricity, and hardness. 
 ### Ionic Bonding 
@@ -135,13 +135,29 @@ title: "CAP2"
 			- delocalised
 		- what are the electrons described to be
 			- mobile sea of electrons
-1. Explain the physical properties of metals, including: a. malleability and ductility b. thermal and electrical conductivity c. generally high melting and boiling points. 
+1. Explain the physical properties of metals, including: 
+	- a. malleability and ductility 
+		- why is metallic bonds malleable and ductile?
+			- bonding is **non-directional**, so it means that metal atoms can move in relation to each other without breaking bonds between them and the sea of electrons.
+			- when a metal changes shape, ie to be dented, bent or stretched, it will not break.
+	- b. thermal and electrical conductivity 
+		- why are metals good at conducting electricity?
+			- because its electrons are delocalised.
+			- if voltage is applied, electrons move towards the positive terminal of power supply.
+		- whys it good at conducting heat?
+			- delocalised electrons are mobile so can carry heat (as kinetic energy)
+	- c. generally high melting and boiling points. 
+		- strong attractive forces between the metal ions and sea of electrons hold the metallic lattice together.
 ### Covalent Bonding 
 54. Describe a covalent bond as a shared pair of electrons, resulting in electrostatic attraction between positive nuclei of the atoms and the shared electron pair. 
-56. Draw Lewis structures for covalent molecules, showing both bonding pairs and lone pairs of electrons. 
+	- how to describe covalent bond?
+		- covalent bonds are two non metallic atoms which share electrons, so the electrostatic attraction exists between the nucleus and their individual electrons and the electrons they share. (?)
+1. Draw Lewis structures for covalent molecules, showing both bonding pairs and lone pairs of electrons. 
+	- how to draw lewis structure diagram 
 	- ![300](notes/images/Pasted%20image%2020230427092439.png)
-1. Use the valence shell electron pair repulsion (VSEPR) theory along with Lewis structures to explain, predict and draw the shapes of molecules and polyatomic ions. 
-2. Explain the physical properties of covalent molecular substances, including: 
+2. Use the valence shell electron pair repulsion (VSEPR) theory along with Lewis structures to explain, predict and draw the shapes of molecules and polyatomic ions. 
+	- 
+3. Explain the physical properties of covalent molecular substances, including: 
 	- a. low melting and boiling points 
 		- why does covalent molecular substances have low melting and boiling points?
 			- only the weak intermolecular forces of the bond needs to be overcome.
@@ -156,11 +172,11 @@ title: "CAP2"
 			- there are no covalent bonds **between** atoms, only **within** atoms.
 			- therefore, only weak intermolecular forces (dispersion) needs to be overcome to break apart the covalent molecular structure.
 			- so molecules are easily separated from one another.
-3. Recognise some common covalent network substances, including diamond, graphite and silicon dioxide. 
+4. Recognise some common covalent network substances, including diamond, graphite and silicon dioxide. 
 	- What has a higher boiling point: covalent network substances or covalent molecular substances in the same period.
 		- Covalent network substances because it is purely covalent bonds.
-4. Describe the range of allotropes of elemental carbon (diamond, graphite and fullerenes), and explain why they have significantly different physical and chemical properties. 
-5. Explain the physical properties of covalent network substances, including: a. high melting and boiling points b. hardness and brittleness c. thermal conductivity d. electrical conductivity 
+5. Describe the range of allotropes of elemental carbon (diamond, graphite and fullerenes), and explain why they have significantly different physical and chemical properties. 
+6. Explain the physical properties of covalent network substances, including: a. high melting and boiling points b. hardness and brittleness c. thermal conductivity d. electrical conductivity 
 ### Nanomaterials 
 61. Describe what nanomaterials are. 
        - nanomaterials are materials which have at least one dimension in the **1-100 nanometre** range. (1 nanometre = $1\times 10^{-9}$ metres).
@@ -220,7 +236,7 @@ title: "CAP2"
 4. Use knowledge of electronegativity to establish bond polarity. 
 5. Use understanding of molecular shape, bond polarity and symmetry to establish and explain the polarity of molecules. 
 6. Describe how dipole-dipole forces arise, and explain how the relative size of a molecular dipole affects the strength of dipole-dipole forces. 
-	- 
+	- f
 7. Describe how hydrogen bonding arises, end explain why this special case of dipole-dipole bonding is so much stronger than other examples of dipole-dipole bonding. 
 8. Draw diagrams to show how all types of intermolecular forces occur between neighbouring molecules. 
 9. Compare the relative strength of the types of intermolecular forces. 
