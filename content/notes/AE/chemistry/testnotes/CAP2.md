@@ -72,7 +72,9 @@ title: "CAP2"
 	- valency trend
 		- (?)
 	- electronegativity trend
-		- (?)
+		- down a group, it decreases
+		- across a period it increases,
+		- 
 	- electron shielding
 		- blocking of the outer most energy level's electron's attraction to the nucleus, due to the presence of inner-shell electrons.
 		- since electrons repel other electrons.
@@ -106,7 +108,27 @@ title: "CAP2"
 3. Explain how electrostatic attraction between oppositely charges species / regions leads to chemical bonds. 
 	- two oppositely charged species leads to an electrostatic attraction as the metal loses electrons to become a positive ion, and the non-metal gain the electrons lost by the metal to become a negative ion. 
 4. Use the periodic table to establish the type of bonding present in elements and compounds. 
-5. Explain why the type of bonding present in a substance defines the physical properties of that substance, including melting and boiling points, conductivity of heat and electricity, and hardness. 
+	- what are the types of bonding?
+		- metallic: metal + metal
+		- ionic: non metal + metal
+		- covalent: non metal + non metal
+1. Explain why the type of bonding present in a substance defines the physical properties of that substance, including melting and boiling points, conductivity of heat and electricity, and hardness. 
+	- covalent network: 
+		- very high melting boiling point
+		- mostly not conductive
+		- mostly hard and brittle 
+	- ionic
+		- high melting boiling point
+		- conductors (in molten or dissolved in water, otherwise non-conductors)
+		- hard and brittle
+	- metallic
+		- mostly moderate to high melting point
+		- conductive
+		- malleable and ductile
+	- covalent molecular
+		- low melting boiling point
+		- non conductors
+		- soft
 ### Ionic Bonding 
 45. Define ions as atoms or groups of atoms that are electrically charged due to loss or gain of electrons. 
 	- ion is an atom or a group of atoms that has are electrically charged.
@@ -139,12 +161,13 @@ title: "CAP2"
 			- their mobility and charge enable them to conduct an electric current through the ionic solution.
 			- the current consists of positive ions moving toward the negative electrode and negative ions moving towards the positive electrode.
 48. Calculate percentage composition of an ionic compound from the relative atomic masses of the constituent species. 
+	- ![300](notes/images/Pasted%20image%2020230427182727.png)
 49. Define and describe the difference between anhydrous and hydrated salts, and explain the role of water of crystallisation. 
 	- what is anhydrous salt?
 		- a compound in which all water is removed.
 	- what is a hydrated salt?
 		- a salt molecule that is attached to a certain number of water molecules.
-1. Calculate the formula of an ionic compound from empirical data, including the formula of a hydrated salt. 
+50. Calculate the formula of an ionic compound from empirical data, including the formula of a hydrated salt. 
 	- how do you use the handy table?
 		- |     | $CaCl$    | $H_2O$    |
 		| --- | ------- | ------- |
@@ -153,6 +176,7 @@ title: "CAP2"
 		|  moles   | 0.03003 | 0.17984 |
 		| ratio    | 1       | 5.986   |
 2. Perform stoichiometric calculations in order to establish percentage composition and empirical formula of ionic compounds.
+	- real
 ### Metallic Bonding 
 52. Describe how metallic bonding holds metal atoms together, in a lattice of positively charged ions surrounded by delocalised electrons. 
 	- whats in a metallic lattice?
@@ -182,6 +206,7 @@ title: "CAP2"
 	- how to draw lewis structure diagram 
 	- ![300](notes/images/Pasted%20image%2020230427092439.png)
 2. Use the valence shell electron pair repulsion (VSEPR) theory along with Lewis structures to explain, predict and draw the shapes of molecules and polyatomic ions. 
+	- ![300](notes/images/Pasted%20image%2020230427184104.png)
 3. Explain the physical properties of covalent molecular substances, including: 
 	- a. low melting and boiling points 
 		- why does covalent molecular substances have low melting and boiling points?
@@ -201,16 +226,37 @@ title: "CAP2"
 	- What has a higher boiling point: covalent network substances or covalent molecular substances in the same period.
 		- Covalent network substances because it is purely covalent bonds.
 5. Describe the range of allotropes of elemental carbon (diamond, graphite and fullerenes), and explain why they have significantly different physical and chemical properties. 
-6. Explain the physical properties of covalent network substances, including: a. high melting and boiling points b. hardness and brittleness c. thermal conductivity d. electrical conductivity 
+	- diamond:
+		- 4 covalent bonds
+	- graphite:
+		- 3 covalent bonds, stacked on each other and attracted together with dispersion forces
+	- fullernes:
+		- buckyball, 60 carbons in the shape of a ball.
+1. Explain the physical properties of covalent network substances, including: 
+	- a. high melting and boiling points 
+	- b. hardness and brittleness 
+		- strong covalent bonds occur so it is very hard.
+		- however, it is brittle, because distortion causes the structure to be damaged, and the protons will repel other protons, 
+	- c. thermal conductivity 
+		- does not conduct heat, because electrons are in fixed positions
+	- d. electrical conductivity 
+		- does not conduct electric, because electrons are in fixed positions
 ### Nanomaterials 
 61. Describe what nanomaterials are. 
        - nanomaterials are materials which have at least one dimension in the **1-100 nanometre** range. (1 nanometre = $1\times 10^{-9}$ metres).
        - nanomaterials differ from the bulk of the material it is made from.
 63. State and describe how the properties of nanomaterials may differ from the properties of the bulk material, and give examples. 
-2. Identify uses of nanomaterials and suggest advantages and disadvantages to their use. 6
-3. Describe the potential health risks associated with the use of nanoparticles. (SHE) 
-4. Describe and explain examples of environmental concerns associated with the use of nanomaterials. (SHE)
-5. Provide a balanced discussion of the advantages and disadvantages of nanomaterials. (SHE) 
+	- why it differs?
+		- many are due to quantum effects that result from their small particle size
+		- eg zinc oxide and titanium are white opaque solids with good UV protection. in macro particle form, it leaves a layer on the skin.
+			- so nano particles become invisible on the skin whilst protecting against UV exposure.
+1. Identify uses of nanomaterials and suggest advantages and disadvantages to their use. 
+	- 
+2. Describe the potential health risks associated with the use of nanoparticles. (SHE) 
+	- hazardous when inhaled for workers exposed to some airborne nanoparticles.
+3. Describe and explain examples of environmental concerns associated with the use of nanomaterials. (SHE)
+	- not much is known about environment
+4. Provide a balanced discussion of the advantages and disadvantages of nanomaterials. (SHE) 
 ### Intermolecular Forces 
 67. Describe the difference between intramolecular bonding and intermolecular forces. 
 	- Two bondings exist in a molecular substance.
@@ -264,22 +310,27 @@ title: "CAP2"
 		- these dipoles create temporary and weak electrostatic attraction called dispersion.
 		- rapid state of change - constantly form, disappear and reform.
 1. Describe how dispersion forces arise in all substances, and explain how molecular shape, and number of atoms affect the strength of dispersion forces. 
-2. Use knowledge of electronegativity to establish bond polarity. 
+	- dispersion force arises in all substances because of random electron movements called **temporary dipoles**
+	- the temporary dipoles create **induced dipoles**, and they form temporary intermolecular forces called dispersion force.
+	- more electron and more surface contact has stronger dispersion forces.
+		- linear > branched or spherical shapes.
+1. Use knowledge of electronegativity to establish bond polarity. 
 	- what is bond polarity?
 		- difference in electronegativity
-1. Use understanding of molecular shape, bond polarity and symmetry to establish and explain the polarity of molecules. 
-2. Describe how dipole-dipole forces arise, and explain how the relative size of a molecular dipole affects the strength of dipole-dipole forces. 
+2. Use understanding of molecular shape, bond polarity and symmetry to establish and explain the polarity of molecules. 
+	- 
+3. Describe how dipole-dipole forces arise, and explain how the relative size of a molecular dipole affects the strength of dipole-dipole forces. 
 	- f
-3. Describe how hydrogen bonding arises, end explain why this special case of dipole-dipole bonding is so much stronger than other examples of dipole-dipole bonding. 
-4. Draw diagrams to show how all types of intermolecular forces occur between neighbouring molecules. 
-5. Compare the relative strength of the types of intermolecular forces. 
+4. Describe how hydrogen bonding arises, end explain why this special case of dipole-dipole bonding is so much stronger than other examples of dipole-dipole bonding. 
+5. Draw diagrams to show how all types of intermolecular forces occur between neighbouring molecules. 
+6. Compare the relative strength of the types of intermolecular forces. 
 	- order in strength?
 		- strongest is ion-dipole
 		- hydrogen bonding
 		- dipole dipole
 		- dispersion forces
-6. Use understanding of bond polarity, molecular shape and symmetry to establish the nature and strength of intermolecular forces present in a covalent molecular substance. 
-7. Explain how the physical properties of covalent molecular substances depend on the strength of intermolecular forces, including: 
+7. Use understanding of bond polarity, molecular shape and symmetry to establish the nature and strength of intermolecular forces present in a covalent molecular substance. 
+8. Explain how the physical properties of covalent molecular substances depend on the strength of intermolecular forces, including: 
 	- a. melting and boiling point 
 		- trend?
 			- increases with intermolecular force strength
@@ -310,7 +361,7 @@ title: "CAP2"
 		- this means that non-polar molecules, ie those with dispersion forces can be dissolved in other non-polar substances that also attract strongly by dispersion force.
 			- however these substances won't be soluble in polar substances whose molecules attract strongly by dipole-dipole forces.
 		- also the case for hydrogen bonding, where compounds that attract strongly by hydrogen bonding are extremely soluble in other compounds that also attract strongly by hydrogen bonding.
-1. Use understanding of intermolecular forces to explain patterns or relationships in melting and boiling points of covalent molecular substances.
+9. Use understanding of intermolecular forces to explain patterns or relationships in melting and boiling points of covalent molecular substances.
 	- what is it's melting and boiling point (relatively speaking?)?
 		- it is low to moderate
 	- why is that the case?
