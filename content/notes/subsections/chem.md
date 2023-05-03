@@ -25,6 +25,8 @@ title: "chemistry masterlist"
 - [T1W9L1: intermolecular forces](notes/AE/chemistry/lessonnotes/T1W9L1.md)
 - [T1W9L2: permanent dipole dipole](notes/AE/chemistry/lessonnotes/T1W9L2.md)
 - [T1W10L1: hydrogen bonding](notes/AE/chemistry/lessonnotes/T1W10L1.md)
+- [T2W2L1: properties of matter](notes/AE/chemistry/lessonnotes/T2W1L4.md)
+- [T2W2L2: halides & precipitates & solubility](notes/AE/chemistry/lessonnotes/T2W2L2.md)
 
 ### CAP Notes
 - [CAP2](notes/AE/chemistry/testnotes/CAP2.md)
