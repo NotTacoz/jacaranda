@@ -1,11 +1,26 @@
 {{if $.Site.Data.config.enableFooter}}
   {{if $.Site.Data.graphConfig.enableGlobalGraph}}
       <div class="page-end" id="footer">
-
         <div>
             {{partial "graph.html" .}}
         </div>
-
+        <div>
+          <script src="https://giscus.app/client.js"
+          data-repo="NotTacoz/jacaranda"
+          data-repo-id="R_kgDOJDXtcQ"
+          data-category="General"
+          data-category-id="DIC_kwDOJDXtcc4CUjBi"
+          data-mapping="pathname"
+          data-strict="0"
+          data-reactions-enabled="1"
+          data-emit-metadata="0"
+          data-input-position="bottom"
+          data-theme="dark"
+          data-lang="en"
+          crossorigin="anonymous"
+          async>
+          </script>
+      </div>
       </div>
   {{else}}
       <hr/>
@@ -16,6 +31,23 @@
         <div>
             {{partial "graph.html" .}}
         </div>
+        <div>
+          <script src="https://giscus.app/client.js"
+          data-repo="NotTacoz/jacaranda"
+          data-repo-id="R_kgDOJDXtcQ"
+          data-category="General"
+          data-category-id="DIC_kwDOJDXtcc4CUjBi"
+          data-mapping="pathname"
+          data-strict="0"
+          data-reactions-enabled="1"
+          data-emit-metadata="0"
+          data-input-position="bottom"
+          data-theme="dark"
+          data-lang="en"
+          crossorigin="anonymous"
+          async>
+          </script>
+      </div>
       </div>
   {{end}}
 {{end}}
