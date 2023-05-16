@@ -39,3 +39,10 @@ advantages of TLC
 2. one way of making colourless substance show up is use UV light. This usually works well for organic compounds.
 3. an alternative method is to use a chemical locating agent - a chemical that reacts with the substance to form a coloured compound.
 4. for example, when **ninhydrin** is exposed to organic compound, it stains it purple-brown.
+
+## column chromatography
+- ????????????????????????????????????????????????
+
+## gas chromatography
+- gas chromatography has a stationery phase, depends on how strongly it is attracted/absorbed to the surface.
+- gas shouldn't react with any substances in the mixture. non flammable either
