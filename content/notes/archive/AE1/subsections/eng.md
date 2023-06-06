@@ -18,3 +18,7 @@ title: "english masterlist"
 ## class work
 - [T1W7L2: research into some stuff !](notes/archive/AE1/english/lessonnotes/T1W7L2.md)
 - [T1W8L1: the adventure of the speckeld band](notes/archive/AE1/english/lessonnotes/T1W8L1.md)
+- [T1W9L4](notes/archive/AE1/english/lessonnotes/T1W9L4.md)
+- [T2W3L2](notes/archive/AE1/english/lessonnotes/T2W3L2.md)
+- [T2W1L4](notes/archive/AE1/english/lessonnotes/T2W1L4.md)
+- [T2W3L1](notes/archive/AE1/english/lessonnotes/T2W3L1.md)

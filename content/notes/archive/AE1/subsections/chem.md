@@ -8,6 +8,8 @@ title: "chemistry masterlist"
 - [emission spectra](notes/archive/AE1/chemistry/lessonnotes/EMISSION-SPECTRA.md)
 - [flame test](notes/archive/AE1/chemistry/lessonnotes/FLAME-TEST.md)
 - [inquiry skills](notes/archive/AE1/chemistry/lessonnotes/INQ-SKILLS.md)
+- [chromatography](notes/archive/AE1/chemistry/notes/chromatography.md)
+- [solubility](notes/archive/AE1/chemistry/notes/solubility.md)
 
 ### Lesson notes
 - [T1W4L2](notes/archive/AE1/chemistry/lessonnotes/T1W4L2.md)
@@ -27,6 +29,9 @@ title: "chemistry masterlist"
 - [T1W10L1: hydrogen bonding](notes/archive/AE1/chemistry/lessonnotes/T1W10L1.md)
 - [T2W2L1: properties of matter](notes/archive/AE1/chemistry/lessonnotes/T2W1L4.md)
 - [T2W2L2: halides & precipitates & solubility](notes/archive/AE1/chemistry/lessonnotes/T2W2L2.md)
+- [mixtures](notes/archive/AE1/chemistry/notes/mixtures.md)
+- [T2W3L2](notes/archive/AE1/chemistry/lessonnotes/T2W3L2.md)
+- [T2W3L1](notes/archive/AE1/chemistry/lessonnotes/T2W3L1.md)
 
 ### CAP Notes
 - [CAP2](notes/archive/AE1/chemistry/testnotes/CAP2.md)

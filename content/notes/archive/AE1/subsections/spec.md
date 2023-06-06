@@ -22,6 +22,12 @@ title: "spec masterlist"
 - [T1W9L1: scalar projection & vector projection](notes/archive/AE1/specialist/lessonnotes/T1W9L1.md)
 #### Term 2
 - [T2W2L3: Circle Theorems](notes/archive/AE1/specialist/lessonnotes/T2W2L3.md)
+- [T2W1L1](notes/archive/AE1/specialist/lessonnotes/T2W2L1.md)
+- [T2W3L2](notes/archive/AE1/specialist/lessonnotes/T2W3L2.md)
+- [T2W1L3](notes/archive/AE1/specialist/lessonnotes/T2W1L3.md)
+- [T2W3L1](notes/archive/AE1/specialist/lessonnotes/T2W3L1.md)
+- [T2W1L1](notes/archive/AE1/specialist/lessonnotes/T2W1L1.md)
+- [T1W10L1](notes/archive/AE1/specialist/lessonnotes/T1W10L1.md)
 
 
 #### Test Feedback

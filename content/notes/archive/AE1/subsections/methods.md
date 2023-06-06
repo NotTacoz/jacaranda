@@ -21,3 +21,8 @@ title: "methods masterlist"
 - [T1W8L1: intro to polynomials](notes/archive/AE1/methods/lessonnotes/T1W8L1.md)
 - [T1W8L2: ??](notes/archive/AE1/methods/lessonnotes/T1W8L2.md)
 - [T1W8L3: cubic function (?) idk](notes/archive/AE1/methods/lessonnotes/T1W8L3.md)
+- [T2W2L2](notes/archive/AE1/methods/lessonnotes/T2W2L2.md)
+- [T2W1L3](notes/archive/AE1/methods/lessonnotes/T2W1L3.md)
+- [T2W1L2](notes/archive/AE1/methods/lessonnotes/T2W1L2.md)
+- [T2W3L1](notes/archive/AE1/methods/lessonnotes/T2W3L1.md)
+- [T1W9L4](notes/archive/AE1/methods/lessonnotes/T1W9L4.md)

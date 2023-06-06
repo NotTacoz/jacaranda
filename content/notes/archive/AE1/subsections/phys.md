@@ -8,3 +8,5 @@ title: "physics masterlist"
 ### test notes
 - [CAP1](notes/archive/AE1/physics/testnotes/CAP1.md)
 - [investigation 1](notes/archive/AE1/physics/INVESTIGATION1.md)
+- [Waves](notes/archive/AE1/physics/testnotes/Waves.md)
+- [Sound Properties](notes/archive/AE1/physics/testnotes/Sound%20Properties.md)
