@@ -1,7 +1,7 @@
 ---
 title: "10 organic chemistry"
 ---
-[go back](notes/subsections/chem.md)
+[go back](notes/archive/AE1/subsections/chem.md)
 # 10.2 Organic Chemistryඞඞ
 
 Class: 10 SCIENCE

@@ -1,7 +1,7 @@
 ---
 title: "pigeonhole principle"
 ---
-[go back](notes/subsections/spec.md)
+[go back](notes/archive/AE1/subsections/spec.md)
 
 *based on the cambridge seniors maths chapter 1H*
 

@@ -3,7 +3,7 @@ layout: default
 title: "Chemistry Definitions Megalist"
 ---
 
-[go back](notes/subsections/chem.md)
+[go back](notes/archive/AE1/subsections/chem.md)
 
 - element: chemical substance unable to be broken down into other substances. All its atoms have the same number of protons.
 - compound: a substance made from two or more different elements chemically combined together.

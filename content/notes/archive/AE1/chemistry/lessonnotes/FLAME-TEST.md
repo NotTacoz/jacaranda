@@ -16,7 +16,7 @@ title: "flame test"
 - Ionic salts: simple ionic solids and metals can be used.
 - Because when heated, the metal ions and anions separate, producing emission within visible spectrum.
 ## weaknesses of flame test
--  the test cannot detect low concentrations of most [ions](notes/AE/chemistry/lessonnotes/DEFINITIONS.md).
+-  the test cannot detect low concentrations of most [ions](notes/archive/AE1/chemistry/lessonnotes/DEFINITIONS.md).
 - salt metal may not be excited by relatively low temperature of the ethanoal flame (magnesium)
 - salt may not be completely excited (diff colour being observed)
 - does not work with most non metals
@@ -26,5 +26,5 @@ title: "flame test"
 - The test cannot differentiate between all elements. Several metals produce the same flame colour. Some compounds do not change the colour of the flame at all.
 
 related: 
-- [atomic structures](notes/AE/chemistry/lessonnotes/ATOMIC-STRUCTURES.md)
-- [emission spectra](notes/AE/chemistry/lessonnotes/EMISSION-SPECTRA.md)
+- [atomic structures](notes/archive/AE1/chemistry/lessonnotes/ATOMIC-STRUCTURES.md)
+- [emission spectra](notes/archive/AE1/chemistry/lessonnotes/EMISSION-SPECTRA.md)

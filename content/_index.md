@@ -5,13 +5,13 @@ enableToc: false
 ![](notes/images/Pasted%20image%2020230228195052.png)
 # hello!
 these are whats important:
-- [notes](notes/notes.md)
-	- [method notes](notes/subsections/methods.md)
-	- [spec notes](notes/subsections/spec.md)
-	- [chem notes](notes/subsections/chem.md)
-	- [physics notes](notes/subsections/phys.md)
-	- [japanese notes](notes/subsections/jap.md)
-	- [english notes](notes/subsections/eng.md)
+- [notes](notes/archive/notes.md)
+	- [method notes](notes/archive/AE1/subsections/methods.md)
+	- [spec notes](notes/archive/AE1/subsections/spec.md)
+	- [chem notes](notes/archive/AE1/subsections/chem.md)
+	- [physics notes](notes/archive/AE1/subsections/phys.md)
+	- [japanese notes](notes/archive/AE1/subsections/jap.md)
+	- [english notes](notes/archive/AE1/subsections/eng.md)
 - [the daily taco](daily/DAILY.md)
 
 enjoy your stay!

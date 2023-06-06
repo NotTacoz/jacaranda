@@ -82,7 +82,7 @@ useful review chapters (pearson):
 - subtracting vectors you just get the opposite vector
 	- e.g. -30metres west is just 30metres east.
 ### applications of suvat, and the equations
-please refer to my useful notes on [displacement, speed and velocity](notes/AE/physics/pearson/7.1.md) and [acceleration](notes/AE/physics/pearson/7.2.md) 
+please refer to my useful notes on [displacement, speed and velocity](notes/archive/AE1/physics/pearson/7.1.md) and [acceleration](notes/archive/AE1/physics/pearson/7.2.md) 
 - equations you should know applications for:
 $$V_{avg}=\frac{s}{t},a=\frac{v-u}{t},v=u+at,s+ut+\frac{1}{2}at^2,v^2=u^2+2as$$
 (in the formula sheet)

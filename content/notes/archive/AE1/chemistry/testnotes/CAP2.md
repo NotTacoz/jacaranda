@@ -284,7 +284,7 @@ title: "CAP2"
 					- temporary dipole and induced dipole experience weak electrostatic known as **dispersion forces**. 
 					- these forces constantly change due to temporary and induced dipoles being constantly formed, rapidly disappearing and then reforming elsewhere.
 			- **dipole-dipole**
-				- polar (see notes on [polarity](notes/AE/chemistry/notes/polarity.md)) molecules attract one another due to weak electrostatic attraction between their dipoles.
+				- polar (see notes on [polarity](notes/archive/AE1/chemistry/notes/polarity.md)) molecules attract one another due to weak electrostatic attraction between their dipoles.
 				- dipole dipole forces **increase melting points and boiling points**.
 					- because of this, substances with polar molecules have slightly higher melting and boiling points than other substances of similar molecular size.
 				- generally substances with dipole-dipole forces, ie polar ones, will be soluble in one another but not soluble in non-polar substances, ie ones that can't interact by dipole-dipole forces.
@@ -370,17 +370,17 @@ title: "CAP2"
 		- strong covalent bonds are unaffected.
 
 RELATED
-- [T1W4L2](notes/AE/chemistry/lessonnotes/T1W4L2.md)
-- [T1W5L3](notes/AE/chemistry/lessonnotes/T1W5L3.md)
-- [T1W6L2](notes/AE/chemistry/lessonnotes/T1W6L2)
-- [T1W6L3](notes/AE/chemistry/lessonnotes/T1W6L3)
-- [T1W6L4](notes/AE/chemistry/lessonnotes/T1W6L4.md)
-- [T1W7L1: Metallic Bonding](notes/AE/chemistry/lessonnotes/T1W7L1.md)
-- [T1W7L2: Ionic Bonding](notes/AE/chemistry/lessonnotes/T1W7L2.md)
-- [T1W7L3: worksheet](notes/AE/chemistry/lessonnotes/T1W7L3.md)
-- [T1W7L4: not much happened](notes/AE/chemistry/lessonnotes/T1W7L4.md)
-- [T1W8L1: salts and covalent bonding](notes/AE/chemistry/lessonnotes/T1W8L1.md)
-- [T1W8L3: nanotechnology (we did worksheet in class)](notes/AE/chemistry/lessonnotes/T1W8L3.md)
-- [T1W9L1: intermolecular forces](notes/AE/chemistry/lessonnotes/T1W9L1.md)
-- [T1W9L2: permanent dipole dipole](notes/AE/chemistry/lessonnotes/T1W9L2.md)
-- [T1W10L1: hydrogen bonding](notes/AE/chemistry/lessonnotes/T1W10L1.md)
+- [T1W4L2](notes/archive/AE1/chemistry/lessonnotes/T1W4L2.md)
+- [T1W5L3](notes/archive/AE1/chemistry/lessonnotes/T1W5L3.md)
+- [T1W6L2](notes/archive/AE1/chemistry/lessonnotes/T1W6L2.md)
+- [T1W6L3](notes/archive/AE1/chemistry/lessonnotes/T1W6L3.md)
+- [T1W6L4](notes/archive/AE1/chemistry/lessonnotes/T1W6L4.md)
+- [T1W7L1: Metallic Bonding](notes/archive/AE1/chemistry/lessonnotes/T1W7L1.md)
+- [T1W7L2: Ionic Bonding](notes/archive/AE1/chemistry/lessonnotes/T1W7L2.md)
+- [T1W7L3: worksheet](notes/archive/AE1/chemistry/lessonnotes/T1W7L3.md)
+- [T1W7L4: not much happened](notes/archive/AE1/chemistry/lessonnotes/T1W7L4.md)
+- [T1W8L1: salts and covalent bonding](notes/archive/AE1/chemistry/lessonnotes/T1W8L1.md)
+- [T1W8L3: nanotechnology (we did worksheet in class)](notes/archive/AE1/chemistry/lessonnotes/T1W8L3.md)
+- [T1W9L1: intermolecular forces](notes/archive/AE1/chemistry/lessonnotes/T1W9L1.md)
+- [T1W9L2: permanent dipole dipole](notes/archive/AE1/chemistry/lessonnotes/T1W9L2.md)
+- [T1W10L1: hydrogen bonding](notes/archive/AE1/chemistry/lessonnotes/T1W10L1.md)
