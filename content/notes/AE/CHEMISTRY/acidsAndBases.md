@@ -33,3 +33,20 @@ Arrhenius (Swedish Chemist) described a theory of acid-base behaviour centred on
 - HCl has more electrolytes so it is more conductive than CH3COOH
 
 ## Reactions of Acids
+- metal (s) + acid (aq) -> salt (check w/ solubility table) + hydrogen gas (g)
+- metal oxide (s) + acid (aq) -> salt (check w/ solubility table) + water (l)
+- metal hydroxide (check) + acid (aq) -> salt (check) + water (l)
+- metal carbonate (check) + acid (aq) -> salt (check) + water (l) + carbon dioxie (g)
+- metal hydrogen carbonate (check/trust observation/read q) + acid (aq) -> salt (check) + water (l) + carbon dioxide (g)
+	- Ca(HCO3)2 (aq) +2HCl (aq) -> CaCl2 (aq) + 2H2O (l) + 2CO2 (g)
+
+## Ionic Reactions
+- in most areas of chemistry, we write ionic reactions, not molecular reactions (even if it is not asked)
+- for acids and bases, write and determine what type of acid and bases you are dealing with.
+	- eg $NaOH (aq)+HCl(aq)\to NaCl(aq)+H_{2}O(l)$
+	- strong + strong
+	- $Na^+(aq)+OH^-(aq)+H^+(aq)+Cl^-(aq)\to Na^+(aq)+Cl^-(aq)+H_{2}O (l)$
+	- remove spectator ions:
+	- $OH^-(aq)+H^+(aq)\to H_{2}O(l)$
+	- if it is a weak acid, then in solution it is present as the same thing.
+		- eg CH3COOH -> CH3COOH because it is a weak acid (from molecular to ionic)
