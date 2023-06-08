@@ -13,7 +13,5 @@ these are whats important:
 	- [japanese notes](notes/archive/AEold/subsections/jap.md)
 	- [english notes](notes/archive/AEold/subsections/eng.md)
 - [the daily taco](notes/archive/daily/DAILY.md)
-
+ 
 enjoy your stay!
-
-<iframe width="100%" height="100%"  frameBorder="0" src="https://spotify-widget.vercel.app/current/h1xocs8ql01qdz8ig2ftgu5s9" ></iframe>

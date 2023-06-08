@@ -26,3 +26,10 @@ Arrhenius (Swedish Chemist) described a theory of acid-base behaviour centred on
 - to able to explain or predict the acid-base behaviour of many other compounds:
 	- for example, why salts like sodium carbonate and potassium phosphate (which do not contain OH) are basic in nature and not neutral.
 	- the Brønsted–Lowry model is more comprehensive and gives a broader and more satisfactory account of acid-base behaviour
+
+## Comparing 0.1 mol/L HCl and 1.0 mol/L CH3COOH
+- CH3COOH has a larger concentration
+- HCl is a stronger acid because it **disassociates fully**
+- HCl has more electrolytes so it is more conductive than CH3COOH
+
+## Reactions of Acids
