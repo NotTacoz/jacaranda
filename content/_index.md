@@ -15,3 +15,5 @@ these are whats important:
 - [the daily taco](notes/archive/daily/DAILY.md)
 
 enjoy your stay!
+
+<iframe src="https://spotify-widget.vercel.app/current/h1xocs8ql01qdz8ig2ftgu5s9"></iframe>
