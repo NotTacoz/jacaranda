@@ -1,13 +1,11 @@
 ---
-title: "the daily taco"
+title: "daily"
 ---
+> [!note] 
+> notes which I feel personally is semi-significant will be marked by a * 
+> notes that I use as a todo list only with no writings will be marked by a !
 
-i share my daily thoughts and ideas and rant on random topics im interested at the moment
-
-- [2023-03-04: intro](2023-03-04.md)
-- [2023-03-05: the ordinarily ordinary loop of studying](2023-03-05.md)
-- [2023-03-07: the woes of motivation](daily/2023-03-07.md)
-- [2023-03-09: some japanese reading practice](daily/2023-03-09.md)
-- [2023-04-08: holiday roadmap](daily/2023-04-08.md)
-- [2023-04-25: something random](daily/2023-04-25.md)
-- [2023-05-03: website update](2023-05-03.md)
+## 2023
+### JUNE
+- [!2023-06-07](daily/2023-06-07.md)
+- [!2023-06-08](daily/2023-06-08.md)

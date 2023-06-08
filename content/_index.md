@@ -6,12 +6,12 @@ enableToc: false
 # hello!
 these are whats important:
 - [notes](notes/archive/notes.md)
-	- [method notes](notes/archive/AE1/subsections/methods.md)
-	- [spec notes](notes/archive/AE1/subsections/spec.md)
-	- [chem notes](notes/archive/AE1/subsections/chem.md)
-	- [physics notes](notes/archive/AE1/subsections/phys.md)
-	- [japanese notes](notes/archive/AE1/subsections/jap.md)
-	- [english notes](notes/archive/AE1/subsections/eng.md)
-- [the daily taco](daily/DAILY.md)
+	- [method notes](notes/archive/AEold/subsections/methods.md)
+	- [spec notes](notes/archive/AEold/subsections/spec.md)
+	- [chem notes](notes/archive/AEold/subsections/chem.md)
+	- [physics notes](notes/archive/AEold/subsections/phys.md)
+	- [japanese notes](notes/archive/AEold/subsections/jap.md)
+	- [english notes](notes/archive/AEold/subsections/eng.md)
+- [the daily taco](notes/archive/daily/DAILY.md)
 
 enjoy your stay!
