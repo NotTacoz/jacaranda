@@ -16,4 +16,4 @@ these are whats important:
 
 enjoy your stay!
 
-<iframe src="https://spotify-widget.vercel.app/current/h1xocs8ql01qdz8ig2ftgu5s9"></iframe>
+<iframe width="100%" height="100%" src="https://spotify-widget.vercel.app/current/h1xocs8ql01qdz8ig2ftgu5s9" ></iframe>
