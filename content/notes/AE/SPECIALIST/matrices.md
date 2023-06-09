@@ -1,6 +1,24 @@
 ---
-title: "matrices"
+title: "Matrices"
 ---
+
+## Matrices Prequel: Linear Transformation
+Transformation } Function
+- Vector Input -> Vector output
+- its raining so hard
+- i love 3 blue 1 brown <3 go watch the video
+Linear } 
+$$\begin{bmatrix}  
+a & b \\  c & d   
+\end{bmatrix} \begin{bmatrix}
+e \\ f
+\end{bmatrix}=e\begin{bmatrix}
+a \\ c
+\end{bmatrix}+f\begin{bmatrix}
+b \\ d
+\end{bmatrix}=\begin{bmatrix}
+ea + fb \\ ec + fd
+\end{bmatrix}$$
 
 ## background
 - used to represent linear transformations (like in computer animations)
@@ -101,6 +119,7 @@ $$A=\begin{bmatrix}
 \end{bmatrix}$$
 			- in this case AB = CB, B!=0, but A != C
 - same case for identity matrices as well. you **CANNOT** assume an unknown matrix is the identity matrix.
+
 ## matrix division
 - there is no concept of matrix division but theres something similar (?)
 - consider multiplying 4 by 3

@@ -2,6 +2,7 @@
 title: "Acids and Bases"
 ---
 
+## idk what this is (its not really notes)
 MgSO4 - salt
 KMnO4 - salt
 CH3COOH - acid
@@ -41,10 +42,10 @@ Arrhenius (Swedish Chemist) described a theory of acid-base behaviour centred on
 	- Ca(HCO3)2 (aq) +2HCl (aq) -> CaCl2 (aq) + 2H2O (l) + 2CO2 (g)
 
 ## Ionic Reactions
-- in most areas of chemistry, we write ionic reactions, not molecular reactions (even if it is not asked)
+- in most areas of chemistry, we write **ionic reactions**, not molecular reactions (even if it is not asked, we assume it wants balanced ionic reactions with state symbols)
 - for acids and bases, write and determine what type of acid and bases you are dealing with.
 	- eg $NaOH (aq)+HCl(aq)\to NaCl(aq)+H_{2}O(l)$
-	- strong + strong
+	- **strong** base + **strong** acid (this step is **important**, explained why later)
 	- $Na^+(aq)+OH^-(aq)+H^+(aq)+Cl^-(aq)\to Na^+(aq)+Cl^-(aq)+H_{2}O (l)$
 	- remove spectator ions:
 	- $OH^-(aq)+H^+(aq)\to H_{2}O(l)$
