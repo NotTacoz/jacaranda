@@ -1,3 +1,4 @@
 ---
 title: "methods"
+enableToc: false
 ---

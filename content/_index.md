@@ -4,6 +4,7 @@ enableToc: false
 ---
 # welcome
 these are whats important:
-- [archived notes (year 11 sem1)](notes/archive/notes.md)
 - [notes](notes/AE/notes.md)
-- [daily notes](daily/daily.md)
+- [daily notes](notes/daily/daily.md)
+no longer maintained:
+- [archived notes (year 11 sem 1)](notes/archive/notes.md)
