@@ -157,3 +157,17 @@ d&-b\\-c&a
 - it is possible that $\frac{1}{ad-bc}=0$
 - a matrix with an inverse is **invertible**.
 - a matrix with no inverse is **singular** (or just **non-invertible** lol)
+
+## Recap
+- multiplicative identity matrix
+	- always a square, and when it is multiplied to a given matrix, the matrix remains unchanged.
+- the inverse of a given matrix has the property of multiplying the given matrix to gain the identity matrix.
+- to find the inverse of a 2x2 matrix
+- for $$A=\begin{pmatrix}
+a&b\\c&d
+\end{pmatrix},A^{-1}=\frac{1}{ad-bc}\begin{pmatrix}
+d&-b\\-c&a
+\end{pmatrix}$$ 
+- there may be a case where an inverse does not exist, which is where $\frac{1}{ad-bc}=0$
+
+## solving a system of a linear equation.
