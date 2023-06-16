@@ -21,3 +21,7 @@ title: "differentiation"
 	- temp @ 6pm: 600/30 = 20degC
 	- temp @ midnight: 600/(36+12+30) = 7.7 deg C
 	- rate of change: (20-7.7) / (6-12) = -2.05 deg C / hour
+
+## instantaneous rate of change
+- instantaneous rate of change occurs as there is smaller and smaller intervals to create a gradient.
+- expressed as $rate_{inst}=\frac{\delta p}{\delta q}$ (i dont know if this is right)

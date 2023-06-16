@@ -1,5 +1,5 @@
 ---
-title: "idk"
+title: "Nuclear Physics"
 ---
 
 ## 4 Types of Nuclear Radiation

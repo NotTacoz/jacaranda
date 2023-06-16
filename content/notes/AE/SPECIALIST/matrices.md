@@ -170,4 +170,60 @@ d&-b\\-c&a
 \end{pmatrix}$$ 
 - there may be a case where an inverse does not exist, which is where $\frac{1}{ad-bc}=0$
 
-## solving a system of a linear equation.
+## solving a system of a linear equation (using matrices)
+- x-y = 7
+- 2x + 3y = 4
+- you can extrapolate both systems into a linear equation (using coefficients)
+$$\begin{bmatrix}
+1&-1\\2&3
+\end{bmatrix}\begin{bmatrix}
+x\\y
+\end{bmatrix}=\begin{bmatrix}
+7\\4
+\end{bmatrix}$$
+ie coefficient matrix A x variable matrix = constant matrix
+the aim is to convert to the form: $$\begin{bmatrix}
+x\\y
+\end{bmatrix}=\begin{bmatrix}
+a\\b
+\end{bmatrix}$$
+where $a$ and $b$ are the solutions
+
+### method
+pre-multiply both sides by $A^{-1}$
+$$A^{-1}\begin{bmatrix}
+1&-1\\2&3
+\end{bmatrix}\begin{bmatrix}
+x\\y
+\end{bmatrix}=A^{-1}\begin{bmatrix}
+7\\4
+\end{bmatrix}$$
+$$I\begin{bmatrix}
+x\\y
+\end{bmatrix}=\begin{bmatrix}
+x\\y
+\end{bmatrix}=A^{-1}\begin{bmatrix}
+7\\4
+\end{bmatrix}$$
+$$A^{-1}=\frac{1}{5}\begin{bmatrix}
+3&1\\-2&1
+\end{bmatrix}$$
+$$\begin{bmatrix}
+x\\y
+\end{bmatrix}=A^{-1}\begin{bmatrix}
+7\\4
+\end{bmatrix}=\frac{1}{5}\begin{bmatrix}
+3&1\\-2&1
+\end{bmatrix}\begin{bmatrix}
+7\\4
+\end{bmatrix}$$
+$$=\frac{1}{5}\begin{bmatrix}
+25\\-10
+\end{bmatrix}=\begin{bmatrix}
+5\\-2
+\end{bmatrix}$$
+## matrix arithmetic
+- recall that simulations solutions in 2 variables can have (lines intercept in one point)
+- no solutions, or (lines parallel
+- infinitely many solutions (lines coincident))
+- if a coefficient matrix is non-invertible, it could either have no solutions, or infinitely many solutions.
