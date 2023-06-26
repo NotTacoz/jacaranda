@@ -1,9 +1,11 @@
 ---
 title: "Medical Physics and Dosimetrey"
----
-
-- The use of radioisotopes in diagnostic imaging including gamma cameras and PET scans.
+--- 
 ## The use of radioisotopes in therapeutic treatments.
+- The use of radioisotopes is common for diagnostic information about a person's organs and treatment.
+- Radiation is commonly used to weaken or destroy particular targeted cells and treat some medical conditions, [especially cancer.](https://www.world-nuclear.org/information-library/non-power-nuclear-applications/radioisotopes-research/radioisotopes-in-medicine.aspx)
+### **Single photon emission computerised tomography**
+
 
 ## The main ways in which radioisotopes are produced for use in medicine.
 

@@ -18,3 +18,17 @@ Tim Burton is an American Filmmaker and animator. He is most known for his gothi
 
 ## What style is he most known for?
 Tim Burton is known for his playful gothic style of direction. Most of the films uses eccentric makeup and costume design to create a blend of an eerie atmosphere and a whimsical fantasy.
+
+## German Expressionism
+- dark lighting
+- shadows
+- dramatically angled props
+- distorted shapes
+- anthropomorphism
+- opening sequence creating atmosphere & world building
+	- opening featuring plot points
+- music to create mood and tone
+- practical effects
+- isolated characters
+- celebration of the macabre
+- dark humour

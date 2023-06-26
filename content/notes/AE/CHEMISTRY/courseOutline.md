@@ -1,7 +1,7 @@
 ---
 title: "Course Outline"
 ---
-
+****
 ## **Topic 1: ATOMIC STRUCTURE**
 ### Essential Chemistry Skills
 1.        Represent ions using formulae which include the number of constituent atoms and the charge on the ion.

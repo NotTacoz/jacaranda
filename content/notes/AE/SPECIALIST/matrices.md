@@ -51,14 +51,14 @@ $$A=\begin{bmatrix}
 ## zero matrix
 - 0 is called the additive identity of the real numbers
 - consider the matrix: $$\begin{pmatrix}
-1&6\\-2&5
+1 & 6 \\ -2 & 5
 \end{pmatrix}$$
 - then: $$\begin{pmatrix}
-1&6\\-2&5
+1 & 6 \\ -2 & 5
 \end{pmatrix}+\begin{pmatrix}
-0&0\\0&0
+ 0 & 0 \\ 0 & 0
 \end{pmatrix}=\begin{pmatrix}
-1&6\\-2&5
+1 & 6 \\ -2 & 5
 \end{pmatrix}$$
 - for a given matrix size mxn, the matrix $0_{m\times n}$
 - the 0 matrix leaves the other matrix unchanged.
@@ -227,3 +227,56 @@ $$=\frac{1}{5}\begin{bmatrix}
 - no solutions, or (lines parallel
 - infinitely many solutions (lines coincident))
 - if a coefficient matrix is non-invertible, it could either have no solutions, or infinitely many solutions.
+
+## Matrices Transformation
+- Shear: **not a part of the actual syllabus** ( i think ? ), but we are learning anyways.
+- Transformation in the 2D plane r ways of systematically changing points P = (x, y) to points P' = (x', y') (e.g. (2, 5) reflected through the y-axis is (-2, 5))
+	- you can describe these transformation by multiplying it by a 2x2 matrix.
+- First P = (x, y) is written as a column matrix $\begin{bmatrix} x\\y\end{bmatrix}$ 
+### basic idea
+- start with (2, 3), to transform with $T=\begin{pmatrix} 1&-2\\3&1 \end{pmatrix}$:
+- $\begin{pmatrix} 1&-2\\3&1 \end{pmatrix}\begin{pmatrix} 2\\3 \end{pmatrix}=\begin{pmatrix} -4\\9 \end{pmatrix}$
+- so **(2, 3)** gets transformed to **(-4, 9)**
+- translation is not a linear transformation, because it does not satisfy the linear transformation's definition of "the origin has to stay where it is", where if you translate the entire plane, the origin will move as well.
+- reflection is only a linear transformation if it is on the line of the origin, otherwise the position of the origin is changed.
+### how to find what kind of transformation a transformation matrix is (top secret pro tip 99.95% of matrix solvers dont know about)
+- say you have the transformation matrix $\begin{bmatrix} 3&0\\0&1 \end{bmatrix}$, take the arbitrary values of x and y and apply the transformation on it. $$\begin{bmatrix} 3&0\\0&1 \end{bmatrix}\begin{bmatrix} x\\y \end{bmatrix}=\begin{bmatrix} 3x\\y \end{bmatrix}$$
+
+## Transformation Matrices: Ultimate Guide
+- Take the identity matrix $$\begin{bmatrix} 1&0\\0&1 \end{bmatrix}$$
+- if you change $a$ in $\begin{bmatrix} a&0\\0&1 \end{bmatrix}$, if $a>0$, horizontal dilation by $a$, if $a<0$, reflection through y-axis combined with a horizontal dilation by a factor of $|a|$
+- if you change $b$ in $\begin{bmatrix} 1&b\\0&1 \end{bmatrix}$, a horizontal shear occurs, where the transformation is dependent on how far away the point is from the x-axis.
+-  if you change $c$ in $\begin{bmatrix} 1&0\\c&1 \end{bmatrix}$, a vertical shear occurs, where the transformation is dependent on how far away the point is from the y-axis.
+-  if you change $d$ in $\begin{bmatrix} 1&0\\0&d \end{bmatrix}$, if $d>0$, vertical dilation by $d$, if $d<0$, reflection through x-axis combined with a horizontal dilation by a factor of $|d|$
+
+## Rotation
+- observe that for a given matrix $A=\begin{bmatrix} a&b\\c&d \end{bmatrix}$, the following is true: 
+$$\begin{bmatrix} a&b\\c&d \end{bmatrix}\begin{bmatrix} 1\\0 \end{bmatrix}=\begin{bmatrix} a\\c \end{bmatrix}$$
+$$\begin{bmatrix} a&b\\c&d \end{bmatrix}\begin{bmatrix} 0\\1 \end{bmatrix}=\begin{bmatrix} b\\d \end{bmatrix}$$
+- if you know where the two points $\begin{bmatrix} 1\\0 \end{bmatrix}$ and $\begin{bmatrix} 0\\1 \end{bmatrix}$ lands, you can identify the rotation.
+in a 90 degree rotation:
+- $\begin{bmatrix} 1\\0 \end{bmatrix}$ lands on $\begin{bmatrix} 0 \\ -1 \end{bmatrix}$
+- $\begin{bmatrix} 0\\1 \end{bmatrix}$ lands on $\begin{bmatrix} 1\\0 \end{bmatrix}$
+- therefore the transformation matrix maps out to be: $\begin{bmatrix} 0 & 1 \\ -1 & 0 \end{bmatrix}$
+
+## HOW TO: Matrices for Arbitrary Reflections and Rotations (WTF!!!!)
+### general rotation
+- rotate a unit by $\frac{\pi}{3}\degree$, the transformation matrix would be $\begin{bmatrix} 0.5 & -0.866 \\ 0.866 & 0.5 \end{bmatrix}$.
+	- interesting. but what is the pattern here?
+	- let's go back to what we learnt prior, and define the transformation matrix as transformations of $\begin{bmatrix} 0 \\ 1 \end{bmatrix}$ and $\begin{bmatrix}  1 \\ 0 \end{bmatrix}$
+- the point $A=(1,0)$ would be transformed to $A'=(\cos \theta,\sin \theta)$
+- the point $C = (0,1)$ would be transformed to $C' = (-\sin \theta,\cos \theta)$
+- looks better with a graph - no wifi rn so just google "a general rotation about the origin graph for matrices" maybe comes up with a result lol xDDD ^\_^
+THEREFORE IT WOULD MAP TO
+$$\begin{bmatrix} \cos \theta & -\sin \theta \\ \sin \theta & \cos \theta \end{bmatrix}$$ where $\theta$ is an anti-clockwise rotation about the origin.
+- THIS IS IN THE FORMULA BOOKLET! - NO NEED TO MEMORISE IT 8)
+
+### general reflection
+- once again, we need to find where the points A (1, 0) and B (0, 1) ends up after a reflection.
+- search up "general reflection in a line that passes through the origin graph proof matrices" for a graph.
+- the angle made with the x axis is twice the angle of the line of reflection (looks more obvious when you look at it), therefore (1, 0) maps to $(\cos 2\theta, \sin 2 \theta)$
+- C (0, 1) maps to $(\sin 2 \theta, - \cos 2 \theta)$ (wow!)
+therefore the matrix for reflection is: $$\begin{bmatrix} \cos 2 \theta & \sin 2 \theta \\ \sin 2 \theta & - \cos 2 \theta \end{bmatrix}$$ where the reflection is in the line $y = x \tan \theta$
+- once again, this is in the formula sheet, no need to memorise it.
+
+## transformation matrices: combining transformation
