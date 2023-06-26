@@ -1,5 +1,5 @@
 ---
-title: "Medical Physics and Dosimetrey"
+title: "Medical Physics and Dosimetry"
 --- 
 ## The use of radioisotopes in therapeutic treatments.
 - The use of radioisotopes is common for diagnostic information about a person's organs and treatment.

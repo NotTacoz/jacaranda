@@ -280,3 +280,10 @@ therefore the matrix for reflection is: $$\begin{bmatrix} \cos 2 \theta & \sin 2
 - once again, this is in the formula sheet, no need to memorise it.
 
 ## transformation matrices: combining transformation
+- consider $A = \begin{bmatrix} 3 & 0 \\ 0 & 1 \end{bmatrix}$ (dilation by 3) and $B = \begin{bmatrix} 0 & -1 \\ 1 & 0 \end{bmatrix}$ (rotation $90\degree$ anti-clockwise around origin)
+- how do you find the single transformation matrices that follows the transformation of A proceeded by B?
+	- matrix multiplication.
+- say you have the arbitrary values $\begin{bmatrix} x \\ y \end{bmatrix}$, and it is transformed by A, then we get $A \begin{bmatrix} x \\ y \end{bmatrix}$
+- then multiplying $A \begin{bmatrix}  x \\ y \end{bmatrix}$ by B changes $A \begin{bmatrix}  x \\ y \end{bmatrix}$ to $B(A \begin{bmatrix}  x \\y \end{bmatrix})$ which equals $BA \begin{bmatrix} x \\ y \end{bmatrix}$
+>[!Warning]
+>NOTE THAT MULTIPLICATION IS IN REVERSE ORDER **A -> B** IS **BA**
