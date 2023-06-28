@@ -8,17 +8,7 @@ Transformation } Function
 - its raining so hard
 - i love 3 blue 1 brown <3 go watch the video
 Linear } 
-$$\begin{bmatrix}  
-a & b \\  c & d   
-\end{bmatrix} \begin{bmatrix}
-e \\ f
-\end{bmatrix}=e\begin{bmatrix}
-a \\ c
-\end{bmatrix}+f\begin{bmatrix}
-b \\ d
-\end{bmatrix}=\begin{bmatrix}
-ea + fb \\ ec + fd
-\end{bmatrix}$$
+$$\begin{bmatrix} a & b \\ c & d \end{bmatrix} \begin{bmatrix} e \\ f \end{bmatrix} = e \begin{bmatrix} a \\ c \end{bmatrix} + f \begin{bmatrix} b \\ d \end{bmatrix} = \begin{bmatrix} ea + fb \\ ec + fd \end{bmatrix}$$
 
 ## background
 - used to represent linear transformations (like in computer animations)
@@ -65,32 +55,13 @@ $$A=\begin{bmatrix}
 ## identity matrix
 - in normal multiplication, $x \times 1$ is always x
 - in matrices, the matrix X multiplied by the identity matrix is always X
-- consider the matrix: $$\begin{pmatrix}
-1&6\\-2&5
-\end{pmatrix}$$
-- then the identity matrix (1 0 \ 0 1) and multiplied $$\begin{pmatrix}
-1&6\\-2&5
-\end{pmatrix}\begin{pmatrix}
-1&0\\0&1
-\end{pmatrix}=\begin{pmatrix}
-1&6\\-2&5
-\end{pmatrix}$$
+- consider the matrix: $$\begin{pmatrix} 1 & 6 \\ -2 & 5 \end{pmatrix}$$
+- then the identity matrix (1 0 \ 0 1) and multiplied $$\begin{pmatrix} 1 & 6 \\ -2 & 5 \end{pmatrix}\begin{pmatrix} 1 & 0 \\ 0 & 1
+\end{pmatrix} = \begin{pmatrix}1 & 6 \\ -2 & 5 \end{pmatrix}$$
 ### consider non-square matrices
-- consider the matrix: $$\begin{pmatrix}
-6&1&-4\\8&0&2
-\end{pmatrix}$$
-- to multiply by a matrix and attain the same matrix: $$? \times \begin{pmatrix}
-6&1&-4\\8&0&2
-\end{pmatrix} = \begin{pmatrix}
-6&1&-4\\8&0&2
-\end{pmatrix}$$
-? would be: $$\begin{pmatrix}
-1 & 0 \\0&1
-\end{pmatrix} \times \begin{pmatrix}
-6&1&-4\\8&0&2
-\end{pmatrix} = \begin{pmatrix}
-6&1&-4\\8&0&2
-\end{pmatrix}$$
+- consider the matrix: $$\begin{pmatrix} 6 & 1 & -4 \\ 8 & 0 & 2 \end{pmatrix}$$
+- to multiply by a matrix and attain the same matrix: $$? \times \begin{pmatrix} 6 & 1 & -4 \\ 8 & 0 & 2 \end{pmatrix} = \begin{pmatrix} 6 & 1 & -4 \\ 8 & 0 & 2 \end{pmatrix}$$
+? would be: $$\begin{pmatrix} 1 & 0 \\ 0 & 1 \end{pmatrix} \times \begin{pmatrix} 6 & 1 & -4 \\ 8 & 0 & 2 \end{pmatrix} = \begin{pmatrix} 6 & 1 & -4 \\ 8 & 0 & 2 \end{pmatrix}$$
 - then what about the case where: $$\begin{pmatrix}
 6&1&-4\\8&0&2
 \end{pmatrix} \times ?= \begin{pmatrix}
@@ -234,7 +205,7 @@ $$=\frac{1}{5}\begin{bmatrix}
 	- you can describe these transformation by multiplying it by a 2x2 matrix.
 - First P = (x, y) is written as a column matrix $\begin{bmatrix} x\\y\end{bmatrix}$ 
 ### basic idea
-- start with (2, 3), to transform with $T=\begin{pmatrix} 1&-2\\3&1 \end{pmatrix}$:
+- start with (2, 3), to transform with $T=\begin{pmatrix} 1 & -2 \\ 3 & 1 \end{pmatrix}$:
 - $\begin{pmatrix} 1&-2\\3&1 \end{pmatrix}\begin{pmatrix} 2\\3 \end{pmatrix}=\begin{pmatrix} -4\\9 \end{pmatrix}$
 - so **(2, 3)** gets transformed to **(-4, 9)**
 - translation is not a linear transformation, because it does not satisfy the linear transformation's definition of "the origin has to stay where it is", where if you translate the entire plane, the origin will move as well.
@@ -250,13 +221,13 @@ $$=\frac{1}{5}\begin{bmatrix}
 -  if you change $d$ in $\begin{bmatrix} 1&0\\0&d \end{bmatrix}$, if $d>0$, vertical dilation by $d$, if $d<0$, reflection through x-axis combined with a horizontal dilation by a factor of $|d|$
 
 ## Rotation
-- observe that for a given matrix $A=\begin{bmatrix} a&b\\c&d \end{bmatrix}$, the following is true: 
+- observe that for a given matrix $A=\begin{bmatrix} a & b \\ c & d \end{bmatrix}$, the following is true: 
 $$\begin{bmatrix} a&b\\c&d \end{bmatrix}\begin{bmatrix} 1\\0 \end{bmatrix}=\begin{bmatrix} a\\c \end{bmatrix}$$
 $$\begin{bmatrix} a&b\\c&d \end{bmatrix}\begin{bmatrix} 0\\1 \end{bmatrix}=\begin{bmatrix} b\\d \end{bmatrix}$$
-- if you know where the two points $\begin{bmatrix} 1\\0 \end{bmatrix}$ and $\begin{bmatrix} 0\\1 \end{bmatrix}$ lands, you can identify the rotation.
+- if you know where the two points $\begin{bmatrix} 1 \\ 0 \end{bmatrix}$ and $\begin{bmatrix} 0 \\ 1 \end{bmatrix}$ lands, you can identify the rotation.
 in a 90 degree rotation:
-- $\begin{bmatrix} 1\\0 \end{bmatrix}$ lands on $\begin{bmatrix} 0 \\ -1 \end{bmatrix}$
-- $\begin{bmatrix} 0\\1 \end{bmatrix}$ lands on $\begin{bmatrix} 1\\0 \end{bmatrix}$
+- $\begin{bmatrix} 1 \\ 0 \end{bmatrix}$ lands on $\begin{bmatrix} 0 \\ -1 \end{bmatrix}$
+- $\begin{bmatrix} 0 \\ 1 \end{bmatrix}$ lands on $\begin{bmatrix} 1 \\ 0 \end{bmatrix}$
 - therefore the transformation matrix maps out to be: $\begin{bmatrix} 0 & 1 \\ -1 & 0 \end{bmatrix}$
 
 ## HOW TO: Matrices for Arbitrary Reflections and Rotations (WTF!!!!)
@@ -287,3 +258,12 @@ therefore the matrix for reflection is: $$\begin{bmatrix} \cos 2 \theta & \sin 2
 - then multiplying $A \begin{bmatrix}  x \\ y \end{bmatrix}$ by B changes $A \begin{bmatrix}  x \\ y \end{bmatrix}$ to $B(A \begin{bmatrix}  x \\y \end{bmatrix})$ which equals $BA \begin{bmatrix} x \\ y \end{bmatrix}$
 >[!Warning]
 >NOTE THAT MULTIPLICATION IS IN REVERSE ORDER **A -> B** IS **BA**
+
+## transformations of lines
+- all points on the line $y=2x-3$ are transformed by the matrix $\begin{bmatrix} 1 & 2 \\ 1 & 0 \end{bmatrix}$. Find the equation of the image line.
+	- let $(a,2a-3)$ be a point on the line $y=2x-3$
+	- then $\begin{bmatrix} 1 & 2 \\ 1 & 0 \end{bmatrix} \begin{bmatrix}  a \\ 2a - 3 \end{bmatrix}=\begin{bmatrix} a + 4a - 6 \\ a \end{bmatrix}$
+	- $= \begin{bmatrix} 5a - 6 \\ a \end{bmatrix}$
+	- the image of $(a,b)$ is $(x,y)$, where $x = 5a - 6$ and $y=a$.
+	- but $x = 5y - 6$,
+	- $y=\frac{x+6}{5}=\frac{1}{5}x+\frac{6}{5}$
