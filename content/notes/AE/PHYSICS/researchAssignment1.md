@@ -10,8 +10,31 @@ title: "Medical Physics and Dosimetry"
 
 
 ## The main ways in which radioisotopes are produced for use in medicine.
+- produced locally (in the country)
+- if theres too many neutrons, must beta - decay
+- if theres too many protons, must beta + decay.
+- australia produces it at ANSTO (australia nuclear science and technology organisation)
+### cyclotron
+- protons are accelerated in a spiral pathway towards the targeted material (usually something stable initially)
+- protons is accepted into the nucleus, and bombards the element.
 
 ## Proton therapy and Neutron therapy.
+(stolen shamelessly)
+### Proton therapy
+Proton therapy uses protons as the form of radiation.
+- It is more precise (???) than other forms of radiotherapy.
+- Protons irradiate at a **lower depth**, so less is scattered into healthy tissue.
+- Able to **adjust speed**.
+- Hence, we use for **high required dose**, but we **don’t want to kill the surrounding organs!**
+
+### Neutron Therapy
+- Used for specific diseases that are _“radioresistant”_; they are not easily removed by conventions forms of radiotherapy.
+- Fast neutrons quite damaging (high quality factor), but **do not damage cells equally!**
+    - This means for some diseases, they are more _sensitive_ to fast neutrons than surrounding healthy tissue, meaning a **lethal dose for the diseased tissues may not be lethal for the healthy tissue**.
+- Much more efficient, so dosage required is less (1/3 apparently) than the other forms of radiation therapy.
+- **Salivary gland tumours**.
+    
+- Positived charge damages DNA, intending to kill target cells (usually cancers).
 
 ## Radiation Dosimetry including Absorbed dose and Dose Equivalent.
 - the severity of radiation exposure depends on the amount of radiation energy that has been absorbed (E) and the mass of tissue involved (m).
@@ -94,9 +117,35 @@ Science Understanding:
 - The strong nuclear force is a force of attraction that holds the nucleus together and acts between every nucleon regardless of their charge. Protons are also attracted to nearby neutrons and protons. 
 - This force only acts over relatively short distances so for nucleons on the opposite sides of a large nucleus, this force is not significant. In a stable nucleus, there is a delicate balance between the repulsive electric force and the attractive strong nuclear force. 
 - [ ] some nuclides are unstable and spontaneously decay, emitting alpha, beta (+/-) and/or gamma radiation over time until they become stable nuclides
+## alpha decay
+no notes, assumed prior knowledge
+## beta decay
+- split into b+ and b-
+### beta -
+- electron is emitted from the nucleus of a radioactive atom.
+- written as $^0_{-1}\beta$
+- occurs if a nucleus has too many neutrons to be stable -> a neutron spontaneously changes into a proton, a beta-minus particle ($\beta^-$, an electron), and an uncharged massless antimatter particle called **antineutrino $\overline{v}$**
+### beta +
+- proton spontaneously change into a neutron and emit a neutrino (v), and a positively charged beta particle.
+- positively charged beta particle is called a positron, which has same properties as electron, but a positive electrical charge.
+## gamma decay
+- excess energy is released through a gamma ray, which is high-energy electromagnetic radiation with no mass, uncharged and travels at the speed of light.
 - [ ] each species of radionuclide has a half-life which indicates the rate of decay
-$N=N_{0}\left( \frac{1}{2} \right)^n$
+$N=N_{0}\left( \frac{1}{2} \right)^n$, $n=\frac{t}{t_{1/2}}$
+N = quantity of substance remaining
+$N_{0}$ = initial quantity of the substance
+t = time elapsed
+t1/2 = half life of the substance
+n = half lives elapsed
 - [ ] alpha, beta and gamma radiation have different natures, properties and effects
+
+|             | alpha                                                  | beta-                           | beta+                           | gamma                                                                             |
+| ----------- | ------------------------------------------------------ | ------------------------------- | ------------------------------- | --------------------------------------------------------------------------------- |
+| speed       | relatively slow                                        | up to 90% speed of light        | 0.9c                            | speed of light                                                                    |
+| charge      | double pos                                             | negative charge                 | positive charge                 | no charge                                                                         |
+| ionisation  | high ionising ability                                  | medium ionising ability         | medium ionising ability         | poor ionising ability                                                             |
+| penetration | poor penetrating ability; only travels a few cm in air | 1mm sheet of aluminium can stop | 1mm sheet of aluminium can stop | high penetrating ability; requires a significantly thicker width of lead to stop. |
+| mass        | heavy                                                  | light                           | light                           | none                                                                                  |
 - [ ] the measurement of absorbed dose and dose equivalence enables the analysis of health and environmental risks
 absorbed dose = $\frac{E}{m}$, dose equivalent = absorbed dose $\times$ quality factor
 - [ ] Einstein’s mass/energy relationship relates the binding energy of a nucleus to its mass defect
