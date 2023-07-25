@@ -19,4 +19,25 @@ calculator error, equation F.T was correct, somehow misread a 9 as an 8 :( -1
 - use nuclear atomic mass values to find atomic mass (????) -1
 ### part 2
 #### question 2
-- briefly explain how ionising radiation kills cancer cells.
+- briefly explain how ionising radiation kills cancer cells. -3
+	- ionising radiation ionises atoms by removing electrons (1). This affects the composition of the compound in the cell which affects cellular processes (1). cancer cells are unable to repair themselves and hence they die (1)
+#### question 3
+- briefly outline the structure and function of a gamma camera with specific reference to the collimator, scintillation crystal and photomultiplier tubes. -3
+	- a radionuclide is administered to the patient and emits gamma rays
+	- the collimator limits absorption of emitted rays to those travelling parallel to the collimator plates (thus improving resolution of the image)
+	- the scintillation crystal detects the gamma rays and produces flashes of (visible light)
+	- the light flashes are detected by the photo multiplier tubes and converted into an electrical signal
+	- the electrical signals are used to construct an image based on the distribution of the radionuclide in the patient's body
+#### question 4
+- needed 1 more point on difference between neutron therapy and ionising radiation therapy. -1
+#### question 5
+- explain the term dose equivalent
+	- need to explain what properties affects the dose equivalent's quality factor (i think its ionisation level?) -1
+#### question 6
+- a) need units for absorbed dose -1
+#### question 7
+- cyclotron (1)
+- need 1 more: -1
+	- synchrotron
+	- nuclear reactor
+	- proton accelerators

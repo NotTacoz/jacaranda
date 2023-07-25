@@ -1,12 +1,24 @@
----
 title: "CAP3"
 ---
+
+everything wrong with the lucarelli textbook:
+- can't ctrl+f to search for words
+- can't copy and paste areas of the textbook (since everything is an image)
+- no chapters navigation (that exists in the proper form)
+- no glossary
+- chapter navigation is by page number
+- chapters navigation doesn't bring you to the right page number - 136 brings you to pdf page 132, and lucarelli page 138
+
 ## The Task
 (copy and pasted, not entirely, from the original provided **instructions.pdf**)
 Task 2: Science Inquiry Skills Validation - Reactions of Acids
 - This task will be a validation to assess your understanding of the experimental aspects of the Acids and Bases topic, particularly the reactions of acids. You have already completed the relevant practical tasks in class (practical work based on STAWA Experiments 31 and 32). 
 - You should be prepared to answer questions that include **equations and observations for reactions of acids**, properties of strong and weak substances, and use of experimental observations to identify substances. 
 - You should complete Lucarelli Sets 29 & 30 and STAWA Sets 27 & 28 as part of your preparation, as well as questions from the experiments completed. 
+
+### Experiment 31: Acids reactions with some metal compounds.
+- Investigate the effects of acids (HCl and vinegar) and  on some oxides, hydroxides, carbonates and hydrogen carbonates commonly found.
+- 
 
 Task 7: Extended Response Task - Aqueous Environment
 - This task will be related to the topic of Potable Water, and will assess your understanding and application of relevant chemical principles. 
