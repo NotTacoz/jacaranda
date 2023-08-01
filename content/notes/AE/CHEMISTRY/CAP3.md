@@ -1,13 +1,21 @@
 title: "CAP3"
 ---
 
-everything wrong with the lucarelli textbook:
+everything wrong with the lucarelli textbook (pdf ):
 - can't ctrl+f to search for words
 - can't copy and paste areas of the textbook (since everything is an image)
 - no chapters navigation (that exists in the proper form)
 - no glossary
 - chapter navigation is by page number
 - chapters navigation doesn't bring you to the right page number - 136 brings you to pdf page 132, and lucarelli page 138
+- no answer key to the questions
+
+## practice paper feedback
+- acidic, basic, and neutral solutions all share the property of conductivity.
+- if the blue litmus did not change colour, it still could be neutral, rather than only basic.
+- all acids react with carbonates (to produce colourless gas), if it doesn't, it is not an acid.
+- if it does not react with red litmus, it is not basic.
+- green on universal indicator is very close to neutral (if not already neutral)
 
 ## The Task
 (copy and pasted, not entirely, from the original provided **instructions.pdf**)

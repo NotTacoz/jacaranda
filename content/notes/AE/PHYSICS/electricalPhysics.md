@@ -18,6 +18,7 @@ title: "Electrical Physics"
 		- attraction force that exist is stronger than the repulsive force that exists.
 - an insulator is a material that **does not** allow charges to move around it.
 - conductor allows electric charge to accumulate on the surface of the object, and electric charge tends to exist on the surface of the object; like charges repel.
+- $F=\frac{1}{4\pi \epsilon_{0}} \frac{q_{1} q_{2}}{r^{2}} = \frac{{kq_{1}q_{2}}}{d^2}$
 
 ## behaviour of charged particles
 - particles have property called charge
@@ -40,6 +41,98 @@ title: "Electrical Physics"
 - charge of single proton is $+1.6\times 10 ^ {-19}$
 - charge of single electron is $-1.6 \times 10^{-19}$
 - the letter q is used to represent the quantity of charge.
+
+## van de graaff
+- uses friction of a conveyer belt to accumulate an electric charge on the metal dome.
+	- transfer of a charge. electrons move from one object to another.
+		- (not entirely sure which way they move, nor does it matter)
+	- lets say the electrons jump from conveyer belt to **metal dome**
+	- development of electric charge on the surface of the drone
+		- high electric charge | static charge within the dome.
+- repulsion
+	- when the dome develops overall charge and a person plays their hand on the dome, the dome wants to get rid of its charge. Charges will spread around your body, like charges repel, therefore your hair will stand up on end.
+	- light hair -> pushes away from the body and each other / repulsive force
+- static discharge
+	- sparks
+		- if the amount of charge is great enough and the distance is small enough, the air will be ionised.
+		- this creates a channel for the charges to jump to another location, causing a visible spark (static shock)
+	- if the charge is great, but there is nowhere nearby to jump to, the charge will gradually "leak" out the surrounding neutral air.
+
+## electric current
+- an electric current is the flow / movement of electric charge.
+- it is measured in Amperes (A) and given the symbol I
+- current is measured with a device called an ammeter.
+- -ve charges more to the left current (I) is moving to the right.
+- I = q/t (charge (c)/ time (s))
+- in physics, we define the +ve direction of current as the direction that +ve charges flow (called conventional current)
+- since current is the movement of electric charge, connected with the movement of physical particles, it must be a conserved quantity, the charge carried always have to somewhere.
+- no. of +ve particles at location 1 = no. of +ve particles at location 2 (no chance for +ve charge to leave wire)
+- $\sum I_{in}=\sum I _{out}$ due to conservation of charge.
+### example problem:
+- how many electrons flow through the ammeter in 3.5min?
+	- I1 = 70mA = 0.07A
+	- q = It = 0.070 * 3.5 * 60 = 14.7
+	- no of e = 14.6/1.6x10^-19 = 9.19x10^19
+### electric fields
+- a drawing of the force experienced by a hypothetical, positive 'test charge' when placed near a charged object.
+1. field lines go from positive to negative.
+2. positive charges travel in direction of arrows, negative charges travel in the opposite direction.
+3. field lines do not cross.
+4. field lines are evenly spread.
+5. the closer the field lines, the stronger the electric field.
+#### example - point charge
+- point charge is electrical charge (usually a particle) which we assume has zero radius i.e. electrons.
+#### example 2 - spherical charges
+- identical to point charges, these usually have a charge evenly distributed on their surface to produce a radial electric field.
+#### example 3 - charged plates
+- electric charges are distributed evenly along the plates. the field between the plates is evenly distributed in parallel lines but the ends are bowed.
+
+## coulombs law
+- force between two point charges placed in proximity to each other can be determined using coulombs law: $$F = \frac{1}{4\pi \epsilon_{0}} \frac{q_{1} q_{2}}{r^2}$$
+- F = the force between the charges (N), r = the distance between the two charges
+	- indicates direction of the force.
+	- positive value indicates two like charges or a force of repulsion.
+	- negative value indicates opposite or a force of attraction.
+- $q_{1}$ = the first charge (C)
+- $q_{2}$ = the second charge (C)
+- $k$ = coulomb constant
+- $r$ = distances of separation
+
+## electrical potential energy
+- potential energy is 'stored' energy which has the capacity to do work which typically arises because of the position of objects or particles.
+### electrical potential
+- not the same as EPE.
+- electrical potential is the amount of potential energy per unit of charge (per coulomb) i.e. total amount of electrical potential energy for 1 coulomb
+- $V=\frac{E}{q}=\frac{W}{q}$ 
+- because of the attraction of the particles, they might start to fall towards the plate. 
+	- charge particles will naturally (and desire to) move from a high potential to a low potential.
+	- we can do opposite by putting energy into particles, making them move away. you need energy to increase your potential 1V to 3V requires v = 2V. 
+### potential difference
+- potential difference (or voltage) is measured using voltmeter.
+- a potential difference must be measured by two different locations on a circuit.
+- will exist if the charge particles gain potential energy (battery) or lose potential energy (light gloves, resistors, speakers etc.)
+### emf
+- an electromotive force (emf) is another term for a "potential difference" when the charged particles are being supplied with electrical potential energy (instead of losing potential energy)
+- an emf is formed through the separation of oppositely charged particles; in a battery this is achieved by using one chemical that craves electrons and another that is happy to release them.
+- an emf will drive an electric current around a closed circuit. the charged particles will naturally move to a lower potential as they are attached to the opposite charge on the far side of the circuit. 
+>[!note]
+>energy in = energy out
+
+- 12.0 -> 8.5 over 12s
+### summary
+- the EMF supplies charged particles with potential energy
+- the EMF drives the charged particles around a closed circuit
+- the charged particles lose potential energy as they flow, converting it to heat, light, sound, etc.
+- energy is conserved during these transformations.
+
+## power
+- power is the rate of change
+- P (watts W) = E/t (energy (J)/time (s))
+- since I = q/t, P = vq/t = VI | power = voltage x current
+
+## 5.3 electric current and circuits
+- **electrical circuit** is a path made of conductive material, through which charges can flow in a closed loop.
+- movement of electrons is called **electron flow**.
 
 ## Charge and Current: Problems Worksheet
 1. Object X is known to have a net positive charge. Through experimentation the following was observed:
