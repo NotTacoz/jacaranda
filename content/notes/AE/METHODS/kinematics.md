@@ -20,3 +20,7 @@ title: "kinematics"
 ### speed
 - average speed != average velocity
 - average speed = distance / time
+
+## acceleration
+- **vector**, describe the rate of change of velocity.
+- the instantaneous acceleration a is given by dy/dt

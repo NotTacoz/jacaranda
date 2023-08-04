@@ -76,3 +76,9 @@ title: "Organic Chemistry"
 - biofuels can also by cheaper to use for drivers, as governments often introduce schemes to encourage people to reduce their emissions.
 ### disadvantages
 - biofuels not completely carbon neutral because energy is used in the production and transportation of the biofuel. this energy is often provided by fossil fuels.
+
+## extra
+- larger surface area alkane has higher boiling point (as larger surface area has higher dispersion forces)
+	- eg pentane > methylbutane > 2,2-dimethylpropane in terms of boiling points.
+	- larger surface area means it will have greater contact area between molecules.
+- 
