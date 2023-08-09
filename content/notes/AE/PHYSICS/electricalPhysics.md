@@ -130,6 +130,35 @@ title: "Electrical Physics"
 - P (watts W) = E/t (energy (J)/time (s))
 - since I = q/t, P = vq/t = VI | power = voltage x current
 
+## resistance
+- resistance of a circuit element increase when:
+	- length is increased: electrons interactions with protons is increased as they need to take a longer path to reach the other side
+	- diameter is reduced: amount of paths  available for delocalised electrons to move through.
+	- temperature is increased: as electrons try to move through, increasing temperature results in higher kinetic energy meaning protons moving/vibrating more rapidly. Electric fields then have more influence on the electrons.
+	- resistivity of material is larger: part of the intrinsic behaviour iron -> copper -> silver
+### energy loss in a resistor
+- when a current flows through a circuit element with a resistance, a potential difference will exist across that element (Ohm's law) V = IR.
+- a potential difference is a measure of the drop in 'potential energy per coulomb'
+- as a current flows through a resistor, there needs to be a change in energy of the charged particles that are flowing through.
+- this is confirmed using a voltmeter that will measure that there is a potential difference.
+#### where will this energy go?
+- a current flowing through a resistive element will produce heat. This might be desirable, or simply a form of wasted energy.
+- transfer of kinetic energy (movement of particles)
+- e.g. toaster -> drive a current through a metal bar -> current due to resistance will release heat energy.
+### V-I profiles (HELPFUL FOR INVESTIGATION)
+- when we analyse different circuit components, looking at the voltage-current profile, it helps us explain a particular component of the circuit.
+- as we increase the voltage, the amount of current flowing through that element will also increase.
+	- in a resistor, this will provide a linear relationship.![300](notes/images/Pasted%20image%2020230809090847.png)
+	(ohmic resistor graph)
+	- we can figure out the gradient if we analyse the graph.
+	- gradient = rise/run = change in current/change in voltage = I/V (ohms law flipped!!!)
+	- I/V is flipped ohms law, therefore, Resistance = 1/gradient.
+	- indicate points CLEARLY on the graph!!!!!!!!!
+- in a **voltage current profile** for a resistor, the resistance = 1/gradient, the gradient is constant and therefore the resistance of the resistor is also a constant, therefore the resistance of the resistor is also a constant value - **ohmic conductor**.
+- non-ohmic conductor
+	- a globe is not ohmic. Their resistance changes with respect to the voltage that is placed across them.
+	- if the resistance is 1/gradient and the resistance is changing, then the gradient is changing.
+	- non-ohmic device can be identified from its voltage current profile, as the gradient will **NOT** be constant. 
 ## 5.3 electric current and circuits
 - **electrical circuit** is a path made of conductive material, through which charges can flow in a closed loop.
 - movement of electrons is called **electron flow**.
