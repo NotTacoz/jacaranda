@@ -69,3 +69,38 @@ title: "Kinetic Energy & Temperature"
 - Absolute temperature starts at **absolute zero** - the theoretical lowest possible temperature, at which points the particles would have no kinetic energy. The absolute scale has units of the same magnitude as the Celsius scale. Absolute zero cannot be reached.
 - Converting to and from Kelvin and degrees Celsius:
 	- $T(K) = T(\degree{C}) + 273.15$
+
+## Powerpoint 2: The Gas Laws
+- HOW gases behave?
+- how can it be predicted by The Kinetic Theory.
+	- Kinetic Theory states that ALL matter consists of tiny particles that are in constant (random) motion (movement)
+### Real vs Ideal Gases
+#### Real Gases
+- do have volume
+- are attractions between particles
+- can condense or solidify
+#### Ideal Gases
+- no volume
+- no attraction between particles.
+- follows gas laws at all temperatures & pressures.
+#### Difference
+- real gases differ most from ideal gas at low temps and high pressures
+
+### 4 Descriptors of Gas
+- Pressure
+- Temperature
+- Volume
+- Number of particles
+- these 4 things can completely describe a gas to measure 4 things.
+
+## Worksheet
+- we did a worksheet on the ideal gas laws.
+	- brownian moton
+	- boyles law
+	- celcius and kelvin
+	- absolute zero
+	- pressure and temeprature
+
+5020 wall collision/5ps
+![500](notes/images/Screen%20Shot%202023-08-10%20at%203.24.56%20pm.png)
+![100](notes/images/Screen%20Shot%202023-08-10%20at%206.26.16%20pm.png)
