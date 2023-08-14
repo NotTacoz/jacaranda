@@ -32,3 +32,5 @@ title: "speech"
 	- a challenge or appeal.
 	- an example.
 	- a personal statement or intent.
+
+FINISH SPEECH SOON!!!!

@@ -26,7 +26,6 @@ Task 2: Science Inquiry Skills Validation - Reactions of Acids
 
 ### Experiment 31: Acids reactions with some metal compounds.
 - Investigate the effects of acids (HCl and vinegar) and  on some oxides, hydroxides, carbonates and hydrogen carbonates commonly found.
-- 
 
 Task 7: Extended Response Task - Aqueous Environment
 - This task will be related to the topic of Potable Water, and will assess your understanding and application of relevant chemical principles. 
