@@ -46,3 +46,5 @@ dilations first, followed by translations, provided it is written in the factori
 	- so general solution is
 	- $\theta=k 2 \pi + \sin^{-1} (\frac{1}{2})$ or $\theta = (2k+1)\pi - \sin^{-1} (\frac{1}{2})$
 > [!note] dont have to write in this form, but you may see this form in questions!
+
+- relationship between b and period is that b = 2pi/period for y = cos(bx)

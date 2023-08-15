@@ -1,7 +1,7 @@
 ---
 title: "asunaJett"
 ---
-
+#jett #lotus #valorant #asuna #defence
 https://youtu.be/dnDbcTUWYaU
 
 ## Defence

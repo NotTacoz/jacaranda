@@ -1,7 +1,7 @@
 ---
 title: "tenzJett"
 ---
-#jett #split #valorant #tenz
+#jett #split #valorant #tenz #defence  #attack
 https://www.youtube.com/watch?v=Ee1KSyVkKgE
 ## defence
 ### ROUND 1: Starts with sheriff A screens.

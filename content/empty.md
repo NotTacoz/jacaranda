@@ -8,3 +8,7 @@ dont mind this
 	- [private note (you can't see it)](private/private-note.md)
 	- [index](_index.md)
 	- [old index](notes/archive/_indexOld.md)
+	- [daily]()
+	- [templates](templates/daily.md)
+	- [val nav](notes/val/navigation.md)
+- 
