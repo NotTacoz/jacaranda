@@ -34,3 +34,4 @@ title: "speech"
 	- a personal statement or intent.
 
 FINISH SPEECH SOON!!!!
+- 16/8 speech finished :33 3 need to get draft checked now

@@ -159,10 +159,18 @@ title: "Electrical Physics"
 	- a globe is not ohmic. Their resistance changes with respect to the voltage that is placed across them.
 	- if the resistance is 1/gradient and the resistance is changing, then the gradient is changing.
 	- non-ohmic device can be identified from its voltage current profile, as the gradient will **NOT** be constant. 
+## kirchhoffs laws
+- kirchhoffs current law (KCL)
+	- the sum of the currents flowing into a junction is equal to the sum of the currents flowing out.
+	- $I_{T} = I_{1}+I_{2}$
+- 4 things to think abt when looking at diagram (referring to series circuit):
+	- ohms law
+	- kirchhoffs voltage law
+	- kirchhoffs current law
+	- equivalent resistance
 ## 5.3 electric current and circuits
 - **electrical circuit** is a path made of conductive material, through which charges can flow in a closed loop.
 - movement of electrons is called **electron flow**.
-
 ## Charge and Current: Problems Worksheet
 1. Object X is known to have a net positive charge. Through experimentation the following was observed:
 - Object X attracts object Y 
