@@ -116,4 +116,11 @@ https://youtu.be/dnDbcTUWYaU
 - goes tree following skye dog.
 - gets 1 nice.
 
-do attack later i cantbe fucked anymore
+### Round 2: Eco 3 A 2 C (Sheriff Light)
+- Peeks long C
+- spam the box right of mound
+- walk up
+- 2 C, go back A
+- walks up close to peek
+- really methodical in walking up and taking time i think??
+- 

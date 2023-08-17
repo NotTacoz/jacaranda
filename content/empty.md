@@ -10,5 +10,5 @@ dont mind this
 	- [old index](notes/archive/_indexOld.md)
 	- [daily]()
 	- [templates](templates/daily.md)
-	- [val nav](notes/val/navigation.md)
+	- [val nav](private/val/navigation.md)
 - 

@@ -48,3 +48,16 @@ dilations first, followed by translations, provided it is written in the factori
 > [!note] dont have to write in this form, but you may see this form in questions!
 
 - relationship between b and period is that b = 2pi/period for y = cos(bx)
+
+## proving trigonometric identities
+- prove LHS and RHS
+- e.g. prove that $\frac{1}{1+\tan^2(\theta)}=\cos^2(\theta)$
+- write $LHS=\frac{1}{1+\tan^2(\theta)}$
+- $\frac{1}{1+\frac{\sin^2\theta}{\cos^2\theta}}$ (using $\tan(x) = \frac{\sin(x)}{\cos(x)}$)
+- $=\frac{\frac{1}{\cos^2\theta + \sin^2 \theta}}{\cos \theta}$
+- $=\frac{1}{\frac{1}{\cos^2\theta}}$ (using pythagorean identity)
+- $=\cos^2\theta$
+- $=RHS$
+- Thus $\frac{1}{1+\tan^2\theta}=\cos^2 \theta$ for all $\theta$
+- usually its better to start with the side that looks more complex as the LHS.
+	- there are exceptions though.
