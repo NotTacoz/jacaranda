@@ -75,3 +75,10 @@ title: "thermodynamics"
 	- T <- difference in temperature.
 	- c <- specific heat capacity of water. (measured in g in chemistry. measured in kg in physics)
 	- m <- mass of water that was used to be heated.
+
+## huh
+- $N_{2}+3H_{2} \rightleftharpoons 2NH_{3}$
+
+### boltzmann distribution
+- effect of catalyst: increases frequency of collisions
+	- dont write: more collisions

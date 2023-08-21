@@ -61,3 +61,7 @@ dilations first, followed by translations, provided it is written in the factori
 - Thus $\frac{1}{1+\tan^2\theta}=\cos^2 \theta$ for all $\theta$
 - usually its better to start with the side that looks more complex as the LHS.
 	- there are exceptions though.
+## reciprocal trigonometric functions
+- sec theta = 1/costheta
+- cosec theta = 1/sintheta
+- cot theta = 1/tan theta (= costheta/sintheta)

@@ -35,3 +35,4 @@ title: "speech"
 
 FINISH SPEECH SOON!!!!
 - 16/8 speech finished :33 3 need to get draft checked now
+- 19/8 teacher still hasn't checked the draft,,, :)
