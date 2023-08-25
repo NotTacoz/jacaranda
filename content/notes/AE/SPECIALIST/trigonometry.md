@@ -65,3 +65,10 @@ dilations first, followed by translations, provided it is written in the factori
 - sec theta = 1/costheta
 - cosec theta = 1/sintheta
 - cot theta = 1/tan theta (= costheta/sintheta)
+
+- an untranslated sec graph will have a minimum point on the y axis, so we can say there has been no hroizontal translation. so we can say the value of a is positive, as we expect the value to be a positive 3
+	- if a = 3, then c = 0 (what is going on)
+- sec x = 1/cos(x)
+- however, 3sec(2x)+1 != 1/3(cos(2x))+1
+	- you cant do the translation on cosine, then getting the reciprocal - it just wont work XDDDDDDDD.
+- 

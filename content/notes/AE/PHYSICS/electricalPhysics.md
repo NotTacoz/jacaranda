@@ -214,3 +214,6 @@ c. 3A
 d. -5A
 11. Explain why silver and copper conduct electricity while rubber and plastic insulate again the flow of electrical current.
 	- the electrons in plastic and rubber are very tightly bound to their respective nuclei and cannot readily move from one atom to another. Non-metals do not conduct electricity very well and are known as insulators. Meanwhile silver and copper the outermost electrons are only very slightly attracted to their respective nuclei. As a consequence, metals are good conductors of electricity. In conductors, loosely held electrons can 'jump' from one atom to another and move freely throughout the material.
+
+know absolute and percentage uncertainty for the test ^\_\^
+
