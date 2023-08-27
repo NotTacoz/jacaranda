@@ -24,4 +24,4 @@ title: "reactionsParticlesAndCollisions"
 	- increased **velocity/speed** of particles
 	- increased **frequency of collisions**
 	- increased proportion of collisions with sufficient **kinetic energy to overcome activation energy**
-	- increased frequency of **successful collisions; increased rate of reacti**
+	- increased frequency of **successful collisions; increased rate of reaction*
