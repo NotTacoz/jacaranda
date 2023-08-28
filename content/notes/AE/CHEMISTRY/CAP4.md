@@ -105,10 +105,21 @@ title: "CAP4"
 		1. REACTING MOLECULES **MUST** COLLIDE WITH EACH OTHER
 		2. THE COLLISIONS MUST OCCUR WITH **ENOUGH ENERGY** to disrupt bonds in the reactants (KNOWN AS **ACTIVATION ENERGY**, $E_{a}$)
 		3. molecules must collide with **correct orientation**.
+	- that is the basis for collision theory - therefore we can tell that
 193.  Predict the outcome on the rate of reaction when conditions for a chemical reaction are altered using collision theory. 
+	- **successful collision** - has sufficient energy and an appropriate orientation to allow bonds in reactant to be broken and new bonds to be formed.
+	- **unsuccessful collision** - energy/orientation not satisfactory.
+	- rate of reaction equals = number of collisions / time
+		- $\therefore$ number of successful collisions/rate of reaction depends on:
+			- total number of collisions/frequency of collisions
+			- percentage of collisions that are successful (influenced by activation energy and orientation)
 194.  State that the activation energy for a reaction is the minimum amount of energy required for particles to react on collision. 
+	- what is activation energy?
+		- minimum amount of energy required for particles to react on collision.
 195.  Describe how the size of the activation energy affects the rate of reaction. 
+	- the lower the activation energy, the larger number of particles will have enough energy for a successful collision.
 196.  Explain how the number and strength of bonds to be broken affects the size of the activation energy. 
+	- it takes energy to break bonds, so the more bonds there has to break, the larger the activation energy.
 197.  Describe and explain the effect of using a catalyst on the rate of reaction using collision theory. 
 198.  Draw and interpret energy profile diagrams for catalysed and uncatalysed reactions. 
 199.  _Justify the use of catalysts in industry, to increase the rate of a reaction that would otherwise be uneconomically slow. (SHE)_ 
