@@ -121,6 +121,12 @@ title: "CAP4"
 196.  Explain how the number and strength of bonds to be broken affects the size of the activation energy. 
 	- it takes energy to break bonds, so the more bonds there has to break, the larger the activation energy.
 197.  Describe and explain the effect of using a catalyst on the rate of reaction using collision theory. 
+	- catalyst is a substance that alters the rate of reaction without being consumed in the reaction
+	- catalyst works by providing alternative pathway for a reaction
+	- a positive catalyst provides easier pathway, with a **lower activation energy**
+		- meaning more particles will have sufficient energy for reaction to occur.
+		- this increases amount of successful collisions, increasing the rate of reaction.
 198.  Draw and interpret energy profile diagrams for catalysed and uncatalysed reactions. 
+	- reaction pathway is lower in energy profile diagram, see picture below:![](notes/images/Screen%20Shot%202023-08-28%20at%209.15.28%20am.png)
 199.  _Justify the use of catalysts in industry, to increase the rate of a reaction that would otherwise be uneconomically slow. (SHE)_ 
 200.  _Describe how catalysts can be used to reduce negative impact on the environment, for example in catalytic converters. (SHE)_
