@@ -45,6 +45,20 @@
       "modifiedDate": 1692179543662,
       "sizeInBytes": 372
     },
+    "templates/daily.md": {
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 2,
+      "pageCount": 0.006666666666666667,
+      "characterCount": 9,
+      "nonWhitespaceCharacterCount": 6,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1687932329643,
+      "modifiedDate": 1687932329643,
+      "sizeInBytes": 35
+    },
     "templates/post.md": {
       "isDirectory": false,
       "noteCount": 1,
@@ -73,19 +87,19 @@
       "modifiedDate": 1686274938224,
       "sizeInBytes": 108
     },
-    "templates/daily.md": {
+    "private/private-note.md": {
       "isDirectory": false,
       "noteCount": 1,
-      "wordCount": 2,
-      "pageCount": 0.006666666666666667,
-      "characterCount": 9,
-      "nonWhitespaceCharacterCount": 6,
+      "wordCount": 5,
+      "pageCount": 0.016666666666666666,
+      "characterCount": 34,
+      "nonWhitespaceCharacterCount": 28,
       "linkCount": 0,
       "embedCount": 0,
       "aliases": null,
-      "createdDate": 1687932295353,
-      "modifiedDate": 1687932329643,
-      "sizeInBytes": 35
+      "createdDate": 1677480628089,
+      "modifiedDate": 1677480628089,
+      "sizeInBytes": 64
     },
     "private/val/split/tenzJett.md": {
       "isDirectory": false,
@@ -156,20 +170,6 @@
       "createdDate": 1692013266217,
       "modifiedDate": 1692063952763,
       "sizeInBytes": 1985
-    },
-    "private/private-note.md": {
-      "isDirectory": false,
-      "noteCount": 1,
-      "wordCount": 5,
-      "pageCount": 0.016666666666666666,
-      "characterCount": 34,
-      "nonWhitespaceCharacterCount": 28,
-      "linkCount": 0,
-      "embedCount": 0,
-      "aliases": null,
-      "createdDate": 1677480628089,
-      "modifiedDate": 1677480628089,
-      "sizeInBytes": 64
     },
     "notes/images/Pasted image 20230828125257.gif.md": {
       "isDirectory": false,
