@@ -17,6 +17,34 @@
     "pageCountType": "ByWords"
   },
   "cachedCounts": {
+    "_index.md": {
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 22,
+      "pageCount": 0.07333333333333333,
+      "characterCount": 455,
+      "nonWhitespaceCharacterCount": 431,
+      "linkCount": 3,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1690439382219,
+      "modifiedDate": 1690439382219,
+      "sizeInBytes": 491
+    },
+    "empty.md": {
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 33,
+      "pageCount": 0.11,
+      "characterCount": 350,
+      "nonWhitespaceCharacterCount": 308,
+      "linkCount": 7,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1692179543662,
+      "modifiedDate": 1692179543662,
+      "sizeInBytes": 372
+    },
     "templates/post.md": {
       "isDirectory": false,
       "noteCount": 1,
@@ -1952,16 +1980,16 @@
     "notes/AE/SPECIALIST/trigonometry.md": {
       "isDirectory": false,
       "noteCount": 1,
-      "wordCount": 608,
-      "pageCount": 2.026666666666667,
-      "characterCount": 4047,
-      "nonWhitespaceCharacterCount": 3398,
+      "wordCount": 710,
+      "pageCount": 2.3666666666666667,
+      "characterCount": 4518,
+      "nonWhitespaceCharacterCount": 3760,
       "linkCount": 0,
       "embedCount": 3,
       "aliases": null,
-      "createdDate": 1691370060632,
-      "modifiedDate": 1692848277171,
-      "sizeInBytes": 4076
+      "createdDate": 1693274432540,
+      "modifiedDate": 1693276269531,
+      "sizeInBytes": 4547
     },
     "notes/AE/SPECIALIST/specialist.md": {
       "isDirectory": false,
@@ -2092,15 +2120,15 @@
     "notes/AE/PHYSICS/heat.md": {
       "isDirectory": false,
       "noteCount": 1,
-      "wordCount": 301,
-      "pageCount": 1.0033333333333334,
-      "characterCount": 1862,
-      "nonWhitespaceCharacterCount": 1537,
+      "wordCount": 299,
+      "pageCount": 0.9966666666666667,
+      "characterCount": 1864,
+      "nonWhitespaceCharacterCount": 1542,
       "linkCount": 0,
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1693198087294,
-      "modifiedDate": 1693198916992,
+      "modifiedDate": 1693205097526,
       "sizeInBytes": 1885
     },
     "notes/AE/PHYSICS/electricalPhysics.md": {
@@ -2550,34 +2578,6 @@
       "createdDate": 1689479945902,
       "modifiedDate": 1691845683409,
       "sizeInBytes": 4906
-    },
-    "empty.md": {
-      "isDirectory": false,
-      "noteCount": 1,
-      "wordCount": 33,
-      "pageCount": 0.11,
-      "characterCount": 350,
-      "nonWhitespaceCharacterCount": 308,
-      "linkCount": 7,
-      "embedCount": 0,
-      "aliases": null,
-      "createdDate": 1680069649581,
-      "modifiedDate": 1692179543662,
-      "sizeInBytes": 372
-    },
-    "_index.md": {
-      "isDirectory": false,
-      "noteCount": 1,
-      "wordCount": 22,
-      "pageCount": 0.07333333333333333,
-      "characterCount": 455,
-      "nonWhitespaceCharacterCount": 431,
-      "linkCount": 3,
-      "embedCount": 0,
-      "aliases": null,
-      "createdDate": 1677480628084,
-      "modifiedDate": 1690439382219,
-      "sizeInBytes": 491
     }
   }
 }
