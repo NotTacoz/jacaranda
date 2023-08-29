@@ -1,0 +1,10 @@
+{
+  "accentColor": "#bd93f9",
+  "translucency": false,
+  "baseFontSize": 19,
+  "cssTheme": "",
+  "theme": "obsidian",
+  "enabledCssSnippets": [
+    "bold"
+  ]
+}

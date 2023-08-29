@@ -1,0 +1,65 @@
+{
+  "collapse-filter": false,
+  "search": "",
+  "showTags": false,
+  "showAttachments": true,
+  "hideUnresolved": false,
+  "showOrphans": true,
+  "collapse-color-groups": false,
+  "colorGroups": [
+    {
+      "query": "path:notes/AE/chemistry",
+      "color": {
+        "a": 1,
+        "rgb": 14701138
+      }
+    },
+    {
+      "query": "path:notes/AE/specialist",
+      "color": {
+        "a": 1,
+        "rgb": 14725458
+      }
+    },
+    {
+      "query": "path:notes/AE/methods",
+      "color": {
+        "a": 1,
+        "rgb": 11657298
+      }
+    },
+    {
+      "query": "path:notes/AE/english",
+      "color": {
+        "a": 1,
+        "rgb": 5431378
+      }
+    },
+    {
+      "query": "path:notes/AE/physics",
+      "color": {
+        "a": 1,
+        "rgb": 5431473
+      }
+    },
+    {
+      "query": "path:notes/AE/japanese",
+      "color": {
+        "a": 1,
+        "rgb": 5419488
+      }
+    }
+  ],
+  "collapse-display": true,
+  "showArrow": true,
+  "textFadeMultiplier": -1.5,
+  "nodeSizeMultiplier": 0.944965645311049,
+  "lineSizeMultiplier": 1.13368616527391,
+  "collapse-forces": false,
+  "centerStrength": 0.307994846409439,
+  "repelStrength": 12.6385027463213,
+  "linkStrength": 1,
+  "linkDistance": 109,
+  "scale": 0.09646444616631274,
+  "close": false
+}

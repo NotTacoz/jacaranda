@@ -1,0 +1,6 @@
+{
+  "templateHeading": "## Todo",
+  "deleteOnComplete": false,
+  "removeEmptyTodos": false,
+  "rolloverChildren": true
+}

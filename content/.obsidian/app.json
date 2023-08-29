@@ -1,0 +1,9 @@
+{
+  "useMarkdownLinks": true,
+  "newFileLocation": "current",
+  "newLinkFormat": "absolute",
+  "alwaysUpdateLinks": true,
+  "promptDelete": false,
+  "attachmentFolderPath": "notes/images",
+  "spellcheck": true
+}

@@ -71,4 +71,14 @@ dilations first, followed by translations, provided it is written in the factori
 - sec x = 1/cos(x)
 - however, 3sec(2x)+1 != 1/3(cos(2x))+1
 	- you cant do the translation on cosine, then getting the reciprocal - it just wont work XDDDDDDDD.
+
+## 9C: compound and double angle formula
+- sin(A+B) = sinA + sinB??????
+- f(x) = x + 3
+- f(a+b) = a + b + 3
+- f(a) + f(b)
+	- = a + 3 + b + 3
+	- a + b + b
+	- != f(a + b)
+	- therefore it is not equal
 - 

@@ -1,0 +1,335 @@
+<!DOCTYPE html>
+<html><head><title>Matrices</title><meta charSet="utf-8"/><meta name="viewport" content="width=device-width, initial-scale=1.0"/><meta property="og:title" content="Matrices"/><meta property="og:description" content="Matrices Prequel: Linear Transformation § Transformation } Function Vector Input -&amp;gt; Vector output its raining so hard i love 3 blue 1 brown &amp;lt;3 go watch the video Linear } [ac​bd​][ef​]=e[ac​]+f[bd​]=[ea+fbec+fd​] background § used to represent linear transformations (like in computer animations) it is a rectangular (though often square) array of mathematical objects."/><meta property="og:image" content="https://quartz.jzhao.xyz/static/og-image.png"/><meta property="og:width" content="1200"/><meta property="og:height" content="675"/><link rel="icon" href="../../../static/icon.png"/><meta name="description" content="Matrices Prequel: Linear Transformation § Transformation } Function Vector Input -&amp;gt; Vector output its raining so hard i love 3 blue 1 brown &amp;lt;3 go watch the video Linear } [ac​bd​][ef​]=e[ac​]+f[bd​]=[ea+fbec+fd​] background § used to represent linear transformations (like in computer animations) it is a rectangular (though often square) array of mathematical objects."/><meta name="generator" content="Quartz"/><link rel="preconnect" href="https://fonts.googleapis.com"/><link rel="preconnect" href="https://fonts.gstatic.com"/><link href="../../../index.css" rel="stylesheet" type="text/css" spa-preserve/><link href="https://cdn.jsdelivr.net/npm/katex@0.16.0/dist/katex.min.css" rel="stylesheet" type="text/css" spa-preserve/><link href="https://fonts.googleapis.com/css2?family=IBM Plex Mono&amp;family=Schibsted Grotesk:wght@400;700&amp;family=Source Sans Pro:ital,wght@0,400;0,600;1,400;1,600&amp;display=swap" rel="stylesheet" type="text/css" spa-preserve/><script src="../../../prescript.js" type="application/javascript" spa-preserve></script><script type="application/javascript" spa-preserve>const fetchData = fetch(`../../../static/contentIndex.json`).then(data => data.json())</script></head><body data-slug="notes/AE/SPECIALIST/matrices"><div id="quartz-root" class="page"><div id="quartz-body"><div class="left sidebar"><h1 class="page-title"><a href="../../..">🪴 Quartz 4.0</a></h1><div class="spacer mobile-only"></div><div class="search"><div id="search-icon"><p>Search</p><div></div><svg tabIndex="0" aria-labelledby="title desc" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 19.9 19.7"><title id="title">Search</title><desc id="desc">Search</desc><g class="search-path" fill="none"><path stroke-linecap="square" d="M18.5 18.3l-5.4-5.4"></path><circle cx="8" cy="8" r="7"></circle></g></svg></div><div id="search-container"><div id="search-space"><input autocomplete="off" id="search-bar" name="search" type="text" aria-label="Search for something" placeholder="Search for something"/><div id="results-container"></div></div></div></div><div class="darkmode"><input class="toggle" id="darkmode-toggle" type="checkbox" tabIndex="-1"/><label id="toggle-label-light" for="darkmode-toggle" tabIndex="-1"><svg xmlns="http://www.w3.org/2000/svg" xmlnsXlink="http://www.w3.org/1999/xlink" version="1.1" id="dayIcon" x="0px" y="0px" viewBox="0 0 35 35" style="enable-background:new 0 0 35 35;" xmlSpace="preserve"><title>Light mode</title><path d="M6,17.5C6,16.672,5.328,16,4.5,16h-3C0.672,16,0,16.672,0,17.5    S0.672,19,1.5,19h3C5.328,19,6,18.328,6,17.5z M7.5,26c-0.414,0-0.789,0.168-1.061,0.439l-2,2C4.168,28.711,4,29.086,4,29.5    C4,30.328,4.671,31,5.5,31c0.414,0,0.789-0.168,1.06-0.44l2-2C8.832,28.289,9,27.914,9,27.5C9,26.672,8.329,26,7.5,26z M17.5,6    C18.329,6,19,5.328,19,4.5v-3C19,0.672,18.329,0,17.5,0S16,0.672,16,1.5v3C16,5.328,16.671,6,17.5,6z M27.5,9    c0.414,0,0.789-0.168,1.06-0.439l2-2C30.832,6.289,31,5.914,31,5.5C31,4.672,30.329,4,29.5,4c-0.414,0-0.789,0.168-1.061,0.44    l-2,2C26.168,6.711,26,7.086,26,7.5C26,8.328,26.671,9,27.5,9z M6.439,8.561C6.711,8.832,7.086,9,7.5,9C8.328,9,9,8.328,9,7.5    c0-0.414-0.168-0.789-0.439-1.061l-2-2C6.289,4.168,5.914,4,5.5,4C4.672,4,4,4.672,4,5.5c0,0.414,0.168,0.789,0.439,1.06    L6.439,8.561z M33.5,16h-3c-0.828,0-1.5,0.672-1.5,1.5s0.672,1.5,1.5,1.5h3c0.828,0,1.5-0.672,1.5-1.5S34.328,16,33.5,16z     M28.561,26.439C28.289,26.168,27.914,26,27.5,26c-0.828,0-1.5,0.672-1.5,1.5c0,0.414,0.168,0.789,0.439,1.06l2,2    C28.711,30.832,29.086,31,29.5,31c0.828,0,1.5-0.672,1.5-1.5c0-0.414-0.168-0.789-0.439-1.061L28.561,26.439z M17.5,29    c-0.829,0-1.5,0.672-1.5,1.5v3c0,0.828,0.671,1.5,1.5,1.5s1.5-0.672,1.5-1.5v-3C19,29.672,18.329,29,17.5,29z M17.5,7    C11.71,7,7,11.71,7,17.5S11.71,28,17.5,28S28,23.29,28,17.5S23.29,7,17.5,7z M17.5,25c-4.136,0-7.5-3.364-7.5-7.5    c0-4.136,3.364-7.5,7.5-7.5c4.136,0,7.5,3.364,7.5,7.5C25,21.636,21.636,25,17.5,25z"></path></svg></label><label id="toggle-label-dark" for="darkmode-toggle" tabIndex="-1"><svg xmlns="http://www.w3.org/2000/svg" xmlnsXlink="http://www.w3.org/1999/xlink" version="1.1" id="nightIcon" x="0px" y="0px" viewBox="0 0 100 100" style="enable-background='new 0 0 100 100'" xmlSpace="preserve"><title>Dark mode</title><path d="M96.76,66.458c-0.853-0.852-2.15-1.064-3.23-0.534c-6.063,2.991-12.858,4.571-19.655,4.571  C62.022,70.495,50.88,65.88,42.5,57.5C29.043,44.043,25.658,23.536,34.076,6.47c0.532-1.08,0.318-2.379-0.534-3.23  c-0.851-0.852-2.15-1.064-3.23-0.534c-4.918,2.427-9.375,5.619-13.246,9.491c-9.447,9.447-14.65,22.008-14.65,35.369  c0,13.36,5.203,25.921,14.65,35.368s22.008,14.65,35.368,14.65c13.361,0,25.921-5.203,35.369-14.65  c3.872-3.871,7.064-8.328,9.491-13.246C97.826,68.608,97.611,67.309,96.76,66.458z"></path></svg></label></div><div class="toc desktop-only"><button type="button" id="toc"><h3>Table of Contents</h3><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="fold"><polyline points="6 9 12 15 18 9"></polyline></svg></button><div id="toc-content"><ul class="overflow"><li class="depth-0"><a href="#matrices-prequel-linear-transformation" data-for="matrices-prequel-linear-transformation">Matrices Prequel: Linear Transformation</a></li><li class="depth-0"><a href="#background" data-for="background">background</a></li></ul></div></div></div><div class="center"><div class="page-header"><div class="popover-hint"><h1 class="article-title">Matrices</h1><p class="content-meta">Jun 28, 2023, 12 min read</p></div></div><article class="popover-hint"><h2 id="matrices-prequel-linear-transformation">Matrices Prequel: Linear Transformation<a aria-hidden="true" tabindex="-1" href="#matrices-prequel-linear-transformation" class="internal"> §</a></h2>
+<p>Transformation } Function</p>
+<ul>
+<li>Vector Input -> Vector output</li>
+<li>its raining so hard</li>
+<li>i love 3 blue 1 brown &lt;3 go watch the video
+Linear }
+<span class="math math-inline"><span class="katex"><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:2.4em;vertical-align:-0.95em;"></span><span class="minner"><span class="mopen delimcenter" style="top:0em;"><span class="delimsizing size3">[</span></span><span class="mord"><span class="mtable"><span class="col-align-c"><span class="vlist-t vlist-t2"><span class="vlist-r"><span class="vlist" style="height:1.45em;"><span style="top:-3.61em;"><span class="pstrut" style="height:3em;"></span><span class="mord"><span class="mord mathnormal">a</span></span></span><span style="top:-2.41em;"><span class="pstrut" style="height:3em;"></span><span class="mord"><span class="mord mathnormal">c</span></span></span></span><span class="vlist-s">​</span></span><span class="vlist-r"><span class="vlist" style="height:0.95em;"><span></span></span></span></span></span><span class="arraycolsep" style="width:0.5em;"></span><span class="arraycolsep" style="width:0.5em;"></span><span class="col-align-c"><span class="vlist-t vlist-t2"><span class="vlist-r"><span class="vlist" style="height:1.45em;"><span style="top:-3.61em;"><span class="pstrut" style="height:3em;"></span><span class="mord"><span class="mord mathnormal">b</span></span></span><span style="top:-2.41em;"><span class="pstrut" style="height:3em;"></span><span class="mord"><span class="mord mathnormal">d</span></span></span></span><span class="vlist-s">​</span></span><span class="vlist-r"><span class="vlist" style="height:0.95em;"><span></span></span></span></span></span></span></span><span class="mclose delimcenter" style="top:0em;"><span class="delimsizing size3">]</span></span></span><span class="mspace" style="margin-right:0.1667em;"></span><span class="minner"><span class="mopen delimcenter" style="top:0em;"><span class="delimsizing size3">[</span></span><span class="mord"><span class="mtable"><span class="col-align-c"><span class="vlist-t vlist-t2"><span class="vlist-r"><span class="vlist" style="height:1.45em;"><span style="top:-3.61em;"><span class="pstrut" style="height:3em;"></span><span class="mord"><span class="mord mathnormal">e</span></span></span><span style="top:-2.41em;"><span class="pstrut" style="height:3em;"></span><span class="mord"><span class="mord mathnormal" style="margin-right:0.10764em;">f</span></span></span></span><span class="vlist-s">​</span></span><span class="vlist-r"><span class="vlist" style="height:0.95em;"><span></span></span></span></span></span></span></span><span class="mclose delimcenter" style="top:0em;"><span class="delimsizing size3">]</span></span></span><span class="mspace" style="margin-right:0.2778em;"></span><span class="mrel">=</span><span class="mspace" style="margin-right:0.2778em;"></span></span><span class="base"><span class="strut" style="height:2.4em;vertical-align:-0.95em;"></span><span class="mord mathnormal">e</span><span class="mspace" style="margin-right:0.1667em;"></span><span class="minner"><span class="mopen delimcenter" style="top:0em;"><span class="delimsizing size3">[</span></span><span class="mord"><span class="mtable"><span class="col-align-c"><span class="vlist-t vlist-t2"><span class="vlist-r"><span class="vlist" style="height:1.45em;"><span style="top:-3.61em;"><span class="pstrut" style="height:3em;"></span><span class="mord"><span class="mord mathnormal">a</span></span></span><span style="top:-2.41em;"><span class="pstrut" style="height:3em;"></span><span class="mord"><span class="mord mathnormal">c</span></span></span></span><span class="vlist-s">​</span></span><span class="vlist-r"><span class="vlist" style="height:0.95em;"><span></span></span></span></span></span></span></span><span class="mclose delimcenter" style="top:0em;"><span class="delimsizing size3">]</span></span></span><span class="mspace" style="margin-right:0.2222em;"></span><span class="mbin">+</span><span class="mspace" style="margin-right:0.2222em;"></span></span><span class="base"><span class="strut" style="height:2.4em;vertical-align:-0.95em;"></span><span class="mord mathnormal" style="margin-right:0.10764em;">f</span><span class="mspace" style="margin-right:0.1667em;"></span><span class="minner"><span class="mopen delimcenter" style="top:0em;"><span class="delimsizing size3">[</span></span><span class="mord"><span class="mtable"><span class="col-align-c"><span class="vlist-t vlist-t2"><span class="vlist-r"><span class="vlist" style="height:1.45em;"><span style="top:-3.61em;"><span class="pstrut" style="height:3em;"></span><span class="mord"><span class="mord mathnormal">b</span></span></span><span style="top:-2.41em;"><span class="pstrut" style="height:3em;"></span><span class="mord"><span class="mord mathnormal">d</span></span></span></span><span class="vlist-s">​</span></span><span class="vlist-r"><span class="vlist" style="height:0.95em;"><span></span></span></span></span></span></span></span><span class="mclose delimcenter" style="top:0em;"><span class="delimsizing size3">]</span></span></span><span class="mspace" style="margin-right:0.2778em;"></span><span class="mrel">=</span><span class="mspace" style="margin-right:0.2778em;"></span></span><span class="base"><span class="strut" style="height:2.4em;vertical-align:-0.95em;"></span><span class="minner"><span class="mopen delimcenter" style="top:0em;"><span class="delimsizing size3">[</span></span><span class="mord"><span class="mtable"><span class="col-align-c"><span class="vlist-t vlist-t2"><span class="vlist-r"><span class="vlist" style="height:1.45em;"><span style="top:-3.61em;"><span class="pstrut" style="height:3em;"></span><span class="mord"><span class="mord mathnormal">e</span><span class="mord mathnormal">a</span><span class="mspace" style="margin-right:0.2222em;"></span><span class="mbin">+</span><span class="mspace" style="margin-right:0.2222em;"></span><span class="mord mathnormal" style="margin-right:0.10764em;">f</span><span class="mord mathnormal">b</span></span></span><span style="top:-2.41em;"><span class="pstrut" style="height:3em;"></span><span class="mord"><span class="mord mathnormal">ec</span><span class="mspace" style="margin-right:0.2222em;"></span><span class="mbin">+</span><span class="mspace" style="margin-right:0.2222em;"></span><span class="mord mathnormal">fd</span></span></span></span><span class="vlist-s">​</span></span><span class="vlist-r"><span class="vlist" style="height:0.95em;"><span></span></span></span></span></span></span></span><span class="mclose delimcenter" style="top:0em;"><span class="delimsizing size3">]</span></span></span></span></span></span></span></li>
+</ul>
+<h2 id="background">background<a aria-hidden="true" tabindex="-1" href="#background" class="internal"> §</a></h2>
+<ul>
+<li>used to represent linear transformations (like in computer animations)</li>
+<li>it is a rectangular (though often square) array of mathematical objects.</li>
+<li>if it has <strong>m</strong> rows and <strong>n</strong> columns, it is called an <strong>m</strong> x <strong>n</strong> matrix</li>
+<li>entries in the matrix can be indexed using subscripts for the row and column
+<ul>
+<li><span class="math math-inline"><span class="katex"><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.5806em;vertical-align:-0.15em;"></span><span class="mord"><span class="mord mathnormal">a</span><span class="msupsub"><span class="vlist-t vlist-t2"><span class="vlist-r"><span class="vlist" style="height:0.3011em;"><span style="top:-2.55em;margin-left:0em;margin-right:0.05em;"><span class="pstrut" style="height:2.7em;"></span><span class="sizing reset-size6 size3 mtight"><span class="mord mtight"><span class="mord mtight">13</span></span></span></span></span><span class="vlist-s">​</span></span><span class="vlist-r"><span class="vlist" style="height:0.15em;"><span></span></span></span></span></span></span></span></span></span></span> is in  row 1, column 3 = 0</li>
+</ul>
+</li>
+</ul>
+<div class="math math-display"><span class="katex-error" title="ParseError: KaTeX parse error: Expected 'EOF', got '&amp;' at position 3: 3 &amp;̲ -1 &amp; 0 \\ 4 &amp; …" style="color:#cc0000;">3 &amp; -1 &amp; 0 \\ 4 &amp; -2 &amp; 3
+\end{bmatrix}$$
+## matrix equality
+- if and only if they have same number of rows and columns, and all corresponding entries are equal.
+## addition and multiplication of matrices
+- notes not needed (intuitive and straightforward)
+
+## 11C: matrix multiplication
+### multiplying two matrices
+- matrices can be multiplied even if they do not have same dimensions.
+- work through the rows of the first matrix, and the column of the second.
+	- form the scalar product for each row and column of the first and second matrix.
+- properties of matrix multiplication creates certain rules within matrices.
+	- two matrices can be multiplied together provided the number of columns in the first matrix equals the number of rows in the second matrix.
+	- suppose matrix A has dimension m x n, and matrix B has dimensions p x q.
+		- the product $A_{mn}B_{pq}$ can only be formed if $n=p$.
+			- in this case AB will have dimension m x q.
+		- the product $B_{pq}A_{mn}$ can only be formed if $q=m$.
+			- in this case BA will have dimension p x n.z
+		- in the product AB we say that B is **premultiplied** by A **or** A is **postmultiplied** by B.
+
+## zero matrix
+- 0 is called the additive identity of the real numbers
+- consider the matrix: $$\begin{pmatrix}
+1 &amp; 6 \\ -2 &amp; 5
+\end{pmatrix}$$
+- then: $$\begin{pmatrix}
+1 &amp; 6 \\ -2 &amp; 5
+\end{pmatrix}+\begin{pmatrix}
+ 0 &amp; 0 \\ 0 &amp; 0
+\end{pmatrix}=\begin{pmatrix}
+1 &amp; 6 \\ -2 &amp; 5
+\end{pmatrix}$$
+- for a given matrix size mxn, the matrix $0_{m\times n}$
+- the 0 matrix leaves the other matrix unchanged.
+## identity matrix
+- in normal multiplication, $x \times 1$ is always x
+- in matrices, the matrix X multiplied by the identity matrix is always X
+- consider the matrix: $$\begin{pmatrix} 1 &amp; 6 \\ -2 &amp; 5 \end{pmatrix}$$
+- then the identity matrix (1 0 \ 0 1) and multiplied $$\begin{pmatrix} 1 &amp; 6 \\ -2 &amp; 5 \end{pmatrix}\begin{pmatrix} 1 &amp; 0 \\ 0 &amp; 1
+\end{pmatrix} = \begin{pmatrix}1 &amp; 6 \\ -2 &amp; 5 \end{pmatrix}$$
+### consider non-square matrices
+- consider the matrix: $$\begin{pmatrix} 6 &amp; 1 &amp; -4 \\ 8 &amp; 0 &amp; 2 \end{pmatrix}$$
+- to multiply by a matrix and attain the same matrix: $$? \times \begin{pmatrix} 6 &amp; 1 &amp; -4 \\ 8 &amp; 0 &amp; 2 \end{pmatrix} = \begin{pmatrix} 6 &amp; 1 &amp; -4 \\ 8 &amp; 0 &amp; 2 \end{pmatrix}$$
+? would be: $$\begin{pmatrix} 1 &amp; 0 \\ 0 &amp; 1 \end{pmatrix} \times \begin{pmatrix} 6 &amp; 1 &amp; -4 \\ 8 &amp; 0 &amp; 2 \end{pmatrix} = \begin{pmatrix} 6 &amp; 1 &amp; -4 \\ 8 &amp; 0 &amp; 2 \end{pmatrix}$$
+- then what about the case where: $$\begin{pmatrix}
+6&amp;1&amp;-4\\8&amp;0&amp;2
+\end{pmatrix} \times ?= \begin{pmatrix}
+6&amp;1&amp;-4\\8&amp;0&amp;2
+\end{pmatrix}$$
+- then: $$\begin{pmatrix}
+6&amp;1&amp;-4\\8&amp;0&amp;2
+\end{pmatrix} \times \begin{pmatrix}
+1 &amp; 0 &amp;0\\0&amp;1&amp;0\\0&amp;0&amp;1
+\end{pmatrix}= \begin{pmatrix}
+6&amp;1&amp;-4\\8&amp;0&amp;2
+\end{pmatrix}$$
+- the notation of the identity matrix is $I_{x}$ with x being the dimensions (only 1 dimension is needed because the identity matrix is always square)
+
+#### a word of warning
+- the matrices A x B = C in which C is a 0 matrix, and A is not a matrix, B is **NOT ALWAYS** a 0 matrix.
+- furthermore, in normal arithmetic, 3a = 3b, such a = b
+	- therefore in matrices, AB = CB, therefore A = C
+		- THIS IS INCORRECT
+		- consider $$AB=\begin{bmatrix}
+3&amp;1\\1&amp;4
+\end{bmatrix},B=\begin{bmatrix}
+1\\2
+\end{bmatrix}, C=\begin{bmatrix}
+-3&amp;2\\5&amp;2
+\end{bmatrix}$$
+			- in this case AB = CB, B!=0, but A != C
+- same case for identity matrices as well. you **CANNOT** assume an unknown matrix is the identity matrix.
+
+## matrix division
+- there is no concept of matrix division but theres something similar (?)
+- consider multiplying 4 by 3
+	- $3 \times 4 = 12$
+- to get back to 4 from 12, you could divide 12 by 3
+	- $12 \div 3 = 4$
+- alternatively you could multiply 12 by $\frac{1}{3}$
+	- $\frac{1}{3} \times 12 = 4$
+- this is because $\frac{1}{3} \times 3 = 1$
+- there is no division operation in matrix arithmetic, but we can use the second method to 'undo' multiplication by a matrix: $$AB=C$$
+- to get B from C, multiply (on the left) by a matrix $A^{-1}$ such that $A^{-1}A=I$
+$$A^{-1}AB=A^{-1}C$$$$IB=A^{-1}C$$
+$$B=A^{-1}C$$
+the matrix $A^{-1}$ is called the inverse matrix.
+#### how to find the inverse matrix
+- given a matrix A, how do you find the inverse matrix $A^{-1}$
+- messy process:
+	- $2 \times 2$ case:
+	- let: $$A=\begin{pmatrix}
+a&amp;b\\c&amp;d
+\end{pmatrix}$$
+	- we need to find the matrix $$A^{-1}=\begin{pmatrix}
+w&amp;x\\y&amp;z
+\end{pmatrix}$$
+	- preferably with $w,x,y$ and $z$ given in terms of $a,b,c$ and $d$.
+	- we know that $A\times A^{-1}=I$
+	- blah blah blah rearrange expression you get (for the 2x2 case)
+	- $w=\frac{d}{ad-bc}$ and blah blah for x, y, z
+- therefore: for $$A=\begin{pmatrix}
+a&amp;b\\c&amp;d
+\end{pmatrix},A^{-1}=\frac{1}{ad-bc}\begin{pmatrix}
+d&amp;-b\\-c&amp;a
+\end{pmatrix}$$
+#### (ad-bc) is the **determinant** of A, written det A or $\mid A\mid$
+- it is possible that $\frac{1}{ad-bc}=0$
+- a matrix with an inverse is **invertible**.
+- a matrix with no inverse is **singular** (or just **non-invertible** lol)
+
+## Recap
+- multiplicative identity matrix
+	- always a square, and when it is multiplied to a given matrix, the matrix remains unchanged.
+- the inverse of a given matrix has the property of multiplying the given matrix to gain the identity matrix.
+- to find the inverse of a 2x2 matrix
+- for $$A=\begin{pmatrix}
+a&amp;b\\c&amp;d
+\end{pmatrix},A^{-1}=\frac{1}{ad-bc}\begin{pmatrix}
+d&amp;-b\\-c&amp;a
+\end{pmatrix}$$ 
+- there may be a case where an inverse does not exist, which is where $\frac{1}{ad-bc}=0$
+
+## solving a system of a linear equation (using matrices)
+- x-y = 7
+- 2x + 3y = 4
+- you can extrapolate both systems into a linear equation (using coefficients)
+$$\begin{bmatrix}
+1&amp;-1\\2&amp;3
+\end{bmatrix}\begin{bmatrix}
+x\\y
+\end{bmatrix}=\begin{bmatrix}
+7\\4
+\end{bmatrix}$$
+ie coefficient matrix A x variable matrix = constant matrix
+the aim is to convert to the form: $$\begin{bmatrix}
+x\\y
+\end{bmatrix}=\begin{bmatrix}
+a\\b
+\end{bmatrix}$$
+where $a$ and $b$ are the solutions
+
+### method
+pre-multiply both sides by $A^{-1}$
+$$A^{-1}\begin{bmatrix}
+1&amp;-1\\2&amp;3
+\end{bmatrix}\begin{bmatrix}
+x\\y
+\end{bmatrix}=A^{-1}\begin{bmatrix}
+7\\4
+\end{bmatrix}$$
+$$I\begin{bmatrix}
+x\\y
+\end{bmatrix}=\begin{bmatrix}
+x\\y
+\end{bmatrix}=A^{-1}\begin{bmatrix}
+7\\4
+\end{bmatrix}$$
+$$A^{-1}=\frac{1}{5}\begin{bmatrix}
+3&amp;1\\-2&amp;1
+\end{bmatrix}$$
+$$\begin{bmatrix}
+x\\y
+\end{bmatrix}=A^{-1}\begin{bmatrix}
+7\\4
+\end{bmatrix}=\frac{1}{5}\begin{bmatrix}
+3&amp;1\\-2&amp;1
+\end{bmatrix}\begin{bmatrix}
+7\\4
+\end{bmatrix}$$
+$$=\frac{1}{5}\begin{bmatrix}
+25\\-10
+\end{bmatrix}=\begin{bmatrix}
+5\\-2
+\end{bmatrix}$$
+## matrix arithmetic
+- recall that simulations solutions in 2 variables can have (lines intercept in one point)
+- no solutions, or (lines parallel
+- infinitely many solutions (lines coincident))
+- if a coefficient matrix is non-invertible, it could either have no solutions, or infinitely many solutions.
+
+## Matrices Transformation
+- Shear: **not a part of the actual syllabus** ( i think ? ), but we are learning anyways.
+- Transformation in the 2D plane r ways of systematically changing points P = (x, y) to points P' = (x', y') (e.g. (2, 5) reflected through the y-axis is (-2, 5))
+	- you can describe these transformation by multiplying it by a 2x2 matrix.
+- First P = (x, y) is written as a column matrix $\begin{bmatrix} x\\y\end{bmatrix}$ 
+### basic idea
+- start with (2, 3), to transform with $T=\begin{pmatrix} 1 &amp; -2 \\ 3 &amp; 1 \end{pmatrix}$:
+- $\begin{pmatrix} 1&amp;-2\\3&amp;1 \end{pmatrix}\begin{pmatrix} 2\\3 \end{pmatrix}=\begin{pmatrix} -4\\9 \end{pmatrix}$
+- so **(2, 3)** gets transformed to **(-4, 9)**
+- translation is not a linear transformation, because it does not satisfy the linear transformation's definition of &quot;the origin has to stay where it is&quot;, where if you translate the entire plane, the origin will move as well.
+- reflection is only a linear transformation if it is on the line of the origin, otherwise the position of the origin is changed.
+### how to find what kind of transformation a transformation matrix is (top secret pro tip 99.95% of matrix solvers dont know about)
+- say you have the transformation matrix $\begin{bmatrix} 3&amp;0\\0&amp;1 \end{bmatrix}$, take the arbitrary values of x and y and apply the transformation on it. $$\begin{bmatrix} 3&amp;0\\0&amp;1 \end{bmatrix}\begin{bmatrix} x\\y \end{bmatrix}=\begin{bmatrix} 3x\\y \end{bmatrix}$$
+
+## Transformation Matrices: Ultimate Guide
+- Take the identity matrix $$\begin{bmatrix} 1&amp;0\\0&amp;1 \end{bmatrix}$$
+- if you change $a$ in $\begin{bmatrix} a&amp;0\\0&amp;1 \end{bmatrix}$, if $a>0$, horizontal dilation by $a$, if $a&lt;0$, reflection through y-axis combined with a horizontal dilation by a factor of $|a|$
+- if you change $b$ in $\begin{bmatrix} 1&amp;b\\0&amp;1 \end{bmatrix}$, a horizontal shear occurs, where the transformation is dependent on how far away the point is from the x-axis.
+-  if you change $c$ in $\begin{bmatrix} 1&amp;0\\c&amp;1 \end{bmatrix}$, a vertical shear occurs, where the transformation is dependent on how far away the point is from the y-axis.
+-  if you change $d$ in $\begin{bmatrix} 1&amp;0\\0&amp;d \end{bmatrix}$, if $d>0$, vertical dilation by $d$, if $d&lt;0$, reflection through x-axis combined with a horizontal dilation by a factor of $|d|$
+
+## Rotation
+- observe that for a given matrix $A=\begin{bmatrix} a &amp; b \\ c &amp; d \end{bmatrix}$, the following is true: 
+$$\begin{bmatrix} a&amp;b\\c&amp;d \end{bmatrix}\begin{bmatrix} 1\\0 \end{bmatrix}=\begin{bmatrix} a\\c \end{bmatrix}$$
+$$\begin{bmatrix} a&amp;b\\c&amp;d \end{bmatrix}\begin{bmatrix} 0\\1 \end{bmatrix}=\begin{bmatrix} b\\d \end{bmatrix}$$
+- if you know where the two points $\begin{bmatrix} 1 \\ 0 \end{bmatrix}$ and $\begin{bmatrix} 0 \\ 1 \end{bmatrix}$ lands, you can identify the rotation.
+in a 90 degree rotation:
+- $\begin{bmatrix} 1 \\ 0 \end{bmatrix}$ lands on $\begin{bmatrix} 0 \\ -1 \end{bmatrix}$
+- $\begin{bmatrix} 0 \\ 1 \end{bmatrix}$ lands on $\begin{bmatrix} 1 \\ 0 \end{bmatrix}$
+- therefore the transformation matrix maps out to be: $\begin{bmatrix} 0 &amp; 1 \\ -1 &amp; 0 \end{bmatrix}$
+
+## HOW TO: Matrices for Arbitrary Reflections and Rotations (WTF!!!!)
+### general rotation
+- rotate a unit by $\frac{\pi}{3}\degree$, the transformation matrix would be $\begin{bmatrix} 0.5 &amp; -0.866 \\ 0.866 &amp; 0.5 \end{bmatrix}$.
+	- interesting. but what is the pattern here?
+	- let's go back to what we learnt prior, and define the transformation matrix as transformations of $\begin{bmatrix} 0 \\ 1 \end{bmatrix}$ and $\begin{bmatrix}  1 \\ 0 \end{bmatrix}$
+- the point $A=(1,0)$ would be transformed to $A'=(\cos \theta,\sin \theta)$
+- the point $C = (0,1)$ would be transformed to $C' = (-\sin \theta,\cos \theta)$
+- looks better with a graph - no wifi rn so just google &quot;a general rotation about the origin graph for matrices&quot; maybe comes up with a result lol xDDD ^\_^
+THEREFORE IT WOULD MAP TO
+$$\begin{bmatrix} \cos \theta &amp; -\sin \theta \\ \sin \theta &amp; \cos \theta \end{bmatrix}$$ where $\theta$ is an anti-clockwise rotation about the origin.
+- THIS IS IN THE FORMULA BOOKLET! - NO NEED TO MEMORISE IT 8)
+
+### general reflection
+- once again, we need to find where the points A (1, 0) and B (0, 1) ends up after a reflection.
+- search up &quot;general reflection in a line that passes through the origin graph proof matrices&quot; for a graph.
+- the angle made with the x axis is twice the angle of the line of reflection (looks more obvious when you look at it), therefore (1, 0) maps to $(\cos 2\theta, \sin 2 \theta)$
+- C (0, 1) maps to $(\sin 2 \theta, - \cos 2 \theta)$ (wow!)
+therefore the matrix for reflection is: $$\begin{bmatrix} \cos 2 \theta &amp; \sin 2 \theta \\ \sin 2 \theta &amp; - \cos 2 \theta \end{bmatrix}$$ where the reflection is in the line $y = x \tan \theta$
+- once again, this is in the formula sheet, no need to memorise it.
+
+## transformation matrices: combining transformation
+- consider $A = \begin{bmatrix} 3 &amp; 0 \\ 0 &amp; 1 \end{bmatrix}$ (dilation by 3) and $B = \begin{bmatrix} 0 &amp; -1 \\ 1 &amp; 0 \end{bmatrix}$ (rotation $90\degree$ anti-clockwise around origin)
+- how do you find the single transformation matrices that follows the transformation of A proceeded by B?
+	- matrix multiplication.
+- say you have the arbitrary values $\begin{bmatrix} x \\ y \end{bmatrix}$, and it is transformed by A, then we get $A \begin{bmatrix} x \\ y \end{bmatrix}$
+- then multiplying $A \begin{bmatrix}  x \\ y \end{bmatrix}$ by B changes $A \begin{bmatrix}  x \\ y \end{bmatrix}$ to $B(A \begin{bmatrix}  x \\y \end{bmatrix})$ which equals $BA \begin{bmatrix} x \\ y \end{bmatrix}$
+>[!Warning]
+> 
+>NOTE THAT MULTIPLICATION IS IN REVERSE ORDER **A -> B** IS **BA**
+
+## transformations of lines
+- all points on the line $y=2x-3$ are transformed by the matrix $\begin{bmatrix} 1 &amp; 2 \\ 1 &amp; 0 \end{bmatrix}$. Find the equation of the image line.
+	- let $(a,2a-3)$ be a point on the line $y=2x-3$
+	- then $\begin{bmatrix} 1 &amp; 2 \\ 1 &amp; 0 \end{bmatrix} \begin{bmatrix}  a \\ 2a - 3 \end{bmatrix}=\begin{bmatrix} a + 4a - 6 \\ a \end{bmatrix}$
+	- $= \begin{bmatrix} 5a - 6 \\ a \end{bmatrix}$
+	- the image of $(a,b)$ is $(x,y)$, where $x = 5a - 6$ and $y=a$.
+	- but $x = 5y - 6$,
+	- $y=\frac{x+6}{5}=\frac{1}{5}x+\frac{6}{5}$</span></div></article></div><div class="right sidebar"><div class="graph"><h3>Graph View</h3><div class="graph-outer"><div id="graph-container" data-cfg="{&quot;drag&quot;:true,&quot;zoom&quot;:true,&quot;depth&quot;:1,&quot;scale&quot;:1.1,&quot;repelForce&quot;:0.5,&quot;centerForce&quot;:0.3,&quot;linkDistance&quot;:30,&quot;fontSize&quot;:0.6,&quot;opacityScale&quot;:1}"></div><svg version="1.1" id="global-graph-icon" xmlns="http://www.w3.org/2000/svg" xmlnsXlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 55 55" fill="currentColor" xmlSpace="preserve"><path d="M49,0c-3.309,0-6,2.691-6,6c0,1.035,0.263,2.009,0.726,2.86l-9.829,9.829C32.542,17.634,30.846,17,29,17
+	s-3.542,0.634-4.898,1.688l-7.669-7.669C16.785,10.424,17,9.74,17,9c0-2.206-1.794-4-4-4S9,6.794,9,9s1.794,4,4,4
+	c0.74,0,1.424-0.215,2.019-0.567l7.669,7.669C21.634,21.458,21,23.154,21,25s0.634,3.542,1.688,4.897L10.024,42.562
+	C8.958,41.595,7.549,41,6,41c-3.309,0-6,2.691-6,6s2.691,6,6,6s6-2.691,6-6c0-1.035-0.263-2.009-0.726-2.86l12.829-12.829
+	c1.106,0.86,2.44,1.436,3.898,1.619v10.16c-2.833,0.478-5,2.942-5,5.91c0,3.309,2.691,6,6,6s6-2.691,6-6c0-2.967-2.167-5.431-5-5.91
+	v-10.16c1.458-0.183,2.792-0.759,3.898-1.619l7.669,7.669C41.215,39.576,41,40.26,41,41c0,2.206,1.794,4,4,4s4-1.794,4-4
+	s-1.794-4-4-4c-0.74,0-1.424,0.215-2.019,0.567l-7.669-7.669C36.366,28.542,37,26.846,37,25s-0.634-3.542-1.688-4.897l9.665-9.665
+	C46.042,11.405,47.451,12,49,12c3.309,0,6-2.691,6-6S52.309,0,49,0z M11,9c0-1.103,0.897-2,2-2s2,0.897,2,2s-0.897,2-2,2
+	S11,10.103,11,9z M6,51c-2.206,0-4-1.794-4-4s1.794-4,4-4s4,1.794,4,4S8.206,51,6,51z M33,49c0,2.206-1.794,4-4,4s-4-1.794-4-4
+	s1.794-4,4-4S33,46.794,33,49z M29,31c-3.309,0-6-2.691-6-6s2.691-6,6-6s6,2.691,6,6S32.309,31,29,31z M47,41c0,1.103-0.897,2-2,2
+	s-2-0.897-2-2s0.897-2,2-2S47,39.897,47,41z M49,10c-2.206,0-4-1.794-4-4s1.794-4,4-4s4,1.794,4,4S51.206,10,49,10z"></path></svg></div><div id="global-graph-outer"><div id="global-graph-container" data-cfg="{&quot;drag&quot;:true,&quot;zoom&quot;:true,&quot;depth&quot;:-1,&quot;scale&quot;:0.9,&quot;repelForce&quot;:0.5,&quot;centerForce&quot;:0.3,&quot;linkDistance&quot;:30,&quot;fontSize&quot;:0.6,&quot;opacityScale&quot;:1}"></div></div></div><div class="backlinks"><h3>Backlinks</h3><ul class="overflow"><li><a href="../../../notes/AE/SPECIALIST/specialist" class="internal">specialist</a></li></ul></div></div></div><footer><hr/><p>Created with <a href="https://quartz.jzhao.xyz/">Quartz v4.0.10</a>, © 2023</p><ul><li><a href="https://github.com/jackyzha0/quartz">GitHub</a></li><li><a href="https://discord.gg/cRFFHYye7t">Discord Community</a></li></ul></footer></div></body><script type="application/javascript">// quartz/components/scripts/quartz/components/scripts/callout.inline.ts
+function toggleCallout() {
+  const outerBlock = this.parentElement;
+  outerBlock.classList.toggle(`is-collapsed`);
+  const collapsed = outerBlock.classList.contains(`is-collapsed`);
+  const height = collapsed ? this.scrollHeight : outerBlock.scrollHeight;
+  outerBlock.style.maxHeight = height + `px`;
+  let current = outerBlock;
+  let parent = outerBlock.parentElement;
+  while (parent) {
+    if (!parent.classList.contains(`callout`)) {
+      return;
+    }
+    const collapsed2 = parent.classList.contains(`is-collapsed`);
+    const height2 = collapsed2 ? parent.scrollHeight : parent.scrollHeight + current.scrollHeight;
+    parent.style.maxHeight = height2 + `px`;
+    current = parent;
+    parent = parent.parentElement;
+  }
+}
+function setupCallout() {
+  const collapsible = document.getElementsByClassName(
+    `callout is-collapsible`
+  );
+  for (const div of collapsible) {
+    const title = div.firstElementChild;
+    if (title) {
+      title.removeEventListener(`click`, toggleCallout);
+      title.addEventListener(`click`, toggleCallout);
+      const collapsed = div.classList.contains(`is-collapsed`);
+      const height = collapsed ? title.scrollHeight : div.scrollHeight;
+      div.style.maxHeight = height + `px`;
+    }
+  }
+}
+document.addEventListener(`nav`, setupCallout);
+window.addEventListener(`resize`, setupCallout);
+</script><script type="module">
+          import mermaid from 'https://cdn.jsdelivr.net/npm/mermaid/dist/mermaid.esm.min.mjs';
+          const darkMode = document.documentElement.getAttribute('saved-theme') === 'dark'
+          mermaid.initialize({ 
+            startOnLoad: false,
+            securityLevel: 'loose',
+            theme: darkMode ? 'dark' : 'default'
+          });
+          document.addEventListener('nav', async () => {
+            await mermaid.run({
+              querySelector: '.mermaid'
+            })
+          });
+          </script><script src="https://cdn.jsdelivr.net/npm/katex@0.16.7/dist/contrib/copy-tex.min.js" type="application/javascript"></script><script type="application/javascript">
+          const socket = new WebSocket('ws://localhost:3001')
+          socket.addEventListener('message', () => document.location.reload())
+        </script><script src="../../../postscript.js" type="module"></script></html>
