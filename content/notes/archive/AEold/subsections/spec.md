@@ -9,7 +9,7 @@ title: "spec masterlist"
 #### Term 1
 - [T1W3L2](notes/archive/AEold/specialist/lessonnotes/T1W3L2.md)
 - [T1W3L3](notes/archive/AEold/specialist/lessonnotes/T1W3L3.md)
-- [T1W5L?: idk fix this thing](notes/archive/AEold/specialist/lessonnotes/T1W5L?.md)
+- [T1W5L?: idk fix this thing](notes/archive/AEold/specialist/lessonnotes/T1W5L1.md)
 ##### Vectors
 - [T1W6L2: Vectors](notes/archive/AEold/specialist/lessonnotes/T1W6L2.md)
 - [T1W6L3: Vectors Continued](notes/archive/AEold/specialist/lessonnotes/T1W6L3.md)

@@ -661,6 +661,20 @@
       "modifiedDate": 1686103273369,
       "sizeInBytes": 160
     },
+    "notes/archive/AEold/specialist/lessonnotes/T1W5L1.md": {
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 31,
+      "pageCount": 0.10333333333333333,
+      "characterCount": 157,
+      "nonWhitespaceCharacterCount": 123,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1677650390845,
+      "modifiedDate": 1678760497838,
+      "sizeInBytes": 180
+    },
     "notes/archive/AEold/specialist/lessonnotes/T2W3L2.md": {
       "isDirectory": false,
       "noteCount": 1,
@@ -870,20 +884,6 @@
       "createdDate": 1678154496105,
       "modifiedDate": 1678670139134,
       "sizeInBytes": 1358
-    },
-    "notes/archive/AEold/specialist/lessonnotes/T1W5L?.md": {
-      "isDirectory": false,
-      "noteCount": 1,
-      "wordCount": 31,
-      "pageCount": 0.10333333333333333,
-      "characterCount": 157,
-      "nonWhitespaceCharacterCount": 123,
-      "linkCount": 0,
-      "embedCount": 0,
-      "aliases": null,
-      "createdDate": 1677650390845,
-      "modifiedDate": 1678760497838,
-      "sizeInBytes": 180
     },
     "notes/archive/AEold/specialist/lessonnotes/T1W3L3.md": {
       "isDirectory": false,
@@ -2372,16 +2372,16 @@
     "notes/AE/ENGLISH/goodAnswersReview.md": {
       "isDirectory": false,
       "noteCount": 1,
-      "wordCount": 0,
-      "pageCount": 0,
-      "characterCount": 0,
-      "nonWhitespaceCharacterCount": 0,
+      "wordCount": 17,
+      "pageCount": 0.056666666666666664,
+      "characterCount": 99,
+      "nonWhitespaceCharacterCount": 79,
       "linkCount": 0,
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1693310251308,
-      "modifiedDate": 1693310251308,
-      "sizeInBytes": 0
+      "modifiedDate": 1693310293565,
+      "sizeInBytes": 133
     },
     "notes/AE/ENGLISH/timBurton.md": {
       "isDirectory": false,
