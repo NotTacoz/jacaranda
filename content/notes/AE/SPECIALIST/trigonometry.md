@@ -85,3 +85,4 @@ dilations first, followed by translations, provided it is written in the factori
 ### angle sum and difference identities
 - how to prove (or derive) them:
 	- start by deriving cos(A-b) = cosAcosB + sinAsinB
+	- who knows no
