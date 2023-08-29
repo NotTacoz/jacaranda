@@ -1,15 +1,16 @@
-import { joinSegments, pathToRoot } from "../util/path"
-import { JSResourceToScriptElement } from "../util/resources"
-import { QuartzComponentConstructor, QuartzComponentProps } from "./types"
+import { joinSegments, pathToRoot } from "../util/path";
+import { JSResourceToScriptElement } from "../util/resources";
+import { QuartzComponentConstructor, QuartzComponentProps } from "./types";
 
 export default (() => {
   function Head({ cfg, fileData, externalResources }: QuartzComponentProps) {
-    const title = fileData.frontmatter?.title ?? "Untitled"
-    const description = fileData.description?.trim() ?? "No description provided"
-    const { css, js } = externalResources
-    const baseDir = pathToRoot(fileData.slug!)
-    const iconPath = joinSegments(baseDir, "static/icon.png")
-    const ogImagePath = `https://${cfg.baseUrl}/static/og-image.png`
+    const title = fileData.frontmatter?.title ?? "Untitled";
+    const description =
+      fileData.description?.trim() ?? "No description provided";
+    const { css, js } = externalResources;
+    const baseDir = pathToRoot(fileData.slug!);
+    const iconPath = joinSegments(baseDir, "static/icon.png");
+    const ogImagePath = `https://${cfg.baseUrl}/static/og-image.png`;
 
     return (
       <head>
@@ -27,14 +28,20 @@ export default (() => {
         <link rel="preconnect" href="https://fonts.googleapis.com" />
         <link rel="preconnect" href="https://fonts.gstatic.com" />
         {css.map((href) => (
-          <link key={href} href={href} rel="stylesheet" type="text/css" spa-preserve />
+          <link
+            key={href}
+            href={href}
+            rel="stylesheet"
+            type="text/css"
+            spa-preserve
+          />
         ))}
         {js
           .filter((resource) => resource.loadTime === "beforeDOMReady")
           .map((res) => JSResourceToScriptElement(res, true))}
       </head>
-    )
+    );
   }
 
-  return Head
-}) satisfies QuartzComponentConstructor
+  return Head;
+}) satisfies QuartzComponentConstructor;

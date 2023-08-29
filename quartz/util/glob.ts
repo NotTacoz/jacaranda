@@ -1,9 +1,9 @@
-import path from "path"
-import { FilePath } from "./path"
-import { globby } from "globby"
+import path from "path";
+import { FilePath } from "./path";
+import { globby } from "globby";
 
 export function toPosixPath(fp: string): string {
-  return fp.split(path.sep).join("/")
+  return fp.split(path.sep).join("/");
 }
 
 export async function glob(
@@ -17,6 +17,6 @@ export async function glob(
       ignore: ignorePatterns,
       gitignore: true,
     })
-  ).map(toPosixPath)
-  return fps as FilePath[]
+  ).map(toPosixPath);
+  return fps as FilePath[];
 }

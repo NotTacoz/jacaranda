@@ -3,6 +3,7 @@ title: "feedback spec cap 1 XD"
 ---
 
 # haha ha hahahaha
+
 - double check you've answered all the questions (2b)
 - make sure that you come to a conclusion in a proof (end with QED) (4)
 - write where blah blah blah blah is a subset of blah (5)

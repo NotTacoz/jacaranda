@@ -1,20 +1,21 @@
-import { QuartzComponentConstructor } from "./types"
-import style from "./styles/footer.scss"
-import { version } from "../../package.json"
+import { QuartzComponentConstructor } from "./types";
+import style from "./styles/footer.scss";
+import { version } from "../../package.json";
 
 interface Options {
-  links: Record<string, string>
+  links: Record<string, string>;
 }
 
 export default ((opts?: Options) => {
   function Footer() {
-    const year = new Date().getFullYear()
-    const links = opts?.links ?? []
+    const year = new Date().getFullYear();
+    const links = opts?.links ?? [];
     return (
       <footer>
         <hr />
         <p>
-          Created with <a href="https://quartz.jzhao.xyz/">Quartz v{version}</a>, © {year}
+          Created with <a href="https://quartz.jzhao.xyz/">Quartz v{version}</a>
+          , © {year}
         </p>
         <ul>
           {Object.entries(links).map(([text, link]) => (
@@ -24,9 +25,9 @@ export default ((opts?: Options) => {
           ))}
         </ul>
       </footer>
-    )
+    );
   }
 
-  Footer.css = style
-  return Footer
-}) satisfies QuartzComponentConstructor
+  Footer.css = style;
+  return Footer;
+}) satisfies QuartzComponentConstructor;

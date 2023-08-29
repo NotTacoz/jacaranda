@@ -1,7 +1,7 @@
-import { QuartzComponentConstructor } from "./types"
-import style from "./styles/search.scss"
+import { QuartzComponentConstructor } from "./types";
+import style from "./styles/search.scss";
 // @ts-ignore
-import script from "./scripts/search.inline"
+import script from "./scripts/search.inline";
 
 export default (() => {
   function Search() {
@@ -39,11 +39,11 @@ export default (() => {
           </div>
         </div>
       </div>
-    )
+    );
   }
 
-  Search.afterDOMLoaded = script
-  Search.css = style
+  Search.afterDOMLoaded = script;
+  Search.css = style;
 
-  return Search
-}) satisfies QuartzComponentConstructor
+  return Search;
+}) satisfies QuartzComponentConstructor;

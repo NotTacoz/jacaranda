@@ -1,10 +1,10 @@
 text {
-    fill: #aaa;
+  fill: #aaa;
 }
 
 rect:hover {
-    stroke: #555;
-    stroke-width: 0.5px;
+  stroke: #555;
+  stroke-width: 0.5px;
 }
 
 /*
@@ -12,13 +12,13 @@ rect:hover {
 */
 
 .color-empty {
-    fill: var(--background-modifier-border);
+  fill: var(--background-modifier-border);
 }
 
 .color-filled {
-    fill: var(--text-accent);
+  fill: var(--text-accent);
 }
 
 #color-elem {
-    color: var(--text-accent);
+  color: var(--text-accent);
 }

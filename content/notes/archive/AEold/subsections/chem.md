@@ -1,8 +1,11 @@
 ---
 title: "chemistry masterlist"
 ---
+
 [go back](notes/archive/notes.md)
+
 ## Year 11
+
 - [definitions](notes/archive/AEold/chemistry/lessonnotes/DEFINITIONS.md)
 - [atomic structure](notes/archive/AEold/chemistry/lessonnotes/ATOMIC-STRUCTURES.md)
 - [emission spectra](notes/archive/AEold/chemistry/lessonnotes/EMISSION-SPECTRA.md)
@@ -12,6 +15,7 @@ title: "chemistry masterlist"
 - [solubility](notes/archive/AEold/chemistry/notes/solubility.md)
 
 ### Lesson notes
+
 - [T1W4L2](notes/archive/AEold/chemistry/lessonnotes/T1W4L2.md)
 - [T1W5L3](notes/archive/AEold/chemistry/lessonnotes/T1W5L3.md)
 - [T1W6L2](notes/archive/AEold/chemistry/lessonnotes/T1W6L2.md)
@@ -34,8 +38,9 @@ title: "chemistry masterlist"
 - [T2W3L1](notes/archive/AEold/chemistry/lessonnotes/T2W3L1.md)
 
 ### CAP Notes
+
 - [CAP2](notes/archive/AEold/chemistry/testnotes/CAP2.md)
-  
 
 ### Year 10
+
 - [organic chemistry](notes/archive/10/ORGANIC-CHEMISTRY.md)

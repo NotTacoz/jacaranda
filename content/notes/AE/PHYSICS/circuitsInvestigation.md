@@ -109,16 +109,16 @@ The Physics Classroom. (2022). _Electric Circuits - Lesson 4 - Circuit Connectio
 
 **Data**
 
-|   |   |   |   |   |   |   |   |   |
-|---|---|---|---|---|---|---|---|---|
-|GREEN LABELED BATTERIES|   |   |YELLOW LABELED BATTERIES|   |   |RED LABELLED BATTERIES|   |   |
-|**current**|**voltage**|**variable resistance**|**current**|**voltage**|**variable resistance**|**current**|**voltage**|**variable resistance**|
-|0.48|4.74|10|0.47|4.72|10|0.4|4.12|10|
-|0.25|5.11|20|0.25|5.02|20|0.22|4.62|20|
-|0.11|5.35|50|0.11|5.26|50|0.1|4.96|50|
-|0.05|5.45|100|0.06|5.34|100|0.05|5.12|100|
-|0.03|5.5|200|0.03|5.4|200|0.03|5.21|200|
-|0.01|5.55|500|0.01|5.43|500|0.01|5.27|500|
+|                         |             |                         |                          |             |                         |                        |             |                         |
+| ----------------------- | ----------- | ----------------------- | ------------------------ | ----------- | ----------------------- | ---------------------- | ----------- | ----------------------- |
+| GREEN LABELED BATTERIES |             |                         | YELLOW LABELED BATTERIES |             |                         | RED LABELLED BATTERIES |             |                         |
+| **current**             | **voltage** | **variable resistance** | **current**              | **voltage** | **variable resistance** | **current**            | **voltage** | **variable resistance** |
+| 0.48                    | 4.74        | 10                      | 0.47                     | 4.72        | 10                      | 0.4                    | 4.12        | 10                      |
+| 0.25                    | 5.11        | 20                      | 0.25                     | 5.02        | 20                      | 0.22                   | 4.62        | 20                      |
+| 0.11                    | 5.35        | 50                      | 0.11                     | 5.26        | 50                      | 0.1                    | 4.96        | 50                      |
+| 0.05                    | 5.45        | 100                     | 0.06                     | 5.34        | 100                     | 0.05                   | 5.12        | 100                     |
+| 0.03                    | 5.5         | 200                     | 0.03                     | 5.4         | 200                     | 0.03                   | 5.21        | 200                     |
+| 0.01                    | 5.55        | 500                     | 0.01                     | 5.43        | 500                     | 0.01                   | 5.27        | 500                     |
 
 ![A graph of a voltage current
 Description automatically generated with medium confidence](file:////Users/thomas/Library/Group%20Containers/UBF8T346G9.Office/TemporaryItems/msohtmlclip/clip_image015.png)

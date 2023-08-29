@@ -1,11 +1,11 @@
 declare module "*.scss" {
-  const content: string
-  export = content
+  const content: string;
+  export = content;
 }
 
 // dom custom event
 interface CustomEventMap {
-  nav: CustomEvent<{ url: FullSlug }>
+  nav: CustomEvent<{ url: FullSlug }>;
 }
 
-declare const fetchData: Promise<ContentIndex>
+declare const fetchData: Promise<ContentIndex>;

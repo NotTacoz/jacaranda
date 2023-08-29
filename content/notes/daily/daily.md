@@ -3,9 +3,13 @@ title: "daily"
 ---
 
 Daily notes has been discontinued indefinitely. Maybe it will come back.
+
 ## important
+
 - [ucat info](notes/daily/UCAT.md)
+
 ## spam
+
 - [2023-08-15](notes/daily/2023-08-15.md)
 - [2023-08-14](notes/daily/2023-08-14.md)
 - [2023-08-13](notes/daily/2023-08-13.md)

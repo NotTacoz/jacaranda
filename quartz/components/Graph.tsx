@@ -1,23 +1,23 @@
-import { QuartzComponentConstructor } from "./types"
+import { QuartzComponentConstructor } from "./types";
 // @ts-ignore
-import script from "./scripts/graph.inline"
-import style from "./styles/graph.scss"
+import script from "./scripts/graph.inline";
+import style from "./styles/graph.scss";
 
 export interface D3Config {
-  drag: boolean
-  zoom: boolean
-  depth: number
-  scale: number
-  repelForce: number
-  centerForce: number
-  linkDistance: number
-  fontSize: number
-  opacityScale: number
+  drag: boolean;
+  zoom: boolean;
+  depth: number;
+  scale: number;
+  repelForce: number;
+  centerForce: number;
+  linkDistance: number;
+  fontSize: number;
+  opacityScale: number;
 }
 
 interface GraphOptions {
-  localGraph: Partial<D3Config> | undefined
-  globalGraph: Partial<D3Config> | undefined
+  localGraph: Partial<D3Config> | undefined;
+  globalGraph: Partial<D3Config> | undefined;
 }
 
 const defaultOptions: GraphOptions = {
@@ -43,12 +43,12 @@ const defaultOptions: GraphOptions = {
     fontSize: 0.6,
     opacityScale: 1,
   },
-}
+};
 
 export default ((opts?: GraphOptions) => {
   function Graph() {
-    const localGraph = { ...defaultOptions.localGraph, ...opts?.localGraph }
-    const globalGraph = { ...defaultOptions.globalGraph, ...opts?.globalGraph }
+    const localGraph = { ...defaultOptions.localGraph, ...opts?.localGraph };
+    const globalGraph = { ...defaultOptions.globalGraph, ...opts?.globalGraph };
     return (
       <div class="graph">
         <h3>Graph View</h3>
@@ -81,14 +81,17 @@ export default ((opts?: GraphOptions) => {
           </svg>
         </div>
         <div id="global-graph-outer">
-          <div id="global-graph-container" data-cfg={JSON.stringify(globalGraph)}></div>
+          <div
+            id="global-graph-container"
+            data-cfg={JSON.stringify(globalGraph)}
+          ></div>
         </div>
       </div>
-    )
+    );
   }
 
-  Graph.css = style
-  Graph.afterDOMLoaded = script
+  Graph.css = style;
+  Graph.afterDOMLoaded = script;
 
-  return Graph
-}) satisfies QuartzComponentConstructor
+  return Graph;
+}) satisfies QuartzComponentConstructor;

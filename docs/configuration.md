@@ -76,7 +76,7 @@ Additionally, plugins may also have their own configuration settings that you ca
 transformers: [
   Plugin.FrontMatter(), // uses default options
   Plugin.Latex({ renderEngine: "katex" }), // specify some options
-]
+];
 ```
 
 If you'd like to make your own plugins, read the guide on [[making plugins]] for more information.

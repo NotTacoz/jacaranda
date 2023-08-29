@@ -1,6 +1,7 @@
 ---
 title: "notes"
 ---
+
 - [Methods Notes](notes/archive/AEold/subsections/methods.md)
 - [Specialist Notes](notes/archive/AEold/subsections/spec.md)
 - [Chemistry Notes](notes/archive/AEold/subsections/chem.md)

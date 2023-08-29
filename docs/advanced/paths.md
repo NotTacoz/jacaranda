@@ -12,13 +12,13 @@ Luckily, we can mimic nominal typing using [brands](https://www.typescriptlang.o
 
 ```typescript
 // instead of
-type FullSlug = string
+type FullSlug = string;
 
 // we do
-type FullSlug = string & { __brand: "full" }
+type FullSlug = string & { __brand: "full" };
 
 // that way, the following will fail typechecking
-const slug: FullSlug = "some random string"
+const slug: FullSlug = "some random string";
 ```
 
 While this prevents most typing mistakes _within_ our nominal typing system (e.g. mistaking a server slug for a client slug), it doesn't prevent us from _accidentally_ mistaking a string for a client slug when we forcibly cast it.

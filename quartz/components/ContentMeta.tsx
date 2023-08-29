@@ -1,22 +1,22 @@
-import { formatDate, getDate } from "./Date"
-import { QuartzComponentConstructor, QuartzComponentProps } from "./types"
-import readingTime from "reading-time"
+import { formatDate, getDate } from "./Date";
+import { QuartzComponentConstructor, QuartzComponentProps } from "./types";
+import readingTime from "reading-time";
 
 export default (() => {
   function ContentMetadata({ cfg, fileData }: QuartzComponentProps) {
-    const text = fileData.text
+    const text = fileData.text;
     if (text) {
-      const segments: string[] = []
-      const { text: timeTaken, words: _words } = readingTime(text)
+      const segments: string[] = [];
+      const { text: timeTaken, words: _words } = readingTime(text);
 
       if (fileData.dates) {
-        segments.push(formatDate(getDate(cfg, fileData)!))
+        segments.push(formatDate(getDate(cfg, fileData)!));
       }
 
-      segments.push(timeTaken)
-      return <p class="content-meta">{segments.join(", ")}</p>
+      segments.push(timeTaken);
+      return <p class="content-meta">{segments.join(", ")}</p>;
     } else {
-      return null
+      return null;
     }
   }
 
@@ -25,6 +25,6 @@ export default (() => {
     margin-top: 0;
     color: var(--gray);
   }
-  `
-  return ContentMetadata
-}) satisfies QuartzComponentConstructor
+  `;
+  return ContentMetadata;
+}) satisfies QuartzComponentConstructor;

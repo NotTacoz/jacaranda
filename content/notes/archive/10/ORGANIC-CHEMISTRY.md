@@ -1,7 +1,9 @@
 ---
 title: "10 organic chemistry"
 ---
+
 [go back](notes/archive/AEold/subsections/chem.md)
+
 # 10.2 Organic Chemistryඞඞ
 
 Class: 10 SCIENCE
@@ -16,41 +18,37 @@ Type: General Notes
 
 - Energy is the capacity to do work.
 - Can be transformed or transferred
-    - This is where the energy is transformed from one type of energy into another.
+  - This is where the energy is transformed from one type of energy into another.
 
 [https://www.chemistrysteps.com/energy-and-organic-chemistry-reactions/](https://www.chemistrysteps.com/energy-and-organic-chemistry-reactions/)
 
 ## Energy Consumption
 
 - The usage of energy in which energy is transformed and transferred to complete tasks
-    - Everyday examples of energy usage include watching television, washing clothes, heating and lighting the home.
+  - Everyday examples of energy usage include watching television, washing clothes, heating and lighting the home.
 
 ## Direct vs Indirect Energy Usage
 
 - Direct: Energy that is directly converted from one form to another to complete a task.
-    - Petrol in cars.
-    - Burning coal in coal plants generates electricity to power households.
-    - Gas-heated water.
-    
+  - Petrol in cars.
+  - Burning coal in coal plants generates electricity to power households.
+  - Gas-heated water.
 - Indirect: Energy that requires multiple steps to complete a task.
-    - Consuming food for human energy needs that are heated up or cooked from fossil fuel energy.
-    - Burning fossil fuels (coal) generates electricity that powers television and other electronic devices, in which humans consumes as information via light and sound energy.
-    - Transportation of humans to save them potential energy by creating mechanical energy.
-    
-    ## What is Fossil Fuel?
-    
-    - Petroleum, coal and natural gas are natural fuels formed by the remains of living organism which is burned as fuel.
-    
+  - Consuming food for human energy needs that are heated up or cooked from fossil fuel energy.
+  - Burning fossil fuels (coal) generates electricity that powers television and other electronic devices, in which humans consumes as information via light and sound energy.
+  - Transportation of humans to save them potential energy by creating mechanical energy.
+  ## What is Fossil Fuel?
+  - Petroleum, coal and natural gas are natural fuels formed by the remains of living organism which is burned as fuel.
 
 ### Formation Process of Crude Oil (Fossil Fuels)
 
-→ Microscopic ORGANIC plankton/phytoplankton in ocean photosynthesises 
+→ Microscopic ORGANIC plankton/phytoplankton in ocean photosynthesises
 
-→ The organisms die and fall to the bottom of the ocean where they are covered by sediment 
+→ The organisms die and fall to the bottom of the ocean where they are covered by sediment
 
-→ Layers of heavy sediment cause compaction (pressure) and are subjected to high temperature 
+→ Layers of heavy sediment cause compaction (pressure) and are subjected to high temperature
 
-→ Millions of years 
+→ Millions of years
 
 → Crude oil and Natural Gas forms
 
@@ -60,11 +58,11 @@ Type: General Notes
 
 → Ancient swamp forests photosynthesise
 
-→ The organisms die and fall to the bottom of the forest floor where they are covered by sediment 
+→ The organisms die and fall to the bottom of the forest floor where they are covered by sediment
 
-→ Layers of heavy sediment cause compaction (pressure) and are subjected to high temperature 
+→ Layers of heavy sediment cause compaction (pressure) and are subjected to high temperature
 
-→ Millions of years 
+→ Millions of years
 
 → Coal forms
 
@@ -110,32 +108,32 @@ Such as:
 ## Fractional Distillation
 
 - Crude oil is an exceptionally valuable resource.
-    - Properties of a Black, Viscous, Thick and oozy liquid mixture.
-    - It is a mixture of many different hydrocarbons compounds.
-        - Hydrocarbon compounds contain different chain lengths.
-            - Intermolecular forces are forces ***between*** molecules
-                - The greater the number of molecules (hence having a longer chain), the greater the intermolecular force.
-                - Hydrocarbons with shorter chains have weaker intermolecular force.
-                - Less energy is to break/pull the shorter chained hydrocarbons. Vice versa.
-                    - The process of breaking is evaporation of the chains, by turning it from liquid to gas.
-                    - Heat energy is used to break apart the hydrocarbons.
-                    - A higher temperature is required to break apart longer chained hydrocarbons.
-            - Intramolecular forces are forces ***in*** molecules
+  - Properties of a Black, Viscous, Thick and oozy liquid mixture.
+  - It is a mixture of many different hydrocarbons compounds.
+    - Hydrocarbon compounds contain different chain lengths.
+      - Intermolecular forces are forces **_between_** molecules
+        - The greater the number of molecules (hence having a longer chain), the greater the intermolecular force.
+        - Hydrocarbons with shorter chains have weaker intermolecular force.
+        - Less energy is to break/pull the shorter chained hydrocarbons. Vice versa.
+          - The process of breaking is evaporation of the chains, by turning it from liquid to gas.
+          - Heat energy is used to break apart the hydrocarbons.
+          - A higher temperature is required to break apart longer chained hydrocarbons.
+      - Intramolecular forces are forces **_in_** molecules
 - Fractional Distillation is a separation process based on differing boiling points of different fractions.
-    - Fraction: A group of crude oil constituents that has a similar boiling point.
-    - $\therefore$
+  - Fraction: A group of crude oil constituents that has a similar boiling point.
+  - $\therefore$
 - Through this, it provides Hydrocarbons, which is used to manufacture many different chemicals and even plastics.
 
 ## Fractional Distillation in Steps
 
 1. In a furnace, the crude oil is heated up to a very high temperature.
 2. The hot oil, now mostly in vapour form is pumped into the **fractionating column**.
-    1. The fractionating column has a heat gradient.
-        1. Hot at the bottom, Cool at the top.
+   1. The fractionating column has a heat gradient.
+      1. Hot at the bottom, Cool at the top.
 3. Hydrocarbons rise through the **fractionating column** (as gas) making their way through bubble caps in each tray.
 4. Depending on the boiling point, hydrocarbons will get to a same level in the **fractioning column, condense**, and be collected in a **fractionating tray** outside the column.
-    1. The fractionating tray is a tray of hydrocarbons that has condensed at the same temperature
-    2. Same boiling point hydrocarbons will have the same temperature where their chains are converted from liquid to gas.
+   1. The fractionating tray is a tray of hydrocarbons that has condensed at the same temperature
+   2. Same boiling point hydrocarbons will have the same temperature where their chains are converted from liquid to gas.
 5. Hydrocarbons with similar boiling point are collected in the same try and become one fraction.
 
 TL:DR; Crude oil is a mixture of important hydrocarbons, and fractional distillation is the method used to separate the hydrocarbons in crude oil. Hydrocarbons move up the **fractionating column**, until each fraction turns into their respective liquid.
@@ -143,17 +141,17 @@ TL:DR; Crude oil is a mixture of important hydrocarbons, and fractional distilla
 ## Usage of different hydrocarbon fractions
 
 - Petrol
-    - Fuel for cars.
+  - Fuel for cars.
 - Naptha
-    - Essential ingredient for plastic, and other plastics.
+  - Essential ingredient for plastic, and other plastics.
 - Kerosine
-    - Aircraft fuel.
+  - Aircraft fuel.
 - Diesel
-    - Cars or vans.
+  - Cars or vans.
 - Bitumen
-    - A mixture of large chained hydrocarbons used to lay road.
+  - A mixture of large chained hydrocarbons used to lay road.
 - Butane
-    - The gas that comes out of gas taps in the school classrooms.
+  - The gas that comes out of gas taps in the school classrooms.
 
 ## Alkanes, alkenes, alkynes, cycloalkanes, cycloalkenes
 
@@ -174,10 +172,8 @@ Propyl $C_3H_7$
 
 - Question: Compare saturated and unsaturated hydrocarbons
 - Answer: Each carbon atom bonds with the maximum number of hydrogen atoms in a saturated Hydrocarbon.
-    - Compared to, an unsaturated hydrocarbon, where less than the maximum amount of hydrogen is bonded to carbons.
-        
-        Saturated hydrocarbons are relatively unreactive. Unsaturated hydrocarbons are relatively reactive.
-        
+  - Compared to, an unsaturated hydrocarbon, where less than the maximum amount of hydrogen is bonded to carbons.
+    Saturated hydrocarbons are relatively unreactive. Unsaturated hydrocarbons are relatively reactive.
 
 Molecular Formula: $C_nH_{2n+1}$
 
@@ -188,13 +184,13 @@ Molecular Formula: $C_nH_{2n+1}$
 
 **Numbering** System
 
-1. Methane 
-2. Ethane 
-3. Propane 
-4. Butane 
-5. Pentane 
-6. Hexane 
-7. Heptane 
+1. Methane
+2. Ethane
+3. Propane
+4. Butane
+5. Pentane
+6. Hexane
+7. Heptane
 8. Octane
 
 Molecular Formula: $C_nH_{2n+2}$
@@ -203,7 +199,7 @@ Molecular Formula: $C_nH_{2n+2}$
 
 - Alkenes make up a family of hydrocarbons that each contain one double bond between two carbon atoms
 - Unsaturated Hydrocarbons
-    - C=C double bond
+  - C=C double bond
 - The double bond is the functional group of the Alkene homologous
 
 Molecular Formula: $C_nH_{2n}$
@@ -235,7 +231,7 @@ Molecular formula: $C_nH_{2n-2}$
 
 - A Cycloalkane is a ring of carbon atoms.
 - Only contain carbon-hydrogen bonds and carbon-carbon bonds.
-    - Carbons are joint in a ring.
+  - Carbons are joint in a ring.
 - The smallest cycloalkane is cyclopropane
 
 Molecular Formula: $C_nH_{2n}$
@@ -269,14 +265,14 @@ m = number of double bonds
 - Simplest class
 - Each carbon atom is bonded to as many hydrogen atoms as possible.
 - Properties:
-    - Relatively unreactive, apart from interaction with oxygen in the air in case of combustion
+  - Relatively unreactive, apart from interaction with oxygen in the air in case of combustion
 
 ### Unsaturated
 
 - Hydrocarbons contain multiple bonds between carbon atoms such as Alkenes and Alkynes.
 - Carbon atoms are bonded to less fewerogen atoms.
 - Properties:
-    - Relatively more reactive.
+  - Relatively more reactive.
 
 ## Molecular, condensed and structural formulae of hydrocarbons.
 
@@ -291,6 +287,7 @@ $C_2H_6$
 Ethane:
 
       H   H
+
 H - C - C - C
 
       H   H
@@ -311,17 +308,17 @@ $2(CH_3)$
 ### Use IUPAC naming system to name structural isomers.
 
 1. Find the parent chain
-    1. Parent chain: longest continous chain of carbon atoms in the molecule.
+   1. Parent chain: longest continous chain of carbon atoms in the molecule.
 2. Number the carbon atoms in the parent chain.
-    - For Alkanes: the direction in which the branches is closest to the edge (smallest number).
-    - For Alkenes: the direction in which the C=C is closest to the edge (smallest number).
+   - For Alkanes: the direction in which the branches is closest to the edge (smallest number).
+   - For Alkenes: the direction in which the C=C is closest to the edge (smallest number).
 3. Substituents
-    1. Atoms attached to the parent chain.
-    2. Name of the alyl groups.
-    3. Substituents name also contains the position. E.g. 3-methyl and 5-ethyl substituents.
-        1. This uses the numbering from the direction in step 2.
+   1. Atoms attached to the parent chain.
+   2. Name of the alyl groups.
+   3. Substituents name also contains the position. E.g. 3-methyl and 5-ethyl substituents.
+      1. This uses the numbering from the direction in step 2.
 4. Use a prefix to indicate the appearance of more than one of the same substituent
-    1. 2: Di, 3: Tri, 4; Tetra.
+   1. 2: Di, 3: Tri, 4; Tetra.
 5. Substituents are listed in alphabetical order of the prefix
 6. Commas are used to seperate multiple numbers. Hyphenes coome between the name and the number of a substitent. The parent name comes immediately after the last substituent. There are no blank spaces in the name.
 
@@ -357,15 +354,14 @@ Ranked in terms of highest relatively physical burning and melting points.
 Melting & Boiling Point
 
 - Alkynes have a relatively higher physical burning and melting point than Alkanes.
-    - $C_nH_{2n-2}$
-    
+  - $C_nH_{2n-2}$
 
 ### Alkanes
 
 Melting & Boiling Point
 
 - Alkanes have a relatively higher physical burning and melting point than Alkenes.
-    - $C_nH_{2n}$
+  - $C_nH_{2n}$
 
 Viscosity
 
@@ -380,9 +376,8 @@ Flammability
 ### Alkenes
 
 - Alkenes have a relatively lower physical burning and melting point than Alkanes.
-    - This is due to the different levels of intermolecular forces of attraction between the molecules of the hydrocarbon
-    - $C_nH_{2n+2}$
-    
+  - This is due to the different levels of intermolecular forces of attraction between the molecules of the hydrocarbon
+  - $C_nH_{2n+2}$
 
 ## Outcomes of Complete and Incomplete Combustion Formulas
 

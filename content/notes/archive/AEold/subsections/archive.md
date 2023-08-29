@@ -6,10 +6,8 @@ title: "archive: all the orphans i forgot to link"
 
 SPECIALIST
 
-
 PHYSICS
 
 ENGLISH
-
 
 CHEMISTRY

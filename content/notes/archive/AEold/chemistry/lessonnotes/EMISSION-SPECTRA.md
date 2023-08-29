@@ -1,15 +1,20 @@
 ---
 title: "emission spectra"
 ---
+
 based on the stawa book lol
+
 # experiment 9: emission spectra
+
 - spectroscopy works on the principle that substances absorb energy and emit energy as EMR (electromagnetic radiation).
 - the radiation is absorbed or emitted in bundles (protons). what is a bundle lmao
-	- radiation frequency wavelength corresponds to colours, and is specific to the atoms that make up the substance.
+  - radiation frequency wavelength corresponds to colours, and is specific to the atoms that make up the substance.
 - when an element is heated the electrons in their ground state absorb energy and move to higher energy levels.
 - when they return to lower energy levels, energy is emitted as light.
-	- light can be seen as distinct colours.
+  - light can be seen as distinct colours.
+
 ## procedure
+
 1. the substance is vaporised, and put into a discharge tube.
 2. an electric discharge is passed through the tube. electrons in the discharge excite other electrons by transferring kinetic energy during collision, then deflecting and losing energy.
 3. the electrons are excited to a higher energy state (as it has experience an increase in energy exactly equal to E2-E1)
@@ -20,6 +25,7 @@ based on the stawa book lol
 8. it takes the form of coloured lines on a black background.
 9. because all elements have a unique spectra, we can identify the elements based on this.
 
-related: 
+related:
+
 - [atomic structures](notes/archive/AEold/chemistry/lessonnotes/ATOMIC-STRUCTURES.md)
 - [flame test](notes/archive/AEold/chemistry/lessonnotes/FLAME-TEST.md)

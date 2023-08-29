@@ -1,32 +1,32 @@
-import { FilePath, FullSlug } from "../../util/path"
-import { QuartzEmitterPlugin } from "../types"
+import { FilePath, FullSlug } from "../../util/path";
+import { QuartzEmitterPlugin } from "../types";
 
 // @ts-ignore
-import spaRouterScript from "../../components/scripts/spa.inline"
+import spaRouterScript from "../../components/scripts/spa.inline";
 // @ts-ignore
-import plausibleScript from "../../components/scripts/plausible.inline"
+import plausibleScript from "../../components/scripts/plausible.inline";
 // @ts-ignore
-import popoverScript from "../../components/scripts/popover.inline"
-import styles from "../../styles/base.scss"
-import popoverStyle from "../../components/styles/popover.scss"
-import { BuildCtx } from "../../util/ctx"
-import { StaticResources } from "../../util/resources"
-import { QuartzComponent } from "../../components/types"
-import { googleFontHref, joinStyles } from "../../util/theme"
-import { Features, transform } from "lightningcss"
+import popoverScript from "../../components/scripts/popover.inline";
+import styles from "../../styles/base.scss";
+import popoverStyle from "../../components/styles/popover.scss";
+import { BuildCtx } from "../../util/ctx";
+import { StaticResources } from "../../util/resources";
+import { QuartzComponent } from "../../components/types";
+import { googleFontHref, joinStyles } from "../../util/theme";
+import { Features, transform } from "lightningcss";
 
 type ComponentResources = {
-  css: string[]
-  beforeDOMLoaded: string[]
-  afterDOMLoaded: string[]
-}
+  css: string[];
+  beforeDOMLoaded: string[];
+  afterDOMLoaded: string[];
+};
 
 function getComponentResources(ctx: BuildCtx): ComponentResources {
-  const allComponents: Set<QuartzComponent> = new Set()
+  const allComponents: Set<QuartzComponent> = new Set();
   for (const emitter of ctx.cfg.plugins.emitters) {
-    const components = emitter.getQuartzComponents(ctx)
+    const components = emitter.getQuartzComponents(ctx);
     for (const component of components) {
-      allComponents.add(component)
+      allComponents.add(component);
     }
   }
 
@@ -34,18 +34,18 @@ function getComponentResources(ctx: BuildCtx): ComponentResources {
     css: new Set<string>(),
     beforeDOMLoaded: new Set<string>(),
     afterDOMLoaded: new Set<string>(),
-  }
+  };
 
   for (const component of allComponents) {
-    const { css, beforeDOMLoaded, afterDOMLoaded } = component
+    const { css, beforeDOMLoaded, afterDOMLoaded } = component;
     if (css) {
-      componentResources.css.add(css)
+      componentResources.css.add(css);
     }
     if (beforeDOMLoaded) {
-      componentResources.beforeDOMLoaded.add(beforeDOMLoaded)
+      componentResources.beforeDOMLoaded.add(beforeDOMLoaded);
     }
     if (afterDOMLoaded) {
-      componentResources.afterDOMLoaded.add(afterDOMLoaded)
+      componentResources.afterDOMLoaded.add(afterDOMLoaded);
     }
   }
 
@@ -53,12 +53,12 @@ function getComponentResources(ctx: BuildCtx): ComponentResources {
     css: [...componentResources.css],
     beforeDOMLoaded: [...componentResources.beforeDOMLoaded],
     afterDOMLoaded: [...componentResources.afterDOMLoaded],
-  }
+  };
 }
 
 function joinScripts(scripts: string[]): string {
   // wrap with iife to prevent scope collision
-  return scripts.map((script) => `(function () {${script}})();`).join("\n")
+  return scripts.map((script) => `(function () {${script}})();`).join("\n");
 }
 
 function addGlobalPageResources(
@@ -66,22 +66,22 @@ function addGlobalPageResources(
   staticResources: StaticResources,
   componentResources: ComponentResources,
 ) {
-  const cfg = ctx.cfg.configuration
-  const reloadScript = ctx.argv.serve
+  const cfg = ctx.cfg.configuration;
+  const reloadScript = ctx.argv.serve;
 
   // popovers
   if (cfg.enablePopovers) {
-    componentResources.afterDOMLoaded.push(popoverScript)
-    componentResources.css.push(popoverStyle)
+    componentResources.afterDOMLoaded.push(popoverScript);
+    componentResources.css.push(popoverStyle);
   }
 
   if (cfg.analytics?.provider === "google") {
-    const tagId = cfg.analytics.tagId
+    const tagId = cfg.analytics.tagId;
     staticResources.js.push({
       src: `https://www.googletagmanager.com/gtag/js?id=${tagId}`,
       contentType: "external",
       loadTime: "afterDOMReady",
-    })
+    });
     componentResources.afterDOMLoaded.push(`
       window.dataLayer = window.dataLayer || [];
       function gtag() { dataLayer.push(arguments); }
@@ -93,24 +93,24 @@ function addGlobalPageResources(
           page_title: document.title,
           page_location: location.href,
         });
-      });`)
+      });`);
   } else if (cfg.analytics?.provider === "plausible") {
-    componentResources.afterDOMLoaded.push(plausibleScript)
+    componentResources.afterDOMLoaded.push(plausibleScript);
   }
 
   if (cfg.enableSPA) {
-    componentResources.afterDOMLoaded.push(spaRouterScript)
+    componentResources.afterDOMLoaded.push(spaRouterScript);
   } else {
     componentResources.afterDOMLoaded.push(`
         window.spaNavigate = (url, _) => window.location.assign(url)
         const event = new CustomEvent("nav", { detail: { url: document.body.dataset.slug } })
-        document.dispatchEvent(event)`)
+        document.dispatchEvent(event)`);
   }
 
-  let wsUrl = `ws://localhost:${ctx.argv.wsPort}`
+  let wsUrl = `ws://localhost:${ctx.argv.wsPort}`;
 
   if (ctx.argv.remoteDevHost) {
-    wsUrl = `wss://${ctx.argv.remoteDevHost}:${ctx.argv.wsPort}`
+    wsUrl = `wss://${ctx.argv.remoteDevHost}:${ctx.argv.wsPort}`;
   }
 
   if (reloadScript) {
@@ -121,43 +121,49 @@ function addGlobalPageResources(
           const socket = new WebSocket('${wsUrl}')
           socket.addEventListener('message', () => document.location.reload())
         `,
-    })
+    });
   }
 }
 
 interface Options {
-  fontOrigin: "googleFonts" | "local"
+  fontOrigin: "googleFonts" | "local";
 }
 
 const defaultOptions: Options = {
   fontOrigin: "googleFonts",
-}
+};
 
-export const ComponentResources: QuartzEmitterPlugin<Options> = (opts?: Partial<Options>) => {
-  const { fontOrigin } = { ...defaultOptions, ...opts }
+export const ComponentResources: QuartzEmitterPlugin<Options> = (
+  opts?: Partial<Options>,
+) => {
+  const { fontOrigin } = { ...defaultOptions, ...opts };
   return {
     name: "ComponentResources",
     getQuartzComponents() {
-      return []
+      return [];
     },
     async emit(ctx, _content, resources, emit): Promise<FilePath[]> {
       // component specific scripts and styles
-      const componentResources = getComponentResources(ctx)
+      const componentResources = getComponentResources(ctx);
       // important that this goes *after* component scripts
       // as the "nav" event gets triggered here and we should make sure
       // that everyone else had the chance to register a listener for it
 
       if (fontOrigin === "googleFonts") {
-        resources.css.push(googleFontHref(ctx.cfg.configuration.theme))
+        resources.css.push(googleFontHref(ctx.cfg.configuration.theme));
       } else if (fontOrigin === "local") {
         // let the user do it themselves in css
       }
 
-      addGlobalPageResources(ctx, resources, componentResources)
+      addGlobalPageResources(ctx, resources, componentResources);
 
-      const stylesheet = joinStyles(ctx.cfg.configuration.theme, styles, ...componentResources.css)
-      const prescript = joinScripts(componentResources.beforeDOMLoaded)
-      const postscript = joinScripts(componentResources.afterDOMLoaded)
+      const stylesheet = joinStyles(
+        ctx.cfg.configuration.theme,
+        styles,
+        ...componentResources.css,
+      );
+      const prescript = joinScripts(componentResources.beforeDOMLoaded);
+      const postscript = joinScripts(componentResources.afterDOMLoaded);
       const fps = await Promise.all([
         emit({
           slug: "index" as FullSlug,
@@ -186,8 +192,8 @@ export const ComponentResources: QuartzEmitterPlugin<Options> = (opts?: Partial<
           ext: ".js",
           content: postscript,
         }),
-      ])
-      return fps
+      ]);
+      return fps;
     },
-  }
-}
+  };
+};

@@ -1,24 +1,24 @@
-import remarkMath from "remark-math"
-import rehypeKatex from "rehype-katex"
-import rehypeMathjax from "rehype-mathjax/svg.js"
-import { QuartzTransformerPlugin } from "../types"
+import remarkMath from "remark-math";
+import rehypeKatex from "rehype-katex";
+import rehypeMathjax from "rehype-mathjax/svg.js";
+import { QuartzTransformerPlugin } from "../types";
 
 interface Options {
-  renderEngine: "katex" | "mathjax"
+  renderEngine: "katex" | "mathjax";
 }
 
 export const Latex: QuartzTransformerPlugin<Options> = (opts?: Options) => {
-  const engine = opts?.renderEngine ?? "katex"
+  const engine = opts?.renderEngine ?? "katex";
   return {
     name: "Latex",
     markdownPlugins() {
-      return [remarkMath]
+      return [remarkMath];
     },
     htmlPlugins() {
       if (engine === "katex") {
-        return [[rehypeKatex, { output: "html" }]]
+        return [[rehypeKatex, { output: "html" }]];
       } else {
-        return [rehypeMathjax]
+        return [rehypeMathjax];
       }
     },
     externalResources() {
@@ -36,10 +36,10 @@ export const Latex: QuartzTransformerPlugin<Options> = (opts?: Options) => {
               contentType: "external",
             },
           ],
-        }
+        };
       } else {
-        return {}
+        return {};
       }
     },
-  }
-}
+  };
+};

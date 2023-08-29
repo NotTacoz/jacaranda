@@ -9,22 +9,41 @@ var __getOwnPropDesc = Object.getOwnPropertyDescriptor;
 var __getOwnPropNames = Object.getOwnPropertyNames;
 var __getProtoOf = Object.getPrototypeOf;
 var __hasOwnProp = Object.prototype.hasOwnProperty;
-var __markAsModule = (target) => __defProp(target, "__esModule", { value: true });
+var __markAsModule = (target) =>
+  __defProp(target, "__esModule", { value: true });
 var __export = (target, all) => {
   __markAsModule(target);
   for (var name in all)
     __defProp(target, name, { get: all[name], enumerable: true });
 };
 var __reExport = (target, module2, desc) => {
-  if (module2 && typeof module2 === "object" || typeof module2 === "function") {
+  if (
+    (module2 && typeof module2 === "object") ||
+    typeof module2 === "function"
+  ) {
     for (let key of __getOwnPropNames(module2))
       if (!__hasOwnProp.call(target, key) && key !== "default")
-        __defProp(target, key, { get: () => module2[key], enumerable: !(desc = __getOwnPropDesc(module2, key)) || desc.enumerable });
+        __defProp(target, key, {
+          get: () => module2[key],
+          enumerable:
+            !(desc = __getOwnPropDesc(module2, key)) || desc.enumerable,
+        });
   }
   return target;
 };
 var __toModule = (module2) => {
-  return __reExport(__markAsModule(__defProp(module2 != null ? __create(__getProtoOf(module2)) : {}, "default", module2 && module2.__esModule && "default" in module2 ? { get: () => module2.default, enumerable: true } : { value: module2, enumerable: true })), module2);
+  return __reExport(
+    __markAsModule(
+      __defProp(
+        module2 != null ? __create(__getProtoOf(module2)) : {},
+        "default",
+        module2 && module2.__esModule && "default" in module2
+          ? { get: () => module2.default, enumerable: true }
+          : { value: module2, enumerable: true },
+      ),
+    ),
+    module2,
+  );
 };
 var __async = (__this, __arguments, generator) => {
   return new Promise((resolve, reject) => {
@@ -42,14 +61,17 @@ var __async = (__this, __arguments, generator) => {
         reject(e);
       }
     };
-    var step = (x) => x.done ? resolve(x.value) : Promise.resolve(x.value).then(fulfilled, rejected);
+    var step = (x) =>
+      x.done
+        ? resolve(x.value)
+        : Promise.resolve(x.value).then(fulfilled, rejected);
     step((generator = generator.apply(__this, __arguments)).next());
   });
 };
 
 // main.ts
 __export(exports, {
-  default: () => NovelWordCountPlugin
+  default: () => NovelWordCountPlugin,
 });
 
 // logic/debug.ts
@@ -74,8 +96,7 @@ var DebugHelper = class {
   }
   debugStart(name) {
     if (!this.debugMode) {
-      return () => {
-      };
+      return () => {};
     }
     var qualifiedName = `novel-word-count|${name}`;
     console.time(qualifiedName);
@@ -88,7 +109,7 @@ var import_obsidian = __toModule(require("obsidian"));
 
 // logic/settings.ts
 var CountType;
-(function(CountType2) {
+(function (CountType2) {
   CountType2["None"] = "none";
   CountType2["Word"] = "word";
   CountType2["Page"] = "page";
@@ -114,7 +135,7 @@ var countTypeDisplayStrings = {
   [CountType.Alias]: "First Alias",
   [CountType.Created]: "Created Date",
   [CountType.Modified]: "Last Updated Date",
-  [CountType.FileSize]: "File Size"
+  [CountType.FileSize]: "File Size",
 };
 var countTypes = [
   CountType.None,
@@ -128,10 +149,10 @@ var countTypes = [
   CountType.Alias,
   CountType.Created,
   CountType.Modified,
-  CountType.FileSize
+  CountType.FileSize,
 ];
 var AlignmentType;
-(function(AlignmentType2) {
+(function (AlignmentType2) {
   AlignmentType2["Inline"] = "inline";
   AlignmentType2["Right"] = "right";
   AlignmentType2["Below"] = "below";
@@ -139,16 +160,16 @@ var AlignmentType;
 var alignmentTypes = [
   AlignmentType.Inline,
   AlignmentType.Right,
-  AlignmentType.Below
+  AlignmentType.Below,
 ];
 var WordCountType;
-(function(WordCountType2) {
+(function (WordCountType2) {
   WordCountType2["SpaceDelimited"] = "SpaceDelimited";
   WordCountType2["CJK"] = "CJK";
   WordCountType2["AutoDetect"] = "AutoDetect";
 })(WordCountType || (WordCountType = {}));
 var PageCountType;
-(function(PageCountType2) {
+(function (PageCountType2) {
   PageCountType2["ByWords"] = "ByWords";
   PageCountType2["ByChars"] = "ByChars";
 })(PageCountType || (PageCountType = {}));
@@ -167,7 +188,7 @@ var DEFAULT_SETTINGS = {
   charsPerPage: 1500,
   charsPerPageIncludesWhitespace: false,
   wordCountType: WordCountType.SpaceDelimited,
-  pageCountType: PageCountType.ByWords
+  pageCountType: PageCountType.ByWords,
 };
 
 // logic/file.ts
@@ -176,7 +197,8 @@ var FileHelper = class {
     this.app = app;
     this.plugin = plugin;
     this.debugHelper = new DebugHelper();
-    this.cjkRegex = /\p{Script=Han}|\p{Script=Hiragana}|\p{Script=Katakana}|\p{Script=Hangul}|[0-9]+/gu;
+    this.cjkRegex =
+      /\p{Script=Han}|\p{Script=Hiragana}|\p{Script=Katakana}|\p{Script=Hangul}|[0-9]+/gu;
   }
   get settings() {
     return this.plugin.settings;
@@ -201,7 +223,9 @@ var FileHelper = class {
     if (counts.hasOwnProperty(path)) {
       return counts[path];
     }
-    const childPaths = Object.keys(counts).filter((countPath) => path === "/" || countPath.startsWith(path + "/"));
+    const childPaths = Object.keys(counts).filter(
+      (countPath) => path === "/" || countPath.startsWith(path + "/"),
+    );
     const directoryDefault = {
       isDirectory: true,
       noteCount: 0,
@@ -214,7 +238,7 @@ var FileHelper = class {
       aliases: null,
       createdDate: 0,
       modifiedDate: 0,
-      sizeInBytes: 0
+      sizeInBytes: 0,
     };
     return childPaths.reduce((total, childPath) => {
       const childCount = this.getCountDataForPath(counts, childPath);
@@ -223,9 +247,16 @@ var FileHelper = class {
       total.wordCount += childCount.wordCount;
       total.pageCount += childCount.pageCount;
       total.characterCount += childCount.characterCount;
-      total.nonWhitespaceCharacterCount += childCount.nonWhitespaceCharacterCount;
-      total.createdDate = total.createdDate === 0 ? childCount.createdDate : Math.min(total.createdDate, childCount.createdDate);
-      total.modifiedDate = Math.max(total.modifiedDate, childCount.modifiedDate);
+      total.nonWhitespaceCharacterCount +=
+        childCount.nonWhitespaceCharacterCount;
+      total.createdDate =
+        total.createdDate === 0
+          ? childCount.createdDate
+          : Math.min(total.createdDate, childCount.createdDate);
+      total.modifiedDate = Math.max(
+        total.modifiedDate,
+        childCount.modifiedDate,
+      );
       total.sizeInBytes += childCount.sizeInBytes;
       return total;
     }, directoryDefault);
@@ -236,7 +267,9 @@ var FileHelper = class {
   updateFileCounts(abstractFile, counts, wordCountType) {
     return __async(this, null, function* () {
       if (abstractFile instanceof import_obsidian.TFolder) {
-        this.debugHelper.debug("updateFileCounts called on instance of TFolder");
+        this.debugHelper.debug(
+          "updateFileCounts called on instance of TFolder",
+        );
         Object.assign(counts, this.getAllFileCounts(wordCountType));
         return;
       }
@@ -248,11 +281,15 @@ var FileHelper = class {
   }
   countEmbeds(metadata) {
     var _a, _b;
-    return (_b = (_a = metadata.embeds) == null ? void 0 : _a.length) != null ? _b : 0;
+    return (_b = (_a = metadata.embeds) == null ? void 0 : _a.length) != null
+      ? _b
+      : 0;
   }
   countLinks(metadata) {
     var _a, _b;
-    return (_b = (_a = metadata.links) == null ? void 0 : _a.length) != null ? _b : 0;
+    return (_b = (_a = metadata.links) == null ? void 0 : _a.length) != null
+      ? _b
+      : 0;
   }
   countNonWhitespaceCharacters(content) {
     return (content.replace(/\s+/g, "") || []).length;
@@ -284,28 +321,40 @@ var FileHelper = class {
       aliases: [],
       createdDate: file.stat.ctime,
       modifiedDate: file.stat.mtime,
-      sizeInBytes: file.stat.size
+      sizeInBytes: file.stat.size,
     };
     const metadata = this.app.metadataCache.getFileCache(file);
     if (!this.shouldCountFile(metadata)) {
       return;
     }
     const hasFrontmatter = !!metadata.frontmatter;
-    const frontmatterPos = (_a = metadata.frontmatter) == null ? void 0 : _a.position;
-    const meaningfulContent = hasFrontmatter ? content.slice(0, frontmatterPos.start.offset) + content.slice(frontmatterPos.end.offset) : content;
+    const frontmatterPos =
+      (_a = metadata.frontmatter) == null ? void 0 : _a.position;
+    const meaningfulContent = hasFrontmatter
+      ? content.slice(0, frontmatterPos.start.offset) +
+        content.slice(frontmatterPos.end.offset)
+      : content;
     const wordCount = this.countWords(meaningfulContent, wordCountType);
     const characterCount = meaningfulContent.length;
-    const nonWhitespaceCharacterCount = this.countNonWhitespaceCharacters(meaningfulContent);
+    const nonWhitespaceCharacterCount =
+      this.countNonWhitespaceCharacters(meaningfulContent);
     let pageCount = 0;
     if (this.settings.pageCountType === PageCountType.ByWords) {
       const wordsPerPage = Number(this.settings.wordsPerPage);
       const wordsPerPageValid = !isNaN(wordsPerPage) && wordsPerPage > 0;
       pageCount = wordCount / (wordsPerPageValid ? wordsPerPage : 300);
-    } else if (this.settings.pageCountType === PageCountType.ByChars && !this.settings.charsPerPageIncludesWhitespace) {
+    } else if (
+      this.settings.pageCountType === PageCountType.ByChars &&
+      !this.settings.charsPerPageIncludesWhitespace
+    ) {
       const charsPerPage = Number(this.settings.charsPerPage);
       const charsPerPageValid = !isNaN(charsPerPage) && charsPerPage > 0;
-      pageCount = nonWhitespaceCharacterCount / (charsPerPageValid ? charsPerPage : 1500);
-    } else if (this.settings.pageCountType === PageCountType.ByChars && this.settings.charsPerPageIncludesWhitespace) {
+      pageCount =
+        nonWhitespaceCharacterCount / (charsPerPageValid ? charsPerPage : 1500);
+    } else if (
+      this.settings.pageCountType === PageCountType.ByChars &&
+      this.settings.charsPerPageIncludesWhitespace
+    ) {
       const charsPerPage = Number(this.settings.charsPerPage);
       const charsPerPageValid = !isNaN(charsPerPage) && charsPerPage > 0;
       pageCount = characterCount / (charsPerPageValid ? charsPerPage : 1500);
@@ -317,7 +366,9 @@ var FileHelper = class {
       nonWhitespaceCharacterCount,
       linkCount: this.countLinks(metadata),
       embedCount: this.countEmbeds(metadata),
-      aliases: (0, import_obsidian.parseFrontMatterAliases)(metadata.frontmatter)
+      aliases: (0, import_obsidian.parseFrontMatterAliases)(
+        metadata.frontmatter,
+      ),
     });
   }
   shouldCountFile(metadata) {
@@ -327,34 +378,45 @@ var FileHelper = class {
 };
 
 // logic/filesize.ts
-var formatThresholds = [{
-  suffix: "b",
-  suffixLong: " B",
-  divisor: 1
-}, {
-  suffix: "kb",
-  suffixLong: " KB",
-  divisor: 1e3
-}, {
-  suffix: "mb",
-  suffixLong: " MB",
-  divisor: 1e6
-}, {
-  suffix: "gb",
-  suffixLong: " GB",
-  divisor: 1e9
-}, {
-  suffix: "tb",
-  suffixLong: " TB",
-  divisor: 1e12
-}];
+var formatThresholds = [
+  {
+    suffix: "b",
+    suffixLong: " B",
+    divisor: 1,
+  },
+  {
+    suffix: "kb",
+    suffixLong: " KB",
+    divisor: 1e3,
+  },
+  {
+    suffix: "mb",
+    suffixLong: " MB",
+    divisor: 1e6,
+  },
+  {
+    suffix: "gb",
+    suffixLong: " GB",
+    divisor: 1e9,
+  },
+  {
+    suffix: "tb",
+    suffixLong: " TB",
+    divisor: 1e12,
+  },
+];
 var FileSizeHelper = class {
   formatFileSize(bytes, shouldAbbreviate) {
     const largestThreshold = formatThresholds.last();
     for (const formatThreshold of formatThresholds) {
-      if (bytes < formatThreshold.divisor * 1e3 || formatThreshold === largestThreshold) {
+      if (
+        bytes < formatThreshold.divisor * 1e3 ||
+        formatThreshold === largestThreshold
+      ) {
         const units = bytes / formatThreshold.divisor;
-        const suffix = shouldAbbreviate ? formatThreshold.suffix : formatThreshold.suffixLong;
+        const suffix = shouldAbbreviate
+          ? formatThreshold.suffix
+          : formatThreshold.suffixLong;
         return `${this.round(units)}${suffix}`;
       }
     }
@@ -363,7 +425,7 @@ var FileSizeHelper = class {
   round(value) {
     return value.toLocaleString(void 0, {
       minimumFractionDigits: 0,
-      maximumFractionDigits: 2
+      maximumFractionDigits: 2,
     });
   }
 };
@@ -390,41 +452,52 @@ var NovelWordCountPlugin = class extends import_obsidian2.Plugin {
       this.addCommand({
         id: "recount-vault",
         name: "Reanalyze (recount) all documents in vault",
-        callback: () => __async(this, null, function* () {
-          this.debugHelper.debug("[Reanalyze] command triggered");
-          yield this.initialize();
-        })
+        callback: () =>
+          __async(this, null, function* () {
+            this.debugHelper.debug("[Reanalyze] command triggered");
+            yield this.initialize();
+          }),
       });
       this.addCommand({
         id: "cycle-count-type",
         name: "Show next data type (1st position)",
-        callback: () => __async(this, null, function* () {
-          this.debugHelper.debug("[Cycle next data type] command triggered");
-          this.settings.countType = countTypes[(countTypes.indexOf(this.settings.countType) + 1) % countTypes.length];
-          yield this.saveSettings();
-          this.updateDisplayedCounts();
-        })
+        callback: () =>
+          __async(this, null, function* () {
+            this.debugHelper.debug("[Cycle next data type] command triggered");
+            this.settings.countType =
+              countTypes[
+                (countTypes.indexOf(this.settings.countType) + 1) %
+                  countTypes.length
+              ];
+            yield this.saveSettings();
+            this.updateDisplayedCounts();
+          }),
       });
       this.addCommand({
         id: "toggle-abbreviate",
         name: "Toggle abbreviation",
-        callback: () => __async(this, null, function* () {
-          this.debugHelper.debug("[Toggle abbrevation] command triggered");
-          this.settings.abbreviateDescriptions = !this.settings.abbreviateDescriptions;
-          yield this.saveSettings();
-          this.updateDisplayedCounts();
-        })
+        callback: () =>
+          __async(this, null, function* () {
+            this.debugHelper.debug("[Toggle abbrevation] command triggered");
+            this.settings.abbreviateDescriptions =
+              !this.settings.abbreviateDescriptions;
+            yield this.saveSettings();
+            this.updateDisplayedCounts();
+          }),
       });
       for (const countType of countTypes) {
         this.addCommand({
           id: `set-count-type-${countType}`,
           name: `Show ${countTypeDisplayStrings[countType]} (1st position)`,
-          callback: () => __async(this, null, function* () {
-            this.debugHelper.debug(`[Set count type to ${countType}] command triggered`);
-            this.settings.countType = countType;
-            yield this.saveSettings();
-            this.updateDisplayedCounts();
-          })
+          callback: () =>
+            __async(this, null, function* () {
+              this.debugHelper.debug(
+                `[Set count type to ${countType}] command triggered`,
+              );
+              this.settings.countType = countType;
+              yield this.saveSettings();
+              this.updateDisplayedCounts();
+            }),
         });
       }
       this.handleEvents();
@@ -439,11 +512,20 @@ var NovelWordCountPlugin = class extends import_obsidian2.Plugin {
   loadSettings() {
     return __async(this, null, function* () {
       const loaded = yield this.loadData();
-      if (loaded && loaded.settings && loaded.settings.countType && !countTypes.includes(loaded.settings.countType)) {
+      if (
+        loaded &&
+        loaded.settings &&
+        loaded.settings.countType &&
+        !countTypes.includes(loaded.settings.countType)
+      ) {
         loaded.settings.countType = CountType.Word;
       }
       this.savedData = Object.assign({}, loaded);
-      this.savedData.settings = Object.assign({}, DEFAULT_SETTINGS, this.savedData.settings);
+      this.savedData.settings = Object.assign(
+        {},
+        DEFAULT_SETTINGS,
+        this.savedData.settings,
+      );
     });
   }
   saveSettings() {
@@ -480,18 +562,35 @@ var NovelWordCountPlugin = class extends import_obsidian2.Plugin {
       this.setContainerClass(fileExplorerLeaf);
       const fileItems = fileExplorerLeaf.view.fileItems;
       if (file) {
-        const relevantItems = Object.keys(fileItems).filter((path) => file.path.includes(path));
-        this.debugHelper.debug("Setting display counts for", relevantItems.length, "fileItems matching path", file.path);
+        const relevantItems = Object.keys(fileItems).filter((path) =>
+          file.path.includes(path),
+        );
+        this.debugHelper.debug(
+          "Setting display counts for",
+          relevantItems.length,
+          "fileItems matching path",
+          file.path,
+        );
       } else {
-        this.debugHelper.debug(`Setting display counts for ${Object.keys(fileItems).length} fileItems`);
+        this.debugHelper.debug(
+          `Setting display counts for ${
+            Object.keys(fileItems).length
+          } fileItems`,
+        );
       }
       for (const path in fileItems) {
         if (file && !file.path.includes(path)) {
           continue;
         }
-        const counts = this.fileHelper.getCountDataForPath(this.savedData.cachedCounts, path);
+        const counts = this.fileHelper.getCountDataForPath(
+          this.savedData.cachedCounts,
+          path,
+        );
         const item = fileItems[path];
-        ((_a = item.titleEl) != null ? _a : item.selfEl).setAttribute("data-novel-word-count-plugin", this.getNodeLabel(counts));
+        ((_a = item.titleEl) != null ? _a : item.selfEl).setAttribute(
+          "data-novel-word-count-plugin",
+          this.getNodeLabel(counts),
+        );
       }
       debugEnd();
     });
@@ -521,101 +620,206 @@ var NovelWordCountPlugin = class extends import_obsidian2.Plugin {
     if (!counts || typeof counts.wordCount !== "number") {
       return "";
     }
-    const getPluralizedCount = function(noun, count, round = true) {
+    const getPluralizedCount = function (noun, count, round = true) {
       const roundedCount = round ? Math.ceil(count) : count;
-      const displayCount = round ? roundedCount.toLocaleString() : roundedCount.toLocaleString(void 0, {
-        minimumFractionDigits: 1,
-        maximumFractionDigits: 2
-      });
+      const displayCount = round
+        ? roundedCount.toLocaleString()
+        : roundedCount.toLocaleString(void 0, {
+            minimumFractionDigits: 1,
+            maximumFractionDigits: 2,
+          });
       return `${displayCount} ${noun}${roundedCount == 1 ? "" : "s"}`;
     };
     switch (countType) {
       case CountType.None:
         return "";
       case CountType.Word:
-        return abbreviateDescriptions ? `${Math.ceil(counts.wordCount).toLocaleString()}w` : getPluralizedCount("word", counts.wordCount);
+        return abbreviateDescriptions
+          ? `${Math.ceil(counts.wordCount).toLocaleString()}w`
+          : getPluralizedCount("word", counts.wordCount);
       case CountType.Page:
-        return abbreviateDescriptions ? `${Math.ceil(counts.pageCount).toLocaleString()}p` : getPluralizedCount("page", counts.pageCount);
+        return abbreviateDescriptions
+          ? `${Math.ceil(counts.pageCount).toLocaleString()}p`
+          : getPluralizedCount("page", counts.pageCount);
       case CountType.PageDecimal:
-        return abbreviateDescriptions ? `${counts.pageCount.toLocaleString(void 0, {
-          minimumFractionDigits: 1,
-          maximumFractionDigits: 2
-        })}p` : getPluralizedCount("page", counts.pageCount, false);
+        return abbreviateDescriptions
+          ? `${counts.pageCount.toLocaleString(void 0, {
+              minimumFractionDigits: 1,
+              maximumFractionDigits: 2,
+            })}p`
+          : getPluralizedCount("page", counts.pageCount, false);
       case CountType.Note:
-        return abbreviateDescriptions ? `${counts.noteCount.toLocaleString()}n` : getPluralizedCount("note", counts.noteCount);
+        return abbreviateDescriptions
+          ? `${counts.noteCount.toLocaleString()}n`
+          : getPluralizedCount("note", counts.noteCount);
       case CountType.Character:
-        return abbreviateDescriptions ? `${counts.characterCount.toLocaleString()}ch` : getPluralizedCount("character", counts.characterCount);
+        return abbreviateDescriptions
+          ? `${counts.characterCount.toLocaleString()}ch`
+          : getPluralizedCount("character", counts.characterCount);
       case CountType.Link:
-        return abbreviateDescriptions ? `${counts.linkCount.toLocaleString()}x` : getPluralizedCount("link", counts.linkCount);
+        return abbreviateDescriptions
+          ? `${counts.linkCount.toLocaleString()}x`
+          : getPluralizedCount("link", counts.linkCount);
       case CountType.Embed:
-        return abbreviateDescriptions ? `${counts.embedCount.toLocaleString()}em` : getPluralizedCount("embed", counts.embedCount);
+        return abbreviateDescriptions
+          ? `${counts.embedCount.toLocaleString()}em`
+          : getPluralizedCount("embed", counts.embedCount);
       case CountType.Alias:
-        if (!counts.aliases || !Array.isArray(counts.aliases) || !counts.aliases.length) {
+        if (
+          !counts.aliases ||
+          !Array.isArray(counts.aliases) ||
+          !counts.aliases.length
+        ) {
           return null;
         }
-        return abbreviateDescriptions ? `${counts.aliases[0]}` : `alias: ${counts.aliases[0]}${counts.aliases.length > 1 ? ` +${counts.aliases.length - 1}` : ""}`;
+        return abbreviateDescriptions
+          ? `${counts.aliases[0]}`
+          : `alias: ${counts.aliases[0]}${
+              counts.aliases.length > 1 ? ` +${counts.aliases.length - 1}` : ""
+            }`;
       case CountType.Created:
         if (counts.createdDate === 0) {
           return "";
         }
-        return abbreviateDescriptions ? `${new Date(counts.createdDate).toLocaleDateString()}/c` : `Created ${new Date(counts.createdDate).toLocaleDateString()}`;
+        return abbreviateDescriptions
+          ? `${new Date(counts.createdDate).toLocaleDateString()}/c`
+          : `Created ${new Date(counts.createdDate).toLocaleDateString()}`;
       case CountType.Modified:
         if (counts.modifiedDate === 0) {
           return "";
         }
-        return abbreviateDescriptions ? `${new Date(counts.modifiedDate).toLocaleDateString()}/u` : `Updated ${new Date(counts.modifiedDate).toLocaleDateString()}`;
+        return abbreviateDescriptions
+          ? `${new Date(counts.modifiedDate).toLocaleDateString()}/u`
+          : `Updated ${new Date(counts.modifiedDate).toLocaleDateString()}`;
       case CountType.FileSize:
-        return this.fileSizeHelper.formatFileSize(counts.sizeInBytes, abbreviateDescriptions);
+        return this.fileSizeHelper.formatFileSize(
+          counts.sizeInBytes,
+          abbreviateDescriptions,
+        );
     }
     return "";
   }
   getNodeLabel(counts) {
-    const countTypes2 = counts.isDirectory && !this.settings.showSameCountsOnFolders ? [
-      this.settings.folderCountType,
-      this.settings.folderCountType2,
-      this.settings.folderCountType3
-    ] : [
-      this.settings.countType,
-      this.settings.countType2,
-      this.settings.countType3
-    ];
-    return countTypes2.filter((ct) => ct !== CountType.None).map((ct) => this.getDataTypeLabel(counts, ct, this.settings.abbreviateDescriptions)).filter((display) => display !== null).join(" | ");
+    const countTypes2 =
+      counts.isDirectory && !this.settings.showSameCountsOnFolders
+        ? [
+            this.settings.folderCountType,
+            this.settings.folderCountType2,
+            this.settings.folderCountType3,
+          ]
+        : [
+            this.settings.countType,
+            this.settings.countType2,
+            this.settings.countType3,
+          ];
+    return countTypes2
+      .filter((ct) => ct !== CountType.None)
+      .map((ct) =>
+        this.getDataTypeLabel(counts, ct, this.settings.abbreviateDescriptions),
+      )
+      .filter((display) => display !== null)
+      .join(" | ");
   }
   handleEvents() {
     return __async(this, null, function* () {
-      this.registerEvent(this.app.vault.on("modify", (file) => __async(this, null, function* () {
-        this.debugHelper.debug("[modify] vault hook fired, recounting file", file.path);
-        yield this.fileHelper.updateFileCounts(file, this.savedData.cachedCounts, this.settings.wordCountType);
-        yield this.updateDisplayedCounts(file);
-      })));
-      this.registerEvent(this.app.metadataCache.on("changed", (file) => __async(this, null, function* () {
-        this.debugHelper.debug("[changed] metadataCache hook fired, recounting file", file.path);
-        yield this.fileHelper.updateFileCounts(file, this.savedData.cachedCounts, this.settings.wordCountType);
-        yield this.updateDisplayedCounts(file);
-      })));
-      const recalculateAll = (hookName, file) => __async(this, null, function* () {
-        if (file) {
-          this.debugHelper.debug(`[${hookName}] vault hook fired by file`, file.path, "recounting all files");
-        } else {
-          this.debugHelper.debug(`[${hookName}] hook fired`, "recounting all files");
-        }
-        yield this.refreshAllCounts();
-        yield this.updateDisplayedCounts();
-      });
-      this.registerEvent(this.app.vault.on("rename", (0, import_obsidian2.debounce)(recalculateAll.bind(this, "rename"), 1e3)));
-      this.registerEvent(this.app.vault.on("create", (0, import_obsidian2.debounce)(recalculateAll.bind(this, "create"), 1e3)));
-      this.registerEvent(this.app.vault.on("delete", (0, import_obsidian2.debounce)(recalculateAll.bind(this, "delete"), 1e3)));
-      const reshowCountsIfNeeded = (hookName) => __async(this, null, function* () {
-        this.debugHelper.debug(`[${hookName}] hook fired`);
-        const fileExplorerLeaf = yield this.getFileExplorerLeaf();
-        if (this.isContainerTouched(fileExplorerLeaf)) {
-          this.debugHelper.debug("container already touched, skipping display update");
-          return;
-        }
-        this.debugHelper.debug("container is clean, updating display");
-        yield this.updateDisplayedCounts();
-      });
-      this.registerEvent(this.app.workspace.on("layout-change", (0, import_obsidian2.debounce)(reshowCountsIfNeeded.bind(this, "layout-change"), 1e3)));
+      this.registerEvent(
+        this.app.vault.on("modify", (file) =>
+          __async(this, null, function* () {
+            this.debugHelper.debug(
+              "[modify] vault hook fired, recounting file",
+              file.path,
+            );
+            yield this.fileHelper.updateFileCounts(
+              file,
+              this.savedData.cachedCounts,
+              this.settings.wordCountType,
+            );
+            yield this.updateDisplayedCounts(file);
+          }),
+        ),
+      );
+      this.registerEvent(
+        this.app.metadataCache.on("changed", (file) =>
+          __async(this, null, function* () {
+            this.debugHelper.debug(
+              "[changed] metadataCache hook fired, recounting file",
+              file.path,
+            );
+            yield this.fileHelper.updateFileCounts(
+              file,
+              this.savedData.cachedCounts,
+              this.settings.wordCountType,
+            );
+            yield this.updateDisplayedCounts(file);
+          }),
+        ),
+      );
+      const recalculateAll = (hookName, file) =>
+        __async(this, null, function* () {
+          if (file) {
+            this.debugHelper.debug(
+              `[${hookName}] vault hook fired by file`,
+              file.path,
+              "recounting all files",
+            );
+          } else {
+            this.debugHelper.debug(
+              `[${hookName}] hook fired`,
+              "recounting all files",
+            );
+          }
+          yield this.refreshAllCounts();
+          yield this.updateDisplayedCounts();
+        });
+      this.registerEvent(
+        this.app.vault.on(
+          "rename",
+          (0, import_obsidian2.debounce)(
+            recalculateAll.bind(this, "rename"),
+            1e3,
+          ),
+        ),
+      );
+      this.registerEvent(
+        this.app.vault.on(
+          "create",
+          (0, import_obsidian2.debounce)(
+            recalculateAll.bind(this, "create"),
+            1e3,
+          ),
+        ),
+      );
+      this.registerEvent(
+        this.app.vault.on(
+          "delete",
+          (0, import_obsidian2.debounce)(
+            recalculateAll.bind(this, "delete"),
+            1e3,
+          ),
+        ),
+      );
+      const reshowCountsIfNeeded = (hookName) =>
+        __async(this, null, function* () {
+          this.debugHelper.debug(`[${hookName}] hook fired`);
+          const fileExplorerLeaf = yield this.getFileExplorerLeaf();
+          if (this.isContainerTouched(fileExplorerLeaf)) {
+            this.debugHelper.debug(
+              "container already touched, skipping display update",
+            );
+            return;
+          }
+          this.debugHelper.debug("container is clean, updating display");
+          yield this.updateDisplayedCounts();
+        });
+      this.registerEvent(
+        this.app.workspace.on(
+          "layout-change",
+          (0, import_obsidian2.debounce)(
+            reshowCountsIfNeeded.bind(this, "layout-change"),
+            1e3,
+          ),
+        ),
+      );
     });
   }
   isContainerTouched(leaf) {
@@ -625,7 +829,9 @@ var NovelWordCountPlugin = class extends import_obsidian2.Plugin {
   refreshAllCounts() {
     return __async(this, null, function* () {
       this.debugHelper.debug("refreshAllCounts");
-      this.savedData.cachedCounts = yield this.fileHelper.getAllFileCounts(this.settings.wordCountType);
+      this.savedData.cachedCounts = yield this.fileHelper.getAllFileCounts(
+        this.settings.wordCountType,
+      );
       yield this.saveSettings();
     });
   }
@@ -651,160 +857,309 @@ var NovelWordCountSettingTab = class extends import_obsidian2.PluginSettingTab {
       cls: [
         "setting-item",
         "setting-item-heading",
-        "novel-word-count-settings-header"
-      ]
+        "novel-word-count-settings-header",
+      ],
     });
     mainHeader.createEl("div", { text: "Notes" });
     mainHeader.createEl("div", {
       text: "You can display up to three data types side by side.",
-      cls: "setting-item-description"
+      cls: "setting-item-description",
     });
-    new import_obsidian2.Setting(containerEl).setName("1st data type to show").setDesc("Ex: 10,000 words").addDropdown((drop) => {
-      for (const countType of countTypes) {
-        drop.addOption(countType, countTypeDisplayStrings[countType]);
-      }
-      drop.setValue(this.plugin.settings.countType).onChange((value) => __async(this, null, function* () {
-        this.plugin.settings.countType = value;
-        yield this.plugin.saveSettings();
-        yield this.plugin.updateDisplayedCounts();
-      }));
-    });
-    new import_obsidian2.Setting(containerEl).setName("2nd data type to show").setDesc("Ex: 10,000 words | 33 pages").addDropdown((drop) => {
-      for (const countType of countTypes) {
-        drop.addOption(countType, countTypeDisplayStrings[countType]);
-      }
-      drop.setValue(this.plugin.settings.countType2).onChange((value) => __async(this, null, function* () {
-        this.plugin.settings.countType2 = value;
-        yield this.plugin.saveSettings();
-        yield this.plugin.updateDisplayedCounts();
-      }));
-    });
-    new import_obsidian2.Setting(containerEl).setName("3rd data type to show").setDesc("Ex: 10,000 words | 33 pages | Created 10/27/2022").addDropdown((drop) => {
-      for (const countType of countTypes) {
-        drop.addOption(countType, countTypeDisplayStrings[countType]);
-      }
-      drop.setValue(this.plugin.settings.countType3).onChange((value) => __async(this, null, function* () {
-        this.plugin.settings.countType3 = value;
-        yield this.plugin.saveSettings();
-        yield this.plugin.updateDisplayedCounts();
-      }));
-    });
-    new import_obsidian2.Setting(containerEl).setName("Abbreviate descriptions").setDesc("E.g. show '120w' instead of '120 words'").addToggle((toggle) => toggle.setValue(this.plugin.settings.abbreviateDescriptions).onChange((value) => __async(this, null, function* () {
-      this.plugin.settings.abbreviateDescriptions = value;
-      yield this.plugin.saveSettings();
-      yield this.plugin.updateDisplayedCounts();
-    })));
-    new import_obsidian2.Setting(containerEl).setName("Alignment").setDesc("Show data inline with file/folder names, right-aligned, or underneath").addDropdown((drop) => {
-      drop.addOption(AlignmentType.Inline, "Inline").addOption(AlignmentType.Right, "Right-aligned").addOption(AlignmentType.Below, "Below").setValue(this.plugin.settings.alignment).onChange((value) => __async(this, null, function* () {
-        this.plugin.settings.alignment = value;
-        yield this.plugin.saveSettings();
-        yield this.plugin.updateDisplayedCounts();
-      }));
-    });
-    containerEl.createEl("div", { text: "Folders" }).addClasses(["setting-item", "setting-item-heading"]);
-    new import_obsidian2.Setting(containerEl).setName("Show same data on folders").addToggle((toggle) => toggle.setValue(this.plugin.settings.showSameCountsOnFolders).onChange((value) => __async(this, null, function* () {
-      this.plugin.settings.showSameCountsOnFolders = value;
-      yield this.plugin.saveSettings();
-      yield this.plugin.updateDisplayedCounts();
-      this.display();
-    })));
+    new import_obsidian2.Setting(containerEl)
+      .setName("1st data type to show")
+      .setDesc("Ex: 10,000 words")
+      .addDropdown((drop) => {
+        for (const countType of countTypes) {
+          drop.addOption(countType, countTypeDisplayStrings[countType]);
+        }
+        drop.setValue(this.plugin.settings.countType).onChange((value) =>
+          __async(this, null, function* () {
+            this.plugin.settings.countType = value;
+            yield this.plugin.saveSettings();
+            yield this.plugin.updateDisplayedCounts();
+          }),
+        );
+      });
+    new import_obsidian2.Setting(containerEl)
+      .setName("2nd data type to show")
+      .setDesc("Ex: 10,000 words | 33 pages")
+      .addDropdown((drop) => {
+        for (const countType of countTypes) {
+          drop.addOption(countType, countTypeDisplayStrings[countType]);
+        }
+        drop.setValue(this.plugin.settings.countType2).onChange((value) =>
+          __async(this, null, function* () {
+            this.plugin.settings.countType2 = value;
+            yield this.plugin.saveSettings();
+            yield this.plugin.updateDisplayedCounts();
+          }),
+        );
+      });
+    new import_obsidian2.Setting(containerEl)
+      .setName("3rd data type to show")
+      .setDesc("Ex: 10,000 words | 33 pages | Created 10/27/2022")
+      .addDropdown((drop) => {
+        for (const countType of countTypes) {
+          drop.addOption(countType, countTypeDisplayStrings[countType]);
+        }
+        drop.setValue(this.plugin.settings.countType3).onChange((value) =>
+          __async(this, null, function* () {
+            this.plugin.settings.countType3 = value;
+            yield this.plugin.saveSettings();
+            yield this.plugin.updateDisplayedCounts();
+          }),
+        );
+      });
+    new import_obsidian2.Setting(containerEl)
+      .setName("Abbreviate descriptions")
+      .setDesc("E.g. show '120w' instead of '120 words'")
+      .addToggle((toggle) =>
+        toggle
+          .setValue(this.plugin.settings.abbreviateDescriptions)
+          .onChange((value) =>
+            __async(this, null, function* () {
+              this.plugin.settings.abbreviateDescriptions = value;
+              yield this.plugin.saveSettings();
+              yield this.plugin.updateDisplayedCounts();
+            }),
+          ),
+      );
+    new import_obsidian2.Setting(containerEl)
+      .setName("Alignment")
+      .setDesc(
+        "Show data inline with file/folder names, right-aligned, or underneath",
+      )
+      .addDropdown((drop) => {
+        drop
+          .addOption(AlignmentType.Inline, "Inline")
+          .addOption(AlignmentType.Right, "Right-aligned")
+          .addOption(AlignmentType.Below, "Below")
+          .setValue(this.plugin.settings.alignment)
+          .onChange((value) =>
+            __async(this, null, function* () {
+              this.plugin.settings.alignment = value;
+              yield this.plugin.saveSettings();
+              yield this.plugin.updateDisplayedCounts();
+            }),
+          );
+      });
+    containerEl
+      .createEl("div", { text: "Folders" })
+      .addClasses(["setting-item", "setting-item-heading"]);
+    new import_obsidian2.Setting(containerEl)
+      .setName("Show same data on folders")
+      .addToggle((toggle) =>
+        toggle
+          .setValue(this.plugin.settings.showSameCountsOnFolders)
+          .onChange((value) =>
+            __async(this, null, function* () {
+              this.plugin.settings.showSameCountsOnFolders = value;
+              yield this.plugin.saveSettings();
+              yield this.plugin.updateDisplayedCounts();
+              this.display();
+            }),
+          ),
+      );
     if (!this.plugin.settings.showSameCountsOnFolders) {
-      new import_obsidian2.Setting(containerEl).setName("1st data type to show").addDropdown((drop) => {
-        for (const countType of countTypes) {
-          drop.addOption(countType, countTypeDisplayStrings[countType]);
-        }
-        drop.setValue(this.plugin.settings.folderCountType).onChange((value) => __async(this, null, function* () {
-          this.plugin.settings.folderCountType = value;
-          yield this.plugin.saveSettings();
-          yield this.plugin.updateDisplayedCounts();
-        }));
-      });
-      new import_obsidian2.Setting(containerEl).setName("2nd data type to show").addDropdown((drop) => {
-        for (const countType of countTypes) {
-          drop.addOption(countType, countTypeDisplayStrings[countType]);
-        }
-        drop.setValue(this.plugin.settings.folderCountType2).onChange((value) => __async(this, null, function* () {
-          this.plugin.settings.folderCountType2 = value;
-          yield this.plugin.saveSettings();
-          yield this.plugin.updateDisplayedCounts();
-        }));
-      });
-      new import_obsidian2.Setting(containerEl).setName("3rd data type to show").addDropdown((drop) => {
-        for (const countType of countTypes) {
-          drop.addOption(countType, countTypeDisplayStrings[countType]);
-        }
-        drop.setValue(this.plugin.settings.folderCountType3).onChange((value) => __async(this, null, function* () {
-          this.plugin.settings.folderCountType3 = value;
-          yield this.plugin.saveSettings();
-          yield this.plugin.updateDisplayedCounts();
-        }));
-      });
+      new import_obsidian2.Setting(containerEl)
+        .setName("1st data type to show")
+        .addDropdown((drop) => {
+          for (const countType of countTypes) {
+            drop.addOption(countType, countTypeDisplayStrings[countType]);
+          }
+          drop
+            .setValue(this.plugin.settings.folderCountType)
+            .onChange((value) =>
+              __async(this, null, function* () {
+                this.plugin.settings.folderCountType = value;
+                yield this.plugin.saveSettings();
+                yield this.plugin.updateDisplayedCounts();
+              }),
+            );
+        });
+      new import_obsidian2.Setting(containerEl)
+        .setName("2nd data type to show")
+        .addDropdown((drop) => {
+          for (const countType of countTypes) {
+            drop.addOption(countType, countTypeDisplayStrings[countType]);
+          }
+          drop
+            .setValue(this.plugin.settings.folderCountType2)
+            .onChange((value) =>
+              __async(this, null, function* () {
+                this.plugin.settings.folderCountType2 = value;
+                yield this.plugin.saveSettings();
+                yield this.plugin.updateDisplayedCounts();
+              }),
+            );
+        });
+      new import_obsidian2.Setting(containerEl)
+        .setName("3rd data type to show")
+        .addDropdown((drop) => {
+          for (const countType of countTypes) {
+            drop.addOption(countType, countTypeDisplayStrings[countType]);
+          }
+          drop
+            .setValue(this.plugin.settings.folderCountType3)
+            .onChange((value) =>
+              __async(this, null, function* () {
+                this.plugin.settings.folderCountType3 = value;
+                yield this.plugin.saveSettings();
+                yield this.plugin.updateDisplayedCounts();
+              }),
+            );
+        });
     }
-    containerEl.createEl("div", { text: "Advanced" }).addClasses(["setting-item", "setting-item-heading"]);
-    new import_obsidian2.Setting(containerEl).setName("Word count method").setDesc("For language compatibility").addDropdown((drop) => {
-      drop.addOption(WordCountType.SpaceDelimited, "Space-delimited (European languages)").addOption(WordCountType.CJK, "Han/Kana/Hangul (CJK)").addOption(WordCountType.AutoDetect, "Auto-detect by file").setValue(this.plugin.settings.wordCountType).onChange((value) => __async(this, null, function* () {
-        this.plugin.settings.wordCountType = value;
-        yield this.plugin.saveSettings();
-        yield this.plugin.initialize();
-      }));
-    });
-    new import_obsidian2.Setting(containerEl).setName("Page count method").setDesc("For language compatibility").addDropdown((drop) => {
-      drop.addOption(PageCountType.ByWords, "Words per page").addOption(PageCountType.ByChars, "Characters per page").setValue(this.plugin.settings.pageCountType).onChange((value) => __async(this, null, function* () {
-        this.plugin.settings.pageCountType = value;
-        yield this.plugin.saveSettings();
-        yield this.plugin.updateDisplayedCounts();
-        this.display();
-      }));
-    });
+    containerEl
+      .createEl("div", { text: "Advanced" })
+      .addClasses(["setting-item", "setting-item-heading"]);
+    new import_obsidian2.Setting(containerEl)
+      .setName("Word count method")
+      .setDesc("For language compatibility")
+      .addDropdown((drop) => {
+        drop
+          .addOption(
+            WordCountType.SpaceDelimited,
+            "Space-delimited (European languages)",
+          )
+          .addOption(WordCountType.CJK, "Han/Kana/Hangul (CJK)")
+          .addOption(WordCountType.AutoDetect, "Auto-detect by file")
+          .setValue(this.plugin.settings.wordCountType)
+          .onChange((value) =>
+            __async(this, null, function* () {
+              this.plugin.settings.wordCountType = value;
+              yield this.plugin.saveSettings();
+              yield this.plugin.initialize();
+            }),
+          );
+      });
+    new import_obsidian2.Setting(containerEl)
+      .setName("Page count method")
+      .setDesc("For language compatibility")
+      .addDropdown((drop) => {
+        drop
+          .addOption(PageCountType.ByWords, "Words per page")
+          .addOption(PageCountType.ByChars, "Characters per page")
+          .setValue(this.plugin.settings.pageCountType)
+          .onChange((value) =>
+            __async(this, null, function* () {
+              this.plugin.settings.pageCountType = value;
+              yield this.plugin.saveSettings();
+              yield this.plugin.updateDisplayedCounts();
+              this.display();
+            }),
+          );
+      });
     if (this.plugin.settings.pageCountType === PageCountType.ByWords) {
-      const wordsPerPageChanged = (txt, value) => __async(this, null, function* () {
-        const asNumber = Number(value);
-        const isValid = !isNaN(asNumber) && asNumber > 0;
-        txt.inputEl.style.borderColor = isValid ? null : "red";
-        this.plugin.settings.wordsPerPage = isValid ? Number(value) : 300;
-        yield this.plugin.saveSettings();
-        yield this.plugin.initialize();
-      });
-      new import_obsidian2.Setting(containerEl).setName("Words per page").setDesc("Used for page count. 300 is standard in English language publishing.").addText((txt) => {
-        txt.setPlaceholder("300").setValue(this.plugin.settings.wordsPerPage.toString()).onChange((0, import_obsidian2.debounce)(wordsPerPageChanged.bind(this, txt), 1e3));
-      });
+      const wordsPerPageChanged = (txt, value) =>
+        __async(this, null, function* () {
+          const asNumber = Number(value);
+          const isValid = !isNaN(asNumber) && asNumber > 0;
+          txt.inputEl.style.borderColor = isValid ? null : "red";
+          this.plugin.settings.wordsPerPage = isValid ? Number(value) : 300;
+          yield this.plugin.saveSettings();
+          yield this.plugin.initialize();
+        });
+      new import_obsidian2.Setting(containerEl)
+        .setName("Words per page")
+        .setDesc(
+          "Used for page count. 300 is standard in English language publishing.",
+        )
+        .addText((txt) => {
+          txt
+            .setPlaceholder("300")
+            .setValue(this.plugin.settings.wordsPerPage.toString())
+            .onChange(
+              (0, import_obsidian2.debounce)(
+                wordsPerPageChanged.bind(this, txt),
+                1e3,
+              ),
+            );
+        });
     }
     if (this.plugin.settings.pageCountType === PageCountType.ByChars) {
-      new import_obsidian2.Setting(containerEl).setName("Include whitespace characters in page count").addToggle((toggle) => toggle.setValue(this.plugin.settings.charsPerPageIncludesWhitespace).onChange((value) => __async(this, null, function* () {
-        this.plugin.settings.charsPerPageIncludesWhitespace = value;
-        yield this.plugin.saveSettings();
-        yield this.plugin.initialize();
-        this.display();
-      })));
-      const charsPerPageChanged = (txt, value) => __async(this, null, function* () {
-        const asNumber = Number(value);
-        const isValid = !isNaN(asNumber) && asNumber > 0;
-        txt.inputEl.style.borderColor = isValid ? null : "red";
-        const defaultCharsPerPage = 1500;
-        this.plugin.settings.charsPerPage = isValid ? Number(value) : defaultCharsPerPage;
-        yield this.plugin.saveSettings();
-        yield this.plugin.initialize();
-      });
-      new import_obsidian2.Setting(containerEl).setName("Characters per page").setDesc(`Used for page count. ${this.plugin.settings.charsPerPageIncludesWhitespace ? "2400 is common in Danish." : "1500 is common in German (Normseite)."}`).addText((txt) => {
-        txt.setPlaceholder("1500").setValue(this.plugin.settings.charsPerPage.toString()).onChange((0, import_obsidian2.debounce)(charsPerPageChanged.bind(this, txt), 1e3));
-      });
+      new import_obsidian2.Setting(containerEl)
+        .setName("Include whitespace characters in page count")
+        .addToggle((toggle) =>
+          toggle
+            .setValue(this.plugin.settings.charsPerPageIncludesWhitespace)
+            .onChange((value) =>
+              __async(this, null, function* () {
+                this.plugin.settings.charsPerPageIncludesWhitespace = value;
+                yield this.plugin.saveSettings();
+                yield this.plugin.initialize();
+                this.display();
+              }),
+            ),
+        );
+      const charsPerPageChanged = (txt, value) =>
+        __async(this, null, function* () {
+          const asNumber = Number(value);
+          const isValid = !isNaN(asNumber) && asNumber > 0;
+          txt.inputEl.style.borderColor = isValid ? null : "red";
+          const defaultCharsPerPage = 1500;
+          this.plugin.settings.charsPerPage = isValid
+            ? Number(value)
+            : defaultCharsPerPage;
+          yield this.plugin.saveSettings();
+          yield this.plugin.initialize();
+        });
+      new import_obsidian2.Setting(containerEl)
+        .setName("Characters per page")
+        .setDesc(
+          `Used for page count. ${
+            this.plugin.settings.charsPerPageIncludesWhitespace
+              ? "2400 is common in Danish."
+              : "1500 is common in German (Normseite)."
+          }`,
+        )
+        .addText((txt) => {
+          txt
+            .setPlaceholder("1500")
+            .setValue(this.plugin.settings.charsPerPage.toString())
+            .onChange(
+              (0, import_obsidian2.debounce)(
+                charsPerPageChanged.bind(this, txt),
+                1e3,
+              ),
+            );
+        });
     }
-    new import_obsidian2.Setting(containerEl).setName("Reanalyze all documents").setDesc("If changes have occurred outside of Obsidian, you may need to trigger a manual analysis").addButton((button) => button.setButtonText("Reanalyze").setCta().onClick(() => __async(this, null, function* () {
-      button.disabled = true;
-      yield this.plugin.initialize();
-      button.setButtonText("Done");
-      button.removeCta();
-      setTimeout(() => {
-        button.setButtonText("Reanalyze");
-        button.setCta();
-        button.disabled = false;
-      }, 1e3);
-    })));
-    new import_obsidian2.Setting(containerEl).setName("Debug mode").setDesc("Log debugging information to the developer console").addToggle((toggle) => toggle.setValue(this.plugin.settings.debugMode).onChange((value) => __async(this, null, function* () {
-      this.plugin.settings.debugMode = value;
-      this.plugin.debugHelper.setDebugMode(value);
-      this.plugin.fileHelper.setDebugMode(value);
-      yield this.plugin.saveSettings();
-    })));
+    new import_obsidian2.Setting(containerEl)
+      .setName("Reanalyze all documents")
+      .setDesc(
+        "If changes have occurred outside of Obsidian, you may need to trigger a manual analysis",
+      )
+      .addButton((button) =>
+        button
+          .setButtonText("Reanalyze")
+          .setCta()
+          .onClick(() =>
+            __async(this, null, function* () {
+              button.disabled = true;
+              yield this.plugin.initialize();
+              button.setButtonText("Done");
+              button.removeCta();
+              setTimeout(() => {
+                button.setButtonText("Reanalyze");
+                button.setCta();
+                button.disabled = false;
+              }, 1e3);
+            }),
+          ),
+      );
+    new import_obsidian2.Setting(containerEl)
+      .setName("Debug mode")
+      .setDesc("Log debugging information to the developer console")
+      .addToggle((toggle) =>
+        toggle.setValue(this.plugin.settings.debugMode).onChange((value) =>
+          __async(this, null, function* () {
+            this.plugin.settings.debugMode = value;
+            this.plugin.debugHelper.setDebugMode(value);
+            this.plugin.fileHelper.setDebugMode(value);
+            yield this.plugin.saveSettings();
+          }),
+        ),
+      );
   }
 };
