@@ -188,8 +188,11 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "13386d7be3e5182c",
+  "active": "19e863a0b8fedac1",
   "lastOpenFiles": [
+    "_index.md",
+    "empty.md",
+    "private/private-note.md",
     "notes/archive/AEold/english/WTCS-CONTEXT.md",
     "notes/archive/AEold/english/lessonnotes/T1W8L1.md",
     "notes/archive/AEold/specialist/feedback/CAP1-FEEDBACK.md",
@@ -200,11 +203,8 @@
     "notes/AE/ENGLISH/reactionsParticlesAndCollisions.md",
     "notes/AE/ENGLISH/speech.md",
     "notes/archive/AEold/specialist/lessonnotes/T1W5L1.md",
-    "empty.md",
     "notes/AE/SPECIALIST/trigonometry.md",
-    "_index.md",
     "templates/daily.md",
-    "private/private-note.md",
     "notes/AE/CHEMISTRY/CAP4.md",
     "notes/AE/PHYSICS/heat.md",
     "notes/daily/2023-08-28.md",
