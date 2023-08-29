@@ -1,20 +1,20 @@
-name: Deploy to GitHub Pages
+name: Deploy to Master Branch
 
 on:
   push:
     branches:
-      - hugo
+      - main
 
 jobs:
   deploy:
-    runs-on: ubuntu-20.04
+    runs-on: ubuntu-22.04
     steps:
-      - uses: actions/checkout@v2
+      - uses: actions/checkout@v3
         with:
-          fetch-depth: 0    # Fetch all history for .GitInfo and .Lastmod
+          fetch-depth: 0 # Fetch all history for .GitInfo and .Lastmod
 
       - name: Build Link Index
-        uses: jackyzha0/hugo-obsidian@v2.19
+        uses: jackyzha0/hugo-obsidian@v2.20
         with:
           index: true
           input: content
@@ -24,16 +24,16 @@ jobs:
       - name: Setup Hugo
         uses: peaceiris/actions-hugo@v2
         with:
-          hugo-version: '0.96.0'
+          hugo-version: "0.110.0"
           extended: true
 
       - name: Build
-        run: hugo --minify
-
-      - name: Deploy
+        run: hugo --minify 
+      
+      - name: Github Deploy to Master branch
         uses: peaceiris/actions-gh-pages@v3
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
           publish_dir: ./public
           publish_branch: master  # deploying branch
-          cname: quartz.jzhao.xyz
+          cname: obsidiannotes-v-4.pages.dev
