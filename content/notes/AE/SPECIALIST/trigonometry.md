@@ -81,4 +81,7 @@ dilations first, followed by translations, provided it is written in the factori
 	- a + b + b
 	- != f(a + b)
 	- therefore it is not equal
-- 
+
+### angle sum and difference identities
+- how to prove (or derive) them:
+	- start by deriving cos(A-b) = cosAcosB + sinAsinB
