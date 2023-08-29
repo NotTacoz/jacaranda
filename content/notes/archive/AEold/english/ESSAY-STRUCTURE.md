@@ -1,6 +1,6 @@
-    ---
-
+---
 ## title: "essay structure"
+---
 
 [go back](notes/archive/AEold/subsections/eng.md)
 
