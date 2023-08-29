@@ -31,10 +31,9 @@ The narrative written by a writer or a filmmaker is derived from one's own exper
 
 - R
   - I as the audience develop an empathetic but critical response to the actions of Kya.
-- I
-  -
+- ## I
 - P
   - Owens effectively portrays Kya as a character to feel empathetic towards. It is significant for authors to allow the reader to believe in the protagonist, so the protagonist resonates with the reader. Owens effectively does this
 
 ** treat Kya as a character in a story. Not as an actual person.
-**\*\***** focus on the how of Kya's portrayal - is it through metalanguage, dialogue, narration **what** does the narrator use to assist him in portraying Kya?
+**\*\*\***\* focus on the how of Kya's portrayal - is it through metalanguage, dialogue, narration **what\*\* does the narrator use to assist him in portraying Kya?

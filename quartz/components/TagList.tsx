@@ -1,27 +1,27 @@
-import { pathToRoot, slugTag } from "../util/path";
-import { QuartzComponentConstructor, QuartzComponentProps } from "./types";
+import { pathToRoot, slugTag } from "../util/path"
+import { QuartzComponentConstructor, QuartzComponentProps } from "./types"
 
 function TagList({ fileData }: QuartzComponentProps) {
-  const tags = fileData.frontmatter?.tags;
-  const baseDir = pathToRoot(fileData.slug!);
+  const tags = fileData.frontmatter?.tags
+  const baseDir = pathToRoot(fileData.slug!)
   if (tags && tags.length > 0) {
     return (
       <ul class="tags">
         {tags.map((tag) => {
-          const display = `#${tag}`;
-          const linkDest = baseDir + `/tags/${slugTag(tag)}`;
+          const display = `#${tag}`
+          const linkDest = baseDir + `/tags/${slugTag(tag)}`
           return (
             <li>
               <a href={linkDest} class="internal tag-link">
                 {display}
               </a>
             </li>
-          );
+          )
         })}
       </ul>
-    );
+    )
   } else {
-    return null;
+    return null
   }
 }
 
@@ -47,6 +47,6 @@ a.tag-link {
   padding: 0.2rem 0.4rem;
   margin: 0 0.1rem;
 }
-`;
+`
 
-export default (() => TagList) satisfies QuartzComponentConstructor;
+export default (() => TagList) satisfies QuartzComponentConstructor

@@ -1,54 +1,54 @@
-import { PluggableList } from "unified";
-import { StaticResources } from "../util/resources";
-import { ProcessedContent } from "./vfile";
-import { QuartzComponent } from "../components/types";
-import { FilePath, FullSlug } from "../util/path";
-import { BuildCtx } from "../util/ctx";
+import { PluggableList } from "unified"
+import { StaticResources } from "../util/resources"
+import { ProcessedContent } from "./vfile"
+import { QuartzComponent } from "../components/types"
+import { FilePath, FullSlug } from "../util/path"
+import { BuildCtx } from "../util/ctx"
 
 export interface PluginTypes {
-  transformers: QuartzTransformerPluginInstance[];
-  filters: QuartzFilterPluginInstance[];
-  emitters: QuartzEmitterPluginInstance[];
+  transformers: QuartzTransformerPluginInstance[]
+  filters: QuartzFilterPluginInstance[]
+  emitters: QuartzEmitterPluginInstance[]
 }
 
-type OptionType = object | undefined;
+type OptionType = object | undefined
 export type QuartzTransformerPlugin<Options extends OptionType = undefined> = (
   opts?: Options,
-) => QuartzTransformerPluginInstance;
+) => QuartzTransformerPluginInstance
 export type QuartzTransformerPluginInstance = {
-  name: string;
-  textTransform?: (ctx: BuildCtx, src: string | Buffer) => string | Buffer;
-  markdownPlugins?: (ctx: BuildCtx) => PluggableList;
-  htmlPlugins?: (ctx: BuildCtx) => PluggableList;
-  externalResources?: (ctx: BuildCtx) => Partial<StaticResources>;
-};
+  name: string
+  textTransform?: (ctx: BuildCtx, src: string | Buffer) => string | Buffer
+  markdownPlugins?: (ctx: BuildCtx) => PluggableList
+  htmlPlugins?: (ctx: BuildCtx) => PluggableList
+  externalResources?: (ctx: BuildCtx) => Partial<StaticResources>
+}
 
 export type QuartzFilterPlugin<Options extends OptionType = undefined> = (
   opts?: Options,
-) => QuartzFilterPluginInstance;
+) => QuartzFilterPluginInstance
 export type QuartzFilterPluginInstance = {
-  name: string;
-  shouldPublish(ctx: BuildCtx, content: ProcessedContent): boolean;
-};
+  name: string
+  shouldPublish(ctx: BuildCtx, content: ProcessedContent): boolean
+}
 
 export type QuartzEmitterPlugin<Options extends OptionType = undefined> = (
   opts?: Options,
-) => QuartzEmitterPluginInstance;
+) => QuartzEmitterPluginInstance
 export type QuartzEmitterPluginInstance = {
-  name: string;
+  name: string
   emit(
     ctx: BuildCtx,
     content: ProcessedContent[],
     resources: StaticResources,
     emitCallback: EmitCallback,
-  ): Promise<FilePath[]>;
-  getQuartzComponents(ctx: BuildCtx): QuartzComponent[];
-};
-
-export interface EmitOptions {
-  slug: FullSlug;
-  ext: `.${string}` | "";
-  content: string;
+  ): Promise<FilePath[]>
+  getQuartzComponents(ctx: BuildCtx): QuartzComponent[]
 }
 
-export type EmitCallback = (data: EmitOptions) => Promise<FilePath>;
+export interface EmitOptions {
+  slug: FullSlug
+  ext: `.${string}` | ""
+  content: string
+}
+
+export type EmitCallback = (data: EmitOptions) => Promise<FilePath>

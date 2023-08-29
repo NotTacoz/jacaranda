@@ -223,18 +223,12 @@
 }
 
 .theme-light .workspace-leaf-content[data-type="diff-view"] .d2h-code-line del,
-.theme-light
-  .workspace-leaf-content[data-type="diff-view"]
-  .d2h-code-side-line
-  del {
+.theme-light .workspace-leaf-content[data-type="diff-view"] .d2h-code-side-line del {
   background-color: #ffb6ba;
 }
 
 .theme-dark .workspace-leaf-content[data-type="diff-view"] .d2h-code-line del,
-.theme-dark
-  .workspace-leaf-content[data-type="diff-view"]
-  .d2h-code-side-line
-  del {
+.theme-dark .workspace-leaf-content[data-type="diff-view"] .d2h-code-side-line del {
   background-color: #8d232881;
 }
 
@@ -250,19 +244,13 @@
 }
 
 .theme-light .workspace-leaf-content[data-type="diff-view"] .d2h-code-line ins,
-.theme-light
-  .workspace-leaf-content[data-type="diff-view"]
-  .d2h-code-side-line
-  ins {
+.theme-light .workspace-leaf-content[data-type="diff-view"] .d2h-code-side-line ins {
   background-color: #97f295;
   text-align: left;
 }
 
 .theme-dark .workspace-leaf-content[data-type="diff-view"] .d2h-code-line ins,
-.theme-dark
-  .workspace-leaf-content[data-type="diff-view"]
-  .d2h-code-side-line
-  ins {
+.theme-dark .workspace-leaf-content[data-type="diff-view"] .d2h-code-side-line ins {
   background-color: #1d921996;
   text-align: left;
 }
@@ -383,31 +371,19 @@
   color: var(--text-normal);
 }
 
-.theme-light
-  .workspace-leaf-content[data-type="diff-view"]
-  .d2h-file-diff
-  .d2h-del.d2h-change {
+.theme-light .workspace-leaf-content[data-type="diff-view"] .d2h-file-diff .d2h-del.d2h-change {
   background-color: #fdf2d0;
 }
 
-.theme-dark
-  .workspace-leaf-content[data-type="diff-view"]
-  .d2h-file-diff
-  .d2h-del.d2h-change {
+.theme-dark .workspace-leaf-content[data-type="diff-view"] .d2h-file-diff .d2h-del.d2h-change {
   background-color: #55492480;
 }
 
-.theme-light
-  .workspace-leaf-content[data-type="diff-view"]
-  .d2h-file-diff
-  .d2h-ins.d2h-change {
+.theme-light .workspace-leaf-content[data-type="diff-view"] .d2h-file-diff .d2h-ins.d2h-change {
   background-color: #ded;
 }
 
-.theme-dark
-  .workspace-leaf-content[data-type="diff-view"]
-  .d2h-file-diff
-  .d2h-ins.d2h-change {
+.theme-dark .workspace-leaf-content[data-type="diff-view"] .d2h-file-diff .d2h-ins.d2h-change {
   background-color: rgba(37, 78, 37, 0.418);
 }
 
@@ -420,9 +396,7 @@
   text-decoration: none;
 }
 
-.workspace-leaf-content[data-type="diff-view"]
-  .d2h-file-list-wrapper
-  a:visited {
+.workspace-leaf-content[data-type="diff-view"] .d2h-file-list-wrapper a:visited {
   color: #3572b0;
 }
 

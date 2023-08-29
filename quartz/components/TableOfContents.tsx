@@ -1,21 +1,21 @@
-import { QuartzComponentConstructor, QuartzComponentProps } from "./types";
-import legacyStyle from "./styles/legacyToc.scss";
-import modernStyle from "./styles/toc.scss";
+import { QuartzComponentConstructor, QuartzComponentProps } from "./types"
+import legacyStyle from "./styles/legacyToc.scss"
+import modernStyle from "./styles/toc.scss"
 
 // @ts-ignore
-import script from "./scripts/toc.inline";
+import script from "./scripts/toc.inline"
 
 interface Options {
-  layout: "modern" | "legacy";
+  layout: "modern" | "legacy"
 }
 
 const defaultOptions: Options = {
   layout: "modern",
-};
+}
 
 function TableOfContents({ fileData, displayClass }: QuartzComponentProps) {
   if (!fileData.toc) {
-    return null;
+    return null
   }
 
   return (
@@ -49,14 +49,14 @@ function TableOfContents({ fileData, displayClass }: QuartzComponentProps) {
         </ul>
       </div>
     </div>
-  );
+  )
 }
-TableOfContents.css = modernStyle;
-TableOfContents.afterDOMLoaded = script;
+TableOfContents.css = modernStyle
+TableOfContents.afterDOMLoaded = script
 
 function LegacyTableOfContents({ fileData }: QuartzComponentProps) {
   if (!fileData.toc) {
-    return null;
+    return null
   }
 
   return (
@@ -74,11 +74,11 @@ function LegacyTableOfContents({ fileData }: QuartzComponentProps) {
         ))}
       </ul>
     </details>
-  );
+  )
 }
-LegacyTableOfContents.css = legacyStyle;
+LegacyTableOfContents.css = legacyStyle
 
 export default ((opts?: Partial<Options>) => {
-  const layout = opts?.layout ?? defaultOptions.layout;
-  return layout === "modern" ? TableOfContents : LegacyTableOfContents;
-}) satisfies QuartzComponentConstructor;
+  const layout = opts?.layout ?? defaultOptions.layout
+  return layout === "modern" ? TableOfContents : LegacyTableOfContents
+}) satisfies QuartzComponentConstructor

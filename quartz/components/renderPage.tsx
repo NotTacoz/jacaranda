@@ -1,28 +1,25 @@
-import { render } from "preact-render-to-string";
-import { QuartzComponent, QuartzComponentProps } from "./types";
-import HeaderConstructor from "./Header";
-import BodyConstructor from "./Body";
-import { JSResourceToScriptElement, StaticResources } from "../util/resources";
-import { FullSlug, joinSegments, pathToRoot } from "../util/path";
+import { render } from "preact-render-to-string"
+import { QuartzComponent, QuartzComponentProps } from "./types"
+import HeaderConstructor from "./Header"
+import BodyConstructor from "./Body"
+import { JSResourceToScriptElement, StaticResources } from "../util/resources"
+import { FullSlug, joinSegments, pathToRoot } from "../util/path"
 
 interface RenderComponents {
-  head: QuartzComponent;
-  header: QuartzComponent[];
-  beforeBody: QuartzComponent[];
-  pageBody: QuartzComponent;
-  left: QuartzComponent[];
-  right: QuartzComponent[];
-  footer: QuartzComponent;
+  head: QuartzComponent
+  header: QuartzComponent[]
+  beforeBody: QuartzComponent[]
+  pageBody: QuartzComponent
+  left: QuartzComponent[]
+  right: QuartzComponent[]
+  footer: QuartzComponent
 }
 
-export function pageResources(
-  slug: FullSlug,
-  staticResources: StaticResources,
-): StaticResources {
-  const baseDir = pathToRoot(slug);
+export function pageResources(slug: FullSlug, staticResources: StaticResources): StaticResources {
+  const baseDir = pathToRoot(slug)
 
-  const contentIndexPath = joinSegments(baseDir, "static/contentIndex.json");
-  const contentIndexScript = `const fetchData = fetch(\`${contentIndexPath}\`).then(data => data.json())`;
+  const contentIndexPath = joinSegments(baseDir, "static/contentIndex.json")
+  const contentIndexScript = `const fetchData = fetch(\`${contentIndexPath}\`).then(data => data.json())`
 
   return {
     css: [joinSegments(baseDir, "index.css"), ...staticResources.css],
@@ -46,7 +43,7 @@ export function pageResources(
         contentType: "external",
       },
     ],
-  };
+  }
 }
 
 export function renderPage(
@@ -63,9 +60,9 @@ export function renderPage(
     left,
     right,
     footer: Footer,
-  } = components;
-  const Header = HeaderConstructor();
-  const Body = BodyConstructor();
+  } = components
+  const Header = HeaderConstructor()
+  const Body = BodyConstructor()
 
   const LeftComponent = (
     <div class="left sidebar">
@@ -73,7 +70,7 @@ export function renderPage(
         <BodyComponent {...componentData} />
       ))}
     </div>
-  );
+  )
 
   const RightComponent = (
     <div class="right sidebar">
@@ -81,7 +78,7 @@ export function renderPage(
         <BodyComponent {...componentData} />
       ))}
     </div>
-  );
+  )
 
   const doc = (
     <html>
@@ -114,7 +111,7 @@ export function renderPage(
         .filter((resource) => resource.loadTime === "afterDOMReady")
         .map((res) => JSResourceToScriptElement(res))}
     </html>
-  );
+  )
 
-  return "<!DOCTYPE html>\n" + render(doc);
+  return "<!DOCTYPE html>\n" + render(doc)
 }

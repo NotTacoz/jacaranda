@@ -269,8 +269,7 @@ title: "CAP2"
       - many are due to quantum effects that result from their small particle size
       - eg zinc oxide and titanium are white opaque solids with good UV protection. in macro particle form, it leaves a layer on the skin.
         - so nano particles become invisible on the skin whilst protecting against UV exposure.
-63. Identify uses of nanomaterials and suggest advantages and disadvantages to their use.
-    -
+63. ## Identify uses of nanomaterials and suggest advantages and disadvantages to their use.
 64. Describe the potential health risks associated with the use of nanoparticles. (SHE)
     - hazardous when inhaled for workers exposed to some airborne nanoparticles.
 65. Describe and explain examples of environmental concerns associated with the use of nanomaterials. (SHE)
@@ -338,8 +337,7 @@ title: "CAP2"
 1. Use knowledge of electronegativity to establish bond polarity.
    - what is bond polarity?
      - difference in electronegativity
-1. Use understanding of molecular shape, bond polarity and symmetry to establish and explain the polarity of molecules.
-   -
+1. ## Use understanding of molecular shape, bond polarity and symmetry to establish and explain the polarity of molecules.
 1. Describe how dipole-dipole forces arise, and explain how the relative size of a molecular dipole affects the strength of dipole-dipole forces.
    - f
 1. Describe how hydrogen bonding arises, end explain why this special case of dipole-dipole bonding is so much stronger than other examples of dipole-dipole bonding.

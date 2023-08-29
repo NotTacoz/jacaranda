@@ -1,30 +1,26 @@
-import { QuartzComponentConstructor, QuartzComponentProps } from "../types";
-import { Fragment, jsx, jsxs } from "preact/jsx-runtime";
-import { toJsxRuntime } from "hast-util-to-jsx-runtime";
-import style from "../styles/listPage.scss";
-import { PageList } from "../PageList";
-import { FullSlug, getAllSegmentPrefixes, simplifySlug } from "../../util/path";
-import { QuartzPluginData } from "../../plugins/vfile";
-import { Root } from "hast";
+import { QuartzComponentConstructor, QuartzComponentProps } from "../types"
+import { Fragment, jsx, jsxs } from "preact/jsx-runtime"
+import { toJsxRuntime } from "hast-util-to-jsx-runtime"
+import style from "../styles/listPage.scss"
+import { PageList } from "../PageList"
+import { FullSlug, getAllSegmentPrefixes, simplifySlug } from "../../util/path"
+import { QuartzPluginData } from "../../plugins/vfile"
+import { Root } from "hast"
 
-const numPages = 10;
+const numPages = 10
 function TagContent(props: QuartzComponentProps) {
-  const { tree, fileData, allFiles } = props;
-  const slug = fileData.slug;
+  const { tree, fileData, allFiles } = props
+  const slug = fileData.slug
 
   if (!(slug?.startsWith("tags/") || slug === "tags")) {
-    throw new Error(
-      `Component "TagContent" tried to render a non-tag page: ${slug}`,
-    );
+    throw new Error(`Component "TagContent" tried to render a non-tag page: ${slug}`)
   }
 
-  const tag = simplifySlug(slug.slice("tags/".length) as FullSlug);
+  const tag = simplifySlug(slug.slice("tags/".length) as FullSlug)
   const allPagesWithTag = (tag: string) =>
     allFiles.filter((file) =>
-      (file.frontmatter?.tags ?? [])
-        .flatMap(getAllSegmentPrefixes)
-        .includes(tag),
-    );
+      (file.frontmatter?.tags ?? []).flatMap(getAllSegmentPrefixes).includes(tag),
+    )
 
   const content =
     (tree as Root).children.length === 0
@@ -35,15 +31,13 @@ function TagContent(props: QuartzComponentProps) {
           jsx,
           jsxs,
           elementAttributeNameCase: "html",
-        });
+        })
 
   if (tag === "") {
-    const tags = [
-      ...new Set(allFiles.flatMap((data) => data.frontmatter?.tags ?? [])),
-    ];
-    const tagItemMap: Map<string, QuartzPluginData[]> = new Map();
+    const tags = [...new Set(allFiles.flatMap((data) => data.frontmatter?.tags ?? []))]
+    const tagItemMap: Map<string, QuartzPluginData[]> = new Map()
     for (const tag of tags) {
-      tagItemMap.set(tag, allPagesWithTag(tag));
+      tagItemMap.set(tag, allPagesWithTag(tag))
     }
 
     return (
@@ -54,16 +48,14 @@ function TagContent(props: QuartzComponentProps) {
         <p>Found {tags.length} total tags.</p>
         <div>
           {tags.map((tag) => {
-            const pages = tagItemMap.get(tag)!;
+            const pages = tagItemMap.get(tag)!
             const listProps = {
               ...props,
               allFiles: pages,
-            };
+            }
 
-            const contentPage = allFiles.filter(
-              (file) => file.slug === `tags/${tag}`,
-            )[0];
-            const content = contentPage?.description;
+            const contentPage = allFiles.filter((file) => file.slug === `tags/${tag}`)[0]
+            const content = contentPage?.description
             return (
               <div>
                 <h2>
@@ -78,17 +70,17 @@ function TagContent(props: QuartzComponentProps) {
                 </p>
                 <PageList limit={numPages} {...listProps} />
               </div>
-            );
+            )
           })}
         </div>
       </div>
-    );
+    )
   } else {
-    const pages = allPagesWithTag(tag);
+    const pages = allPagesWithTag(tag)
     const listProps = {
       ...props,
       allFiles: pages,
-    };
+    }
 
     return (
       <div class="popover-hint">
@@ -98,9 +90,9 @@ function TagContent(props: QuartzComponentProps) {
           <PageList {...listProps} />
         </div>
       </div>
-    );
+    )
   }
 }
 
-TagContent.css = style + PageList.css;
-export default (() => TagContent) satisfies QuartzComponentConstructor;
+TagContent.css = style + PageList.css
+export default (() => TagContent) satisfies QuartzComponentConstructor

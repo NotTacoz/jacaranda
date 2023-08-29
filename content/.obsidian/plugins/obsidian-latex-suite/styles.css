@@ -206,27 +206,13 @@ sub.cm-math {
 
 /* Highlight brackets */
 .theme-light .latex-suite-highlighted-bracket,
-.theme-light
-  .latex-suite-highlighted-bracket
-  [class^="latex-suite-color-bracket-"] {
-  background-color: hsl(
-    var(--accent-h),
-    var(--accent-s),
-    var(--accent-l),
-    0.25
-  );
+.theme-light .latex-suite-highlighted-bracket [class^="latex-suite-color-bracket-"] {
+  background-color: hsl(var(--accent-h), var(--accent-s), var(--accent-l), 0.25);
 }
 
 .theme-dark .latex-suite-highlighted-bracket,
-.theme-dark
-  .latex-suite-highlighted-bracket
-  [class^="latex-suite-color-bracket-"] {
-  background-color: hsl(
-    var(--accent-h),
-    var(--accent-s),
-    calc(var(--accent-l) - 7%),
-    0.3
-  );
+.theme-dark .latex-suite-highlighted-bracket [class^="latex-suite-color-bracket-"] {
+  background-color: hsl(var(--accent-h), var(--accent-s), calc(var(--accent-l) - 7%), 0.3);
 }
 
 /* Color matching brackets */

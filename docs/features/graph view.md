@@ -46,7 +46,7 @@ Component.Graph({
     fontSize: 0.6,
     opacityScale: 1,
   },
-});
+})
 ```
 
 When passing in your own options, you can omit any or all of these fields if you'd like to keep the default value for that field.

@@ -11,7 +11,7 @@ export const CommonArgv = {
     default: false,
     describe: "print out extra logging information",
   },
-};
+}
 
 export const CreateArgv = {
   ...CommonArgv,
@@ -32,7 +32,7 @@ export const CreateArgv = {
     choices: ["absolute", "shortest", "relative"],
     describe: "strategy to resolve links",
   },
-};
+}
 
 export const SyncArgv = {
   ...CommonArgv,
@@ -51,7 +51,7 @@ export const SyncArgv = {
     default: true,
     describe: "pull updates from your Quartz fork",
   },
-};
+}
 
 export const BuildArgv = {
   ...CommonArgv,
@@ -84,8 +84,7 @@ export const BuildArgv = {
   remoteDevHost: {
     string: true,
     default: "",
-    describe:
-      "A URL override for the websocket connection if you are not developing on localhost",
+    describe: "A URL override for the websocket connection if you are not developing on localhost",
   },
   bundleInfo: {
     boolean: true,
@@ -96,4 +95,4 @@ export const BuildArgv = {
     number: true,
     describe: "how many threads to use to parse notes",
   },
-};
+}

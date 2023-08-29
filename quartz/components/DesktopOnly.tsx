@@ -1,22 +1,18 @@
-import {
-  QuartzComponent,
-  QuartzComponentConstructor,
-  QuartzComponentProps,
-} from "./types";
+import { QuartzComponent, QuartzComponentConstructor, QuartzComponentProps } from "./types"
 
 export default ((component?: QuartzComponent) => {
   if (component) {
-    const Component = component;
+    const Component = component
     function DesktopOnly(props: QuartzComponentProps) {
-      return <Component displayClass="desktop-only" {...props} />;
+      return <Component displayClass="desktop-only" {...props} />
     }
 
-    DesktopOnly.displayName = component.displayName;
-    DesktopOnly.afterDOMLoaded = component?.afterDOMLoaded;
-    DesktopOnly.beforeDOMLoaded = component?.beforeDOMLoaded;
-    DesktopOnly.css = component?.css;
-    return DesktopOnly;
+    DesktopOnly.displayName = component.displayName
+    DesktopOnly.afterDOMLoaded = component?.afterDOMLoaded
+    DesktopOnly.beforeDOMLoaded = component?.beforeDOMLoaded
+    DesktopOnly.css = component?.css
+    return DesktopOnly
   } else {
-    return () => <></>;
+    return () => <></>
   }
-}) satisfies QuartzComponentConstructor;
+}) satisfies QuartzComponentConstructor
