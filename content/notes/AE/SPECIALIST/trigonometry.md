@@ -90,3 +90,4 @@ dilations first, followed by translations, provided it is written in the factori
 - cos(A+A) = cosAcosA - sinAsinA
 - cos(2A) = $\cos^2A-\sin^2A$
 - $\cos(2A)=1-2\sin^2A$
+- do 9C yayayayaya
