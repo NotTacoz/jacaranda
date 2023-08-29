@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notes/archive/AEold/specialist/feedback/CAP1-FEEDBACK.md",
+                "file": "notes/archive/AEold/english/feedback.md",
                 "mode": "source",
                 "source": false
               }
@@ -109,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "notes/archive/AEold/specialist/feedback/CAP1-FEEDBACK.md",
+                "file": "notes/archive/AEold/english/feedback.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -126,7 +126,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "notes/archive/AEold/specialist/feedback/CAP1-FEEDBACK.md",
+                "file": "notes/archive/AEold/english/feedback.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -149,7 +149,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "notes/archive/AEold/specialist/feedback/CAP1-FEEDBACK.md"
+                "file": "notes/archive/AEold/english/feedback.md"
               }
             }
           },
@@ -190,6 +190,9 @@
   },
   "active": "13386d7be3e5182c",
   "lastOpenFiles": [
+    "notes/archive/AEold/english/WTCS-CONTEXT.md",
+    "notes/archive/AEold/english/lessonnotes/T1W8L1.md",
+    "notes/archive/AEold/specialist/feedback/CAP1-FEEDBACK.md",
     "notes/archive/AEold/english/ESSAY-STRUCTURE.md",
     "notes/AE/ENGLISH/goodAnswersReview.md",
     "notes/AE/ENGLISH/english.md",
@@ -217,9 +220,6 @@
     "notes/AE/CHEMISTRY/CAP3.md",
     "notes/images/Pasted image 20230826120437.png",
     "notes/images/Pasted image 20230826120056.png",
-    "notes/AE/CHEMISTRY/courseOutline.md",
-    "notes/daily/2023-08-25.md",
-    "notes/AE/CHEMISTRY/thermodynamics.md",
     "notes/images/11 Physics Revision Checklist - Electrical Circuits 2023.pdf",
     "notes/images/11+Physics+Revision+Checklist+-+Ionising+Radiation+&+Nuclear+Reactions+2023.pdf",
     "notes/images/Screen Shot 2023-08-21 at 2.28.30 pm.png",
