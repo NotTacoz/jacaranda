@@ -4,22 +4,35 @@
     "type": "split",
     "children": [
       {
-        "id": "65eb805ee6b5e30c",
+        "id": "97e5e36b935b2f13",
         "type": "tabs",
         "children": [
           {
-            "id": "d458d0dbfd758d13",
+            "id": "0e174f6667e62eff",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notes/AE/ENGLISH/goodAnswersReview.md",
+                "file": "notes/AE/METHODS/differentiation.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "e6a703ba74de62b7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "notes/AE/notes.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -109,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "notes/AE/ENGLISH/goodAnswersReview.md",
+                "file": "notes/AE/notes.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -126,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "notes/AE/ENGLISH/goodAnswersReview.md",
+                "file": "notes/AE/notes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -149,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "notes/AE/ENGLISH/goodAnswersReview.md"
+                "file": "notes/AE/notes.md"
               }
             }
           },
@@ -188,8 +201,22 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "d458d0dbfd758d13",
+  "active": "e6a703ba74de62b7",
   "lastOpenFiles": [
+    "notes/AE/CHEMISTRY/courseOutline.md",
+    "notes/AE/SPECIALIST/trigonometry.md",
+    "notes/AE/METHODS/sequences.md",
+    "notes/AE/METHODS/antidifferentiation.md",
+    "Untitled.md",
+    "notes/AE/METHODS/differentiation.md",
+    "notes/AE/METHODS/exponentialRelationships.md",
+    "notes/AE/METHODS/indexLaws.md",
+    "notes/AE/METHODS/kinematics.md",
+    "notes/AE/METHODS/solvingTrigEquations.md",
+    "notes/AE/METHODS/methods.md",
+    "notes/AE/notes.md",
+    "notes/AE/PHYSICS/heat.md",
+    "notes/AE/ENGLISH/goodAnswersReview.md",
     "notes/AE/ENGLISH/english.md",
     "notes/archive/AEold/english/lessonnotes/T1W7L2.md",
     "notes/archive/AEold/english/lessonnotes/T1W8L1.md",
@@ -200,24 +227,10 @@
     "notes/archive/AEold/english/WTCS-CONTEXT.md",
     "notes/archive/AEold/specialist/feedback/CAP1-FEEDBACK.md",
     "notes/archive/AEold/english/ESSAY-STRUCTURE.md",
-    "notes/AE/ENGLISH/goodAnswersReview.md",
     "notes/AE/ENGLISH/presentationNotes.md",
     "notes/AE/ENGLISH/reactionsParticlesAndCollisions.md",
-    "notes/AE/ENGLISH/speech.md",
-    "notes/archive/AEold/specialist/lessonnotes/T1W5L1.md",
-    "notes/AE/SPECIALIST/trigonometry.md",
-    "templates/daily.md",
-    "notes/AE/CHEMISTRY/CAP4.md",
-    "notes/AE/PHYSICS/heat.md",
-    "notes/daily/2023-08-28.md",
-    "notes/AE/PHYSICS/electricalPhysics.md",
-    "notes/images/Pasted image 20230828125257.gif.md",
     "notes/images/Pasted image 20230828125257.png",
     "notes/images/Screen Shot 2023-08-28 at 9.15.28 am.png",
-    "notes/AE/CHEMISTRY/ratesOfReaction.md",
-    "notes/AE/CHEMISTRY/Untitled.md",
-    "notes/AE/CHEMISTRY/organicChem.md",
-    "notes/AE/CHEMISTRY/kineticEnergy.md",
     "notes/images/Pasted image 20230826120437.png",
     "notes/images/Pasted image 20230826120056.png",
     "notes/images/11 Physics Revision Checklist - Electrical Circuits 2023.pdf",

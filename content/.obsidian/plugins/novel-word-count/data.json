@@ -2120,16 +2120,16 @@
     "notes/AE/PHYSICS/heat.md": {
       "isDirectory": false,
       "noteCount": 1,
-      "wordCount": 299,
-      "pageCount": 0.9966666666666667,
-      "characterCount": 1848,
-      "nonWhitespaceCharacterCount": 1542,
+      "wordCount": 341,
+      "pageCount": 1.1366666666666667,
+      "characterCount": 2117,
+      "nonWhitespaceCharacterCount": 1766,
       "linkCount": 0,
       "embedCount": 0,
       "aliases": null,
-      "createdDate": 1693205097526,
-      "modifiedDate": 1693311764472,
-      "sizeInBytes": 1869
+      "createdDate": 1693311764472,
+      "modifiedDate": 1693360455197,
+      "sizeInBytes": 2138
     },
     "notes/AE/PHYSICS/electricalPhysics.md": {
       "isDirectory": false,
@@ -2173,6 +2173,20 @@
       "modifiedDate": 1693311764645,
       "sizeInBytes": 169
     },
+    "notes/AE/METHODS/sequences.md": {
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 0,
+      "pageCount": 0,
+      "characterCount": 2,
+      "nonWhitespaceCharacterCount": 0,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1693360459425,
+      "modifiedDate": 1693360466882,
+      "sizeInBytes": 28
+    },
     "notes/AE/METHODS/solvingTrigEquations.md": {
       "isDirectory": false,
       "noteCount": 1,
@@ -2190,16 +2204,16 @@
     "notes/AE/METHODS/methods.md": {
       "isDirectory": false,
       "noteCount": 1,
-      "wordCount": 6,
-      "pageCount": 0.02,
-      "characterCount": 128,
-      "nonWhitespaceCharacterCount": 120,
-      "linkCount": 2,
+      "wordCount": 10,
+      "pageCount": 0.03333333333333333,
+      "characterCount": 267,
+      "nonWhitespaceCharacterCount": 256,
+      "linkCount": 4,
       "embedCount": 0,
       "aliases": null,
-      "createdDate": 1687931702421,
-      "modifiedDate": 1693311764266,
-      "sizeInBytes": 169
+      "createdDate": 1693311764266,
+      "modifiedDate": 1693360541583,
+      "sizeInBytes": 308
     },
     "notes/AE/METHODS/kinematics.md": {
       "isDirectory": false,
@@ -2379,8 +2393,8 @@
       "linkCount": 0,
       "embedCount": 0,
       "aliases": null,
-      "createdDate": 1693310251308,
-      "modifiedDate": 1693312429309,
+      "createdDate": 1693312429309,
+      "modifiedDate": 1693359008021,
       "sizeInBytes": 2051
     },
     "notes/AE/ENGLISH/timBurton.md": {

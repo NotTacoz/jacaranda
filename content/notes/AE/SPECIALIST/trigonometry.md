@@ -102,3 +102,10 @@ dilations first, followed by translations, provided it is written in the factori
 - cos(2A) = $\cos^2A-\sin^2A$
 - $\cos(2A)=1-2\sin^2A$
 - do 9C yayayayayayayayayay
+
+## how to use the compound angle formulas
+- determine exact values for sin 15
+- sin 15 = sin (45 - 30!!!!!!!!!!!!!)
+- find exact value of sin (A+ B) = sinAcosB + cosAsinB :DDDDD yay
+- since A is acute, sin A = 12/13 (for another question)
+- 

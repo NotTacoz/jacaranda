@@ -5,7 +5,10 @@ title: "heat"
 Science Understanding Heating processes
 
 - the kinetic particle model describes matter as consisting of particles in constant motion, except at absolute zero
+	- all matter are made up of small particles, particles which are in constant motion, sometimes forming elastic collisions.
+	- always in motion, except in absolute zero.
 - all substances have internal energy due to the motion and separation of their particles
+	- internal energy refers to the total kinetic and potential energy of particles within substance.
 - temperature is a measure of the average kinetic energy of particles in a system
 - provided a substance does not change state, its temperature change is proportional to the amount of energy added to or removed from the substance; the constant of proportionality describes the heat capacity of the substance
   - This includes applying the relationship

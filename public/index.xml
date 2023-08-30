@@ -189,8 +189,14 @@
     <title>methods</title>
     <link>https://nottacoz.github.io/notes/AE/METHODS/methods</link>
     <guid>https://nottacoz.github.io/notes/AE/METHODS/methods</guid>
-    <description> solving trig equations differentiation .</description>
+    <description> solving trig equations differentiation antidifferentiation exponentialRelationships .</description>
     <pubDate>Tue, 29 Aug 2023 12:22:44 GMT</pubDate>
+  </item><item>
+    <title>sequences</title>
+    <link>https://nottacoz.github.io/notes/AE/METHODS/sequences</link>
+    <guid>https://nottacoz.github.io/notes/AE/METHODS/sequences</guid>
+    <description> when looking at identifying the explicit rule, it is finding the rule through linear equations and quadratic relationships like that different when finding the recursive rule.</description>
+    <pubDate>Wed, 30 Aug 2023 01:54:19 GMT</pubDate>
   </item><item>
     <title>solvingTrigEquations</title>
     <link>https://nottacoz.github.io/notes/AE/METHODS/solvingTrigEquations</link>
@@ -219,7 +225,7 @@
     <title>heat</title>
     <link>https://nottacoz.github.io/notes/AE/PHYSICS/heat</link>
     <guid>https://nottacoz.github.io/notes/AE/PHYSICS/heat</guid>
-    <description>Science Understanding Heating processes the kinetic particle model describes matter as consisting of particles in constant motion, except at absolute zero all substances have internal energy due to the motion and separation of their particles temperature is a measure of the average kinetic energy of particles in a system provided a substance does not change state, its temperature change is proportional to the amount of energy added to or removed from the substance; the constant of proportionality describes the heat capacity of the substance This includes applying the relationship Q=mcΔT change of state involves separating particles which exert attractive forces on each other; latent heat is the energy required to be added to or removed from a system to change the state of the system This includes applying the relationship = Q m L two systems in contact transfer energy between particles so that eventually the systems reach the same temperature; that is, they are in thermal equilibrium.</description>
+    <description>Science Understanding Heating processes the kinetic particle model describes matter as consisting of particles in constant motion, except at absolute zero all matter are made up of small particles, particles which are in constant motion, sometimes forming elastic collisions.</description>
     <pubDate>Tue, 29 Aug 2023 12:22:44 GMT</pubDate>
   </item><item>
     <title>Nuclear Physics</title>
