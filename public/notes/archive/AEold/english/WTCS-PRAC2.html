@@ -1,488 +1,50 @@
-<!doctype html>
-<html>
-  <head>
-    <title>WTCS-PRAC2</title>
-    <meta charset="utf-8" />
-    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <meta property="og:title" content="WTCS-PRAC2" />
-    <meta
-      property="og:description"
-      content="1. Discuss how your attitudes influence your response to the way a controversy is represented in at least one text. Responses are affected by the reader’s attitudes and how the text conveys certain ideas, such as if the text establishes context."
-    />
-    <meta
-      property="og:image"
-      content="https://quartz.jzhao.xyz/static/og-image.png"
-    />
-    <meta property="og:width" content="1200" />
-    <meta property="og:height" content="675" />
-    <link rel="icon" href="../../../../static/icon.png" />
-    <meta
-      name="description"
-      content="1. Discuss how your attitudes influence your response to the way a controversy is represented in at least one text. Responses are affected by the reader’s attitudes and how the text conveys certain ideas, such as if the text establishes context."
-    />
-    <meta name="generator" content="Quartz" />
-    <link rel="preconnect" href="https://fonts.googleapis.com" />
-    <link rel="preconnect" href="https://fonts.gstatic.com" />
-    <link
-      href="../../../../index.css"
-      rel="stylesheet"
-      type="text/css"
-      spa-preserve
-    />
-    <link
-      href="https://cdn.jsdelivr.net/npm/katex@0.16.0/dist/katex.min.css"
-      rel="stylesheet"
-      type="text/css"
-      spa-preserve
-    />
-    <link
-      href="https://fonts.googleapis.com/css2?family=IBM Plex Mono&amp;family=Schibsted Grotesk:wght@400;700&amp;family=Source Sans Pro:ital,wght@0,400;0,600;1,400;1,600&amp;display=swap"
-      rel="stylesheet"
-      type="text/css"
-      spa-preserve
-    />
-    <script
-      src="../../../../prescript.js"
-      type="application/javascript"
-      spa-preserve
-    ></script>
-    <script type="application/javascript" spa-preserve>
-      const fetchData = fetch(`../../../../static/contentIndex.json`).then(
-        (data) => data.json(),
-      );
-    </script>
-  </head>
-  <body data-slug="notes/archive/AEold/english/WTCS-PRAC2">
-    <div id="quartz-root" class="page">
-      <div id="quartz-body">
-        <div class="left sidebar">
-          <h1 class="page-title"><a href="../../../..">🪴 Quartz 4.0</a></h1>
-          <div class="spacer mobile-only"></div>
-          <div class="search">
-            <div id="search-icon">
-              <p>Search</p>
-              <div></div>
-              <svg
-                tabIndex="0"
-                aria-labelledby="title desc"
-                role="img"
-                xmlns="http://www.w3.org/2000/svg"
-                viewBox="0 0 19.9 19.7"
-              >
-                <title id="title">Search</title>
-                <desc id="desc">Search</desc>
-                <g class="search-path" fill="none">
-                  <path stroke-linecap="square" d="M18.5 18.3l-5.4-5.4"></path>
-                  <circle cx="8" cy="8" r="7"></circle>
-                </g>
-              </svg>
-            </div>
-            <div id="search-container">
-              <div id="search-space">
-                <input
-                  autocomplete="off"
-                  id="search-bar"
-                  name="search"
-                  type="text"
-                  aria-label="Search for something"
-                  placeholder="Search for something"
-                />
-                <div id="results-container"></div>
-              </div>
-            </div>
-          </div>
-          <div class="darkmode">
-            <input
-              class="toggle"
-              id="darkmode-toggle"
-              type="checkbox"
-              tabindex="-1"
-            /><label id="toggle-label-light" for="darkmode-toggle" tabindex="-1"
-              ><svg
-                xmlns="http://www.w3.org/2000/svg"
-                xmlnsXlink="http://www.w3.org/1999/xlink"
-                version="1.1"
-                id="dayIcon"
-                x="0px"
-                y="0px"
-                viewBox="0 0 35 35"
-                style="enable-background: new 0 0 35 35"
-                xmlSpace="preserve"
-              >
-                <title>Light mode</title>
-                <path
-                  d="M6,17.5C6,16.672,5.328,16,4.5,16h-3C0.672,16,0,16.672,0,17.5    S0.672,19,1.5,19h3C5.328,19,6,18.328,6,17.5z M7.5,26c-0.414,0-0.789,0.168-1.061,0.439l-2,2C4.168,28.711,4,29.086,4,29.5    C4,30.328,4.671,31,5.5,31c0.414,0,0.789-0.168,1.06-0.44l2-2C8.832,28.289,9,27.914,9,27.5C9,26.672,8.329,26,7.5,26z M17.5,6    C18.329,6,19,5.328,19,4.5v-3C19,0.672,18.329,0,17.5,0S16,0.672,16,1.5v3C16,5.328,16.671,6,17.5,6z M27.5,9    c0.414,0,0.789-0.168,1.06-0.439l2-2C30.832,6.289,31,5.914,31,5.5C31,4.672,30.329,4,29.5,4c-0.414,0-0.789,0.168-1.061,0.44    l-2,2C26.168,6.711,26,7.086,26,7.5C26,8.328,26.671,9,27.5,9z M6.439,8.561C6.711,8.832,7.086,9,7.5,9C8.328,9,9,8.328,9,7.5    c0-0.414-0.168-0.789-0.439-1.061l-2-2C6.289,4.168,5.914,4,5.5,4C4.672,4,4,4.672,4,5.5c0,0.414,0.168,0.789,0.439,1.06    L6.439,8.561z M33.5,16h-3c-0.828,0-1.5,0.672-1.5,1.5s0.672,1.5,1.5,1.5h3c0.828,0,1.5-0.672,1.5-1.5S34.328,16,33.5,16z     M28.561,26.439C28.289,26.168,27.914,26,27.5,26c-0.828,0-1.5,0.672-1.5,1.5c0,0.414,0.168,0.789,0.439,1.06l2,2    C28.711,30.832,29.086,31,29.5,31c0.828,0,1.5-0.672,1.5-1.5c0-0.414-0.168-0.789-0.439-1.061L28.561,26.439z M17.5,29    c-0.829,0-1.5,0.672-1.5,1.5v3c0,0.828,0.671,1.5,1.5,1.5s1.5-0.672,1.5-1.5v-3C19,29.672,18.329,29,17.5,29z M17.5,7    C11.71,7,7,11.71,7,17.5S11.71,28,17.5,28S28,23.29,28,17.5S23.29,7,17.5,7z M17.5,25c-4.136,0-7.5-3.364-7.5-7.5    c0-4.136,3.364-7.5,7.5-7.5c4.136,0,7.5,3.364,7.5,7.5C25,21.636,21.636,25,17.5,25z"
-                ></path></svg></label
-            ><label id="toggle-label-dark" for="darkmode-toggle" tabindex="-1"
-              ><svg
-                xmlns="http://www.w3.org/2000/svg"
-                xmlnsXlink="http://www.w3.org/1999/xlink"
-                version="1.1"
-                id="nightIcon"
-                x="0px"
-                y="0px"
-                viewBox="0 0 100 100"
-                style="enable-background='new 0 0 100 100'"
-                xmlSpace="preserve"
-              >
-                <title>Dark mode</title>
-                <path
-                  d="M96.76,66.458c-0.853-0.852-2.15-1.064-3.23-0.534c-6.063,2.991-12.858,4.571-19.655,4.571  C62.022,70.495,50.88,65.88,42.5,57.5C29.043,44.043,25.658,23.536,34.076,6.47c0.532-1.08,0.318-2.379-0.534-3.23  c-0.851-0.852-2.15-1.064-3.23-0.534c-4.918,2.427-9.375,5.619-13.246,9.491c-9.447,9.447-14.65,22.008-14.65,35.369  c0,13.36,5.203,25.921,14.65,35.368s22.008,14.65,35.368,14.65c13.361,0,25.921-5.203,35.369-14.65  c3.872-3.871,7.064-8.328,9.491-13.246C97.826,68.608,97.611,67.309,96.76,66.458z"
-                ></path></svg
-            ></label>
-          </div>
-        </div>
-        <div class="center">
-          <div class="page-header">
-            <div class="popover-hint">
-              <h1 class="article-title">WTCS-PRAC2</h1>
-              <p class="content-meta">Mar 14, 2023, 13 min read</p>
-            </div>
-          </div>
-          <article class="popover-hint">
-            <p>
-              1.     Discuss how your attitudes influence your response to the
-              way a controversy is represented in at least one text.
-            </p>
-            <p>
-              Responses are affected by the reader’s attitudes and how the text
-              conveys certain ideas, such as if the text establishes context.
-              This is underlined in the film “Where the Crawdads Sing” (2022)
-              directed by Olivia Newman from screenplay by Lucy Alibar adapted
-              from the novel of the same name. The film follows a coming-of-age
-              story of an isolated girl named Kya, who is raised in the marsh
-              and is suspected of the murder of a man she was once romantically
-              involved with. My attitudes as the contemporary audience towards
-              ideas of discrimination, isolation and relationships influence my
-              response and positions me to be empathetic towards Kya in the
-              representation of a murder case as the controversy.
-            </p>
-            <p>
-              As the contemporary attitude, my critical attitude towards
-              discrimination influences my response to be condemning towards the
-              accusation and the townspeople, believing they are motivated by
-              prejudice and bias common in 1950s America rather than justice.
-              The prejudice against Kya is highlighted with the townspeople
-              always referring to Kya as “the marsh girl.” This label marks Kya
-              as nothing other than her origins, something she cannot change.
-              The label placed on Kya is similar to slurs against people based
-              on their origin that is now shunned in contemporary society. The
-              societal criticism of discrimination is much more different than
-              1950s America, where there are less consequences and seen as less
-              serious. This labelling of Kya based on her origins, something she
-              cannot change, influences my response to be empathetic towards Kya
-              when she is accused of murder. [evidence 2, elaboration 2 goes
-              here]. [link goes here]
-            </p>
-            <p>
-              My response to the representation of the controversy of the murder
-              is influenced by my solemn (?) attitude towards isolation. Kya,
-              ever since a young age has experienced isolation, not at her own
-              fault, but the situation she was born in led eventually to her
-              entire family one after the other abandoning the marsh, and
-              consequentially, Kya (too long how to shorten). Kya reflects on
-              this by stating that she “had a family once” who “called [her]
-              Kya.” The use of past tense in “once” and “called” shows that Kya
-              no longer has a family, nor does she have someone who calls by her
-              real name, highlighting her loss of identity as Kya, and is now
-              seen more as a “marsh girl” (should’ve used this for BP1 lmao).
-              This is significant in influencing my response, as when she was
-              revealed to be the murderer, my attitudes towards isolation
-              influences my response to be empathetic, as the isolation she
-              experienced and her exposure to the nature may present Kya a
-              different viewpoint on life and death than everybody else, seeing
-              it as an eventual constant rather than something to grieve over.
-              [link and more bps here]
-            </p>
-            <p>
-              Furthermore, my response to the murder case is influenced by my
-              attitude towards relationships, in which I believe personal
-              connection is an essential need contemporary context, in which
-              social media and the growing connection with the technological
-              word has led to a time where society is embedded more in social
-              connection than any other time period of history. This is
-              evidenced when Kya begged Tate to “please stay”, as she does not
-              want to experience isolation again. In the contemporary context,
-              where social media and every day the world gets more connected
-              online, my attitude on social connection is that it is a basic
-              human necessity and something everyone wishes to attain. This
-              attitude further develops my empathy towards Kya in the trial, as
-              she did not have the human connections relative to everybody else
-              to learn what is socially acceptable and rather her environment of
-              the marsh has shaped her character and perspective on life. When
-              Tate doesn’t come back when he promised, Kya came to the
-              realisation that “people don’t stay”, and she “had to do life
-              alone” this shows although Kya wishes for social connection, those
-              who are close to her consistently abandoned her eventually, to a
-              point she feels she naturally undeserving of companionship (quote
-              should go here). My attitude on the necessity of social connection
-              furthers my empathetic response towards Kya. Hence, through my
-              contemporary attitude on the necessity of social connection my
-              response is empathetic towards Kya’s situation, because people she
-              had connections with eventually abandoned her. (maybe unneeded
-              last part)
-            </p>
-            <p>
-              As a contemporary reader, my attitudes on discrimination,
-              isolation and social connection influences my response to be
-              overall empathetic towards Kya. My critical attitude on
-              discrimination, solemn attitude towards isolation, and the
-              attitude on social connection, viewing it as a basic necessity
-              everyone wishes to attain, all influences my response to be
-              empathetic towards Kya. The portrayal of Kya as innocent and
-              empathised towards the contemporary audience is significant in
-              establishing that contextual information and backstory may change
-              the perception and response by readers.
-            </p>
-            <p>General observations</p>
-            <p>
-              -       Very very weak evidence, not enough ratio in terms of
-              evidence to analysis. (what is the correct evidence analysis
-              ratio?)
-            </p>
-            <p>-       Elaboration too complex and repetitive maybe.</p>
-            <p>-       Needs link</p>
-            <p>-       Expand body paragraphs 1,2</p>
-            <p>
-              -       Topic ideas are less overarching and seemingly develops as
-              the essay develops rather than an umbrella concept (idk if this
-              makes sense)
-            </p>
-            <p>
-              -       Empathetic response is overused (used for all of them),
-              maybe think of something else.
-            </p>
-            <p>
-              -       Identifying main points in conclusion seems kind of weak
-            </p>
-            <p>-       Weak pointing of significance of tet</p>
-            <p>
-              Explain how at least one text conforms to generic conventions
-              while still challenging its audience.
-            </p>
-            <p>
-              Following conventions of genres is important, but to be distinct
-              and create a piece of media that offers a new perspective, texts
-              should subvert areas of genre to bring on new ideas. The 2022 film
-              “Where the Crawdads Sing” directed by Olivia Newman from
-              screenplay by Lucy Alibar based on 2018 novel of the same name my
-              Delia Owens challenges and subverts the detective fiction genre
-              and ideas surrounding it. The film follows the coming-of-age story
-              of a girl raised in the marsh called Kya, who is suspected to be
-              the murderer of someone who she was once romantically involved
-              with. The text although conforming to certain ideas of the
-              detective fiction genre, such as creating characters common within
-              a detective fiction and following a common structure of a
-              detective fiction, as more information is revealed to the audience
-              as the story progresses, subverts and challenges the protagonist
-              not being actively involved in solving the murder, and rejecting
-              the traditional detective fiction ending to challenge or surprised
-              the audience.
-            </p>
-            <p>
-              “Where the Crawdads Sing” conforms to the detective fiction genre
-              through generic conventions of characterisation but subverts and
-              challenges the audience by making the protagonist not involved
-              with solving the murder, but the suspect. The victim of the story
-              is Chase Andrews, and the film conforms to the detective fiction
-              genre by describing the details and specificity of his death,
-              whilst also providing information on Chase Andrews, such as
-              describing him as “the star quarterback of town” through an
-              alternative timeline of the past which the film switches between.
-              The characterisation of the victim and providing details similar
-              to other detective fiction allows the contemporary audience a
-              chance to figure out the mystery using provided clues to race
-              against detectives and police officers in the novel. However, the
-              text challenges the detective fiction genre by characterising Kya
-              as not a prodigy or wise detective, but a young girl who is
-              suspected of the crime. This challenges the traditional detective
-              fiction approach, in which the protagonist is often a young
-              prodigy or old experienced eccentric detective. This challenges
-              the audience expectations, as although giving a greater insight to
-              what happened, the recollections of the past may be from an
-              unreliable narrator, which subverts from the standard of how
-              detective cases are presented for the audience to solve, in which
-              detectives can make more unbiased judgements. Thus, through the
-              text’s utilisation of characterisation, “Where the Crawdads Sing”
-              conforms to the detective fiction’s characterisation of the victim
-              by developing his backstory and details of death but subverts and
-              challenges the contemporary audience by making the protagonist the
-              suspect rather than the detective.
-            </p>
-            <p>
-              Furthermore, the text utilises narrative conventions of plot to
-              conform to the detective fiction genre through following a linear
-              storyline in relation to time and reveals more information and
-              clues as the story progresses, but challenges audiences and
-              expectations by rejecting the traditional ending within detective
-              fiction to surprise the audience. The film switches back and forth
-              between two-time periods of before the murder occurred, from when
-              Kya was a child, and the aftermath, in which Kya was held at
-              trial. The film uses the past to provide contextual information
-              and clues on the murder, whilst the trial shows the ongoing
-              decision that the jury will come to. This format allows the
-              audience to intake information as film progress and allow them to
-              make an educated decision on what the cause of the death of Chase
-              Andrews was, which conforms to the detective fiction genre which
-              slowly displaces clues and information about the case before the
-              detective comes to a final conclusion, finding the murderer, or in
-              this case determining if the suspect is guilty or not. However,
-              the text subverts expectations by not revealing the actual murder,
-              but instead hints in the ending that Kya was the one who did it,
-              with her leaving a letter of confession right before passing away.
-              This is different from traditional detective fiction endings, in
-              which justice is served to the criminal, and everyone gets a happy
-              ending. This challenges the audience to feel outraged at the fact
-              that the murderer wasn’t condemned, unlike other detective fiction
-              tales. Hence, through the employment of narrative conventions of
-              plot, the detective fiction generic convention of slowly revealing
-              clues as the story progresses is conformed, but challenges the
-              audience when Kya was revealed to be the murderer, and the
-              audience discovers that justice was not served.
-            </p>
-            <p>
-              In conclusion, “Where the Crawdads Sing” directed by Olivia Newman
-              from screenplay by Lucy Alibar based on 2018 novel of the same
-              name by Delia Owens subverts and challenges the traditional ideas
-              surrounding the detective fiction genre. While conforming to
-              certain conventions of the genre, the film challenges the
-              protagonist’s passive role in solving the murder and rejects the
-              typical detective fiction ending to surprise and challenge the
-              audience. By doing so, the film offers a unique perspective on
-              justice and the criminal justice system. This text ultimately
-              highlights the importance of challenging and subverting
-              traditional ideas and genres to offer new and unique perspectives
-              on familiar concepts.
-            </p>
-            <p>ideas</p>
-            <p>-       Human connection &amp; independence</p>
-            <p>o   “please stay”</p>
-            <p>
-              §  Kya begs of Tate to “please stay”, highlighting her inner
-              yearning for human connection and companionship. The desire for
-              emotional support and closeness is further emphasised by the
-              desperation in her voice and the vulnerability in her body
-              language.
-            </p>
-            <p>o   “I don’t know if anyone really knows me”.</p>
-            <p>
-              §  Kya states that she doesn’t know “if anybody really knows
-              [her]”. This expresses her isolation and feeling disconnected with
-              everything around her and reveals Kya’s doubts on if there is
-              anybody out there who understands her.
-            </p>
-            <p>o   “I had to do life alone… people don’t stay”.</p>
-            <p>
-              §  Kya reflects on her experience of abandonment by stating that
-              she “had to do life alone”, and people in her life “don’t stay”.
-              This statement highlights Kya’s loneliness and her struggles to
-              form lasting connections with others. Her innate realisation
-              people don’t stay suggest a sense of despair, and that all her
-              life she never had the chance to experience a lasting human
-              connection.
-            </p>
-            <p>-       Prejudice</p>
-            <p>
-              o   “They call you the marsh girl…where you been, marsh hen?…
-              where’s your hat swamp rat?”
-            </p>
-            <p>§  Marsh girl, marsh hen, swamp rat</p>
-            <p>
-              §  Throughout the story, Kya is subjected to ridicule and
-              ostracism because of her isolation and poverty, as evidenced when
-              the townspeople use derogatory names such as “marsh girl”, “marsh
-              hen”, and “swamp rat.” These epithets reduce Kya’s identity to a
-              mere label and reinforces the idea that she is inferior to others,
-              and does not deserve formal education, respect or dignity.
-            </p>
-            <p>o   “I never hated them, they hated me.”</p>
-            <p>
-              §  Kya stating that she “never hated them”, but “they hated” her
-              highlights that although she was ostracised and judged by the
-              people of her community because of her isolation and poverty, she
-              never harboured any hate towards them, but is instead the victim
-              of prejudice, underscoring the ways discrimination can harm those
-              who did nothing wrong.
-            </p>
-            <p>
-              o   “They’re not deciding anything about me. It’s them. They are
-              judging themselves.”
-            </p>
-            <p>
-              §  Kya reflects on the ostracization she received and determined
-              that the prejudice against her isn’t “deciding anything about”
-              her, but instead the townspeople are “judging themselves.” She
-              recognises that that townspeople judgement and prejudice are
-              saying more about themselves than they are about her. This
-              characterisation shows Kya’s developed self-acceptance, in which
-              Kya is able to find resilience in the face of adversity.
-            </p>
-            <p>-       Nature // The marsh</p>
-            <p>
-              o   “It’s like having a friend your whole life but you never see
-              their face”.
-            </p>
-            <p>
-              §  Kya’s statement, “It’s like having a friend your whole life but
-              you never see their face” highlights the power of nature and the
-              deep connection that individuals can feel with their surroundings.
-              Kya has grown up in the marsh, where she has developed a profound
-              bond with the natural world around her. Her statement suggests
-              that this connection is as deep and meaningful as a friendship,
-              despite the fact that it does not involve human interaction.
-            </p>
-            <p>o   “the only constant in nature is change”</p>
-            <p>
-              §  In Where the Crawdads Sing, the statement “the only constant in
-              nature is change” reflects the idea that everything in the natural
-              world is subject to transformation and evolution. This statement
-              is particularly significant for Kya, who has grown up in the marsh
-              and has developed a deep understanding of the natural world around
-              her. Her experiences have taught her that the environment is
-              constantly shifting and adapting, and that individuals must be
-              willing to accept and adapt to these changes.
-            </p>
-            <p>o   “the marsh knows all about death.”</p>
-            <p>
-              §  In Where the Crawdads Sing, the statement “the marsh knows all
-              about death” reflects the idea that nature is intimately connected
-              with the cycle of life and death. Kya has grown up in the marsh,
-              and is disconnected from her community, so she has developed a
-              deep understanding of the natural world around her. Her
-              experiences have taught her that death is a natural and necessary
-              part of life, and that the marsh is both a site of birth and of
-              decay.
-            </p>
-            <p>
-              Explore how at least one text reveals that the values and
-              attitudes of an individual or group are shaped by their
-              circumstances.
-            </p>
-            <p>Stylistic choices -> genre</p>
-            <p>Language features -> film conventions</p>
-          </article>
-        </div>
-        <div class="right sidebar">
-          <div class="graph">
-            <h3>Graph View</h3>
-            <div class="graph-outer">
-              <div
-                id="graph-container"
-                data-cfg='{"drag":true,"zoom":true,"depth":1,"scale":1.1,"repelForce":0.5,"centerForce":0.3,"linkDistance":30,"fontSize":0.6,"opacityScale":1}'
-              ></div>
-              <svg
-                version="1.1"
-                id="global-graph-icon"
-                xmlns="http://www.w3.org/2000/svg"
-                xmlnsXlink="http://www.w3.org/1999/xlink"
-                x="0px"
-                y="0px"
-                viewBox="0 0 55 55"
-                fill="currentColor"
-                xmlSpace="preserve"
-              >
-                <path
-                  d="M49,0c-3.309,0-6,2.691-6,6c0,1.035,0.263,2.009,0.726,2.86l-9.829,9.829C32.542,17.634,30.846,17,29,17
+<!DOCTYPE html>
+<html><head><title>WTCS-PRAC2</title><meta charSet="utf-8"/><meta name="viewport" content="width=device-width, initial-scale=1.0"/><meta property="og:title" content="WTCS-PRAC2"/><meta property="og:description" content="1. Discuss how your attitudes influence your response to the way a controversy is represented in at least one text. Responses are affected by the reader’s attitudes and how the text conveys certain ideas, such as if the text establishes context."/><meta property="og:image" content="https://nottacoz.github.io/static/og-image.png"/><meta property="og:width" content="1200"/><meta property="og:height" content="675"/><link rel="icon" href="../../../../static/icon.png"/><meta name="description" content="1. Discuss how your attitudes influence your response to the way a controversy is represented in at least one text. Responses are affected by the reader’s attitudes and how the text conveys certain ideas, such as if the text establishes context."/><meta name="generator" content="Quartz"/><link rel="preconnect" href="https://fonts.googleapis.com"/><link rel="preconnect" href="https://fonts.gstatic.com"/><link href="../../../../index.css" rel="stylesheet" type="text/css" spa-preserve/><link href="https://cdn.jsdelivr.net/npm/katex@0.16.0/dist/katex.min.css" rel="stylesheet" type="text/css" spa-preserve/><link href="https://fonts.googleapis.com/css2?family=IBM Plex Mono&amp;family=Schibsted Grotesk:wght@400;700&amp;family=Source Sans Pro:ital,wght@0,400;0,600;1,400;1,600&amp;display=swap" rel="stylesheet" type="text/css" spa-preserve/><script src="../../../../prescript.js" type="application/javascript" spa-preserve></script><script type="application/javascript" spa-preserve>const fetchData = fetch(`../../../../static/contentIndex.json`).then(data => data.json())</script></head><body data-slug="notes/archive/AEold/english/WTCS-PRAC2"><div id="quartz-root" class="page"><div id="quartz-body"><div class="left sidebar"><h1 class="page-title"><a href="../../../..">🌸 JACARANDA</a></h1><div class="spacer mobile-only"></div><div class="search"><div id="search-icon"><p>Search</p><div></div><svg tabIndex="0" aria-labelledby="title desc" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 19.9 19.7"><title id="title">Search</title><desc id="desc">Search</desc><g class="search-path" fill="none"><path stroke-linecap="square" d="M18.5 18.3l-5.4-5.4"></path><circle cx="8" cy="8" r="7"></circle></g></svg></div><div id="search-container"><div id="search-space"><input autocomplete="off" id="search-bar" name="search" type="text" aria-label="Search for something" placeholder="Search for something"/><div id="results-container"></div></div></div></div><div class="darkmode"><input class="toggle" id="darkmode-toggle" type="checkbox" tabIndex="-1"/><label id="toggle-label-light" for="darkmode-toggle" tabIndex="-1"><svg xmlns="http://www.w3.org/2000/svg" xmlnsXlink="http://www.w3.org/1999/xlink" version="1.1" id="dayIcon" x="0px" y="0px" viewBox="0 0 35 35" style="enable-background:new 0 0 35 35;" xmlSpace="preserve"><title>Light mode</title><path d="M6,17.5C6,16.672,5.328,16,4.5,16h-3C0.672,16,0,16.672,0,17.5    S0.672,19,1.5,19h3C5.328,19,6,18.328,6,17.5z M7.5,26c-0.414,0-0.789,0.168-1.061,0.439l-2,2C4.168,28.711,4,29.086,4,29.5    C4,30.328,4.671,31,5.5,31c0.414,0,0.789-0.168,1.06-0.44l2-2C8.832,28.289,9,27.914,9,27.5C9,26.672,8.329,26,7.5,26z M17.5,6    C18.329,6,19,5.328,19,4.5v-3C19,0.672,18.329,0,17.5,0S16,0.672,16,1.5v3C16,5.328,16.671,6,17.5,6z M27.5,9    c0.414,0,0.789-0.168,1.06-0.439l2-2C30.832,6.289,31,5.914,31,5.5C31,4.672,30.329,4,29.5,4c-0.414,0-0.789,0.168-1.061,0.44    l-2,2C26.168,6.711,26,7.086,26,7.5C26,8.328,26.671,9,27.5,9z M6.439,8.561C6.711,8.832,7.086,9,7.5,9C8.328,9,9,8.328,9,7.5    c0-0.414-0.168-0.789-0.439-1.061l-2-2C6.289,4.168,5.914,4,5.5,4C4.672,4,4,4.672,4,5.5c0,0.414,0.168,0.789,0.439,1.06    L6.439,8.561z M33.5,16h-3c-0.828,0-1.5,0.672-1.5,1.5s0.672,1.5,1.5,1.5h3c0.828,0,1.5-0.672,1.5-1.5S34.328,16,33.5,16z     M28.561,26.439C28.289,26.168,27.914,26,27.5,26c-0.828,0-1.5,0.672-1.5,1.5c0,0.414,0.168,0.789,0.439,1.06l2,2    C28.711,30.832,29.086,31,29.5,31c0.828,0,1.5-0.672,1.5-1.5c0-0.414-0.168-0.789-0.439-1.061L28.561,26.439z M17.5,29    c-0.829,0-1.5,0.672-1.5,1.5v3c0,0.828,0.671,1.5,1.5,1.5s1.5-0.672,1.5-1.5v-3C19,29.672,18.329,29,17.5,29z M17.5,7    C11.71,7,7,11.71,7,17.5S11.71,28,17.5,28S28,23.29,28,17.5S23.29,7,17.5,7z M17.5,25c-4.136,0-7.5-3.364-7.5-7.5    c0-4.136,3.364-7.5,7.5-7.5c4.136,0,7.5,3.364,7.5,7.5C25,21.636,21.636,25,17.5,25z"></path></svg></label><label id="toggle-label-dark" for="darkmode-toggle" tabIndex="-1"><svg xmlns="http://www.w3.org/2000/svg" xmlnsXlink="http://www.w3.org/1999/xlink" version="1.1" id="nightIcon" x="0px" y="0px" viewBox="0 0 100 100" style="enable-background='new 0 0 100 100'" xmlSpace="preserve"><title>Dark mode</title><path d="M96.76,66.458c-0.853-0.852-2.15-1.064-3.23-0.534c-6.063,2.991-12.858,4.571-19.655,4.571  C62.022,70.495,50.88,65.88,42.5,57.5C29.043,44.043,25.658,23.536,34.076,6.47c0.532-1.08,0.318-2.379-0.534-3.23  c-0.851-0.852-2.15-1.064-3.23-0.534c-4.918,2.427-9.375,5.619-13.246,9.491c-9.447,9.447-14.65,22.008-14.65,35.369  c0,13.36,5.203,25.921,14.65,35.368s22.008,14.65,35.368,14.65c13.361,0,25.921-5.203,35.369-14.65  c3.872-3.871,7.064-8.328,9.491-13.246C97.826,68.608,97.611,67.309,96.76,66.458z"></path></svg></label></div></div><div class="center"><div class="page-header"><div class="popover-hint"><h1 class="article-title">WTCS-PRAC2</h1><p class="content-meta">Aug 29, 2023, 13 min read</p></div></div><article class="popover-hint"><p>1.     Discuss how your attitudes influence your response to the way a controversy is represented in at least one text.</p>
+<p>Responses are affected by the reader’s attitudes and how the text conveys certain ideas, such as if the text establishes context. This is underlined in the film “Where the Crawdads Sing” (2022) directed by Olivia Newman from screenplay by Lucy Alibar adapted from the novel of the same name. The film follows a coming-of-age story of an isolated girl named Kya, who is raised in the marsh and is suspected of the murder of a man she was once romantically involved with. My attitudes as the contemporary audience towards ideas of discrimination, isolation and relationships influence my response and positions me to be empathetic towards Kya in the representation of a murder case as the controversy.</p>
+<p>As the contemporary attitude, my critical attitude towards discrimination influences my response to be condemning towards the accusation and the townspeople, believing they are motivated by prejudice and bias common in 1950s America rather than justice. The prejudice against Kya is highlighted with the townspeople always referring to Kya as “the marsh girl.” This label marks Kya as nothing other than her origins, something she cannot change. The label placed on Kya is similar to slurs against people based on their origin that is now shunned in contemporary society. The societal criticism of discrimination is much more different than 1950s America, where there are less consequences and seen as less serious. This labelling of Kya based on her origins, something she cannot change, influences my response to be empathetic towards Kya when she is accused of murder. [evidence 2, elaboration 2 goes here]. [link goes here]</p>
+<p>My response to the representation of the controversy of the murder is influenced by my solemn (?) attitude towards isolation. Kya, ever since a young age has experienced isolation, not at her own fault, but the situation she was born in led eventually to her entire family one after the other abandoning the marsh, and consequentially, Kya (too long how to shorten). Kya reflects on this by stating that she “had a family once” who “called [her] Kya.” The use of past tense in “once” and “called” shows that Kya no longer has a family, nor does she have someone who calls by her real name, highlighting her loss of identity as Kya, and is now seen more as a “marsh girl” (should’ve used this for BP1 lmao). This is significant in influencing my response, as when she was revealed to be the murderer, my attitudes towards isolation influences my response to be empathetic, as the isolation she experienced and her exposure to the nature may present Kya a different viewpoint on life and death than everybody else, seeing it as an eventual constant rather than something to grieve over. [link and more bps here]</p>
+<p>Furthermore, my response to the murder case is influenced by my attitude towards relationships, in which I believe personal connection is an essential need contemporary context, in which social media and the growing connection with the technological word has led to a time where society is embedded more in social connection than any other time period of history. This is evidenced when Kya begged Tate to “please stay”, as she does not want to experience isolation again. In the contemporary context, where social media and every day the world gets more connected online, my attitude on social connection is that it is a basic human necessity and something everyone wishes to attain. This attitude further develops my empathy towards Kya in the trial, as she did not have the human connections relative to everybody else to learn what is socially acceptable and rather her environment of the marsh has shaped her character and perspective on life. When Tate doesn’t come back when he promised, Kya came to the realisation that “people don’t stay”, and she “had to do life alone” this shows although Kya wishes for social connection, those who are close to her consistently abandoned her eventually, to a point she feels she naturally undeserving of companionship (quote should go here). My attitude on the necessity of social connection furthers my empathetic response towards Kya. Hence, through my contemporary attitude on the necessity of social connection my response is empathetic towards Kya’s situation, because people she had connections with eventually abandoned her. (maybe unneeded last part)</p>
+<p>As a contemporary reader, my attitudes on discrimination, isolation and social connection influences my response to be overall empathetic towards Kya. My critical attitude on discrimination, solemn attitude towards isolation, and the attitude on social connection, viewing it as a basic necessity everyone wishes to attain, all influences my response to be empathetic towards Kya. The portrayal of Kya as innocent and empathised towards the contemporary audience is significant in establishing that contextual information and backstory may change the perception and response by readers.</p>
+<p>General observations</p>
+<p>-       Very very weak evidence, not enough ratio in terms of evidence to analysis. (what is the correct evidence analysis ratio?)</p>
+<p>-       Elaboration too complex and repetitive maybe.</p>
+<p>-       Needs link</p>
+<p>-       Expand body paragraphs 1,2</p>
+<p>-       Topic ideas are less overarching and seemingly develops as the essay develops rather than an umbrella concept (idk if this makes sense)</p>
+<p>-       Empathetic response is overused (used for all of them), maybe think of something else.</p>
+<p>-       Identifying main points in conclusion seems kind of weak</p>
+<p>-       Weak pointing of significance of tet</p>
+<p>Explain how at least one text conforms to generic conventions while still challenging its audience.</p>
+<p>Following conventions of genres is important, but to be distinct and create a piece of media that offers a new perspective, texts should subvert areas of genre to bring on new ideas. The 2022 film “Where the Crawdads Sing” directed by Olivia Newman from screenplay by Lucy Alibar based on 2018 novel of the same name my Delia Owens challenges and subverts the detective fiction genre and ideas surrounding it. The film follows the coming-of-age story of a girl raised in the marsh called Kya, who is suspected to be the murderer of someone who she was once romantically involved with. The text although conforming to certain ideas of the detective fiction genre, such as creating characters common within a detective fiction and following a common structure of a detective fiction, as more information is revealed to the audience as the story progresses, subverts and challenges the protagonist not being actively involved in solving the murder, and rejecting the traditional detective fiction ending to challenge or surprised the audience.</p>
+<p>“Where the Crawdads Sing” conforms to the detective fiction genre through generic conventions of characterisation but subverts and challenges the audience by making the protagonist not involved with solving the murder, but the suspect. The victim of the story is Chase Andrews, and the film conforms to the detective fiction genre by describing the details and specificity of his death, whilst also providing information on Chase Andrews, such as describing him as “the star quarterback of town” through an alternative timeline of the past which the film switches between. The characterisation of the victim and providing details similar to other detective fiction allows the contemporary audience a chance to figure out the mystery using provided clues to race against detectives and police officers in the novel. However, the text challenges the detective fiction genre by characterising Kya as not a prodigy or wise detective, but a young girl who is suspected of the crime. This challenges the traditional detective fiction approach, in which the protagonist is often a young prodigy or old experienced eccentric detective. This challenges the audience expectations, as although giving a greater insight to what happened, the recollections of the past may be from an unreliable narrator, which subverts from the standard of how detective cases are presented for the audience to solve, in which detectives can make more unbiased judgements. Thus, through the text’s utilisation of characterisation, “Where the Crawdads Sing” conforms to the detective fiction’s characterisation of the victim by developing his backstory and details of death but subverts and challenges the contemporary audience by making the protagonist the suspect rather than the detective.</p>
+<p>Furthermore, the text utilises narrative conventions of plot to conform to the detective fiction genre through following a linear storyline in relation to time and reveals more information and clues as the story progresses, but challenges audiences and expectations by rejecting the traditional ending within detective fiction to surprise the audience. The film switches back and forth between two-time periods of before the murder occurred, from when Kya was a child, and the aftermath, in which Kya was held at trial. The film uses the past to provide contextual information and clues on the murder, whilst the trial shows the ongoing decision that the jury will come to. This format allows the audience to intake information as film progress and allow them to make an educated decision on what the cause of the death of Chase Andrews was, which conforms to the detective fiction genre which slowly displaces clues and information about the case before the detective comes to a final conclusion, finding the murderer, or in this case determining if the suspect is guilty or not. However, the text subverts expectations by not revealing the actual murder, but instead hints in the ending that Kya was the one who did it, with her leaving a letter of confession right before passing away. This is different from traditional detective fiction endings, in which justice is served to the criminal, and everyone gets a happy ending. This challenges the audience to feel outraged at the fact that the murderer wasn’t condemned, unlike other detective fiction tales. Hence, through the employment of narrative conventions of plot, the detective fiction generic convention of slowly revealing clues as the story progresses is conformed, but challenges the audience when Kya was revealed to be the murderer, and the audience discovers that justice was not served.</p>
+<p>In conclusion, “Where the Crawdads Sing” directed by Olivia Newman from screenplay by Lucy Alibar based on 2018 novel of the same name by Delia Owens subverts and challenges the traditional ideas surrounding the detective fiction genre. While conforming to certain conventions of the genre, the film challenges the protagonist’s passive role in solving the murder and rejects the typical detective fiction ending to surprise and challenge the audience. By doing so, the film offers a unique perspective on justice and the criminal justice system. This text ultimately highlights the importance of challenging and subverting traditional ideas and genres to offer new and unique perspectives on familiar concepts.</p>
+<p>ideas</p>
+<p>-       Human connection &amp; independence</p>
+<p>o   “please stay”</p>
+<p>§  Kya begs of Tate to “please stay”, highlighting her inner yearning for human connection and companionship. The desire for emotional support and closeness is further emphasised by the desperation in her voice and the vulnerability in her body language.</p>
+<p>o   “I don’t know if anyone really knows me”.</p>
+<p>§  Kya states that she doesn’t know “if anybody really knows [her]”. This expresses her isolation and feeling disconnected with everything around her and reveals Kya’s doubts on if there is anybody out there who understands her.</p>
+<p>o   “I had to do life alone… people don’t stay”.</p>
+<p>§  Kya reflects on her experience of abandonment by stating that she “had to do life alone”, and people in her life “don’t stay”. This statement highlights Kya’s loneliness and her struggles to form lasting connections with others. Her innate realisation people don’t stay suggest a sense of despair, and that all her life she never had the chance to experience a lasting human connection.</p>
+<p>-       Prejudice</p>
+<p>o   “They call you the marsh girl…where you been, marsh hen?… where’s your hat swamp rat?”</p>
+<p>§  Marsh girl, marsh hen, swamp rat</p>
+<p>§  Throughout the story, Kya is subjected to ridicule and ostracism because of her isolation and poverty, as evidenced when the townspeople use derogatory names such as “marsh girl”, “marsh hen”, and “swamp rat.” These epithets reduce Kya’s identity to a mere label and reinforces the idea that she is inferior to others, and does not deserve formal education, respect or dignity.</p>
+<p>o   “I never hated them, they hated me.”</p>
+<p>§  Kya stating that she “never hated them”, but “they hated” her highlights that although she was ostracised and judged by the people of her community because of her isolation and poverty, she never harboured any hate towards them, but is instead the victim of prejudice, underscoring the ways discrimination can harm those who did nothing wrong.</p>
+<p>o   “They’re not deciding anything about me. It’s them. They are judging themselves.”</p>
+<p>§  Kya reflects on the ostracization she received and determined that the prejudice against her isn’t “deciding anything about” her, but instead the townspeople are “judging themselves.” She recognises that that townspeople judgement and prejudice are saying more about themselves than they are about her. This characterisation shows Kya’s developed self-acceptance, in which Kya is able to find resilience in the face of adversity.</p>
+<p>-       Nature // The marsh</p>
+<p>o   “It’s like having a friend your whole life but you never see their face”.</p>
+<p>§  Kya’s statement, “It’s like having a friend your whole life but you never see their face” highlights the power of nature and the deep connection that individuals can feel with their surroundings. Kya has grown up in the marsh, where she has developed a profound bond with the natural world around her. Her statement suggests that this connection is as deep and meaningful as a friendship, despite the fact that it does not involve human interaction.</p>
+<p>o   “the only constant in nature is change”</p>
+<p>§  In Where the Crawdads Sing, the statement “the only constant in nature is change” reflects the idea that everything in the natural world is subject to transformation and evolution. This statement is particularly significant for Kya, who has grown up in the marsh and has developed a deep understanding of the natural world around her. Her experiences have taught her that the environment is constantly shifting and adapting, and that individuals must be willing to accept and adapt to these changes.</p>
+<p>o   “the marsh knows all about death.”</p>
+<p>§  In Where the Crawdads Sing, the statement “the marsh knows all about death” reflects the idea that nature is intimately connected with the cycle of life and death. Kya has grown up in the marsh, and is disconnected from her community, so she has developed a deep understanding of the natural world around her. Her experiences have taught her that death is a natural and necessary part of life, and that the marsh is both a site of birth and of decay.</p>
+<p>Explore how at least one text reveals that the values and attitudes of an individual or group are shaped by their circumstances.</p>
+<p>Stylistic choices -> genre</p>
+<p>Language features -> film conventions</p></article></div><div class="right sidebar"><div class="graph"><h3>Graph View</h3><div class="graph-outer"><div id="graph-container" data-cfg="{&quot;drag&quot;:true,&quot;zoom&quot;:true,&quot;depth&quot;:1,&quot;scale&quot;:1.1,&quot;repelForce&quot;:0.5,&quot;centerForce&quot;:0.3,&quot;linkDistance&quot;:30,&quot;fontSize&quot;:0.6,&quot;opacityScale&quot;:1}"></div><svg version="1.1" id="global-graph-icon" xmlns="http://www.w3.org/2000/svg" xmlnsXlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 55 55" fill="currentColor" xmlSpace="preserve"><path d="M49,0c-3.309,0-6,2.691-6,6c0,1.035,0.263,2.009,0.726,2.86l-9.829,9.829C32.542,17.634,30.846,17,29,17
 	s-3.542,0.634-4.898,1.688l-7.669-7.669C16.785,10.424,17,9.74,17,9c0-2.206-1.794-4-4-4S9,6.794,9,9s1.794,4,4,4
 	c0.74,0,1.424-0.215,2.019-0.567l7.669,7.669C21.634,21.458,21,23.154,21,25s0.634,3.542,1.688,4.897L10.024,42.562
 	C8.958,41.595,7.549,41,6,41c-3.309,0-6,2.691-6,6s2.691,6,6,6s6-2.691,6-6c0-1.035-0.263-2.009-0.726-2.86l12.829-12.829
@@ -492,103 +54,57 @@
 	C46.042,11.405,47.451,12,49,12c3.309,0,6-2.691,6-6S52.309,0,49,0z M11,9c0-1.103,0.897-2,2-2s2,0.897,2,2s-0.897,2-2,2
 	S11,10.103,11,9z M6,51c-2.206,0-4-1.794-4-4s1.794-4,4-4s4,1.794,4,4S8.206,51,6,51z M33,49c0,2.206-1.794,4-4,4s-4-1.794-4-4
 	s1.794-4,4-4S33,46.794,33,49z M29,31c-3.309,0-6-2.691-6-6s2.691-6,6-6s6,2.691,6,6S32.309,31,29,31z M47,41c0,1.103-0.897,2-2,2
-	s-2-0.897-2-2s0.897-2,2-2S47,39.897,47,41z M49,10c-2.206,0-4-1.794-4-4s1.794-4,4-4s4,1.794,4,4S51.206,10,49,10z"
-                ></path>
-              </svg>
-            </div>
-            <div id="global-graph-outer">
-              <div
-                id="global-graph-container"
-                data-cfg='{"drag":true,"zoom":true,"depth":-1,"scale":0.9,"repelForce":0.5,"centerForce":0.3,"linkDistance":30,"fontSize":0.6,"opacityScale":1}'
-              ></div>
-            </div>
-          </div>
-          <div class="backlinks">
-            <h3>Backlinks</h3>
-            <ul class="overflow">
-              <li>
-                <a
-                  href="../../../../notes/archive/AEold/subsections/eng"
-                  class="internal"
-                  >english masterlist</a
-                >
-              </li>
-            </ul>
-          </div>
-        </div>
-      </div>
-      <footer>
-        <hr />
-        <p>
-          Created with <a href="https://quartz.jzhao.xyz/">Quartz v4.0.10</a>,
-          © 2023
-        </p>
-        <ul>
-          <li><a href="https://github.com/jackyzha0/quartz">GitHub</a></li>
-          <li><a href="https://discord.gg/cRFFHYye7t">Discord Community</a></li>
-        </ul>
-      </footer>
-    </div>
-  </body>
-  <script type="application/javascript">
-    // quartz/components/scripts/quartz/components/scripts/callout.inline.ts
-    function toggleCallout() {
-      const outerBlock = this.parentElement;
-      outerBlock.classList.toggle(`is-collapsed`);
-      const collapsed = outerBlock.classList.contains(`is-collapsed`);
-      const height = collapsed ? this.scrollHeight : outerBlock.scrollHeight;
-      outerBlock.style.maxHeight = height + `px`;
-      let current = outerBlock;
-      let parent = outerBlock.parentElement;
-      while (parent) {
-        if (!parent.classList.contains(`callout`)) {
-          return;
-        }
-        const collapsed2 = parent.classList.contains(`is-collapsed`);
-        const height2 = collapsed2
-          ? parent.scrollHeight
-          : parent.scrollHeight + current.scrollHeight;
-        parent.style.maxHeight = height2 + `px`;
-        current = parent;
-        parent = parent.parentElement;
-      }
+	s-2-0.897-2-2s0.897-2,2-2S47,39.897,47,41z M49,10c-2.206,0-4-1.794-4-4s1.794-4,4-4s4,1.794,4,4S51.206,10,49,10z"></path></svg></div><div id="global-graph-outer"><div id="global-graph-container" data-cfg="{&quot;drag&quot;:true,&quot;zoom&quot;:true,&quot;depth&quot;:-1,&quot;scale&quot;:0.9,&quot;repelForce&quot;:0.5,&quot;centerForce&quot;:0.3,&quot;linkDistance&quot;:30,&quot;fontSize&quot;:0.6,&quot;opacityScale&quot;:1}"></div></div></div><div class="backlinks"><h3>Backlinks</h3><ul class="overflow"><li><a href="../../../../notes/archive/AEold/subsections/eng" class="internal">english masterlist</a></li></ul></div></div></div><footer><hr/><p>Created with <a href="https://quartz.jzhao.xyz/">Quartz v4.0.10</a>, © 2023</p><ul><li><a href="https://github.com/NotTacoz/jacaranda">GitHub</a></li></ul></footer></div></body><script type="application/javascript">// quartz/components/scripts/quartz/components/scripts/callout.inline.ts
+function toggleCallout() {
+  const outerBlock = this.parentElement;
+  outerBlock.classList.toggle(`is-collapsed`);
+  const collapsed = outerBlock.classList.contains(`is-collapsed`);
+  const height = collapsed ? this.scrollHeight : outerBlock.scrollHeight;
+  outerBlock.style.maxHeight = height + `px`;
+  let current = outerBlock;
+  let parent = outerBlock.parentElement;
+  while (parent) {
+    if (!parent.classList.contains(`callout`)) {
+      return;
     }
-    function setupCallout() {
-      const collapsible = document.getElementsByClassName(
-        `callout is-collapsible`,
-      );
-      for (const div of collapsible) {
-        const title = div.firstElementChild;
-        if (title) {
-          title.removeEventListener(`click`, toggleCallout);
-          title.addEventListener(`click`, toggleCallout);
-          const collapsed = div.classList.contains(`is-collapsed`);
-          const height = collapsed ? title.scrollHeight : div.scrollHeight;
-          div.style.maxHeight = height + `px`;
-        }
-      }
+    const collapsed2 = parent.classList.contains(`is-collapsed`);
+    const height2 = collapsed2 ? parent.scrollHeight : parent.scrollHeight + current.scrollHeight;
+    parent.style.maxHeight = height2 + `px`;
+    current = parent;
+    parent = parent.parentElement;
+  }
+}
+function setupCallout() {
+  const collapsible = document.getElementsByClassName(
+    `callout is-collapsible`
+  );
+  for (const div of collapsible) {
+    const title = div.firstElementChild;
+    if (title) {
+      title.removeEventListener(`click`, toggleCallout);
+      title.addEventListener(`click`, toggleCallout);
+      const collapsed = div.classList.contains(`is-collapsed`);
+      const height = collapsed ? title.scrollHeight : div.scrollHeight;
+      div.style.maxHeight = height + `px`;
     }
-    document.addEventListener(`nav`, setupCallout);
-    window.addEventListener(`resize`, setupCallout);
-  </script>
-  <script type="module">
-    import mermaid from "https://cdn.jsdelivr.net/npm/mermaid/dist/mermaid.esm.min.mjs";
-    const darkMode =
-      document.documentElement.getAttribute("saved-theme") === "dark";
-    mermaid.initialize({
-      startOnLoad: false,
-      securityLevel: "loose",
-      theme: darkMode ? "dark" : "default",
-    });
-    document.addEventListener("nav", async () => {
-      await mermaid.run({
-        querySelector: ".mermaid",
-      });
-    });
-  </script>
-  <script
-    src="https://cdn.jsdelivr.net/npm/katex@0.16.7/dist/contrib/copy-tex.min.js"
-    type="application/javascript"
-  ></script>
-  <script src="../../../../postscript.js" type="module"></script>
-</html>
+  }
+}
+document.addEventListener(`nav`, setupCallout);
+window.addEventListener(`resize`, setupCallout);
+</script><script type="module">
+          import mermaid from 'https://cdn.jsdelivr.net/npm/mermaid/dist/mermaid.esm.min.mjs';
+          const darkMode = document.documentElement.getAttribute('saved-theme') === 'dark'
+          mermaid.initialize({ 
+            startOnLoad: false,
+            securityLevel: 'loose',
+            theme: darkMode ? 'dark' : 'default'
+          });
+          document.addEventListener('nav', async () => {
+            await mermaid.run({
+              querySelector: '.mermaid'
+            })
+          });
+          </script><script src="https://cdn.jsdelivr.net/npm/katex@0.16.7/dist/contrib/copy-tex.min.js" type="application/javascript"></script><script type="application/javascript">
+          const socket = new WebSocket('ws://localhost:3001')
+          socket.addEventListener('message', () => document.location.reload())
+        </script><script src="../../../../postscript.js" type="module"></script></html>

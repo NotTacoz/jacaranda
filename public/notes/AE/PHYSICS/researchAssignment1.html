@@ -1,1979 +1,324 @@
-<!doctype html>
-<html>
-  <head>
-    <title>Medical Physics and Dosimetry</title>
-    <meta charset="utf-8" />
-    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <meta property="og:title" content="Medical Physics and Dosimetry" />
-    <meta
-      property="og:description"
-      content="Note all of this is kinda useless rn, scroll down for the checklist for IN-DEPTH notes!!!!!!!!!!! The use of radioisotopes in therapeutic treatments."
-    />
-    <meta
-      property="og:image"
-      content="https://quartz.jzhao.xyz/static/og-image.png"
-    />
-    <meta property="og:width" content="1200" />
-    <meta property="og:height" content="675" />
-    <link rel="icon" href="../../../static/icon.png" />
-    <meta
-      name="description"
-      content="Note all of this is kinda useless rn, scroll down for the checklist for IN-DEPTH notes!!!!!!!!!!! The use of radioisotopes in therapeutic treatments."
-    />
-    <meta name="generator" content="Quartz" />
-    <link rel="preconnect" href="https://fonts.googleapis.com" />
-    <link rel="preconnect" href="https://fonts.gstatic.com" />
-    <link
-      href="../../../index.css"
-      rel="stylesheet"
-      type="text/css"
-      spa-preserve
-    />
-    <link
-      href="https://cdn.jsdelivr.net/npm/katex@0.16.0/dist/katex.min.css"
-      rel="stylesheet"
-      type="text/css"
-      spa-preserve
-    />
-    <link
-      href="https://fonts.googleapis.com/css2?family=IBM Plex Mono&amp;family=Schibsted Grotesk:wght@400;700&amp;family=Source Sans Pro:ital,wght@0,400;0,600;1,400;1,600&amp;display=swap"
-      rel="stylesheet"
-      type="text/css"
-      spa-preserve
-    />
-    <script
-      src="../../../prescript.js"
-      type="application/javascript"
-      spa-preserve
-    ></script>
-    <script type="application/javascript" spa-preserve>
-      const fetchData = fetch(`../../../static/contentIndex.json`).then(
-        (data) => data.json(),
-      );
-    </script>
-  </head>
-  <body data-slug="notes/AE/PHYSICS/researchAssignment1">
-    <div id="quartz-root" class="page">
-      <div id="quartz-body">
-        <div class="left sidebar">
-          <h1 class="page-title"><a href="../../..">🪴 Quartz 4.0</a></h1>
-          <div class="spacer mobile-only"></div>
-          <div class="search">
-            <div id="search-icon">
-              <p>Search</p>
-              <div></div>
-              <svg
-                tabIndex="0"
-                aria-labelledby="title desc"
-                role="img"
-                xmlns="http://www.w3.org/2000/svg"
-                viewBox="0 0 19.9 19.7"
-              >
-                <title id="title">Search</title>
-                <desc id="desc">Search</desc>
-                <g class="search-path" fill="none">
-                  <path stroke-linecap="square" d="M18.5 18.3l-5.4-5.4"></path>
-                  <circle cx="8" cy="8" r="7"></circle>
-                </g>
-              </svg>
-            </div>
-            <div id="search-container">
-              <div id="search-space">
-                <input
-                  autocomplete="off"
-                  id="search-bar"
-                  name="search"
-                  type="text"
-                  aria-label="Search for something"
-                  placeholder="Search for something"
-                />
-                <div id="results-container"></div>
-              </div>
-            </div>
-          </div>
-          <div class="darkmode">
-            <input
-              class="toggle"
-              id="darkmode-toggle"
-              type="checkbox"
-              tabindex="-1"
-            /><label id="toggle-label-light" for="darkmode-toggle" tabindex="-1"
-              ><svg
-                xmlns="http://www.w3.org/2000/svg"
-                xmlnsXlink="http://www.w3.org/1999/xlink"
-                version="1.1"
-                id="dayIcon"
-                x="0px"
-                y="0px"
-                viewBox="0 0 35 35"
-                style="enable-background: new 0 0 35 35"
-                xmlSpace="preserve"
-              >
-                <title>Light mode</title>
-                <path
-                  d="M6,17.5C6,16.672,5.328,16,4.5,16h-3C0.672,16,0,16.672,0,17.5    S0.672,19,1.5,19h3C5.328,19,6,18.328,6,17.5z M7.5,26c-0.414,0-0.789,0.168-1.061,0.439l-2,2C4.168,28.711,4,29.086,4,29.5    C4,30.328,4.671,31,5.5,31c0.414,0,0.789-0.168,1.06-0.44l2-2C8.832,28.289,9,27.914,9,27.5C9,26.672,8.329,26,7.5,26z M17.5,6    C18.329,6,19,5.328,19,4.5v-3C19,0.672,18.329,0,17.5,0S16,0.672,16,1.5v3C16,5.328,16.671,6,17.5,6z M27.5,9    c0.414,0,0.789-0.168,1.06-0.439l2-2C30.832,6.289,31,5.914,31,5.5C31,4.672,30.329,4,29.5,4c-0.414,0-0.789,0.168-1.061,0.44    l-2,2C26.168,6.711,26,7.086,26,7.5C26,8.328,26.671,9,27.5,9z M6.439,8.561C6.711,8.832,7.086,9,7.5,9C8.328,9,9,8.328,9,7.5    c0-0.414-0.168-0.789-0.439-1.061l-2-2C6.289,4.168,5.914,4,5.5,4C4.672,4,4,4.672,4,5.5c0,0.414,0.168,0.789,0.439,1.06    L6.439,8.561z M33.5,16h-3c-0.828,0-1.5,0.672-1.5,1.5s0.672,1.5,1.5,1.5h3c0.828,0,1.5-0.672,1.5-1.5S34.328,16,33.5,16z     M28.561,26.439C28.289,26.168,27.914,26,27.5,26c-0.828,0-1.5,0.672-1.5,1.5c0,0.414,0.168,0.789,0.439,1.06l2,2    C28.711,30.832,29.086,31,29.5,31c0.828,0,1.5-0.672,1.5-1.5c0-0.414-0.168-0.789-0.439-1.061L28.561,26.439z M17.5,29    c-0.829,0-1.5,0.672-1.5,1.5v3c0,0.828,0.671,1.5,1.5,1.5s1.5-0.672,1.5-1.5v-3C19,29.672,18.329,29,17.5,29z M17.5,7    C11.71,7,7,11.71,7,17.5S11.71,28,17.5,28S28,23.29,28,17.5S23.29,7,17.5,7z M17.5,25c-4.136,0-7.5-3.364-7.5-7.5    c0-4.136,3.364-7.5,7.5-7.5c4.136,0,7.5,3.364,7.5,7.5C25,21.636,21.636,25,17.5,25z"
-                ></path></svg></label
-            ><label id="toggle-label-dark" for="darkmode-toggle" tabindex="-1"
-              ><svg
-                xmlns="http://www.w3.org/2000/svg"
-                xmlnsXlink="http://www.w3.org/1999/xlink"
-                version="1.1"
-                id="nightIcon"
-                x="0px"
-                y="0px"
-                viewBox="0 0 100 100"
-                style="enable-background='new 0 0 100 100'"
-                xmlSpace="preserve"
-              >
-                <title>Dark mode</title>
-                <path
-                  d="M96.76,66.458c-0.853-0.852-2.15-1.064-3.23-0.534c-6.063,2.991-12.858,4.571-19.655,4.571  C62.022,70.495,50.88,65.88,42.5,57.5C29.043,44.043,25.658,23.536,34.076,6.47c0.532-1.08,0.318-2.379-0.534-3.23  c-0.851-0.852-2.15-1.064-3.23-0.534c-4.918,2.427-9.375,5.619-13.246,9.491c-9.447,9.447-14.65,22.008-14.65,35.369  c0,13.36,5.203,25.921,14.65,35.368s22.008,14.65,35.368,14.65c13.361,0,25.921-5.203,35.369-14.65  c3.872-3.871,7.064-8.328,9.491-13.246C97.826,68.608,97.611,67.309,96.76,66.458z"
-                ></path></svg
-            ></label>
-          </div>
-          <div class="toc desktop-only">
-            <button type="button" id="toc">
-              <h3>Table of Contents</h3>
-              <svg
-                xmlns="http://www.w3.org/2000/svg"
-                width="24"
-                height="24"
-                viewBox="0 0 24 24"
-                fill="none"
-                stroke="currentColor"
-                stroke-width="2"
-                stroke-linecap="round"
-                stroke-linejoin="round"
-                class="fold"
-              >
-                <polyline points="6 9 12 15 18 9"></polyline>
-              </svg>
-            </button>
-            <div id="toc-content">
-              <ul class="overflow">
-                <li class="depth-0">
-                  <a
-                    href="#the-use-of-radioisotopes-in-therapeutic-treatments"
-                    data-for="the-use-of-radioisotopes-in-therapeutic-treatments"
-                    >The use of radioisotopes in therapeutic treatments.</a
-                  >
-                </li>
-                <li class="depth-1">
-                  <a
-                    href="#single-photon-emission-computerised-tomography"
-                    data-for="single-photon-emission-computerised-tomography"
-                    >Single photon emission computerised tomography</a
-                  >
-                </li>
-                <li class="depth-0">
-                  <a
-                    href="#the-main-ways-in-which-radioisotopes-are-produced-for-use-in-medicine"
-                    data-for="the-main-ways-in-which-radioisotopes-are-produced-for-use-in-medicine"
-                    >The main ways in which radioisotopes are produced for use
-                    in medicine.</a
-                  >
-                </li>
-                <li class="depth-1">
-                  <a href="#cyclotron" data-for="cyclotron">cyclotron</a>
-                </li>
-                <li class="depth-0">
-                  <a
-                    href="#proton-therapy-and-neutron-therapy"
-                    data-for="proton-therapy-and-neutron-therapy"
-                    >Proton therapy and Neutron therapy.</a
-                  >
-                </li>
-                <li class="depth-1">
-                  <a href="#proton-therapy" data-for="proton-therapy"
-                    >Proton therapy</a
-                  >
-                </li>
-                <li class="depth-1">
-                  <a href="#neutron-therapy" data-for="neutron-therapy"
-                    >Neutron Therapy</a
-                  >
-                </li>
-                <li class="depth-0">
-                  <a
-                    href="#radiation-dosimetry-including-absorbed-dose-and-dose-equivalent"
-                    data-for="radiation-dosimetry-including-absorbed-dose-and-dose-equivalent"
-                    >Radiation Dosimetry including Absorbed dose and Dose
-                    Equivalent.</a
-                  >
-                </li>
-                <li class="depth-0">
-                  <a
-                    href="#year-11-physics-revision-checklist"
-                    data-for="year-11-physics-revision-checklist"
-                    >Year 11 Physics Revision Checklist</a
-                  >
-                </li>
-                <li class="depth-1">
-                  <a
-                    href="#detecting-cancer-with-radioactive-tracers"
-                    data-for="detecting-cancer-with-radioactive-tracers"
-                    >Detecting cancer with radioactive tracers</a
-                  >
-                </li>
-                <li class="depth-0">
-                  <a href="#alpha-decay" data-for="alpha-decay">alpha decay</a>
-                </li>
-                <li class="depth-0">
-                  <a href="#beta-decay" data-for="beta-decay">beta decay</a>
-                </li>
-                <li class="depth-1">
-                  <a href="#beta--" data-for="beta--">beta -</a>
-                </li>
-                <li class="depth-1">
-                  <a href="#beta-" data-for="beta-">beta +</a>
-                </li>
-                <li class="depth-0">
-                  <a href="#gamma-decay" data-for="gamma-decay">gamma decay</a>
-                </li>
-              </ul>
-            </div>
-          </div>
-        </div>
-        <div class="center">
-          <div class="page-header">
-            <div class="popover-hint">
-              <h1 class="article-title">Medical Physics and Dosimetry</h1>
-              <p class="content-meta">Jun 29, 2023, 9 min read</p>
-            </div>
-          </div>
-          <article class="popover-hint">
-            <blockquote class="callout" data-callout="note">
-              <div class="callout-title">
-                <div class="callout-icon">
-                  <svg
-                    xmlns="http://www.w3.org/2000/svg"
-                    width="100%"
-                    height="100%"
-                    viewBox="0 0 24 24"
-                    fill="none"
-                    stroke="currentColor"
-                    stroke-width="2"
-                    stroke-linecap="round"
-                    stroke-linejoin="round"
-                  >
-                    <line x1="18" y1="2" x2="22" y2="6"></line>
-                    <path d="M7.5 20.5 19 9l-4-4L3.5 16.5 2 22z"></path>
-                  </svg>
+<!DOCTYPE html>
+<html><head><title>Medical Physics and Dosimetry</title><meta charSet="utf-8"/><meta name="viewport" content="width=device-width, initial-scale=1.0"/><meta property="og:title" content="Medical Physics and Dosimetry"/><meta property="og:description" content="Note all of this is kinda useless rn, scroll down for the checklist for IN-DEPTH notes!!!!!!!!!!! The use of radioisotopes in therapeutic treatments."/><meta property="og:image" content="https://nottacoz.github.io/static/og-image.png"/><meta property="og:width" content="1200"/><meta property="og:height" content="675"/><link rel="icon" href="../../../static/icon.png"/><meta name="description" content="Note all of this is kinda useless rn, scroll down for the checklist for IN-DEPTH notes!!!!!!!!!!! The use of radioisotopes in therapeutic treatments."/><meta name="generator" content="Quartz"/><link rel="preconnect" href="https://fonts.googleapis.com"/><link rel="preconnect" href="https://fonts.gstatic.com"/><link href="../../../index.css" rel="stylesheet" type="text/css" spa-preserve/><link href="https://cdn.jsdelivr.net/npm/katex@0.16.0/dist/katex.min.css" rel="stylesheet" type="text/css" spa-preserve/><link href="https://fonts.googleapis.com/css2?family=IBM Plex Mono&amp;family=Schibsted Grotesk:wght@400;700&amp;family=Source Sans Pro:ital,wght@0,400;0,600;1,400;1,600&amp;display=swap" rel="stylesheet" type="text/css" spa-preserve/><script src="../../../prescript.js" type="application/javascript" spa-preserve></script><script type="application/javascript" spa-preserve>const fetchData = fetch(`../../../static/contentIndex.json`).then(data => data.json())</script></head><body data-slug="notes/AE/PHYSICS/researchAssignment1"><div id="quartz-root" class="page"><div id="quartz-body"><div class="left sidebar"><h1 class="page-title"><a href="../../..">🌸 JACARANDA</a></h1><div class="spacer mobile-only"></div><div class="search"><div id="search-icon"><p>Search</p><div></div><svg tabIndex="0" aria-labelledby="title desc" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 19.9 19.7"><title id="title">Search</title><desc id="desc">Search</desc><g class="search-path" fill="none"><path stroke-linecap="square" d="M18.5 18.3l-5.4-5.4"></path><circle cx="8" cy="8" r="7"></circle></g></svg></div><div id="search-container"><div id="search-space"><input autocomplete="off" id="search-bar" name="search" type="text" aria-label="Search for something" placeholder="Search for something"/><div id="results-container"></div></div></div></div><div class="darkmode"><input class="toggle" id="darkmode-toggle" type="checkbox" tabIndex="-1"/><label id="toggle-label-light" for="darkmode-toggle" tabIndex="-1"><svg xmlns="http://www.w3.org/2000/svg" xmlnsXlink="http://www.w3.org/1999/xlink" version="1.1" id="dayIcon" x="0px" y="0px" viewBox="0 0 35 35" style="enable-background:new 0 0 35 35;" xmlSpace="preserve"><title>Light mode</title><path d="M6,17.5C6,16.672,5.328,16,4.5,16h-3C0.672,16,0,16.672,0,17.5    S0.672,19,1.5,19h3C5.328,19,6,18.328,6,17.5z M7.5,26c-0.414,0-0.789,0.168-1.061,0.439l-2,2C4.168,28.711,4,29.086,4,29.5    C4,30.328,4.671,31,5.5,31c0.414,0,0.789-0.168,1.06-0.44l2-2C8.832,28.289,9,27.914,9,27.5C9,26.672,8.329,26,7.5,26z M17.5,6    C18.329,6,19,5.328,19,4.5v-3C19,0.672,18.329,0,17.5,0S16,0.672,16,1.5v3C16,5.328,16.671,6,17.5,6z M27.5,9    c0.414,0,0.789-0.168,1.06-0.439l2-2C30.832,6.289,31,5.914,31,5.5C31,4.672,30.329,4,29.5,4c-0.414,0-0.789,0.168-1.061,0.44    l-2,2C26.168,6.711,26,7.086,26,7.5C26,8.328,26.671,9,27.5,9z M6.439,8.561C6.711,8.832,7.086,9,7.5,9C8.328,9,9,8.328,9,7.5    c0-0.414-0.168-0.789-0.439-1.061l-2-2C6.289,4.168,5.914,4,5.5,4C4.672,4,4,4.672,4,5.5c0,0.414,0.168,0.789,0.439,1.06    L6.439,8.561z M33.5,16h-3c-0.828,0-1.5,0.672-1.5,1.5s0.672,1.5,1.5,1.5h3c0.828,0,1.5-0.672,1.5-1.5S34.328,16,33.5,16z     M28.561,26.439C28.289,26.168,27.914,26,27.5,26c-0.828,0-1.5,0.672-1.5,1.5c0,0.414,0.168,0.789,0.439,1.06l2,2    C28.711,30.832,29.086,31,29.5,31c0.828,0,1.5-0.672,1.5-1.5c0-0.414-0.168-0.789-0.439-1.061L28.561,26.439z M17.5,29    c-0.829,0-1.5,0.672-1.5,1.5v3c0,0.828,0.671,1.5,1.5,1.5s1.5-0.672,1.5-1.5v-3C19,29.672,18.329,29,17.5,29z M17.5,7    C11.71,7,7,11.71,7,17.5S11.71,28,17.5,28S28,23.29,28,17.5S23.29,7,17.5,7z M17.5,25c-4.136,0-7.5-3.364-7.5-7.5    c0-4.136,3.364-7.5,7.5-7.5c4.136,0,7.5,3.364,7.5,7.5C25,21.636,21.636,25,17.5,25z"></path></svg></label><label id="toggle-label-dark" for="darkmode-toggle" tabIndex="-1"><svg xmlns="http://www.w3.org/2000/svg" xmlnsXlink="http://www.w3.org/1999/xlink" version="1.1" id="nightIcon" x="0px" y="0px" viewBox="0 0 100 100" style="enable-background='new 0 0 100 100'" xmlSpace="preserve"><title>Dark mode</title><path d="M96.76,66.458c-0.853-0.852-2.15-1.064-3.23-0.534c-6.063,2.991-12.858,4.571-19.655,4.571  C62.022,70.495,50.88,65.88,42.5,57.5C29.043,44.043,25.658,23.536,34.076,6.47c0.532-1.08,0.318-2.379-0.534-3.23  c-0.851-0.852-2.15-1.064-3.23-0.534c-4.918,2.427-9.375,5.619-13.246,9.491c-9.447,9.447-14.65,22.008-14.65,35.369  c0,13.36,5.203,25.921,14.65,35.368s22.008,14.65,35.368,14.65c13.361,0,25.921-5.203,35.369-14.65  c3.872-3.871,7.064-8.328,9.491-13.246C97.826,68.608,97.611,67.309,96.76,66.458z"></path></svg></label></div><div class="toc desktop-only"><button type="button" id="toc"><h3>Table of Contents</h3><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="fold"><polyline points="6 9 12 15 18 9"></polyline></svg></button><div id="toc-content"><ul class="overflow"><li class="depth-0"><a href="#the-use-of-radioisotopes-in-therapeutic-treatments" data-for="the-use-of-radioisotopes-in-therapeutic-treatments">The use of radioisotopes in therapeutic treatments.</a></li><li class="depth-1"><a href="#single-photon-emission-computerised-tomography" data-for="single-photon-emission-computerised-tomography">Single photon emission computerised tomography</a></li><li class="depth-0"><a href="#the-main-ways-in-which-radioisotopes-are-produced-for-use-in-medicine" data-for="the-main-ways-in-which-radioisotopes-are-produced-for-use-in-medicine">The main ways in which radioisotopes are produced for use in medicine.</a></li><li class="depth-1"><a href="#cyclotron" data-for="cyclotron">cyclotron</a></li><li class="depth-0"><a href="#proton-therapy-and-neutron-therapy" data-for="proton-therapy-and-neutron-therapy">Proton therapy and Neutron therapy.</a></li><li class="depth-1"><a href="#proton-therapy" data-for="proton-therapy">Proton therapy</a></li><li class="depth-1"><a href="#neutron-therapy" data-for="neutron-therapy">Neutron Therapy</a></li><li class="depth-0"><a href="#radiation-dosimetry-including-absorbed-dose-and-dose-equivalent" data-for="radiation-dosimetry-including-absorbed-dose-and-dose-equivalent">Radiation Dosimetry including Absorbed dose and Dose Equivalent.</a></li><li class="depth-0"><a href="#year-11-physics-revision-checklist" data-for="year-11-physics-revision-checklist">Year 11 Physics Revision Checklist</a></li><li class="depth-1"><a href="#detecting-cancer-with-radioactive-tracers" data-for="detecting-cancer-with-radioactive-tracers">Detecting cancer with radioactive tracers</a></li><li class="depth-0"><a href="#alpha-decay" data-for="alpha-decay">alpha decay</a></li><li class="depth-0"><a href="#beta-decay" data-for="beta-decay">beta decay</a></li><li class="depth-1"><a href="#beta--" data-for="beta--">beta -</a></li><li class="depth-1"><a href="#beta-" data-for="beta-">beta +</a></li><li class="depth-0"><a href="#gamma-decay" data-for="gamma-decay">gamma decay</a></li></ul></div></div></div><div class="center"><div class="page-header"><div class="popover-hint"><h1 class="article-title">Medical Physics and Dosimetry</h1><p class="content-meta">Aug 29, 2023, 9 min read</p></div></div><article class="popover-hint"><blockquote class="callout" data-callout="note">
+<div class="callout-title">
+                  <div class="callout-icon"><svg xmlns="http://www.w3.org/2000/svg" width="100%" height="100%" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><line x1="18" y1="2" x2="22" y2="6"></line><path d="M7.5 20.5 19 9l-4-4L3.5 16.5 2 22z"></path></svg></div>
+                  <div class="callout-title-inner"><p>Note </p></div>
+                  
                 </div>
-                <div class="callout-title-inner"><p>Note</p></div>
-              </div>
-              <p>
-                all of this is kinda useless rn, scroll down for the checklist
-                for IN-DEPTH notes!!!!!!!!!!!
-              </p>
-            </blockquote>
-            <h2 id="the-use-of-radioisotopes-in-therapeutic-treatments">
-              The use of radioisotopes in therapeutic treatments.<a
-                aria-hidden="true"
-                tabindex="-1"
-                href="#the-use-of-radioisotopes-in-therapeutic-treatments"
-                class="internal"
-              >
-                §</a
-              >
-            </h2>
-            <ul>
-              <li>
-                The use of radioisotopes is common for diagnostic information
-                about a person’s organs and treatment.
-              </li>
-              <li>
-                Radiation is commonly used to weaken or destroy particular
-                targeted cells and treat some medical conditions,
-                <a
-                  href="https://www.world-nuclear.org/information-library/non-power-nuclear-applications/radioisotopes-research/radioisotopes-in-medicine.aspx"
-                  class="external"
-                  >especially cancer.</a
-                >
-              </li>
-            </ul>
-            <h3 id="single-photon-emission-computerised-tomography">
-              <strong>Single photon emission computerised tomography</strong
-              ><a
-                aria-hidden="true"
-                tabindex="-1"
-                href="#single-photon-emission-computerised-tomography"
-                class="internal"
-              >
-                §</a
-              >
-            </h3>
-            <h2
-              id="the-main-ways-in-which-radioisotopes-are-produced-for-use-in-medicine"
-            >
-              The main ways in which radioisotopes are produced for use in
-              medicine.<a
-                aria-hidden="true"
-                tabindex="-1"
-                href="#the-main-ways-in-which-radioisotopes-are-produced-for-use-in-medicine"
-                class="internal"
-              >
-                §</a
-              >
-            </h2>
-            <ul>
-              <li>produced locally (in the country)</li>
-              <li>if theres too many neutrons, must beta - decay</li>
-              <li>if theres too many protons, must beta + decay.</li>
-              <li>
-                australia produces it at ANSTO (australia nuclear science and
-                technology organisation)
-              </li>
-            </ul>
-            <h3 id="cyclotron">
-              cyclotron<a
-                aria-hidden="true"
-                tabindex="-1"
-                href="#cyclotron"
-                class="internal"
-              >
-                §</a
-              >
-            </h3>
-            <ul>
-              <li>
-                protons are accelerated in a spiral pathway towards the targeted
-                material (usually something stable initially)
-              </li>
-              <li>
-                protons is accepted into the nucleus, and bombards the element.
-              </li>
-            </ul>
-            <h2 id="proton-therapy-and-neutron-therapy">
-              Proton therapy and Neutron therapy.<a
-                aria-hidden="true"
-                tabindex="-1"
-                href="#proton-therapy-and-neutron-therapy"
-                class="internal"
-              >
-                §</a
-              >
-            </h2>
-            <p>(stolen shamelessly)</p>
-            <h3 id="proton-therapy">
-              Proton therapy<a
-                aria-hidden="true"
-                tabindex="-1"
-                href="#proton-therapy"
-                class="internal"
-              >
-                §</a
-              >
-            </h3>
-            <p>Proton therapy uses protons as the form of radiation.</p>
-            <ul>
-              <li>
-                It is more precise (???) than other forms of radiotherapy.
-              </li>
-              <li>
-                Protons irradiate at a <strong>lower depth</strong>, so less is
-                scattered into healthy tissue.
-              </li>
-              <li>Able to <strong>adjust speed</strong>.</li>
-              <li>
-                Hence, we use for <strong>high required dose</strong>, but
-                we <strong>don’t want to kill the surrounding organs!</strong>
-              </li>
-            </ul>
-            <h3 id="neutron-therapy">
-              Neutron Therapy<a
-                aria-hidden="true"
-                tabindex="-1"
-                href="#neutron-therapy"
-                class="internal"
-              >
-                §</a
-              >
-            </h3>
-            <ul>
-              <li>
-                <p>
-                  Used for specific diseases that are <em>“radioresistant”</em>;
-                  they are not easily removed by conventions forms of
-                  radiotherapy.
-                </p>
-              </li>
-              <li>
-                <p>
-                  Fast neutrons quite damaging (high quality factor),
-                  but <strong>do not damage cells equally!</strong>
-                </p>
-                <ul>
-                  <li>
-                    This means for some diseases, they are
-                    more <em>sensitive</em> to fast neutrons than surrounding
-                    healthy tissue, meaning a <strong
-                      >lethal dose for the diseased tissues may not be lethal
-                      for the healthy tissue</strong
-                    >.
-                  </li>
-                </ul>
-              </li>
-              <li>
-                <p>
-                  Much more efficient, so dosage required is less (1/3
-                  apparently) than the other forms of radiation therapy.
-                </p>
-              </li>
-              <li>
-                <p><strong>Salivary gland tumours</strong>.</p>
-              </li>
-              <li>
-                <p>
-                  Positived charge damages DNA, intending to kill target cells
-                  (usually cancers).
-                </p>
-              </li>
-            </ul>
-            <h2
-              id="radiation-dosimetry-including-absorbed-dose-and-dose-equivalent"
-            >
-              Radiation Dosimetry including Absorbed dose and Dose Equivalent.<a
-                aria-hidden="true"
-                tabindex="-1"
-                href="#radiation-dosimetry-including-absorbed-dose-and-dose-equivalent"
-                class="internal"
-              >
-                §</a
-              >
-            </h2>
-            <ul>
-              <li>
-                the severity of radiation exposure depends on the amount of
-                radiation energy that has been absorbed (E) and the mass of
-                tissue involved (m).
-              </li>
-              <li>
-                absorbed dose = energy absorbed by the tissue / mass of tissue
-                <ul>
-                  <li>
-                    <span class="math math-inline"
-                      ><span class="katex"
-                        ><span class="katex-html" aria-hidden="true"
-                          ><span class="base"
-                            ><span class="strut" style="height: 0.6833em"></span
-                            ><span class="mord mathnormal">A</span
-                            ><span
-                              class="mord mathnormal"
-                              style="margin-right: 0.02778em"
-                              >D</span
-                            ><span
-                              class="mspace"
-                              style="margin-right: 0.2778em"
-                            ></span
-                            ><span class="mrel">=</span
-                            ><span
-                              class="mspace"
-                              style="margin-right: 0.2778em"
-                            ></span></span
-                          ><span class="base"
-                            ><span
-                              class="strut"
-                              style="height: 1.2173em; vertical-align: -0.345em"
-                            ></span
-                            ><span class="mord"
-                              ><span class="mopen nulldelimiter"></span
-                              ><span class="mfrac"
-                                ><span class="vlist-t vlist-t2"
-                                  ><span class="vlist-r"
-                                    ><span
-                                      class="vlist"
-                                      style="height: 0.8723em"
-                                      ><span style="top: -2.655em"
-                                        ><span
-                                          class="pstrut"
-                                          style="height: 3em"
-                                        ></span
-                                        ><span
-                                          class="sizing reset-size6 size3 mtight"
-                                          ><span class="mord mtight"
-                                            ><span
-                                              class="mord mathnormal mtight"
-                                              >m</span
-                                            ></span
-                                          ></span
-                                        ></span
-                                      ><span style="top: -3.23em"
-                                        ><span
-                                          class="pstrut"
-                                          style="height: 3em"
-                                        ></span
-                                        ><span
-                                          class="frac-line"
-                                          style="border-bottom-width: 0.04em"
-                                        ></span></span
-                                      ><span style="top: -3.394em"
-                                        ><span
-                                          class="pstrut"
-                                          style="height: 3em"
-                                        ></span
-                                        ><span
-                                          class="sizing reset-size6 size3 mtight"
-                                          ><span class="mord mtight"
-                                            ><span
-                                              class="mord mathnormal mtight"
-                                              style="margin-right: 0.05764em"
-                                              >E</span
-                                            ></span
-                                          ></span
-                                        ></span
-                                      ></span
-                                    ><span class="vlist-s">​</span></span
-                                  ><span class="vlist-r"
-                                    ><span class="vlist" style="height: 0.345em"
-                                      ><span></span></span></span></span></span
-                              ><span
-                                class="mclose nulldelimiter"
-                              ></span></span></span></span></span
-                    ></span>
-                  </li>
-                  <li>
-                    measured in joules per kilogram (<span
-                      class="math math-inline"
-                      ><span class="katex"
-                        ><span class="katex-html" aria-hidden="true"
-                          ><span class="base"
-                            ><span
-                              class="strut"
-                              style="
-                                height: 1.0085em;
-                                vertical-align: -0.1944em;
-                              "
-                            ></span
-                            ><span
-                              class="mord mathnormal"
-                              style="margin-right: 0.09618em"
-                              >J</span
-                            ><span
-                              class="mord mathnormal"
-                              style="margin-right: 0.03148em"
-                              >k</span
-                            ><span class="mord"
-                              ><span
-                                class="mord mathnormal"
-                                style="margin-right: 0.03588em"
-                                >g</span
-                              ><span class="msupsub"
-                                ><span class="vlist-t"
-                                  ><span class="vlist-r"
-                                    ><span
-                                      class="vlist"
-                                      style="height: 0.8141em"
-                                      ><span
-                                        style="
-                                          top: -3.063em;
-                                          margin-right: 0.05em;
-                                        "
-                                        ><span
-                                          class="pstrut"
-                                          style="height: 2.7em"
-                                        ></span
-                                        ><span
-                                          class="sizing reset-size6 size3 mtight"
-                                          ><span class="mord mtight"
-                                            ><span class="mord mtight">−</span
-                                            ><span class="mord mtight"
-                                              >1</span
-                                            ></span
-                                          ></span
-                                        ></span
-                                      ></span
-                                    ></span
-                                  ></span
-                                ></span
-                              ></span
-                            ></span
-                          ></span
-                        ></span
-                      ></span
-                    >) or grays (Gy).
-                  </li>
-                </ul>
-              </li>
-              <li>
-                weakness of absorbed dose is that type of radiation is not
-                accounted, which is instead accounted by
-                <strong>dose equivalent</strong>
-              </li>
-              <li>
-                dose equivalent is derived from a table of quality factors
-              </li>
-            </ul>
+<p>all of this is kinda useless rn, scroll down for the checklist for IN-DEPTH notes!!!!!!!!!!!</p>
+</blockquote>
+<h2 id="the-use-of-radioisotopes-in-therapeutic-treatments">The use of radioisotopes in therapeutic treatments.<a aria-hidden="true" tabindex="-1" href="#the-use-of-radioisotopes-in-therapeutic-treatments" class="internal"> §</a></h2>
+<ul>
+<li>The use of radioisotopes is common for diagnostic information about a person’s organs and treatment.</li>
+<li>Radiation is commonly used to weaken or destroy particular targeted cells and treat some medical conditions, <a href="https://www.world-nuclear.org/information-library/non-power-nuclear-applications/radioisotopes-research/radioisotopes-in-medicine.aspx" class="external">especially cancer.</a></li>
+</ul>
+<h3 id="single-photon-emission-computerised-tomography"><strong>Single photon emission computerised tomography</strong><a aria-hidden="true" tabindex="-1" href="#single-photon-emission-computerised-tomography" class="internal"> §</a></h3>
+<h2 id="the-main-ways-in-which-radioisotopes-are-produced-for-use-in-medicine">The main ways in which radioisotopes are produced for use in medicine.<a aria-hidden="true" tabindex="-1" href="#the-main-ways-in-which-radioisotopes-are-produced-for-use-in-medicine" class="internal"> §</a></h2>
+<ul>
+<li>produced locally (in the country)</li>
+<li>if theres too many neutrons, must beta - decay</li>
+<li>if theres too many protons, must beta + decay.</li>
+<li>australia produces it at ANSTO (australia nuclear science and technology organisation)</li>
+</ul>
+<h3 id="cyclotron">cyclotron<a aria-hidden="true" tabindex="-1" href="#cyclotron" class="internal"> §</a></h3>
+<ul>
+<li>protons are accelerated in a spiral pathway towards the targeted material (usually something stable initially)</li>
+<li>protons is accepted into the nucleus, and bombards the element.</li>
+</ul>
+<h2 id="proton-therapy-and-neutron-therapy">Proton therapy and Neutron therapy.<a aria-hidden="true" tabindex="-1" href="#proton-therapy-and-neutron-therapy" class="internal"> §</a></h2>
+<p>(stolen shamelessly)</p>
+<h3 id="proton-therapy">Proton therapy<a aria-hidden="true" tabindex="-1" href="#proton-therapy" class="internal"> §</a></h3>
+<p>Proton therapy uses protons as the form of radiation.</p>
+<ul>
+<li>It is more precise (???) than other forms of radiotherapy.</li>
+<li>Protons irradiate at a <strong>lower depth</strong>, so less is scattered into healthy tissue.</li>
+<li>Able to <strong>adjust speed</strong>.</li>
+<li>Hence, we use for <strong>high required dose</strong>, but we <strong>don’t want to kill the surrounding organs!</strong></li>
+</ul>
+<h3 id="neutron-therapy">Neutron Therapy<a aria-hidden="true" tabindex="-1" href="#neutron-therapy" class="internal"> §</a></h3>
+<ul>
+<li>Used for specific diseases that are <em>“radioresistant”</em>; they are not easily removed by conventions forms of radiotherapy.</li>
+<li>Fast neutrons quite damaging (high quality factor), but <strong>do not damage cells equally!</strong>
+<ul>
+<li>This means for some diseases, they are more <em>sensitive</em> to fast neutrons than surrounding healthy tissue, meaning a <strong>lethal dose for the diseased tissues may not be lethal for the healthy tissue</strong>.</li>
+</ul>
+</li>
+<li>Much more efficient, so dosage required is less (1/3 apparently) than the other forms of radiation therapy.</li>
+<li><strong>Salivary gland tumours</strong>.</li>
+<li>Positived charge damages DNA, intending to kill target cells (usually cancers).</li>
+</ul>
+<h2 id="radiation-dosimetry-including-absorbed-dose-and-dose-equivalent">Radiation Dosimetry including Absorbed dose and Dose Equivalent.<a aria-hidden="true" tabindex="-1" href="#radiation-dosimetry-including-absorbed-dose-and-dose-equivalent" class="internal"> §</a></h2>
+<ul>
+<li>the severity of radiation exposure depends on the amount of radiation energy that has been absorbed (E) and the mass of tissue involved (m).</li>
+<li>absorbed dose = energy absorbed by the tissue / mass of tissue
+<ul>
+<li><span class="math math-inline"><span class="katex"><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.6833em;"></span><span class="mord mathnormal">A</span><span class="mord mathnormal" style="margin-right:0.02778em;">D</span><span class="mspace" style="margin-right:0.2778em;"></span><span class="mrel">=</span><span class="mspace" style="margin-right:0.2778em;"></span></span><span class="base"><span class="strut" style="height:1.2173em;vertical-align:-0.345em;"></span><span class="mord"><span class="mopen nulldelimiter"></span><span class="mfrac"><span class="vlist-t vlist-t2"><span class="vlist-r"><span class="vlist" style="height:0.8723em;"><span style="top:-2.655em;"><span class="pstrut" style="height:3em;"></span><span class="sizing reset-size6 size3 mtight"><span class="mord mtight"><span class="mord mathnormal mtight">m</span></span></span></span><span style="top:-3.23em;"><span class="pstrut" style="height:3em;"></span><span class="frac-line" style="border-bottom-width:0.04em;"></span></span><span style="top:-3.394em;"><span class="pstrut" style="height:3em;"></span><span class="sizing reset-size6 size3 mtight"><span class="mord mtight"><span class="mord mathnormal mtight" style="margin-right:0.05764em;">E</span></span></span></span></span><span class="vlist-s">​</span></span><span class="vlist-r"><span class="vlist" style="height:0.345em;"><span></span></span></span></span></span><span class="mclose nulldelimiter"></span></span></span></span></span></span></li>
+<li>measured in joules per kilogram (<span class="math math-inline"><span class="katex"><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:1.0085em;vertical-align:-0.1944em;"></span><span class="mord mathnormal" style="margin-right:0.09618em;">J</span><span class="mord mathnormal" style="margin-right:0.03148em;">k</span><span class="mord"><span class="mord mathnormal" style="margin-right:0.03588em;">g</span><span class="msupsub"><span class="vlist-t"><span class="vlist-r"><span class="vlist" style="height:0.8141em;"><span style="top:-3.063em;margin-right:0.05em;"><span class="pstrut" style="height:2.7em;"></span><span class="sizing reset-size6 size3 mtight"><span class="mord mtight"><span class="mord mtight">−</span><span class="mord mtight">1</span></span></span></span></span></span></span></span></span></span></span></span></span>) or grays (Gy).</li>
+</ul>
+</li>
+<li>weakness of absorbed dose is that type of radiation is not accounted, which is instead accounted by <strong>dose equivalent</strong></li>
+<li>dose equivalent is derived from a table of quality factors</li>
+</ul>
 
-            <table>
-              <thead>
-                <tr>
-                  <th>radiation</th>
-                  <th>quality factor</th>
-                </tr>
-              </thead>
-              <tbody>
-                <tr>
-                  <td>
-                    <span class="math math-inline"
-                      ><span class="katex"
-                        ><span class="katex-html" aria-hidden="true"
-                          ><span class="base"
-                            ><span class="strut" style="height: 0.4306em"></span
-                            ><span
-                              class="mord mathnormal"
-                              style="margin-right: 0.0037em"
-                              >α</span
-                            ></span
-                          ></span
-                        ></span
-                      ></span
-                    >
-                    particles
-                  </td>
-                  <td>20</td>
-                </tr>
-                <tr>
-                  <td>neutrons* (10 keV)</td>
-                  <td>10</td>
-                </tr>
-                <tr>
-                  <td>
-                    <span class="math math-inline"
-                      ><span class="katex"
-                        ><span class="katex-html" aria-hidden="true"
-                          ><span class="base"
-                            ><span
-                              class="strut"
-                              style="
-                                height: 0.8889em;
-                                vertical-align: -0.1944em;
-                              "
-                            ></span
-                            ><span
-                              class="mord mathnormal"
-                              style="margin-right: 0.05278em"
-                              >β</span
-                            ></span
-                          ></span
-                        ></span
-                      ></span
-                    >
-                    particles
-                  </td>
-                  <td>1</td>
-                </tr>
-                <tr>
-                  <td>
-                    <span class="math math-inline"
-                      ><span class="katex"
-                        ><span class="katex-html" aria-hidden="true"
-                          ><span class="base"
-                            ><span
-                              class="strut"
-                              style="height: 0.625em; vertical-align: -0.1944em"
-                            ></span
-                            ><span
-                              class="mord mathnormal"
-                              style="margin-right: 0.05556em"
-                              >γ</span
-                            ></span
-                          ></span
-                        ></span
-                      ></span
-                    >
-                    rays
-                  </td>
-                  <td>1</td>
-                </tr>
-                <tr>
-                  <td>X-rays</td>
-                  <td>1</td>
-                </tr>
-              </tbody>
-            </table>
-            <ul>
-              <li>
-                the formula for dose equivalent is
-                <span class="math math-inline"
-                  ><span class="katex"
-                    ><span class="katex-html" aria-hidden="true"
-                      ><span class="base"
-                        ><span class="strut" style="height: 0.6833em"></span
-                        ><span
-                          class="mord mathnormal"
-                          style="margin-right: 0.02778em"
-                          >D</span
-                        ><span
-                          class="mord mathnormal"
-                          style="margin-right: 0.05764em"
-                          >E</span
-                        ><span
-                          class="mspace"
-                          style="margin-right: 0.2778em"
-                        ></span
-                        ><span class="mrel">=</span
-                        ><span
-                          class="mspace"
-                          style="margin-right: 0.2778em"
-                        ></span></span
-                      ><span class="base"
-                        ><span
-                          class="strut"
-                          style="height: 0.7667em; vertical-align: -0.0833em"
-                        ></span
-                        ><span class="mord mathnormal">A</span
-                        ><span
-                          class="mord mathnormal"
-                          style="margin-right: 0.02778em"
-                          >D</span
-                        ><span
-                          class="mspace"
-                          style="margin-right: 0.2222em"
-                        ></span
-                        ><span class="mbin">×</span
-                        ><span
-                          class="mspace"
-                          style="margin-right: 0.2222em"
-                        ></span></span
-                      ><span class="base"
-                        ><span
-                          class="strut"
-                          style="height: 0.8778em; vertical-align: -0.1944em"
-                        ></span
-                        ><span
-                          class="mord mathnormal"
-                          style="margin-right: 0.13889em"
-                          >QF</span
-                        ></span
-                      ></span
-                    ></span
-                  ></span
-                >
-              </li>
-              <li>
-                variable names -> dose equivalent / absorbed dose / quality
-                factor
-              </li>
-            </ul>
-            <p>
-              <span class="math math-inline"
-                ><span class="katex"
-                  ><span class="katex-html" aria-hidden="true"
-                    ><span class="base"
-                      ><span
-                        class="strut"
-                        style="height: 1.3879em; vertical-align: -0.345em"
-                      ></span
-                      ><span class="mord"
-                        ><span class="mopen nulldelimiter"></span
-                        ><span class="mfrac"
-                          ><span class="vlist-t vlist-t2"
-                            ><span class="vlist-r"
-                              ><span class="vlist" style="height: 1.0429em"
-                                ><span style="top: -2.655em"
-                                  ><span
-                                    class="pstrut"
-                                    style="height: 3em"
-                                  ></span
-                                  ><span class="sizing reset-size6 size3 mtight"
-                                    ><span class="mord mtight"
-                                      ><span class="mord mathnormal mtight"
-                                        >h</span
-                                      ></span
-                                    ></span
-                                  ></span
-                                ><span style="top: -3.23em"
-                                  ><span
-                                    class="pstrut"
-                                    style="height: 3em"
-                                  ></span
-                                  ><span
-                                    class="frac-line"
-                                    style="border-bottom-width: 0.04em"
-                                  ></span></span
-                                ><span style="top: -3.394em"
-                                  ><span
-                                    class="pstrut"
-                                    style="height: 3em"
-                                  ></span
-                                  ><span class="sizing reset-size6 size3 mtight"
-                                    ><span class="mord mtight"
-                                      ><span class="mord mtight"
-                                        ><span class="mord mtight">2</span
-                                        ><span class="msupsub"
-                                          ><span class="vlist-t"
-                                            ><span class="vlist-r"
-                                              ><span
-                                                class="vlist"
-                                                style="height: 0.927em"
-                                                ><span
-                                                  style="
-                                                    top: -2.931em;
-                                                    margin-right: 0.0714em;
-                                                  "
-                                                  ><span
-                                                    class="pstrut"
-                                                    style="height: 2.5em"
-                                                  ></span
-                                                  ><span
-                                                    class="sizing reset-size3 size1 mtight"
-                                                    ><span class="mord mtight"
-                                                      ><span
-                                                        class="mord mathnormal mtight"
-                                                        >x</span
-                                                      ><span class="mbin mtight"
-                                                        >+</span
-                                                      ><span
-                                                        class="mord mathnormal mtight"
-                                                        >h</span
-                                                      ></span
-                                                    ></span
-                                                  ></span
-                                                ></span
-                                              ></span
-                                            ></span
-                                          ></span
-                                        ></span
-                                      ><span class="mbin mtight">−</span
-                                      ><span class="mord mtight"
-                                        ><span class="mord mtight">2</span
-                                        ><span class="msupsub"
-                                          ><span class="vlist-t"
-                                            ><span class="vlist-r"
-                                              ><span
-                                                class="vlist"
-                                                style="height: 0.7385em"
-                                                ><span
-                                                  style="
-                                                    top: -2.931em;
-                                                    margin-right: 0.0714em;
-                                                  "
-                                                  ><span
-                                                    class="pstrut"
-                                                    style="height: 2.5em"
-                                                  ></span
-                                                  ><span
-                                                    class="sizing reset-size3 size1 mtight"
-                                                    ><span
-                                                      class="mord mathnormal mtight"
-                                                      >x</span
-                                                    ></span
-                                                  ></span
-                                                ></span
-                                              ></span
-                                            ></span
-                                          ></span
-                                        ></span
-                                      ></span
-                                    ></span
-                                  ></span
-                                ></span
-                              ><span class="vlist-s">​</span></span
-                            ><span class="vlist-r"
-                              ><span class="vlist" style="height: 0.345em"
-                                ><span></span></span></span></span></span
-                        ><span
-                          class="mclose nulldelimiter"
-                        ></span></span></span></span></span
-              ></span>
-            </p>
-            <h2 id="year-11-physics-revision-checklist">
-              Year 11 Physics Revision Checklist<a
-                aria-hidden="true"
-                tabindex="-1"
-                href="#year-11-physics-revision-checklist"
-                class="internal"
-              >
-                §</a
-              >
-            </h2>
-            <p>Science as a Human Endeavour:</p>
-            <ul class="contains-task-list">
-              <li class="task-list-item">
-                <input type="checkbox" disabled /> radioisotopes are used as
-                diagnostic tools and for tumour treatment in medicine
-              </li>
-            </ul>
-            <h3 id="detecting-cancer-with-radioactive-tracers">
-              Detecting cancer with radioactive tracers<a
-                aria-hidden="true"
-                tabindex="-1"
-                href="#detecting-cancer-with-radioactive-tracers"
-                class="internal"
-              >
-                §</a
-              >
-            </h3>
-            <ul>
-              <li>
-                Cancers formed on skin often detected by a simple external
-                examination. <strong>HOWEVER</strong>, diagnosis of cancerous
-                growths inside the body, a variety of radioisotopes tagged to
-                particular drugs are used.
-              </li>
-              <li>The radioisotope is known as a radioactive tracer.</li>
-              <li>
-                These drugs, radiopharmaceuticals, can be administered by
-                swallowing (ingestion), inhalation or injection.
-              </li>
-              <li>
-                A gamma-ray camera can be used to perform a bone scan.
-                <ul>
-                  <li>
-                    This patient has been injected with the radioisotope
-                    technetium-99m (v commonly used)
-                    <ul>
-                      <li>gamma emitter</li>
-                      <li>half life of 6 hours</li>
-                    </ul>
-                  </li>
-                  <li>
-                    The camera detects the emitted gamma-rays and produces an
-                    image on a computer screen.
-                  </li>
-                </ul>
-              </li>
-              <li>
-                The radioisotope used depends on the site of the suspected
-                tumour.
-              </li>
-              <li>
-                The body naturally distributes different elements to different
-                organs. For example, iodine is sent to the thyroid gland by the
-                liver. So if a radiopharmaceutical containing radioactive iodine
-                is ingested, most of this iodine will end up in the thyroid.
-              </li>
-              <li>
-                When the tracer has reached the target organ, a radiation scan
-                is taken with a gamma-ray camera.
-              </li>
-              <li>
-                An unusual pattern on the scan indicates a possible cancerous
-                tumour. The radioisotopes used for this type of diagnosis need
-                to be gamma-ray emitters so that the radiation has enough
-                penetrating ability to pass out of the body to reach the
-                detector—the gamma-ray camera.
-              </li>
-              <li>
-                The isotope should have a relatively short half-life so that the
-                patient is not subjected to any unnecessary long-term exposure
-                to radiation.
-              </li>
-              <li>
-                Radioactive tracers are also used to monitor other bodily
-                functions. Some examples are shown in the following table.
-              </li>
-            </ul>
 
-            <table>
-              <thead>
-                <tr>
-                  <th>radioactive tracer</th>
-                  <th>function monitored</th>
-                </tr>
-              </thead>
-              <tbody>
-                <tr>
-                  <td>iodine-123</td>
-                  <td>function of thyroid gland</td>
-                </tr>
-                <tr>
-                  <td>xenon-133</td>
-                  <td>function of lungs</td>
-                </tr>
-                <tr>
-                  <td>phosphorous-32</td>
-                  <td>blood flow through body</td>
-                </tr>
-                <tr>
-                  <td>iron-59</td>
-                  <td>level of iron uptake by spleen</td>
-                </tr>
-                <tr>
-                  <td>technetium-99m</td>
-                  <td>
-                    blood flow in brain, lungs and heart <br />function of liver
-                    <br />metabolism of bones
-                  </td>
-                </tr>
-              </tbody>
-            </table>
-            <ul class="contains-task-list">
-              <li class="task-list-item">
-                <p>
-                  <input type="checkbox" disabled /> nuclear power stations
-                  employ a variety of safety mechanisms to prevent nuclear
-                  accidents, including shielding, moderators, cooling
-                </p>
-              </li>
-              <li>
-                <p>
-                  Fuel rods: long, thin rods containing pellets of enriched
-                  uranium
-                </p>
-              </li>
-              <li>
-                <p>Moderator: material that slows down neutrons</p>
-                <ul>
-                  <li>Graphite, water, heavy water, carbon dioxide</li>
-                  <li>Heavy water is the best but is too expensive</li>
-                  <li>
-                    Water with dueterium, (Hydrogen-2) an isotope of hydrogen
-                  </li>
-                  <li>
-                    Graphite and carbon dioxide contain carbon which is denser
-                    than hydrogen
-                  </li>
-                  <li>Ensures that neutron capture occurs</li>
-                  <li>
-                    When the neutrons collide with small nuclei, they lose most
-                    of their kinetic energy
-                  </li>
-                </ul>
-              </li>
-              <li>
-                <p>Control rods: material that absorbs neutrons</p>
-                <ul>
-                  <li>Boron steel or cadmium</li>
-                  <li>
-                    Ensures energy release is controlled and stable, due to them
-                    controlling the amount of neutrons for fission
-                  </li>
-                </ul>
-              </li>
-              <li>
-                <p>
-                  Coolant: liquid to absorb heat energy that has been produced
-                  by nuclear fission, goes to cooling tower to cool down
-                </p>
-                <ul>
-                  <li>e.g. water</li>
-                </ul>
-              </li>
-              <li>
-                <p>
-                  Radiation shield (shielding): thick concrete wall that
-                  prevents neutrons/radiation/radioactive waste escaping from
-                  the reactor
-                </p>
-              </li>
-              <li class="task-list-item">
-                <p>
-                  <input type="checkbox" disabled /> the management of nuclear
-                  waste is based on the knowledge of the behaviour of radiation.
-                </p>
-              </li>
-              <li>
-                <p>
-                  A major problem facing the nuclear power industry is the
-                  disposal of the unstable radioactive waste.
-                </p>
-              </li>
-              <li>
-                <p>
-                  Radioactive waste products are classified as low-level,
-                  intermediate level or high-level waste.
-                </p>
-                <ul>
-                  <li>
-                    Low-level waste is generated primarily from hospitals,
-                    industry and laboratories and consists mostly of tools,
-                    clothing, used wrapping material and other items that have
-                    been contaminated with radionuclides with short half-lives.
-                    Low-level waste solids are usually compacted or incinerated,
-                    then buried in shallow pits on land or at sea.
-                  </li>
-                  <li>
-                    Intermediate-level waste typically consists of reactor
-                    components, chemical sludges, and contaminated materials
-                    from reactors that have been decommissioned.
-                    Intermediate-level wastes are solidified in bitumen or
-                    concrete, then buried or stored in deep trenches.
-                  </li>
-                  <li>
-                    High-level waste is waste from contaminated reactor parts,
-                    as well as liquid waste from the reprocessing of spent fuel
-                    rods. This waste contains highly radioactive fission
-                    fragments and transuranic elements, and so requires special
-                    shielding during handling and transport. High-level waste
-                    remains radioactive for an exceedingly long time and needs
-                    to be stored permanently.
-                  </li>
-                </ul>
-              </li>
-              <li>
-                <p>
-                  By way of comparison, the activity of one tonne of uranium ore
-                  is only 8 × 10^11Bq
-                </p>
-              </li>
-              <li>
-                <p>
-                  Uranium-235 and uranium-238 nuclei in these fuel rods have
-                  half-lives of 700000 and 4.5 billion years respectively. The
-                  numerous fission fragments have a wide range of half-lives.
-                  The fuel rods must be permanently stored in cooling ponds
-                  inside nuclear power stations in order to protect people from
-                  the radioactive emissions. In Japan, Russia and Europe, the
-                  spent fuel rods are reprocessed. The uranium is extracted and
-                  reused as nuclear fuel. This is an expensive process. Science
-                  Understanding:
-                </p>
-              </li>
-              <li class="task-list-item">
-                <p>
-                  <input type="checkbox" disabled /> the nuclear model of the
-                  atom describes the atom as consisting of an extremely small
-                  nucleus which contains most of the atom’s mass, and is made up
-                  of positively charged protons and uncharged neutrons
-                  surrounded by negatively charged electrons
-                </p>
-              </li>
-              <li>
-                <p>
-                  literally the check point, no extra info abt it i dont think
-                </p>
-              </li>
-              <li class="task-list-item">
-                <p>
-                  <input type="checkbox" disabled /> nuclear stability is the
-                  result of the strong nuclear force which operates between
-                  nucleons over a very short distance and opposes the
-                  electrostatic repulsion between protons in the nucleus
-                </p>
-              </li>
-              <li>
-                <p>
-                  Electrostatic forces define protons as repelling each other,
-                  but in the nucleus, an external “strong nuclear force” needs
-                  to be considered which allows protons to be very close to
-                  other protons without repelling and breaking the nucleus
-                  apart.
-                </p>
-              </li>
-              <li>
-                <p>
-                  The strong nuclear force is a force of attraction that holds
-                  the nucleus together and acts between every nucleon regardless
-                  of their charge. Protons are also attracted to nearby neutrons
-                  and protons.
-                </p>
-              </li>
-              <li>
-                <p>
-                  This force only acts over relatively short distances so for
-                  nucleons on the opposite sides of a large nucleus, this force
-                  is not significant. In a stable nucleus, there is a delicate
-                  balance between the repulsive electric force and the
-                  attractive strong nuclear force.
-                </p>
-              </li>
-              <li class="task-list-item">
-                <p>
-                  <input type="checkbox" disabled /> some nuclides are unstable
-                  and spontaneously decay, emitting alpha, beta (+/-) and/or
-                  gamma radiation over time until they become stable nuclides
-                </p>
-              </li>
-            </ul>
-            <h2 id="alpha-decay">
-              alpha decay<a
-                aria-hidden="true"
-                tabindex="-1"
-                href="#alpha-decay"
-                class="internal"
-              >
-                §</a
-              >
-            </h2>
-            <p>no notes, assumed prior knowledge</p>
-            <h2 id="beta-decay">
-              beta decay<a
-                aria-hidden="true"
-                tabindex="-1"
-                href="#beta-decay"
-                class="internal"
-              >
-                §</a
-              >
-            </h2>
-            <ul>
-              <li>split into b+ and b-</li>
-            </ul>
-            <h3 id="beta--">
-              beta -<a
-                aria-hidden="true"
-                tabindex="-1"
-                href="#beta--"
-                class="internal"
-              >
-                §</a
-              >
-            </h3>
-            <ul>
-              <li>
-                electron is emitted from the nucleus of a radioactive atom.
-              </li>
-              <li>
-                written as
-                <span class="math math-inline"
-                  ><span class="katex"
-                    ><span class="katex-html" aria-hidden="true"
-                      ><span class="base"
-                        ><span
-                          class="strut"
-                          style="height: 1.1205em; vertical-align: -0.3064em"
-                        ></span
-                        ><span class="mord"
-                          ><span></span
-                          ><span class="msupsub"
-                            ><span class="vlist-t vlist-t2"
-                              ><span class="vlist-r"
-                                ><span class="vlist" style="height: 0.8141em"
-                                  ><span
-                                    style="top: -2.4519em; margin-right: 0.05em"
-                                    ><span
-                                      class="pstrut"
-                                      style="height: 2.7em"
-                                    ></span
-                                    ><span
-                                      class="sizing reset-size6 size3 mtight"
-                                      ><span class="mord mtight"
-                                        ><span class="mord mtight">−</span
-                                        ><span class="mord mtight"
-                                          >1</span
-                                        ></span
-                                      ></span
-                                    ></span
-                                  ><span
-                                    style="top: -3.063em; margin-right: 0.05em"
-                                    ><span
-                                      class="pstrut"
-                                      style="height: 2.7em"
-                                    ></span
-                                    ><span
-                                      class="sizing reset-size6 size3 mtight"
-                                      ><span class="mord mtight">0</span></span
-                                    ></span
-                                  ></span
-                                ><span class="vlist-s">​</span></span
-                              ><span class="vlist-r"
-                                ><span class="vlist" style="height: 0.3064em"
-                                  ><span></span></span></span></span></span></span
-                        ><span
-                          class="mord mathnormal"
-                          style="margin-right: 0.05278em"
-                          >β</span
-                        ></span
-                      ></span
-                    ></span
-                  ></span
-                >
-              </li>
-              <li>
-                occurs if a nucleus has too many neutrons to be stable -> a
-                neutron spontaneously changes into a proton, a beta-minus
-                particle (<span class="math math-inline"
-                  ><span class="katex"
-                    ><span class="katex-html" aria-hidden="true"
-                      ><span class="base"
-                        ><span
-                          class="strut"
-                          style="height: 0.9658em; vertical-align: -0.1944em"
-                        ></span
-                        ><span class="mord"
-                          ><span
-                            class="mord mathnormal"
-                            style="margin-right: 0.05278em"
-                            >β</span
-                          ><span class="msupsub"
-                            ><span class="vlist-t"
-                              ><span class="vlist-r"
-                                ><span class="vlist" style="height: 0.7713em"
-                                  ><span
-                                    style="top: -3.063em; margin-right: 0.05em"
-                                    ><span
-                                      class="pstrut"
-                                      style="height: 2.7em"
-                                    ></span
-                                    ><span
-                                      class="sizing reset-size6 size3 mtight"
-                                      ><span class="mbin mtight">−</span></span
-                                    ></span
-                                  ></span
-                                ></span
-                              ></span
-                            ></span
-                          ></span
-                        ></span
-                      ></span
-                    ></span
-                  ></span
-                >, an electron), and an uncharged massless antimatter particle
-                called
-                <strong
-                  >antineutrino
-                  <span class="math math-inline"
-                    ><span class="katex"
-                      ><span class="katex-html" aria-hidden="true"
-                        ><span class="base"
-                          ><span class="strut" style="height: 0.6306em"></span
-                          ><span class="mord overline"
-                            ><span class="vlist-t"
-                              ><span class="vlist-r"
-                                ><span class="vlist" style="height: 0.6306em"
-                                  ><span style="top: -3em"
-                                    ><span
-                                      class="pstrut"
-                                      style="height: 3em"
-                                    ></span
-                                    ><span class="mord"
-                                      ><span
-                                        class="mord mathnormal"
-                                        style="margin-right: 0.03588em"
-                                        >v</span
-                                      ></span
-                                    ></span
-                                  ><span style="top: -3.5506em"
-                                    ><span
-                                      class="pstrut"
-                                      style="height: 3em"
-                                    ></span
-                                    ><span
-                                      class="overline-line"
-                                      style="border-bottom-width: 0.04em"
-                                    ></span></span></span></span></span></span></span></span></span></span
-                ></strong>
-              </li>
-            </ul>
-            <h3 id="beta-">
-              beta +<a
-                aria-hidden="true"
-                tabindex="-1"
-                href="#beta-"
-                class="internal"
-              >
-                §</a
-              >
-            </h3>
-            <ul>
-              <li>
-                proton spontaneously change into a neutron and emit a neutrino
-                (v), and a positively charged beta particle.
-              </li>
-              <li>
-                positively charged beta particle is called a positron, which has
-                same properties as electron, but a positive electrical charge.
-              </li>
-            </ul>
-            <h2 id="gamma-decay">
-              gamma decay<a
-                aria-hidden="true"
-                tabindex="-1"
-                href="#gamma-decay"
-                class="internal"
-              >
-                §</a
-              >
-            </h2>
-            <ul class="contains-task-list">
-              <li>
-                excess energy is released through a gamma ray, which is
-                high-energy electromagnetic radiation with no mass, uncharged
-                and travels at the speed of light.
-              </li>
-              <li class="task-list-item">
-                <input type="checkbox" disabled /> each species of radionuclide
-                has a half-life which indicates the rate of decay
-                <span class="math math-inline"
-                  ><span class="katex"
-                    ><span class="katex-html" aria-hidden="true"
-                      ><span class="base"
-                        ><span class="strut" style="height: 0.6833em"></span
-                        ><span
-                          class="mord mathnormal"
-                          style="margin-right: 0.10903em"
-                          >N</span
-                        ><span
-                          class="mspace"
-                          style="margin-right: 0.2778em"
-                        ></span
-                        ><span class="mrel">=</span
-                        ><span
-                          class="mspace"
-                          style="margin-right: 0.2778em"
-                        ></span></span
-                      ><span class="base"
-                        ><span
-                          class="strut"
-                          style="height: 1.2543em; vertical-align: -0.35em"
-                        ></span
-                        ><span class="mord"
-                          ><span
-                            class="mord mathnormal"
-                            style="margin-right: 0.10903em"
-                            >N</span
-                          ><span class="msupsub"
-                            ><span class="vlist-t vlist-t2"
-                              ><span class="vlist-r"
-                                ><span class="vlist" style="height: 0.3011em"
-                                  ><span
-                                    style="
-                                      top: -2.55em;
-                                      margin-left: -0.109em;
-                                      margin-right: 0.05em;
-                                    "
-                                    ><span
-                                      class="pstrut"
-                                      style="height: 2.7em"
-                                    ></span
-                                    ><span
-                                      class="sizing reset-size6 size3 mtight"
-                                      ><span class="mord mtight"
-                                        ><span class="mord mtight"
-                                          >0</span
-                                        ></span
-                                      ></span
-                                    ></span
-                                  ></span
-                                ><span class="vlist-s">​</span></span
-                              ><span class="vlist-r"
-                                ><span class="vlist" style="height: 0.15em"
-                                  ><span></span></span></span></span></span></span
-                        ><span
-                          class="mspace"
-                          style="margin-right: 0.1667em"
-                        ></span
-                        ><span class="minner"
-                          ><span class="minner"
-                            ><span class="mopen delimcenter" style="top: 0em"
-                              ><span class="delimsizing size1">(</span></span
-                            ><span class="mord"
-                              ><span class="mopen nulldelimiter"></span
-                              ><span class="mfrac"
-                                ><span class="vlist-t vlist-t2"
-                                  ><span class="vlist-r"
-                                    ><span
-                                      class="vlist"
-                                      style="height: 0.8451em"
-                                      ><span style="top: -2.655em"
-                                        ><span
-                                          class="pstrut"
-                                          style="height: 3em"
-                                        ></span
-                                        ><span
-                                          class="sizing reset-size6 size3 mtight"
-                                          ><span class="mord mtight"
-                                            ><span class="mord mtight"
-                                              >2</span
-                                            ></span
-                                          ></span
-                                        ></span
-                                      ><span style="top: -3.23em"
-                                        ><span
-                                          class="pstrut"
-                                          style="height: 3em"
-                                        ></span
-                                        ><span
-                                          class="frac-line"
-                                          style="border-bottom-width: 0.04em"
-                                        ></span></span
-                                      ><span style="top: -3.394em"
-                                        ><span
-                                          class="pstrut"
-                                          style="height: 3em"
-                                        ></span
-                                        ><span
-                                          class="sizing reset-size6 size3 mtight"
-                                          ><span class="mord mtight"
-                                            ><span class="mord mtight"
-                                              >1</span
-                                            ></span
-                                          ></span
-                                        ></span
-                                      ></span
-                                    ><span class="vlist-s">​</span></span
-                                  ><span class="vlist-r"
-                                    ><span class="vlist" style="height: 0.345em"
-                                      ><span></span></span></span></span></span
-                              ><span class="mclose nulldelimiter"></span></span
-                            ><span class="mclose delimcenter" style="top: 0em"
-                              ><span class="delimsizing size1">)</span></span
-                            ></span
-                          ><span class="msupsub"
-                            ><span class="vlist-t"
-                              ><span class="vlist-r"
-                                ><span class="vlist" style="height: 0.9043em"
-                                  ><span
-                                    style="top: -3.3029em; margin-right: 0.05em"
-                                    ><span
-                                      class="pstrut"
-                                      style="height: 2.7em"
-                                    ></span
-                                    ><span
-                                      class="sizing reset-size6 size3 mtight"
-                                      ><span class="mord mathnormal mtight"
-                                        >n</span
-                                      ></span
-                                    ></span
-                                  ></span
-                                ></span
-                              ></span
-                            ></span
-                          ></span
-                        ></span
-                      ></span
-                    ></span
-                  ></span
-                >,
-                <span class="math math-inline"
-                  ><span class="katex"
-                    ><span class="katex-html" aria-hidden="true"
-                      ><span class="base"
-                        ><span class="strut" style="height: 0.4306em"></span
-                        ><span class="mord mathnormal">n</span
-                        ><span
-                          class="mspace"
-                          style="margin-right: 0.2778em"
-                        ></span
-                        ><span class="mrel">=</span
-                        ><span
-                          class="mspace"
-                          style="margin-right: 0.2778em"
-                        ></span></span
-                      ><span class="base"
-                        ><span
-                          class="strut"
-                          style="height: 1.4282em; vertical-align: -0.6036em"
-                        ></span
-                        ><span class="mord"
-                          ><span class="mopen nulldelimiter"></span
-                          ><span class="mfrac"
-                            ><span class="vlist-t vlist-t2"
-                              ><span class="vlist-r"
-                                ><span class="vlist" style="height: 0.8246em"
-                                  ><span style="top: -2.655em"
-                                    ><span
-                                      class="pstrut"
-                                      style="height: 3em"
-                                    ></span
-                                    ><span
-                                      class="sizing reset-size6 size3 mtight"
-                                      ><span class="mord mtight"
-                                        ><span class="mord mtight"
-                                          ><span class="mord mathnormal mtight"
-                                            >t</span
-                                          ><span class="msupsub"
-                                            ><span class="vlist-t vlist-t2"
-                                              ><span class="vlist-r"
-                                                ><span
-                                                  class="vlist"
-                                                  style="height: 0.3448em"
-                                                  ><span
-                                                    style="
-                                                      top: -2.3448em;
-                                                      margin-left: 0em;
-                                                      margin-right: 0.0714em;
-                                                    "
-                                                    ><span
-                                                      class="pstrut"
-                                                      style="height: 2.5357em"
-                                                    ></span
-                                                    ><span
-                                                      class="sizing reset-size3 size1 mtight"
-                                                      ><span class="mord mtight"
-                                                        ><span
-                                                          class="mord mtight"
-                                                          >1/2</span
-                                                        ></span
-                                                      ></span
-                                                    ></span
-                                                  ></span
-                                                ><span class="vlist-s"
-                                                  >​</span
-                                                ></span
-                                              ><span class="vlist-r"
-                                                ><span
-                                                  class="vlist"
-                                                  style="height: 0.3695em"
-                                                  ><span></span></span></span></span></span></span></span></span></span
-                                  ><span style="top: -3.23em"
-                                    ><span
-                                      class="pstrut"
-                                      style="height: 3em"
-                                    ></span
-                                    ><span
-                                      class="frac-line"
-                                      style="border-bottom-width: 0.04em"
-                                    ></span></span
-                                  ><span style="top: -3.394em"
-                                    ><span
-                                      class="pstrut"
-                                      style="height: 3em"
-                                    ></span
-                                    ><span
-                                      class="sizing reset-size6 size3 mtight"
-                                      ><span class="mord mtight"
-                                        ><span class="mord mathnormal mtight"
-                                          >t</span
-                                        ></span
-                                      ></span
-                                    ></span
-                                  ></span
-                                ><span class="vlist-s">​</span></span
-                              ><span class="vlist-r"
-                                ><span class="vlist" style="height: 0.6036em"
-                                  ><span></span></span></span></span></span
-                          ><span
-                            class="mclose nulldelimiter"
-                          ></span></span></span></span></span
-                ></span>
-                N = quantity of substance remaining
-                <span class="math math-inline"
-                  ><span class="katex"
-                    ><span class="katex-html" aria-hidden="true"
-                      ><span class="base"
-                        ><span
-                          class="strut"
-                          style="height: 0.8333em; vertical-align: -0.15em"
-                        ></span
-                        ><span class="mord"
-                          ><span
-                            class="mord mathnormal"
-                            style="margin-right: 0.10903em"
-                            >N</span
-                          ><span class="msupsub"
-                            ><span class="vlist-t vlist-t2"
-                              ><span class="vlist-r"
-                                ><span class="vlist" style="height: 0.3011em"
-                                  ><span
-                                    style="
-                                      top: -2.55em;
-                                      margin-left: -0.109em;
-                                      margin-right: 0.05em;
-                                    "
-                                    ><span
-                                      class="pstrut"
-                                      style="height: 2.7em"
-                                    ></span
-                                    ><span
-                                      class="sizing reset-size6 size3 mtight"
-                                      ><span class="mord mtight"
-                                        ><span class="mord mtight"
-                                          >0</span
-                                        ></span
-                                      ></span
-                                    ></span
-                                  ></span
-                                ><span class="vlist-s">​</span></span
-                              ><span class="vlist-r"
-                                ><span class="vlist" style="height: 0.15em"
-                                  ><span></span></span></span></span></span></span></span></span></span
-                ></span>
-                = initial quantity of the substance t = time elapsed t1/2 = half
-                life of the substance n = half lives elapsed
-              </li>
-              <li class="task-list-item">
-                <input type="checkbox" disabled /> alpha, beta and gamma
-                radiation have different natures, properties and effects
-              </li>
-            </ul>
 
-            <table>
-              <thead>
-                <tr>
-                  <th></th>
-                  <th>alpha</th>
-                  <th>beta-</th>
-                  <th>beta+</th>
-                  <th>gamma</th>
-                </tr>
-              </thead>
-              <tbody>
-                <tr>
-                  <td>speed</td>
-                  <td>relatively slow</td>
-                  <td>up to 90% speed of light</td>
-                  <td>0.9c</td>
-                  <td>speed of light</td>
-                </tr>
-                <tr>
-                  <td>charge</td>
-                  <td>double pos</td>
-                  <td>negative charge</td>
-                  <td>positive charge</td>
-                  <td>no charge</td>
-                </tr>
-                <tr>
-                  <td>ionisation</td>
-                  <td>high ionising ability</td>
-                  <td>medium ionising ability</td>
-                  <td>medium ionising ability</td>
-                  <td>poor ionising ability</td>
-                </tr>
-                <tr>
-                  <td>penetration</td>
-                  <td>
-                    poor penetrating ability; only travels a few cm in air
-                  </td>
-                  <td>1mm sheet of aluminium can stop</td>
-                  <td>1mm sheet of aluminium can stop</td>
-                  <td>
-                    high penetrating ability; requires a significantly thicker
-                    width of lead to stop.
-                  </td>
-                </tr>
-                <tr>
-                  <td>mass</td>
-                  <td>heavy</td>
-                  <td>light</td>
-                  <td>light</td>
-                  <td>none</td>
-                </tr>
-              </tbody>
-            </table>
-            <ul class="contains-task-list">
-              <li class="task-list-item">
-                <input type="checkbox" disabled /> the measurement of absorbed
-                dose and dose equivalence enables the analysis of health and
-                environmental risks absorbed dose =
-                <span class="math math-inline"
-                  ><span class="katex"
-                    ><span class="katex-html" aria-hidden="true"
-                      ><span class="base"
-                        ><span
-                          class="strut"
-                          style="height: 1.2173em; vertical-align: -0.345em"
-                        ></span
-                        ><span class="mord"
-                          ><span class="mopen nulldelimiter"></span
-                          ><span class="mfrac"
-                            ><span class="vlist-t vlist-t2"
-                              ><span class="vlist-r"
-                                ><span class="vlist" style="height: 0.8723em"
-                                  ><span style="top: -2.655em"
-                                    ><span
-                                      class="pstrut"
-                                      style="height: 3em"
-                                    ></span
-                                    ><span
-                                      class="sizing reset-size6 size3 mtight"
-                                      ><span class="mord mtight"
-                                        ><span class="mord mathnormal mtight"
-                                          >m</span
-                                        ></span
-                                      ></span
-                                    ></span
-                                  ><span style="top: -3.23em"
-                                    ><span
-                                      class="pstrut"
-                                      style="height: 3em"
-                                    ></span
-                                    ><span
-                                      class="frac-line"
-                                      style="border-bottom-width: 0.04em"
-                                    ></span></span
-                                  ><span style="top: -3.394em"
-                                    ><span
-                                      class="pstrut"
-                                      style="height: 3em"
-                                    ></span
-                                    ><span
-                                      class="sizing reset-size6 size3 mtight"
-                                      ><span class="mord mtight"
-                                        ><span
-                                          class="mord mathnormal mtight"
-                                          style="margin-right: 0.05764em"
-                                          >E</span
-                                        ></span
-                                      ></span
-                                    ></span
-                                  ></span
-                                ><span class="vlist-s">​</span></span
-                              ><span class="vlist-r"
-                                ><span class="vlist" style="height: 0.345em"
-                                  ><span></span></span></span></span></span
-                          ><span
-                            class="mclose nulldelimiter"
-                          ></span></span></span></span></span></span
-                >, dose equivalent = absorbed dose
-                <span class="math math-inline"
-                  ><span class="katex"
-                    ><span class="katex-html" aria-hidden="true"
-                      ><span class="base"
-                        ><span
-                          class="strut"
-                          style="height: 0.6667em; vertical-align: -0.0833em"
-                        ></span
-                        ><span class="mord">×</span></span
-                      ></span
-                    ></span
-                  ></span
-                >
-                quality factor
-              </li>
-              <li class="task-list-item">
-                <input type="checkbox" disabled /> Einstein’s mass/energy
-                relationship relates the binding energy of a nucleus to its mass
-                defect
-                <span class="math math-inline"
-                  ><span class="katex"
-                    ><span class="katex-html" aria-hidden="true"
-                      ><span class="base"
-                        ><span class="strut" style="height: 0.6833em"></span
-                        ><span class="mord">Δ</span
-                        ><span
-                          class="mord mathnormal"
-                          style="margin-right: 0.05764em"
-                          >E</span
-                        ><span
-                          class="mspace"
-                          style="margin-right: 0.2778em"
-                        ></span
-                        ><span class="mrel">=</span
-                        ><span
-                          class="mspace"
-                          style="margin-right: 0.2778em"
-                        ></span></span
-                      ><span class="base"
-                        ><span class="strut" style="height: 0.8141em"></span
-                        ><span class="mord">Δ</span
-                        ><span class="mord mathnormal">m</span
-                        ><span class="mord"
-                          ><span class="mord mathnormal">c</span
-                          ><span class="msupsub"
-                            ><span class="vlist-t"
-                              ><span class="vlist-r"
-                                ><span class="vlist" style="height: 0.8141em"
-                                  ><span
-                                    style="top: -3.063em; margin-right: 0.05em"
-                                    ><span
-                                      class="pstrut"
-                                      style="height: 2.7em"
-                                    ></span
-                                    ><span
-                                      class="sizing reset-size6 size3 mtight"
-                                      ><span class="mord mtight">2</span></span
-                                    ></span
-                                  ></span
-                                ></span
-                              ></span
-                            ></span
-                          ></span
-                        ></span
-                      ></span
-                    ></span
-                  ></span
-                >
-              </li>
-              <li class="task-list-item">
-                <input type="checkbox" disabled /> Einstein’s mass/energy
-                relationship also applies to all energy changes and enables the
-                energy released in nuclear reactions to be determined from the
-                mass change in the reaction
-                <span class="math math-inline"
-                  ><span class="katex"
-                    ><span class="katex-html" aria-hidden="true"
-                      ><span class="base"
-                        ><span class="strut" style="height: 0.6833em"></span
-                        ><span class="mord">Δ</span
-                        ><span
-                          class="mord mathnormal"
-                          style="margin-right: 0.05764em"
-                          >E</span
-                        ><span
-                          class="mspace"
-                          style="margin-right: 0.2778em"
-                        ></span
-                        ><span class="mrel">=</span
-                        ><span
-                          class="mspace"
-                          style="margin-right: 0.2778em"
-                        ></span></span
-                      ><span class="base"
-                        ><span class="strut" style="height: 0.8141em"></span
-                        ><span class="mord">Δ</span
-                        ><span class="mord mathnormal">m</span
-                        ><span class="mord"
-                          ><span class="mord mathnormal">c</span
-                          ><span class="msupsub"
-                            ><span class="vlist-t"
-                              ><span class="vlist-r"
-                                ><span class="vlist" style="height: 0.8141em"
-                                  ><span
-                                    style="top: -3.063em; margin-right: 0.05em"
-                                    ><span
-                                      class="pstrut"
-                                      style="height: 2.7em"
-                                    ></span
-                                    ><span
-                                      class="sizing reset-size6 size3 mtight"
-                                      ><span class="mord mtight">2</span></span
-                                    ></span
-                                  ></span
-                                ></span
-                              ></span
-                            ></span
-                          ></span
-                        ></span
-                      ></span
-                    ></span
-                  ></span
-                >
-              </li>
-              <li class="task-list-item">
-                <input type="checkbox" disabled /> alpha and beta decay are
-                examples of spontaneous transmutation reactions, while
-                artificial transmutation is a managed process that changes one
-                nuclide into another
-              </li>
-              <li class="task-list-item">
-                <input type="checkbox" disabled /> neutron-induced nuclear
-                fission is a reaction in which a heavy nuclide captures a
-                neutron and then splits into smaller radioactive nuclides with
-                the release of energy
-              </li>
-              <li class="task-list-item">
-                <input type="checkbox" disabled /> a fission chain reaction is a
-                self-sustaining process that may be controlled to produce
-                thermal energy, or uncontrolled to release energy explosively if
-                its critical mass is exceeded
-              </li>
-              <li class="task-list-item">
-                <input type="checkbox" disabled /> nuclear fusion is a reaction
-                in which light nuclides combine to form a heavier nuclide, with
-                the release of energy
-              </li>
-              <li class="task-list-item">
-                <input type="checkbox" disabled /> more energy is released per
-                nucleon in nuclear fusion than in nuclear fission because a
-                greater percentage of the mass is transformed into energy
-              </li>
-            </ul>
-          </article>
-        </div>
-        <div class="right sidebar">
-          <div class="graph">
-            <h3>Graph View</h3>
-            <div class="graph-outer">
-              <div
-                id="graph-container"
-                data-cfg='{"drag":true,"zoom":true,"depth":1,"scale":1.1,"repelForce":0.5,"centerForce":0.3,"linkDistance":30,"fontSize":0.6,"opacityScale":1}'
-              ></div>
-              <svg
-                version="1.1"
-                id="global-graph-icon"
-                xmlns="http://www.w3.org/2000/svg"
-                xmlnsXlink="http://www.w3.org/1999/xlink"
-                x="0px"
-                y="0px"
-                viewBox="0 0 55 55"
-                fill="currentColor"
-                xmlSpace="preserve"
-              >
-                <path
-                  d="M49,0c-3.309,0-6,2.691-6,6c0,1.035,0.263,2.009,0.726,2.86l-9.829,9.829C32.542,17.634,30.846,17,29,17
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<table><thead><tr><th>radiation</th><th>quality factor</th></tr></thead><tbody><tr><td><span class="math math-inline"><span class="katex"><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.4306em;"></span><span class="mord mathnormal" style="margin-right:0.0037em;">α</span></span></span></span></span> particles</td><td>20</td></tr><tr><td>neutrons* (10 keV)</td><td>10</td></tr><tr><td><span class="math math-inline"><span class="katex"><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.8889em;vertical-align:-0.1944em;"></span><span class="mord mathnormal" style="margin-right:0.05278em;">β</span></span></span></span></span> particles</td><td>1</td></tr><tr><td><span class="math math-inline"><span class="katex"><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.625em;vertical-align:-0.1944em;"></span><span class="mord mathnormal" style="margin-right:0.05556em;">γ</span></span></span></span></span> rays</td><td>1</td></tr><tr><td>X-rays</td><td>1</td></tr></tbody></table>
+<ul>
+<li>the formula for dose equivalent is <span class="math math-inline"><span class="katex"><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.6833em;"></span><span class="mord mathnormal" style="margin-right:0.02778em;">D</span><span class="mord mathnormal" style="margin-right:0.05764em;">E</span><span class="mspace" style="margin-right:0.2778em;"></span><span class="mrel">=</span><span class="mspace" style="margin-right:0.2778em;"></span></span><span class="base"><span class="strut" style="height:0.7667em;vertical-align:-0.0833em;"></span><span class="mord mathnormal">A</span><span class="mord mathnormal" style="margin-right:0.02778em;">D</span><span class="mspace" style="margin-right:0.2222em;"></span><span class="mbin">×</span><span class="mspace" style="margin-right:0.2222em;"></span></span><span class="base"><span class="strut" style="height:0.8778em;vertical-align:-0.1944em;"></span><span class="mord mathnormal" style="margin-right:0.13889em;">QF</span></span></span></span></span></li>
+<li>variable names -> dose equivalent / absorbed dose / quality factor</li>
+</ul>
+<p><span class="math math-inline"><span class="katex"><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:1.3879em;vertical-align:-0.345em;"></span><span class="mord"><span class="mopen nulldelimiter"></span><span class="mfrac"><span class="vlist-t vlist-t2"><span class="vlist-r"><span class="vlist" style="height:1.0429em;"><span style="top:-2.655em;"><span class="pstrut" style="height:3em;"></span><span class="sizing reset-size6 size3 mtight"><span class="mord mtight"><span class="mord mathnormal mtight">h</span></span></span></span><span style="top:-3.23em;"><span class="pstrut" style="height:3em;"></span><span class="frac-line" style="border-bottom-width:0.04em;"></span></span><span style="top:-3.394em;"><span class="pstrut" style="height:3em;"></span><span class="sizing reset-size6 size3 mtight"><span class="mord mtight"><span class="mord mtight"><span class="mord mtight">2</span><span class="msupsub"><span class="vlist-t"><span class="vlist-r"><span class="vlist" style="height:0.927em;"><span style="top:-2.931em;margin-right:0.0714em;"><span class="pstrut" style="height:2.5em;"></span><span class="sizing reset-size3 size1 mtight"><span class="mord mtight"><span class="mord mathnormal mtight">x</span><span class="mbin mtight">+</span><span class="mord mathnormal mtight">h</span></span></span></span></span></span></span></span></span><span class="mbin mtight">−</span><span class="mord mtight"><span class="mord mtight">2</span><span class="msupsub"><span class="vlist-t"><span class="vlist-r"><span class="vlist" style="height:0.7385em;"><span style="top:-2.931em;margin-right:0.0714em;"><span class="pstrut" style="height:2.5em;"></span><span class="sizing reset-size3 size1 mtight"><span class="mord mathnormal mtight">x</span></span></span></span></span></span></span></span></span></span></span></span><span class="vlist-s">​</span></span><span class="vlist-r"><span class="vlist" style="height:0.345em;"><span></span></span></span></span></span><span class="mclose nulldelimiter"></span></span></span></span></span></span></p>
+<h2 id="year-11-physics-revision-checklist">Year 11 Physics Revision Checklist<a aria-hidden="true" tabindex="-1" href="#year-11-physics-revision-checklist" class="internal"> §</a></h2>
+<p>Science as a Human Endeavour:</p>
+<ul class="contains-task-list">
+<li class="task-list-item"><input type="checkbox" disabled/> radioisotopes are used as diagnostic tools and for tumour treatment in medicine</li>
+</ul>
+<h3 id="detecting-cancer-with-radioactive-tracers">Detecting cancer with radioactive tracers<a aria-hidden="true" tabindex="-1" href="#detecting-cancer-with-radioactive-tracers" class="internal"> §</a></h3>
+<ul>
+<li>Cancers formed on skin often detected by a simple external examination. <strong>HOWEVER</strong>, diagnosis of cancerous growths inside the body, a variety of radioisotopes tagged to particular drugs are used.</li>
+<li>The radioisotope is known as a radioactive tracer.</li>
+<li>These drugs, radiopharmaceuticals, can be administered by swallowing (ingestion), inhalation or injection.</li>
+<li>A gamma-ray camera can be used to perform a bone scan.
+<ul>
+<li>This patient has been injected with the radioisotope technetium-99m (v commonly used)
+<ul>
+<li>gamma emitter</li>
+<li>half life of 6 hours</li>
+</ul>
+</li>
+<li>The camera detects the emitted gamma-rays and produces an image on a computer screen.</li>
+</ul>
+</li>
+<li>The radioisotope used depends on the site of the suspected tumour.</li>
+<li>The body naturally distributes different elements to different organs. For example, iodine is sent to the thyroid gland by the liver. So if a radiopharmaceutical containing radioactive iodine is ingested, most of this iodine will end up in the thyroid.</li>
+<li>When the tracer has reached the target organ, a radiation scan is taken with a gamma-ray camera.</li>
+<li>An unusual pattern on the scan indicates a possible cancerous tumour. The radioisotopes used for this type of diagnosis need to be gamma-ray emitters so that the radiation has enough penetrating ability to pass out of the body to reach the detector—the gamma-ray camera.</li>
+<li>The isotope should have a relatively short half-life so that the patient is not subjected to any unnecessary long-term exposure to radiation.</li>
+<li>Radioactive tracers are also used to monitor other bodily functions. Some examples are shown in the following table.</li>
+</ul>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<table><thead><tr><th>radioactive tracer</th><th>function monitored</th></tr></thead><tbody><tr><td>iodine-123</td><td>function of thyroid gland</td></tr><tr><td>xenon-133</td><td>function of lungs</td></tr><tr><td>phosphorous-32</td><td>blood flow through body</td></tr><tr><td>iron-59</td><td>level of iron uptake by spleen</td></tr><tr><td>technetium-99m</td><td>blood flow in brain, lungs and heart <br/>function of liver <br/>metabolism of bones</td></tr></tbody></table>
+<ul class="contains-task-list">
+<li class="task-list-item">
+<p><input type="checkbox" disabled/> nuclear power stations employ a variety of safety mechanisms to prevent nuclear accidents, including shielding, moderators, cooling</p>
+</li>
+<li>
+<p>Fuel rods: long, thin rods containing pellets of enriched uranium</p>
+</li>
+<li>
+<p>Moderator: material that slows down neutrons</p>
+<ul>
+<li>Graphite, water, heavy water, carbon dioxide</li>
+<li>Heavy water is the best but is too expensive</li>
+<li>Water with dueterium, (Hydrogen-2) an isotope of hydrogen</li>
+<li>Graphite and carbon dioxide contain carbon which is denser than hydrogen</li>
+<li>Ensures that neutron capture occurs</li>
+<li>When the neutrons collide with small nuclei, they lose most of their kinetic energy</li>
+</ul>
+</li>
+<li>
+<p>Control rods: material that absorbs neutrons</p>
+<ul>
+<li>Boron steel or cadmium</li>
+<li>Ensures energy release is controlled and stable, due to them controlling the amount of neutrons for fission</li>
+</ul>
+</li>
+<li>
+<p>Coolant: liquid to absorb heat energy that has been produced by nuclear fission, goes to cooling tower to cool down</p>
+<ul>
+<li>e.g. water</li>
+</ul>
+</li>
+<li>
+<p>Radiation shield (shielding): thick concrete wall that prevents neutrons/radiation/radioactive waste escaping from the reactor</p>
+</li>
+<li class="task-list-item">
+<p><input type="checkbox" disabled/> the management of nuclear waste is based on the knowledge of the behaviour of radiation.</p>
+</li>
+<li>
+<p>A major problem facing the nuclear power industry is the disposal of the unstable radioactive waste.</p>
+</li>
+<li>
+<p>Radioactive waste products are classified as low-level, intermediate level or high-level waste.</p>
+<ul>
+<li>Low-level waste is generated primarily from hospitals, industry and laboratories and consists mostly of tools, clothing, used wrapping material and other items that have been contaminated with radionuclides with short half-lives. Low-level waste solids are usually compacted or incinerated, then buried in shallow pits on land or at sea.</li>
+<li>Intermediate-level waste typically consists of reactor components, chemical sludges, and contaminated materials from reactors that have been decommissioned. Intermediate-level wastes are solidified in bitumen or concrete, then buried or stored in deep trenches.</li>
+<li>High-level waste is waste from contaminated reactor parts, as well as liquid waste from the reprocessing of spent fuel rods. This waste contains highly radioactive fission fragments and transuranic elements, and so requires special shielding during handling and transport. High-level waste remains radioactive for an exceedingly long time and needs to be stored permanently.</li>
+</ul>
+</li>
+<li>
+<p>By way of comparison, the activity of one tonne of uranium ore is only 8 × 10^11Bq</p>
+</li>
+<li>
+<p>Uranium-235 and uranium-238 nuclei in these fuel rods have half-lives of 700000 and 4.5 billion years respectively. The numerous fission fragments have a wide range of half-lives. The fuel rods must be permanently stored in cooling ponds inside nuclear power stations in order to protect people from the radioactive emissions. In Japan, Russia and Europe, the spent fuel rods are reprocessed. The uranium is extracted and reused as nuclear fuel. This is an expensive process.
+Science Understanding:</p>
+</li>
+<li class="task-list-item">
+<p><input type="checkbox" disabled/> the nuclear model of the atom describes the atom as consisting of an extremely small nucleus which contains most of the atom’s mass, and is made up of positively charged protons and uncharged neutrons surrounded by negatively charged electrons</p>
+</li>
+<li>
+<p>literally the check point, no extra info abt it i dont think</p>
+</li>
+<li class="task-list-item">
+<p><input type="checkbox" disabled/> nuclear stability is the result of the strong nuclear force which operates between nucleons over a very short distance and opposes the electrostatic repulsion between protons in the nucleus</p>
+</li>
+<li>
+<p>Electrostatic forces define protons as repelling each other, but in the nucleus, an external “strong nuclear force” needs to be considered which allows protons to be very close to other protons without repelling and breaking the nucleus apart.</p>
+</li>
+<li>
+<p>The strong nuclear force is a force of attraction that holds the nucleus together and acts between every nucleon regardless of their charge. Protons are also attracted to nearby neutrons and protons.</p>
+</li>
+<li>
+<p>This force only acts over relatively short distances so for nucleons on the opposite sides of a large nucleus, this force is not significant. In a stable nucleus, there is a delicate balance between the repulsive electric force and the attractive strong nuclear force.</p>
+</li>
+<li class="task-list-item">
+<p><input type="checkbox" disabled/> some nuclides are unstable and spontaneously decay, emitting alpha, beta (+/-) and/or gamma radiation over time until they become stable nuclides</p>
+</li>
+</ul>
+<h2 id="alpha-decay">alpha decay<a aria-hidden="true" tabindex="-1" href="#alpha-decay" class="internal"> §</a></h2>
+<p>no notes, assumed prior knowledge</p>
+<h2 id="beta-decay">beta decay<a aria-hidden="true" tabindex="-1" href="#beta-decay" class="internal"> §</a></h2>
+<ul>
+<li>split into b+ and b-</li>
+</ul>
+<h3 id="beta--">beta -<a aria-hidden="true" tabindex="-1" href="#beta--" class="internal"> §</a></h3>
+<ul>
+<li>electron is emitted from the nucleus of a radioactive atom.</li>
+<li>written as <span class="math math-inline"><span class="katex"><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:1.1205em;vertical-align:-0.3064em;"></span><span class="mord"><span></span><span class="msupsub"><span class="vlist-t vlist-t2"><span class="vlist-r"><span class="vlist" style="height:0.8141em;"><span style="top:-2.4519em;margin-right:0.05em;"><span class="pstrut" style="height:2.7em;"></span><span class="sizing reset-size6 size3 mtight"><span class="mord mtight"><span class="mord mtight">−</span><span class="mord mtight">1</span></span></span></span><span style="top:-3.063em;margin-right:0.05em;"><span class="pstrut" style="height:2.7em;"></span><span class="sizing reset-size6 size3 mtight"><span class="mord mtight">0</span></span></span></span><span class="vlist-s">​</span></span><span class="vlist-r"><span class="vlist" style="height:0.3064em;"><span></span></span></span></span></span></span><span class="mord mathnormal" style="margin-right:0.05278em;">β</span></span></span></span></span></li>
+<li>occurs if a nucleus has too many neutrons to be stable -> a neutron spontaneously changes into a proton, a beta-minus particle (<span class="math math-inline"><span class="katex"><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.9658em;vertical-align:-0.1944em;"></span><span class="mord"><span class="mord mathnormal" style="margin-right:0.05278em;">β</span><span class="msupsub"><span class="vlist-t"><span class="vlist-r"><span class="vlist" style="height:0.7713em;"><span style="top:-3.063em;margin-right:0.05em;"><span class="pstrut" style="height:2.7em;"></span><span class="sizing reset-size6 size3 mtight"><span class="mbin mtight">−</span></span></span></span></span></span></span></span></span></span></span></span>, an electron), and an uncharged massless antimatter particle called <strong>antineutrino <span class="math math-inline"><span class="katex"><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.6306em;"></span><span class="mord overline"><span class="vlist-t"><span class="vlist-r"><span class="vlist" style="height:0.6306em;"><span style="top:-3em;"><span class="pstrut" style="height:3em;"></span><span class="mord"><span class="mord mathnormal" style="margin-right:0.03588em;">v</span></span></span><span style="top:-3.5506em;"><span class="pstrut" style="height:3em;"></span><span class="overline-line" style="border-bottom-width:0.04em;"></span></span></span></span></span></span></span></span></span></span></strong></li>
+</ul>
+<h3 id="beta-">beta +<a aria-hidden="true" tabindex="-1" href="#beta-" class="internal"> §</a></h3>
+<ul>
+<li>proton spontaneously change into a neutron and emit a neutrino (v), and a positively charged beta particle.</li>
+<li>positively charged beta particle is called a positron, which has same properties as electron, but a positive electrical charge.</li>
+</ul>
+<h2 id="gamma-decay">gamma decay<a aria-hidden="true" tabindex="-1" href="#gamma-decay" class="internal"> §</a></h2>
+<ul class="contains-task-list">
+<li>excess energy is released through a gamma ray, which is high-energy electromagnetic radiation with no mass, uncharged and travels at the speed of light.</li>
+<li class="task-list-item"><input type="checkbox" disabled/> each species of radionuclide has a half-life which indicates the rate of decay
+<span class="math math-inline"><span class="katex"><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.6833em;"></span><span class="mord mathnormal" style="margin-right:0.10903em;">N</span><span class="mspace" style="margin-right:0.2778em;"></span><span class="mrel">=</span><span class="mspace" style="margin-right:0.2778em;"></span></span><span class="base"><span class="strut" style="height:1.2543em;vertical-align:-0.35em;"></span><span class="mord"><span class="mord mathnormal" style="margin-right:0.10903em;">N</span><span class="msupsub"><span class="vlist-t vlist-t2"><span class="vlist-r"><span class="vlist" style="height:0.3011em;"><span style="top:-2.55em;margin-left:-0.109em;margin-right:0.05em;"><span class="pstrut" style="height:2.7em;"></span><span class="sizing reset-size6 size3 mtight"><span class="mord mtight"><span class="mord mtight">0</span></span></span></span></span><span class="vlist-s">​</span></span><span class="vlist-r"><span class="vlist" style="height:0.15em;"><span></span></span></span></span></span></span><span class="mspace" style="margin-right:0.1667em;"></span><span class="minner"><span class="minner"><span class="mopen delimcenter" style="top:0em;"><span class="delimsizing size1">(</span></span><span class="mord"><span class="mopen nulldelimiter"></span><span class="mfrac"><span class="vlist-t vlist-t2"><span class="vlist-r"><span class="vlist" style="height:0.8451em;"><span style="top:-2.655em;"><span class="pstrut" style="height:3em;"></span><span class="sizing reset-size6 size3 mtight"><span class="mord mtight"><span class="mord mtight">2</span></span></span></span><span style="top:-3.23em;"><span class="pstrut" style="height:3em;"></span><span class="frac-line" style="border-bottom-width:0.04em;"></span></span><span style="top:-3.394em;"><span class="pstrut" style="height:3em;"></span><span class="sizing reset-size6 size3 mtight"><span class="mord mtight"><span class="mord mtight">1</span></span></span></span></span><span class="vlist-s">​</span></span><span class="vlist-r"><span class="vlist" style="height:0.345em;"><span></span></span></span></span></span><span class="mclose nulldelimiter"></span></span><span class="mclose delimcenter" style="top:0em;"><span class="delimsizing size1">)</span></span></span><span class="msupsub"><span class="vlist-t"><span class="vlist-r"><span class="vlist" style="height:0.9043em;"><span style="top:-3.3029em;margin-right:0.05em;"><span class="pstrut" style="height:2.7em;"></span><span class="sizing reset-size6 size3 mtight"><span class="mord mathnormal mtight">n</span></span></span></span></span></span></span></span></span></span></span></span>, <span class="math math-inline"><span class="katex"><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.4306em;"></span><span class="mord mathnormal">n</span><span class="mspace" style="margin-right:0.2778em;"></span><span class="mrel">=</span><span class="mspace" style="margin-right:0.2778em;"></span></span><span class="base"><span class="strut" style="height:1.4282em;vertical-align:-0.6036em;"></span><span class="mord"><span class="mopen nulldelimiter"></span><span class="mfrac"><span class="vlist-t vlist-t2"><span class="vlist-r"><span class="vlist" style="height:0.8246em;"><span style="top:-2.655em;"><span class="pstrut" style="height:3em;"></span><span class="sizing reset-size6 size3 mtight"><span class="mord mtight"><span class="mord mtight"><span class="mord mathnormal mtight">t</span><span class="msupsub"><span class="vlist-t vlist-t2"><span class="vlist-r"><span class="vlist" style="height:0.3448em;"><span style="top:-2.3448em;margin-left:0em;margin-right:0.0714em;"><span class="pstrut" style="height:2.5357em;"></span><span class="sizing reset-size3 size1 mtight"><span class="mord mtight"><span class="mord mtight">1/2</span></span></span></span></span><span class="vlist-s">​</span></span><span class="vlist-r"><span class="vlist" style="height:0.3695em;"><span></span></span></span></span></span></span></span></span></span><span style="top:-3.23em;"><span class="pstrut" style="height:3em;"></span><span class="frac-line" style="border-bottom-width:0.04em;"></span></span><span style="top:-3.394em;"><span class="pstrut" style="height:3em;"></span><span class="sizing reset-size6 size3 mtight"><span class="mord mtight"><span class="mord mathnormal mtight">t</span></span></span></span></span><span class="vlist-s">​</span></span><span class="vlist-r"><span class="vlist" style="height:0.6036em;"><span></span></span></span></span></span><span class="mclose nulldelimiter"></span></span></span></span></span></span>
+N = quantity of substance remaining
+<span class="math math-inline"><span class="katex"><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.8333em;vertical-align:-0.15em;"></span><span class="mord"><span class="mord mathnormal" style="margin-right:0.10903em;">N</span><span class="msupsub"><span class="vlist-t vlist-t2"><span class="vlist-r"><span class="vlist" style="height:0.3011em;"><span style="top:-2.55em;margin-left:-0.109em;margin-right:0.05em;"><span class="pstrut" style="height:2.7em;"></span><span class="sizing reset-size6 size3 mtight"><span class="mord mtight"><span class="mord mtight">0</span></span></span></span></span><span class="vlist-s">​</span></span><span class="vlist-r"><span class="vlist" style="height:0.15em;"><span></span></span></span></span></span></span></span></span></span></span> = initial quantity of the substance
+t = time elapsed
+t1/2 = half life of the substance
+n = half lives elapsed</li>
+<li class="task-list-item"><input type="checkbox" disabled/> alpha, beta and gamma radiation have different natures, properties and effects</li>
+</ul>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<table><thead><tr><th></th><th>alpha</th><th>beta-</th><th>beta+</th><th>gamma</th></tr></thead><tbody><tr><td>speed</td><td>relatively slow</td><td>up to 90% speed of light</td><td>0.9c</td><td>speed of light</td></tr><tr><td>charge</td><td>double pos</td><td>negative charge</td><td>positive charge</td><td>no charge</td></tr><tr><td>ionisation</td><td>high ionising ability</td><td>medium ionising ability</td><td>medium ionising ability</td><td>poor ionising ability</td></tr><tr><td>penetration</td><td>poor penetrating ability; only travels a few cm in air</td><td>1mm sheet of aluminium can stop</td><td>1mm sheet of aluminium can stop</td><td>high penetrating ability; requires a significantly thicker width of lead to stop.</td></tr><tr><td>mass</td><td>heavy</td><td>light</td><td>light</td><td>none</td></tr></tbody></table>
+<ul class="contains-task-list">
+<li class="task-list-item"><input type="checkbox" disabled/> the measurement of absorbed dose and dose equivalence enables the analysis of health and environmental risks
+absorbed dose = <span class="math math-inline"><span class="katex"><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:1.2173em;vertical-align:-0.345em;"></span><span class="mord"><span class="mopen nulldelimiter"></span><span class="mfrac"><span class="vlist-t vlist-t2"><span class="vlist-r"><span class="vlist" style="height:0.8723em;"><span style="top:-2.655em;"><span class="pstrut" style="height:3em;"></span><span class="sizing reset-size6 size3 mtight"><span class="mord mtight"><span class="mord mathnormal mtight">m</span></span></span></span><span style="top:-3.23em;"><span class="pstrut" style="height:3em;"></span><span class="frac-line" style="border-bottom-width:0.04em;"></span></span><span style="top:-3.394em;"><span class="pstrut" style="height:3em;"></span><span class="sizing reset-size6 size3 mtight"><span class="mord mtight"><span class="mord mathnormal mtight" style="margin-right:0.05764em;">E</span></span></span></span></span><span class="vlist-s">​</span></span><span class="vlist-r"><span class="vlist" style="height:0.345em;"><span></span></span></span></span></span><span class="mclose nulldelimiter"></span></span></span></span></span></span>, dose equivalent = absorbed dose <span class="math math-inline"><span class="katex"><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.6667em;vertical-align:-0.0833em;"></span><span class="mord">×</span></span></span></span></span> quality factor</li>
+<li class="task-list-item"><input type="checkbox" disabled/> Einstein’s mass/energy relationship relates the binding energy of a nucleus to its mass defect
+<span class="math math-inline"><span class="katex"><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.6833em;"></span><span class="mord">Δ</span><span class="mord mathnormal" style="margin-right:0.05764em;">E</span><span class="mspace" style="margin-right:0.2778em;"></span><span class="mrel">=</span><span class="mspace" style="margin-right:0.2778em;"></span></span><span class="base"><span class="strut" style="height:0.8141em;"></span><span class="mord">Δ</span><span class="mord mathnormal">m</span><span class="mord"><span class="mord mathnormal">c</span><span class="msupsub"><span class="vlist-t"><span class="vlist-r"><span class="vlist" style="height:0.8141em;"><span style="top:-3.063em;margin-right:0.05em;"><span class="pstrut" style="height:2.7em;"></span><span class="sizing reset-size6 size3 mtight"><span class="mord mtight">2</span></span></span></span></span></span></span></span></span></span></span></span></li>
+<li class="task-list-item"><input type="checkbox" disabled/> Einstein’s mass/energy relationship also applies to all energy changes and enables the energy released in nuclear reactions to be determined from the mass change in the reaction
+<span class="math math-inline"><span class="katex"><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.6833em;"></span><span class="mord">Δ</span><span class="mord mathnormal" style="margin-right:0.05764em;">E</span><span class="mspace" style="margin-right:0.2778em;"></span><span class="mrel">=</span><span class="mspace" style="margin-right:0.2778em;"></span></span><span class="base"><span class="strut" style="height:0.8141em;"></span><span class="mord">Δ</span><span class="mord mathnormal">m</span><span class="mord"><span class="mord mathnormal">c</span><span class="msupsub"><span class="vlist-t"><span class="vlist-r"><span class="vlist" style="height:0.8141em;"><span style="top:-3.063em;margin-right:0.05em;"><span class="pstrut" style="height:2.7em;"></span><span class="sizing reset-size6 size3 mtight"><span class="mord mtight">2</span></span></span></span></span></span></span></span></span></span></span></span></li>
+<li class="task-list-item"><input type="checkbox" disabled/> alpha and beta decay are examples of spontaneous transmutation reactions, while artificial transmutation is a managed process that changes one nuclide into another</li>
+<li class="task-list-item"><input type="checkbox" disabled/> neutron-induced nuclear fission is a reaction in which a heavy nuclide captures a neutron and then splits into smaller radioactive nuclides with the release of energy</li>
+<li class="task-list-item"><input type="checkbox" disabled/> a fission chain reaction is a self-sustaining process that may be controlled to produce thermal energy, or uncontrolled to release energy explosively if its critical mass is exceeded</li>
+<li class="task-list-item"><input type="checkbox" disabled/> nuclear fusion is a reaction in which light nuclides combine to form a heavier nuclide, with the release of energy</li>
+<li class="task-list-item"><input type="checkbox" disabled/> more energy is released per nucleon in nuclear fusion than in nuclear fission because a greater percentage of the mass is transformed into energy</li>
+</ul></article></div><div class="right sidebar"><div class="graph"><h3>Graph View</h3><div class="graph-outer"><div id="graph-container" data-cfg="{&quot;drag&quot;:true,&quot;zoom&quot;:true,&quot;depth&quot;:1,&quot;scale&quot;:1.1,&quot;repelForce&quot;:0.5,&quot;centerForce&quot;:0.3,&quot;linkDistance&quot;:30,&quot;fontSize&quot;:0.6,&quot;opacityScale&quot;:1}"></div><svg version="1.1" id="global-graph-icon" xmlns="http://www.w3.org/2000/svg" xmlnsXlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 55 55" fill="currentColor" xmlSpace="preserve"><path d="M49,0c-3.309,0-6,2.691-6,6c0,1.035,0.263,2.009,0.726,2.86l-9.829,9.829C32.542,17.634,30.846,17,29,17
 	s-3.542,0.634-4.898,1.688l-7.669-7.669C16.785,10.424,17,9.74,17,9c0-2.206-1.794-4-4-4S9,6.794,9,9s1.794,4,4,4
 	c0.74,0,1.424-0.215,2.019-0.567l7.669,7.669C21.634,21.458,21,23.154,21,25s0.634,3.542,1.688,4.897L10.024,42.562
 	C8.958,41.595,7.549,41,6,41c-3.309,0-6,2.691-6,6s2.691,6,6,6s6-2.691,6-6c0-1.035-0.263-2.009-0.726-2.86l12.829-12.829
@@ -1983,101 +328,57 @@
 	C46.042,11.405,47.451,12,49,12c3.309,0,6-2.691,6-6S52.309,0,49,0z M11,9c0-1.103,0.897-2,2-2s2,0.897,2,2s-0.897,2-2,2
 	S11,10.103,11,9z M6,51c-2.206,0-4-1.794-4-4s1.794-4,4-4s4,1.794,4,4S8.206,51,6,51z M33,49c0,2.206-1.794,4-4,4s-4-1.794-4-4
 	s1.794-4,4-4S33,46.794,33,49z M29,31c-3.309,0-6-2.691-6-6s2.691-6,6-6s6,2.691,6,6S32.309,31,29,31z M47,41c0,1.103-0.897,2-2,2
-	s-2-0.897-2-2s0.897-2,2-2S47,39.897,47,41z M49,10c-2.206,0-4-1.794-4-4s1.794-4,4-4s4,1.794,4,4S51.206,10,49,10z"
-                ></path>
-              </svg>
-            </div>
-            <div id="global-graph-outer">
-              <div
-                id="global-graph-container"
-                data-cfg='{"drag":true,"zoom":true,"depth":-1,"scale":0.9,"repelForce":0.5,"centerForce":0.3,"linkDistance":30,"fontSize":0.6,"opacityScale":1}'
-              ></div>
-            </div>
-          </div>
-          <div class="backlinks">
-            <h3>Backlinks</h3>
-            <ul class="overflow">
-              <li>
-                <a href="../../../notes/AE/PHYSICS/physics" class="internal"
-                  >physics</a
-                >
-              </li>
-            </ul>
-          </div>
-        </div>
-      </div>
-      <footer>
-        <hr />
-        <p>
-          Created with <a href="https://quartz.jzhao.xyz/">Quartz v4.0.10</a>,
-          © 2023
-        </p>
-        <ul>
-          <li><a href="https://github.com/jackyzha0/quartz">GitHub</a></li>
-          <li><a href="https://discord.gg/cRFFHYye7t">Discord Community</a></li>
-        </ul>
-      </footer>
-    </div>
-  </body>
-  <script type="application/javascript">
-    // quartz/components/scripts/quartz/components/scripts/callout.inline.ts
-    function toggleCallout() {
-      const outerBlock = this.parentElement;
-      outerBlock.classList.toggle(`is-collapsed`);
-      const collapsed = outerBlock.classList.contains(`is-collapsed`);
-      const height = collapsed ? this.scrollHeight : outerBlock.scrollHeight;
-      outerBlock.style.maxHeight = height + `px`;
-      let current = outerBlock;
-      let parent = outerBlock.parentElement;
-      while (parent) {
-        if (!parent.classList.contains(`callout`)) {
-          return;
-        }
-        const collapsed2 = parent.classList.contains(`is-collapsed`);
-        const height2 = collapsed2
-          ? parent.scrollHeight
-          : parent.scrollHeight + current.scrollHeight;
-        parent.style.maxHeight = height2 + `px`;
-        current = parent;
-        parent = parent.parentElement;
-      }
+	s-2-0.897-2-2s0.897-2,2-2S47,39.897,47,41z M49,10c-2.206,0-4-1.794-4-4s1.794-4,4-4s4,1.794,4,4S51.206,10,49,10z"></path></svg></div><div id="global-graph-outer"><div id="global-graph-container" data-cfg="{&quot;drag&quot;:true,&quot;zoom&quot;:true,&quot;depth&quot;:-1,&quot;scale&quot;:0.9,&quot;repelForce&quot;:0.5,&quot;centerForce&quot;:0.3,&quot;linkDistance&quot;:30,&quot;fontSize&quot;:0.6,&quot;opacityScale&quot;:1}"></div></div></div><div class="backlinks"><h3>Backlinks</h3><ul class="overflow"><li><a href="../../../notes/AE/PHYSICS/physics" class="internal">physics</a></li></ul></div></div></div><footer><hr/><p>Created with <a href="https://quartz.jzhao.xyz/">Quartz v4.0.10</a>, © 2023</p><ul><li><a href="https://github.com/NotTacoz/jacaranda">GitHub</a></li></ul></footer></div></body><script type="application/javascript">// quartz/components/scripts/quartz/components/scripts/callout.inline.ts
+function toggleCallout() {
+  const outerBlock = this.parentElement;
+  outerBlock.classList.toggle(`is-collapsed`);
+  const collapsed = outerBlock.classList.contains(`is-collapsed`);
+  const height = collapsed ? this.scrollHeight : outerBlock.scrollHeight;
+  outerBlock.style.maxHeight = height + `px`;
+  let current = outerBlock;
+  let parent = outerBlock.parentElement;
+  while (parent) {
+    if (!parent.classList.contains(`callout`)) {
+      return;
     }
-    function setupCallout() {
-      const collapsible = document.getElementsByClassName(
-        `callout is-collapsible`,
-      );
-      for (const div of collapsible) {
-        const title = div.firstElementChild;
-        if (title) {
-          title.removeEventListener(`click`, toggleCallout);
-          title.addEventListener(`click`, toggleCallout);
-          const collapsed = div.classList.contains(`is-collapsed`);
-          const height = collapsed ? title.scrollHeight : div.scrollHeight;
-          div.style.maxHeight = height + `px`;
-        }
-      }
+    const collapsed2 = parent.classList.contains(`is-collapsed`);
+    const height2 = collapsed2 ? parent.scrollHeight : parent.scrollHeight + current.scrollHeight;
+    parent.style.maxHeight = height2 + `px`;
+    current = parent;
+    parent = parent.parentElement;
+  }
+}
+function setupCallout() {
+  const collapsible = document.getElementsByClassName(
+    `callout is-collapsible`
+  );
+  for (const div of collapsible) {
+    const title = div.firstElementChild;
+    if (title) {
+      title.removeEventListener(`click`, toggleCallout);
+      title.addEventListener(`click`, toggleCallout);
+      const collapsed = div.classList.contains(`is-collapsed`);
+      const height = collapsed ? title.scrollHeight : div.scrollHeight;
+      div.style.maxHeight = height + `px`;
     }
-    document.addEventListener(`nav`, setupCallout);
-    window.addEventListener(`resize`, setupCallout);
-  </script>
-  <script type="module">
-    import mermaid from "https://cdn.jsdelivr.net/npm/mermaid/dist/mermaid.esm.min.mjs";
-    const darkMode =
-      document.documentElement.getAttribute("saved-theme") === "dark";
-    mermaid.initialize({
-      startOnLoad: false,
-      securityLevel: "loose",
-      theme: darkMode ? "dark" : "default",
-    });
-    document.addEventListener("nav", async () => {
-      await mermaid.run({
-        querySelector: ".mermaid",
-      });
-    });
-  </script>
-  <script
-    src="https://cdn.jsdelivr.net/npm/katex@0.16.7/dist/contrib/copy-tex.min.js"
-    type="application/javascript"
-  ></script>
-  <script src="../../../postscript.js" type="module"></script>
-</html>
+  }
+}
+document.addEventListener(`nav`, setupCallout);
+window.addEventListener(`resize`, setupCallout);
+</script><script type="module">
+          import mermaid from 'https://cdn.jsdelivr.net/npm/mermaid/dist/mermaid.esm.min.mjs';
+          const darkMode = document.documentElement.getAttribute('saved-theme') === 'dark'
+          mermaid.initialize({ 
+            startOnLoad: false,
+            securityLevel: 'loose',
+            theme: darkMode ? 'dark' : 'default'
+          });
+          document.addEventListener('nav', async () => {
+            await mermaid.run({
+              querySelector: '.mermaid'
+            })
+          });
+          </script><script src="https://cdn.jsdelivr.net/npm/katex@0.16.7/dist/contrib/copy-tex.min.js" type="application/javascript"></script><script type="application/javascript">
+          const socket = new WebSocket('ws://localhost:3001')
+          socket.addEventListener('message', () => document.location.reload())
+        </script><script src="../../../postscript.js" type="module"></script></html>

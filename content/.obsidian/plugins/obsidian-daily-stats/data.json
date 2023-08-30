@@ -70,24 +70,13 @@
     "2023/7/26": 1389,
     "2023/7/27": 463,
     "2023/7/28": 377,
-    "2023/7/29": 426
+    "2023/7/29": 426,
+    "2023/7/30": 6
   },
   "todaysWordCount": {
-    "notes/AE/SPECIALIST/trigonometry.md": {
-      "initial": 703,
-      "current": 788
-    },
     "notes/AE/ENGLISH/goodAnswersReview.md": {
-      "initial": 2,
-      "current": 343
-    },
-    "notes/archive/AEold/specialist/lessonnotes/T1W5L1.md": {
-      "initial": 32,
-      "current": 32
-    },
-    "notes/archive/AEold/english/ESSAY-STRUCTURE.md": {
-      "initial": 228,
-      "current": 228
+      "initial": 343,
+      "current": 349
     }
   }
 }
