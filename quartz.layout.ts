@@ -21,6 +21,7 @@ export const defaultContentPageLayout: PageLayout = {
     Component.Search(),
     Component.Darkmode(),
     Component.DesktopOnly(Component.TableOfContents()),
+    Component.RecentNotes(),
   ],
   right: [Component.Graph(), Component.Backlinks()],
 }
@@ -33,6 +34,7 @@ export const defaultListPageLayout: PageLayout = {
     Component.MobileOnly(Component.Spacer()),
     Component.Search(),
     Component.Darkmode(),
+    Component.RecentNotes(),
   ],
   right: [],
 }

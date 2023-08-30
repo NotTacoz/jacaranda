@@ -30,9 +30,17 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "fae8539240b6da95",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -122,7 +130,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "notes/AE/notes.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -139,7 +146,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "notes/AE/notes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -161,9 +167,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "notes/AE/notes.md"
-              }
+              "state": {}
             }
           },
           {
@@ -201,8 +205,9 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "e6a703ba74de62b7",
+  "active": "fae8539240b6da95",
   "lastOpenFiles": [
+    "notes/AE/notes.md",
     "notes/AE/CHEMISTRY/courseOutline.md",
     "notes/AE/SPECIALIST/trigonometry.md",
     "notes/AE/METHODS/sequences.md",
@@ -214,7 +219,6 @@
     "notes/AE/METHODS/kinematics.md",
     "notes/AE/METHODS/solvingTrigEquations.md",
     "notes/AE/METHODS/methods.md",
-    "notes/AE/notes.md",
     "notes/AE/PHYSICS/heat.md",
     "notes/AE/ENGLISH/goodAnswersReview.md",
     "notes/AE/ENGLISH/english.md",
