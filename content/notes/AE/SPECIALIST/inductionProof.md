@@ -1,6 +1,7 @@
 ---
 title: "Some Induction Proofs"
 ---
+#inductionProofs #specialist #AE 
 
 2d ) prove each of the following divisibility statements by mathematical induction: $5^n+6\times 7^n +1$ is divisible by 4 for all $n \in \mathbb{N}$
 

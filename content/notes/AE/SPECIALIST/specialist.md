@@ -10,3 +10,5 @@ enableToc: false
 ## Semester 2
 
 - [matrices](notes/AE/SPECIALIST/matrices.md)
+- [induction proof](notes/AE/SPECIALIST/inductionProof.md)
+- [trigonometry](notes/AE/SPECIALIST/trigonometry.md)

@@ -1980,16 +1980,16 @@
     "notes/AE/SPECIALIST/trigonometry.md": {
       "isDirectory": false,
       "noteCount": 1,
-      "wordCount": 760,
-      "pageCount": 2.533333333333333,
-      "characterCount": 4816,
-      "nonWhitespaceCharacterCount": 3960,
+      "wordCount": 804,
+      "pageCount": 2.68,
+      "characterCount": 5136,
+      "nonWhitespaceCharacterCount": 4234,
       "linkCount": 0,
-      "embedCount": 3,
+      "embedCount": 4,
       "aliases": null,
       "createdDate": 1693311764778,
-      "modifiedDate": 1693374653705,
-      "sizeInBytes": 4845
+      "modifiedDate": 1693451932459,
+      "sizeInBytes": 5165
     },
     "notes/AE/SPECIALIST/specialist.md": {
       "isDirectory": false,
@@ -2582,16 +2582,16 @@
     "notes/AE/CHEMISTRY/CAP4.md": {
       "isDirectory": false,
       "noteCount": 1,
-      "wordCount": 1990,
-      "pageCount": 6.633333333333334,
-      "characterCount": 13071,
-      "nonWhitespaceCharacterCount": 10846,
+      "wordCount": 2202,
+      "pageCount": 7.34,
+      "characterCount": 14198,
+      "nonWhitespaceCharacterCount": 11718,
       "linkCount": 0,
-      "embedCount": 2,
+      "embedCount": 3,
       "aliases": null,
       "createdDate": 1693311763611,
-      "modifiedDate": 1693445012818,
-      "sizeInBytes": 13172
+      "modifiedDate": 1693446336647,
+      "sizeInBytes": 14299
     },
     "notes/AE/CHEMISTRY/CAP3.md": {
       "isDirectory": false,

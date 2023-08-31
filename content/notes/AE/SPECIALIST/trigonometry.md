@@ -1,7 +1,7 @@
 ---
 title: "trigonometry"
 ---
-
+#trigonometry #specialist #AE 
 ## Assumed Knowledge (from methods)
 
 - Angles in degrees in radians (and converting between units).
@@ -108,4 +108,17 @@ dilations first, followed by translations, provided it is written in the factori
 - sin 15 = sin (45 - 30!!!!!!!!!!!!!)
 - find exact value of sin (A+ B) = sinAcosB + cosAsinB :DDDDD yay
 - since A is acute, sin A = 12/13 (for another question)
-- 
+
+## 9D sum of trigonometric functions
+- very important later on in the year 12 course apparently. (auxilliary angle)
+- consider $y=2\sin x$ and $y=3\sin x$
+- what does the graph of $y=2\sin x+3$ look like?
+	- ![](notes/AE/SPECIALIST/Screen%20Shot%202023-08-31%20at%2011.18.17%20am.png)
+- wave interference / superposition oh my god!!!!!!!
+- very easy what youd get if you add these two graphs, but it becomes complicated when two graphs with different phase shifts get added!
+- consider a sine and cosine graph:![](notes/AE/SPECIALIST/Screen%20Shot%202023-08-31%20at%2011.19.24%20am.png)
+- maximum is $2\times \frac{1}{\sqrt{ 2 }} = \frac{2}{\sqrt{ 2 }}=\sqrt{ 2 }$
+- $y=\sin(x)+\cos(x)$
+- $y=\sqrt{ 2 }\sin\left( x+\frac{\pi}{4} \right)$
+- how to prove that $$\sin x+\cos x=\sqrt{ 2 } \sin \left( x + \frac{\pi}{4} \right)$$$$\sin x + \cos x = \sqrt{ 2 } \left(  \frac{1}{\sqrt{ 2 } } \sin x+\frac{1}{\sqrt{ 2 }} \cos x\right)$$$$=\sqrt{ 2 }\left( \cos \frac{\pi}{4} \sin x + \sin \frac{\pi}{4} \cos(x) \right)$$$$=\sqrt{ 2 } \left( \sin x \cos \frac{\pi}{4} +\cos x\sin \frac{\pi}{4} \right)$$$$=\sqrt{ 2 }\sin\left( x+\frac{\pi}{4} \right)$$
+- general version, if you dont know sqrt(2)$$a\sin x+b \cos x = \sqrt{ a^2+b^2 } \left( \frac{a}{\sqrt{ a^2 + b^2 }} \sin x + \frac{b}{\sqrt{ a^2 + b^2 }} \cos x \right)$$$$=\sqrt{ a^2+b^2 } (\cos \alpha \sin x + \sin \alpha \cos x)$$$$=\sqrt{ a^2 + b^2 } \sin(2x+\alpha)$$ (?)

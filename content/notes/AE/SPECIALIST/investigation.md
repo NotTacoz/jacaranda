@@ -1,7 +1,7 @@
 ---
 title: "investigation"
 ---
-
+#investigations #specialist #AE
 - centre point is the average of the x and y coordinates.
 - determinants (1-9)
   - 1

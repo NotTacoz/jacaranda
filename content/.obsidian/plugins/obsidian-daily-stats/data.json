@@ -72,12 +72,32 @@
     "2023/7/28": 377,
     "2023/7/29": 426,
     "2023/7/30": 273,
-    "2023/7/31": 176
+    "2023/7/31": 469
   },
   "todaysWordCount": {
     "notes/AE/CHEMISTRY/CAP4.md": {
       "initial": 1936,
       "current": 2112
+    },
+    "notes/AE/SPECIALIST/trigonometry.md": {
+      "initial": 828,
+      "current": 1101
+    },
+    "notes/AE/SPECIALIST/investigation.md": {
+      "initial": 32,
+      "current": 34
+    },
+    "notes/AE/SPECIALIST/inductionProof.md": {
+      "initial": 445,
+      "current": 448
+    },
+    "notes/AE/SPECIALIST/matrices.md": {
+      "initial": 2440,
+      "current": 2442
+    },
+    "notes/AE/SPECIALIST/specialist.md": {
+      "initial": 22,
+      "current": 35
     }
   }
 }
