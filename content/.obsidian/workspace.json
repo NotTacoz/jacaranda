@@ -35,8 +35,12 @@
             "id": "fae8539240b6da95",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "notes/AE/CHEMISTRY/CAP4.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ],
@@ -130,6 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "notes/AE/CHEMISTRY/CAP4.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -146,6 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "notes/AE/CHEMISTRY/CAP4.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -167,7 +173,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "notes/AE/CHEMISTRY/CAP4.md"
+              }
             }
           },
           {
@@ -207,6 +215,8 @@
   },
   "active": "fae8539240b6da95",
   "lastOpenFiles": [
+    "notes/AE/CHEMISTRY/Screen Shot 2023-08-31 at 9.23.35 am.png",
+    "notes/AE/CHEMISTRY/CAP3.md",
     "notes/AE/notes.md",
     "notes/AE/CHEMISTRY/courseOutline.md",
     "notes/AE/SPECIALIST/trigonometry.md",
@@ -231,8 +241,6 @@
     "notes/archive/AEold/english/WTCS-CONTEXT.md",
     "notes/archive/AEold/specialist/feedback/CAP1-FEEDBACK.md",
     "notes/archive/AEold/english/ESSAY-STRUCTURE.md",
-    "notes/AE/ENGLISH/presentationNotes.md",
-    "notes/AE/ENGLISH/reactionsParticlesAndCollisions.md",
     "notes/images/Pasted image 20230828125257.png",
     "notes/images/Screen Shot 2023-08-28 at 9.15.28 am.png",
     "notes/images/Pasted image 20230826120437.png",

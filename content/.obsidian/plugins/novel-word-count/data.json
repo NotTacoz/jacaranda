@@ -1980,16 +1980,16 @@
     "notes/AE/SPECIALIST/trigonometry.md": {
       "isDirectory": false,
       "noteCount": 1,
-      "wordCount": 710,
-      "pageCount": 2.3666666666666667,
-      "characterCount": 4574,
-      "nonWhitespaceCharacterCount": 3769,
+      "wordCount": 760,
+      "pageCount": 2.533333333333333,
+      "characterCount": 4816,
+      "nonWhitespaceCharacterCount": 3960,
       "linkCount": 0,
       "embedCount": 3,
       "aliases": null,
-      "createdDate": 1693276269531,
-      "modifiedDate": 1693311764778,
-      "sizeInBytes": 4603
+      "createdDate": 1693311764778,
+      "modifiedDate": 1693374653705,
+      "sizeInBytes": 4845
     },
     "notes/AE/SPECIALIST/specialist.md": {
       "isDirectory": false,
@@ -2176,16 +2176,16 @@
     "notes/AE/METHODS/sequences.md": {
       "isDirectory": false,
       "noteCount": 1,
-      "wordCount": 0,
-      "pageCount": 0,
-      "characterCount": 2,
-      "nonWhitespaceCharacterCount": 0,
+      "wordCount": 191,
+      "pageCount": 0.6366666666666667,
+      "characterCount": 1064,
+      "nonWhitespaceCharacterCount": 862,
       "linkCount": 0,
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1693360459425,
-      "modifiedDate": 1693360466882,
-      "sizeInBytes": 28
+      "modifiedDate": 1693366199287,
+      "sizeInBytes": 1090
     },
     "notes/AE/METHODS/solvingTrigEquations.md": {
       "isDirectory": false,
@@ -2582,16 +2582,16 @@
     "notes/AE/CHEMISTRY/CAP4.md": {
       "isDirectory": false,
       "noteCount": 1,
-      "wordCount": 1951,
-      "pageCount": 6.503333333333333,
-      "characterCount": 12784,
-      "nonWhitespaceCharacterCount": 10689,
+      "wordCount": 1990,
+      "pageCount": 6.633333333333334,
+      "characterCount": 13071,
+      "nonWhitespaceCharacterCount": 10846,
       "linkCount": 0,
       "embedCount": 2,
       "aliases": null,
-      "createdDate": 1693185363405,
-      "modifiedDate": 1693311763611,
-      "sizeInBytes": 12885
+      "createdDate": 1693311763611,
+      "modifiedDate": 1693445012818,
+      "sizeInBytes": 13172
     },
     "notes/AE/CHEMISTRY/CAP3.md": {
       "isDirectory": false,

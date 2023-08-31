@@ -71,32 +71,13 @@
     "2023/7/27": 463,
     "2023/7/28": 377,
     "2023/7/29": 426,
-    "2023/7/30": 273
+    "2023/7/30": 273,
+    "2023/7/31": 110
   },
   "todaysWordCount": {
-    "notes/AE/ENGLISH/goodAnswersReview.md": {
-      "initial": 343,
-      "current": 343
-    },
-    "notes/AE/PHYSICS/heat.md": {
-      "initial": 297,
-      "current": 336
-    },
-    "sequences.md": {
-      "initial": 2,
-      "current": 2
-    },
-    "notes/AE/METHODS/methods.md": {
-      "initial": 18,
-      "current": 30
-    },
-    "notes/AE/METHODS/sequences.md": {
-      "initial": 2,
-      "current": 184
-    },
-    "notes/AE/SPECIALIST/trigonometry.md": {
-      "initial": 788,
-      "current": 828
+    "notes/AE/CHEMISTRY/CAP4.md": {
+      "initial": 1936,
+      "current": 2046
     }
   }
 }
