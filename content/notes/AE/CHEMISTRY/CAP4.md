@@ -53,23 +53,22 @@ title: "CAP4"
 
 ### Reactions of Hydrocarbons
 
-147.  Explain the difference in chemical reactivity of alkanes, alkenes and benzene using discussion of bonding.
-148.  Write equations, and draw and name the products for substitution reactions of alkanes and benzene with halogens. 
-149.  Explain why substitution reactions of alkanes require visible / UV light to take place.
-150.  Recognise that substitution reactions of benzene require a catalyst.
-151.  Identify, draw and name the products from single and multiple substitution reactions.
-152.  Write equations, and draw and name the products of addition reactions of alkenes, with halogens, hydrogen halides and hydrogen.
-153.  Describe how aqueous solutions of bromine and iodine can be used to test for unsaturation, and give observable outcomes.
-154.  Write equations, and draw and name the products of complete combustion reactions of hydrocarbons.
-155.  Given information about the products, write equations for the incomplete combustion reactions of hydrocarbons.
-156.  Explain why incomplete combustion is undesirable when using hydrocarbons as fuels.
-157.  _Discuss the benefits and drawbacks of using hydrocarbons as fuels, including the effect on the environment. (SHE)_
-158.  _Compare the effectiveness and suitability of different fuels, including hydrocarbons and biofuels (biogas, biodiesel, bioethanol), and suggest why certain fuels are used. (SHE)_
-159.  Calculate percentage composition of a hydrocarbon from the relative atomic masses of the constituent species.
-160.  Use the mole concept and the law of conservation of mass to calculate quantities of reactants and products in a chemical reaction.
-161.  Identify and calculate empirical formulae for hydrocarbons using percentage composition data and combustion analysis data, and relate this to the molecular formulae.
-162.  Use molecular mass and empirical formulae calculations to establish molecular structure.
-
+- 147.  Explain the difference in chemical reactivity of alkanes, alkenes and benzene using discussion of bonding.
+- 148.  Write equations, and draw and name the products for substitution reactions of alkanes and benzene with halogens. 
+- 149.  Explain why substitution reactions of alkanes require visible / UV light to take place.
+- 150.  Recognise that substitution reactions of benzene require a catalyst.
+- 151.  Identify, draw and name the products from single and multiple substitution reactions.
+- 152.  Write equations, and draw and name the products of addition reactions of alkenes, with halogens, hydrogen halides and hydrogen.
+- 153.  Describe how aqueous solutions of bromine and iodine can be used to test for unsaturation, and give observable outcomes.
+- 154.  Write equations, and draw and name the products of complete combustion reactions of hydrocarbons.
+- 155.  Given information about the products, write equations for the incomplete combustion reactions of hydrocarbons.
+- 156.  Explain why incomplete combustion is undesirable when using hydrocarbons as fuels.
+- 157.  _Discuss the benefits and drawbacks of using hydrocarbons as fuels, including the effect on the environment. (SHE)_
+- 158.  _Compare the effectiveness and suitability of different fuels, including hydrocarbons and biofuels (biogas, biodiesel, bioethanol), and suggest why certain fuels are used. (SHE)_
+- 159.  Calculate percentage composition of a hydrocarbon from the relative atomic masses of the constituent species.
+- 160.  Use the mole concept and the law of conservation of mass to calculate quantities of reactants and products in a chemical reaction.
+- 161.  Identify and calculate empirical formulae for hydrocarbons using percentage composition data and combustion analysis data, and relate this to the molecular formulae.
+- 162.  Use molecular mass and empirical formulae calculations to establish molecular structure.
 ## **Topic 5: ENERGY & RATE**
 
 ### Energy & Enthalpy
@@ -99,10 +98,18 @@ title: "CAP4"
 	- if real gas is cooled/compressed it will condensed to form liquid - bcos weak inter-particle attraction that exists in real gases.
 - 165.  Use kinetic theory to explain the behaviour of ideal gases, including diffusion and compressibility.
 - 166.  Describe the relationship between temperature, kinetic energy and velocity of particles in a qualitative fashion.
+	- Diffusion - gases rapidly diffuse as the particles are moving rapidly and continue to move until they hit something
+	- Compressibility - gases are compressible as there is a large amount of space between the particles
 - 167.  Explain the origin of the Kelvin temperature scale, and state the meaning of the term absolute zero.
+	- 
 - 168.  Convert temperatures between Celsius and Kelvin.
+	- temperature is measure of average kinetic energy of the particles.
+	- temperature of gases is measured in Kelvin (K)
+	- $0\degree C=273.15K$, Degrees Celsius + 273.15 = Kelvin, Kelvin - 273.15 = Degrees Celsius
 - 169.  Use kinetic theory to describe and explain the relationships between pressure, temperature and volume of an ideal gas in a qualitative fashion, (Boyle’s Law, Charles’ Law, and Pressure Law).
+	- 
 - 170.  Draw and interpret graphs that represent the relationship between pressure, temperature and volume.
+	- 
 - 171.  State that the relationships between pressure, temperature, volume and number of moles can be combined to give the ideal gas equation, PV = nRT (Use of equation not required).
 - 172.  Describe the internal energy of a system as the sum of the kinetic energy and the potential energy of the particles.
 - 173.  Describe the enthalpy of a system as a measure of the energy stored within a system, and state that it cannot be measured directly.
