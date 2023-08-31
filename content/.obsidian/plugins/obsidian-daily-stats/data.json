@@ -72,12 +72,12 @@
     "2023/7/28": 377,
     "2023/7/29": 426,
     "2023/7/30": 273,
-    "2023/7/31": 469
+    "2023/7/31": 871
   },
   "todaysWordCount": {
     "notes/AE/CHEMISTRY/CAP4.md": {
       "initial": 1936,
-      "current": 2112
+      "current": 2114
     },
     "notes/AE/SPECIALIST/trigonometry.md": {
       "initial": 828,
@@ -98,6 +98,22 @@
     "notes/AE/SPECIALIST/specialist.md": {
       "initial": 22,
       "current": 35
+    },
+    "notes/AE/CHEMISTRY/ratesOfReaction.md": {
+      "initial": 41,
+      "current": 192
+    },
+    "notes/AE/ENGLISH/goodAnswersReview.md": {
+      "initial": 343,
+      "current": 403
+    },
+    "notes/AE/ENGLISH/english.md": {
+      "initial": 13,
+      "current": 22
+    },
+    "notes/AE/ENGLISH/GAcomprehension.md": {
+      "initial": 403,
+      "current": 583
     }
   }
 }

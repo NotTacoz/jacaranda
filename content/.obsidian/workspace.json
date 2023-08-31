@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notes/AE/SPECIALIST/trigonometry.md",
+                "file": "notes/AE/ENGLISH/GAcomprehension.md",
                 "mode": "source",
                 "source": false
               }
@@ -49,7 +49,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "cap4",
+                "query": "tag:#AE",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -109,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "notes/AE/SPECIALIST/trigonometry.md",
+                "file": "notes/AE/ENGLISH/GAcomprehension.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -126,7 +126,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "notes/AE/SPECIALIST/trigonometry.md",
+                "file": "notes/AE/ENGLISH/GAcomprehension.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -149,7 +149,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "notes/AE/SPECIALIST/trigonometry.md"
+                "file": "notes/AE/ENGLISH/GAcomprehension.md"
               }
             }
           },
@@ -190,19 +190,30 @@
   },
   "active": "6ef9b6cc0e77cb6d",
   "lastOpenFiles": [
+    "notes/AE/CHEMISTRY/CAP4.md",
+    "notes/AE/CHEMISTRY/CAP3.md",
+    "notes/AE/CHEMISTRY/acidsAndBases.md",
+    "notes/images/Screen Shot 2023-03-09 at 12.15.23 pm.png",
+    "notes/images/Screen Shot 2023-03-14 at 12.41.20 pm.png",
+    "notes/images/Screen Shot 2023-05-08 at 9.17.59 am.png",
+    "notes/images/Screen Shot 2023-03-22 at 6.24.45 pm.png",
+    "notes/images/Screen Shot 2023-08-08 at 6.51.56 pm.png",
+    "notes/images/Screen Shot 2023-08-08 at 12.52.35 pm.png",
+    "notes/images/Screen Shot 2023-08-09 at 5.55.10 pm.png",
+    "notes/images/Screen Shot 2023-08-09 at 5.57.25 pm.png",
+    "notes/images/Screen Shot 2023-08-09 at 6.07.23 pm.png",
+    "notes/images/Screen Shot 2023-08-16 at 5.53.18 pm.png",
+    "notes/AE/notes.md",
+    "notes/AE/ENGLISH/GAcomprehension.md",
+    "notes/AE/ENGLISH/english.md",
+    "notes/AE/CHEMISTRY/ratesOfReaction.md",
+    "notes/AE/SPECIALIST/trigonometry.md",
     "notes/AE/SPECIALIST/specialist.md",
     "notes/AE/SPECIALIST/matrices.md",
     "notes/AE/SPECIALIST/inductionProof.md",
     "notes/AE/SPECIALIST/investigation.md",
-    "notes/AE/notes.md",
     "_index.md",
-    "notes/AE/SPECIALIST/trigonometry.md",
-    "notes/AE/SPECIALIST/Screen Shot 2023-08-31 at 11.19.24 am.png",
-    "notes/AE/SPECIALIST/Screen Shot 2023-08-31 at 11.18.17 am.png",
     "notes/AE/METHODS/differentiation.md",
-    "notes/AE/CHEMISTRY/CAP4.md",
-    "notes/AE/CHEMISTRY/Screen Shot 2023-08-31 at 9.23.35 am.png",
-    "notes/AE/CHEMISTRY/CAP3.md",
     "notes/AE/CHEMISTRY/courseOutline.md",
     "notes/AE/METHODS/sequences.md",
     "notes/AE/METHODS/antidifferentiation.md",
@@ -213,21 +224,10 @@
     "notes/AE/METHODS/solvingTrigEquations.md",
     "notes/AE/METHODS/methods.md",
     "notes/AE/PHYSICS/heat.md",
-    "notes/AE/ENGLISH/goodAnswersReview.md",
-    "notes/AE/ENGLISH/english.md",
     "notes/archive/AEold/english/lessonnotes/T1W7L2.md",
     "notes/archive/AEold/english/lessonnotes/T1W8L1.md",
-    "notes/archive/AEold/english/feedback.md",
-    "empty.md",
-    "notes/images/Pasted image 20230828125257.png",
-    "notes/images/Screen Shot 2023-08-28 at 9.15.28 am.png",
-    "notes/images/Pasted image 20230826120437.png",
-    "notes/images/Pasted image 20230826120056.png",
     "notes/images/11 Physics Revision Checklist - Electrical Circuits 2023.pdf",
     "notes/images/11+Physics+Revision+Checklist+-+Ionising+Radiation+&+Nuclear+Reactions+2023.pdf",
-    "notes/images/Screen Shot 2023-08-21 at 2.28.30 pm.png",
-    "notes/images/Screen Shot 2023-08-21 at 2.27.57 pm.png",
-    "notes/images/Screen Shot 2023-08-16 at 5.53.18 pm.png",
     "notes/AE/val/haven",
     "notes/AE/val",
     "private/val/haven",

@@ -9,11 +9,11 @@ title: "CAP4"
 	- Carbon has four valence electrons, allowing it to bond with a range of other atoms.
 	- Carbon has a large bonding capacity, as it is able to form 4 bonds, or form double or triple bonds.
 - 136.  Use molecular formulae, full structural formulae and condensed formulae to show the arrangement of atoms and bonds in covalent molecular substances, including hydrocarbons and haloalkanes.
-- Molecular Formula 
-	- Actual whole number ratio of the atom. Cyclohexane is $C_{6}H_{12}$ 
-	- full Structural formulae (see image) 
-	- structural formula of cyclohexane: ![300](notes/images/Pasted%20image%2020230826120056.png)
-- condensed formula (not condensed structural) would be $(CH_{2})_{6}$
+	- Molecular Formula 
+		- Actual whole number ratio of the atom. Cyclohexane is $C_{6}H_{12}$ 
+		- full Structural formulae (see image) 
+		- structural formula of cyclohexane: ![300](notes/images/Pasted%20image%2020230826120056.png)
+	- condensed formula (not condensed structural) would be $(CH_{2})_{6}$
 - 137.  Define hydrocarbon, and categorise simple hydrocarbons into alkanes, alkenes and aromatic hydrocarbons (benzene). 
 	- hydrocarbons are categorised by the number of their bonds as alkanes, alkenes, and alkynes. 
 		- alkanes 
@@ -46,8 +46,9 @@ title: "CAP4"
 		- (?) The substituent groups on the carbon atoms of the double bond are therefore in fixed positions.
 	- depends on whether substituent groups are on same side or different sides of the double bond, the geometric isomer is formed.
 	- isomers will have different chemical and physical properties
-	- ![](notes/AE/CHEMISTRY/Screen%20Shot%202023-08-31%20at%209.23.35%20am.png)
+	- ![](notes/images/Screen%20Shot%202023-08-31%20at%209.23.35%20am.png)
 - 145.  Describe the nature of bonding in alkanes, alkenes and benzene, using ideas of single and multiple bonds (π bonds), and delocalisation.
+	- 
 - 146.  Explain why alkenes are able to form geometric isomers, whereas alkanes are not.
 	- free rotation is not possible in double bonds
 
@@ -71,7 +72,7 @@ title: "CAP4"
 - 162.  Use molecular mass and empirical formulae calculations to establish molecular structure.
 ## **Topic 5: ENERGY & RATE**
 
-### Energy & Enthalpy
+### Energy & Enthalpy (NOT IN CAP)
 
 - 163.  State that kinetic theory is used to explain the macroscopic behaviour of gases using understanding of the molecular behaviour of particles.
 	- all gases exert pressure and take the space of the container they exist in.
