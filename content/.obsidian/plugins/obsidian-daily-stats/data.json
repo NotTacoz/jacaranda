@@ -73,7 +73,7 @@
     "2023/7/29": 426,
     "2023/7/30": 273,
     "2023/7/31": 871,
-    "2023/8/1": 808
+    "2023/8/1": 843
   },
   "todaysWordCount": {
     "notes/AE/CHEMISTRY/CAP3.md": {
@@ -195,6 +195,10 @@
     "notes/AE/ENGLISH/GAcomprehension.md": {
       "initial": 583,
       "current": 586
+    },
+    "notes/daily/2023-09-01.md": {
+      "initial": 6,
+      "current": 41
     }
   }
 }

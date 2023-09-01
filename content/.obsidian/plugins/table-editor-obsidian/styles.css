@@ -7,7 +7,7 @@
   padding: 0px;
 }
 
-.advanced-tables-buttons > div > .title {
+.advanced-tables-buttons>div>.title {
   font-weight: var(--font-medium);
   font-size: var(--nav-item-size);
   color: var(--nav-item-color);
@@ -28,7 +28,7 @@
   color: var(--nav-item-color);
 }
 
-[data-type="advanced-tables-toolbar"] .nav-buttons-container > * {
+[data-type="advanced-tables-toolbar"] .nav-buttons-container>* {
   height: var(--advanced-tables-helper-size);
   line-height: var(--advanced-tables-helper-size);
 }

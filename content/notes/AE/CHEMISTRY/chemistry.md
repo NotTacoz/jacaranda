@@ -11,7 +11,6 @@ enableToc: false
 ## Content
 
 ### Semester 2
-
 #### Term 3
 - [Acids and Bases](notes/AE/CHEMISTRY/acidsAndBases.md)
 - [cap 3 revision](notes/AE/CHEMISTRY/CAP3.md)

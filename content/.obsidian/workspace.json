@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notes/AE/CHEMISTRY/chemistry.md",
+                "file": "notes/daily/2023-09-01.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "notes/AE/CHEMISTRY/chemistry.md",
+                "file": "notes/daily/2023-09-01.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "notes/AE/CHEMISTRY/chemistry.md"
+                "file": "notes/daily/2023-09-01.md"
               }
             }
           },
@@ -174,8 +174,11 @@
   },
   "active": "97ab87e014dd9cf2",
   "lastOpenFiles": [
-    "notes/AE/CHEMISTRY/ratesOfReactionReport.md",
+    "notes/AE/SPECIALIST/inductionProof.md",
+    "notes/daily/2023-09-01.md",
     "notes/AE/CHEMISTRY/chemistry.md",
+    "notes/AE/CHEMISTRY/().md",
+    "notes/AE/CHEMISTRY/ratesOfReactionReport.md",
     "notes/AE/CHEMISTRY/empiricalFormula.md",
     "notes/AE/CHEMISTRY/empircalFormula|empircalFormula.md",
     "notes/AE/CHEMISTRY/aboriginalCaseStudy.md",
@@ -189,7 +192,6 @@
     "notes/AE/METHODS/methods.md",
     "notes/images/Screen Shot 2023-08-31 at 11.19.24 am.png",
     "notes/AE/SPECIALIST/investigation.md",
-    "notes/AE/SPECIALIST/inductionProof.md",
     "notes/images/Screen Shot 2023-08-31 at 11.18.17 am.png",
     "notes/AE/notes.md",
     "notes/AE/PHYSICS/physics.md",
@@ -202,8 +204,6 @@
     "_index.md",
     "notes/images/testok.png",
     "notes/images/keq OK(1) 1.png",
-    "notes/images/keq%20OK(1)%201.png.md",
-    "caption text.md",
     "notes/images/keqing actually.png",
     "notes/images/Screen Shot 2023-09-01 at 9.44.48 am.png",
     "notes/images/Screen Shot 2023-03-09 at 12.15.23 pm.png",
