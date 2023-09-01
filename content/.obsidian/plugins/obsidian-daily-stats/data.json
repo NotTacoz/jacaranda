@@ -73,7 +73,7 @@
     "2023/7/29": 426,
     "2023/7/30": 273,
     "2023/7/31": 871,
-    "2023/8/1": 571
+    "2023/8/1": 842
   },
   "todaysWordCount": {
     "notes/AE/CHEMISTRY/CAP3.md": {
@@ -82,7 +82,7 @@
     },
     "notes/AE/CHEMISTRY/chemistry.md": {
       "initial": 88,
-      "current": 104
+      "current": 156
     },
     "notes/AE/CHEMISTRY/gases.md": {
       "initial": 493,
@@ -90,7 +90,7 @@
     },
     "notes/AE/CHEMISTRY/ratesOfReaction.md": {
       "initial": 191,
-      "current": 191
+      "current": 200
     },
     "notes/AE/CHEMISTRY/thermodynamics.md": {
       "initial": 720,
@@ -98,7 +98,7 @@
     },
     "notes/AE/ENGLISH/english.md": {
       "initial": 22,
-      "current": 32
+      "current": 54
     },
     "notes/AE/ENGLISH/presentationNotes.md": {
       "initial": 347,
@@ -110,7 +110,7 @@
     },
     "notes/AE/PHYSICS/physics.md": {
       "initial": 30,
-      "current": 39
+      "current": 60
     },
     "notes/AE/PHYSICS/reportChecklist.md": {
       "initial": 444,
@@ -130,11 +130,11 @@
     },
     "notes/AE/notes.md": {
       "initial": 48,
-      "current": 48
+      "current": 51
     },
     "_index.md": {
       "initial": 79,
-      "current": 79
+      "current": 76
     },
     "notes/AE/CHEMISTRY/Untitled.md": {
       "initial": 2,
@@ -150,7 +150,7 @@
     },
     "notes/AE/CHEMISTRY/aboriginalCaseStudy.md": {
       "initial": 3,
-      "current": 38
+      "current": 55
     },
     "notes/AE/ENGLISH/comprehending.md": {
       "initial": 3,
@@ -159,6 +159,46 @@
     "notes/AE/ENGLISH/comprehendingStructure.md": {
       "initial": 4,
       "current": 55
+    },
+    "notes/daily/daily.md": {
+      "initial": 228,
+      "current": 156
+    },
+    "private/val/navigation.md": {
+      "initial": 26,
+      "current": 33
+    },
+    "notes/archive/AEold/subsections/phys.md": {
+      "initial": 61,
+      "current": 71
+    },
+    "notes/AE/SPECIALIST/specialist.md": {
+      "initial": 35,
+      "current": 44
+    },
+    "notes/AE/METHODS/methods.md": {
+      "initial": 30,
+      "current": 65
+    },
+    "notes/AE/JAPANESE/japanese.md": {
+      "initial": 19,
+      "current": 67
+    },
+    "notes/AE/JAPANESE/grammarMasterlist.md": {
+      "initial": 3,
+      "current": 3
+    },
+    "notes/AE/ENGLISH/speech.md": {
+      "initial": 252,
+      "current": 252
+    },
+    "notes/AE/ENGLISH/GAcomprehension.md": {
+      "initial": 583,
+      "current": 586
+    },
+    "notes/daily/2023-09-01.md": {
+      "initial": 6,
+      "current": 41
     }
   }
 }

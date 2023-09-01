@@ -4,83 +4,23 @@
     "type": "split",
     "children": [
       {
-        "id": "9adc59215189bad1",
+        "id": "0ce639f5812633d2",
         "type": "tabs",
         "children": [
           {
-            "id": "6ef9b6cc0e77cb6d",
+            "id": "97ab87e014dd9cf2",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notes/AE/CHEMISTRY/organicChem.md",
+                "file": "notes/AE/CHEMISTRY/gases.md",
                 "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "9c5970fe215e1fb3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "notes/AE/CHEMISTRY/acidsAndBases.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "c73c2c5ae0bd5dd2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "notes/AE/ENGLISH/presentationNotes.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "0c4ad1a0a3b42570",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "_index.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "4a97864e1542227d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "notes/AE/CHEMISTRY/CAP3.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "d10c3bb85261ec75",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "notes/AE/CHEMISTRY/lucarelli.md",
-                "mode": "source",
+                "backlinks": false,
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -165,29 +105,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "e91a1d3a2b141544",
-            "type": "leaf",
-            "state": {
-              "type": "backlink",
-              "state": {
-                "file": "_index.md",
-                "collapseAll": true,
-                "extraContext": true,
-                "sortOrder": "alphabetical",
-                "showSearch": false,
-                "searchQuery": "",
-                "backlinkCollapsed": false,
-                "unlinkedCollapsed": false
-              }
-            }
-          },
-          {
             "id": "bba4689984c92ddc",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_index.md",
+                "file": "notes/AE/CHEMISTRY/gases.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -210,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_index.md"
+                "file": "notes/AE/CHEMISTRY/gases.md"
               }
             }
           },
@@ -231,7 +154,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -249,45 +172,45 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "0c4ad1a0a3b42570",
+  "active": "97ab87e014dd9cf2",
   "lastOpenFiles": [
-    "notes/AE/notes.md",
-    "_index.md",
+    "notes/AE/CHEMISTRY/empiricalFormula.md",
     "notes/images/keqing actually.png",
-    "notes/AE/ENGLISH/comprehendingStructure.md",
-    "notes/AE/ENGLISH/presentationNotes.md",
-    "notes/AE/CHEMISTRY/empircalFormula.md",
-    "notes/AE/CHEMISTRY/aboriginalCaseStudy.md",
-    "notes/AE/CHEMISTRY/acidsAndBases.md",
-    "notes/AE/CHEMISTRY/chemistry.md",
-    "notes/AE/CHEMISTRY/CAP3.md",
-    "notes/AE/CHEMISTRY/organicChem.md",
-    "notes/AE/CHEMISTRY/ratesOfReaction.md",
-    "notes/AE/CHEMISTRY/thermodynamics.md",
-    "notes/AE/CHEMISTRY/reactionsParticlesAndCollisions.md",
-    "notes/AE/CHEMISTRY/CAP4.md",
-    "notes/images/keq OK(1) 1.png",
     "notes/images/keq OK(1).png",
-    "notes/AE/CHEMISTRY/kineticEnergy.md",
-    "notes/AE/CHEMISTRY/courseOutline.md",
-    "notes/AE/CHEMISTRY/lucarelli.md",
-    "notes/images/Screen Shot 2023-09-01 at 9.44.48 am.png",
-    "lucarelli.md",
-    "notes/AE/CHEMISTRY/gases.md",
-    "notes/AE/PHYSICS/heat.md",
-    "notes/AE/PHYSICS/nuclearPhysics.md",
-    "notes/AE/PHYSICS/physics.md",
-    "notes/AE/PHYSICS/physicsReview.md",
-    "notes/AE/PHYSICS/reportChecklist.md",
-    "notes/AE/PHYSICS/REVISIONelectricalPhysics.md",
-    "notes/images/Screen Shot 2023-03-09 at 12.15.23 pm.png",
+    "notes/images/keq OK(1) 1.png",
+    "notes/images/Screen Shot 2023-08-21 at 2.27.57 pm.png",
+    "notes/images/Screen Shot 2023-08-09 at 6.07.23 pm.png",
+    "notes/images/Screen Shot 2023-08-09 at 5.46.06 pm.png",
+    "notes/images/Screen Shot 2023-08-08 at 12.51.52 pm.png",
+    "notes/images/Screen Shot 2023-07-13 at 11.19.18 am.png",
+    "notes/images/Screen Shot 2023-07-13 at 11.19.00 am.png",
     "notes/images/Screen Shot 2023-03-14 at 12.41.20 pm.png",
-    "notes/images/Screen Shot 2023-05-08 at 9.17.59 am.png",
-    "notes/images/Screen Shot 2023-03-22 at 6.24.45 pm.png",
-    "notes/images/Screen Shot 2023-08-08 at 6.51.56 pm.png",
-    "notes/images/Screen Shot 2023-08-08 at 12.52.35 pm.png",
-    "notes/images/11 Physics Revision Checklist - Electrical Circuits 2023.pdf",
+    "notes/images/Pasted image 20230828125257.gif.md",
     "notes/images/11+Physics+Revision+Checklist+-+Ionising+Radiation+&+Nuclear+Reactions+2023.pdf",
+    "notes/images/11 Physics Revision Checklist - Electrical Circuits 2023.pdf",
+    "notes/AE/JAPANESE/grammarMasterlist.md",
+    "notes/AE/CHEMISTRY/ratesOfReaction.md",
+    "notes/AE/CHEMISTRY/empircalFormula.md",
+    "notes/AE/CHEMISTRY/gases.md",
+    "notes/AE/CHEMISTRY/thermodynamics.md",
+    "notes/AE/CHEMISTRY/acidsAndBases.md",
+    "notes/AE/notes.md",
+    "notes/images/keqing%20actually.png.md",
+    "notes/daily/2023-09-01.md",
+    "notes/AE/SPECIALIST/inductionProof.md",
+    "notes/AE/CHEMISTRY/chemistry.md",
+    "notes/AE/CHEMISTRY/().md",
+    "notes/AE/CHEMISTRY/ratesOfReactionReport.md",
+    "notes/AE/CHEMISTRY/empircalFormula|empircalFormula.md",
+    "notes/AE/CHEMISTRY/aboriginalCaseStudy.md",
+    "notes/AE/SPECIALIST/specialist.md",
+    "notes/AE/ENGLISH/GAcomprehension.md",
+    "notes/AE/ENGLISH/english.md",
+    "notes/AE/ENGLISH/speech.md",
+    "notes/AE/SPECIALIST/matrices.md",
+    "notes/AE/JAPANESE/japanese.md",
+    "notes/AE/METHODS/methods.md",
+    "notes/AE/SPECIALIST/investigation.md",
     "notes/AE/val/haven",
     "notes/AE/val",
     "private/val/haven",
