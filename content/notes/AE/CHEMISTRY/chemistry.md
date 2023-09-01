@@ -2,13 +2,15 @@
 title: "chemistry"
 enableToc: false
 ---
+#navigation #chemistry #AE
 
 > [!info]
-> This is a Table of Contents page for all the work I've done for Chemistry (Semester 2), you can view what is covered in the [Course Outline](notes/AE/CHEMISTRY/courseOutline.md)
-
+> This is a Table of Contents page for all the work I've done for Chemistry (Semester 2), including notes I've taken in class and stuff, you can view what is covered in the [Course Outline](notes/AE/CHEMISTRY/courseOutline.md)
+## Useful
+- [lucarelli chapter nav](notes/AE/CHEMISTRY/lucarelli.md)
 ## Content
 
-## Semester 2
+### Semester 2
 
 #### Term 3
 - [Acids and Bases](notes/AE/CHEMISTRY/acidsAndBases.md)
@@ -19,3 +21,6 @@ enableToc: false
 - [gases: kinetic energy](notes/AE/CHEMISTRY/kineticEnergy.md)
 - [gases: gas laws](notes/AE/CHEMISTRY/gases.md)
 - [cap4 revision](notes/AE/CHEMISTRY/CAP4.md)
+- [empirical formulas](notes/AE/CHEMISTRY/empiricalFormula)
+	- [dead emus, floating fish, and an awful lot of motion sickness](notes/AE/CHEMISTRY/aboriginalCaseStudy.md)
+- [rates of reaction (report)](notes/AE/CHEMISTRY/ratesOfReactionReport.md)

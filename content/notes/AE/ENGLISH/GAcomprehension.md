@@ -1,6 +1,7 @@
 ---
 title: "Good Answers: Comprehension"
 ---
+#english #review #AE 
 
 title - i look through good answers and take note of effective / good thingies
 

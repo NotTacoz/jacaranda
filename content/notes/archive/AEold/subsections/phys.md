@@ -4,6 +4,8 @@ title: "physics masterlist"
 
 [go back](notes/archive/notes.md)
 
+## year 10
+[nuclear physics idk](notes/archive/10/nuclearphysicsidk.md)
 ## Year 11
 
 - [7.1 Displacement, speed and velocity](notes/archive/AEold/physics/pearson/7.1.md)

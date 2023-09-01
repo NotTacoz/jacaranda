@@ -2,8 +2,7 @@
 title: "notes"
 enableToc: false
 ---
-
-🤓☝️![80](notes/images/keqing%20actually.png)
+[go back](_index.md)
 ## subject notes
 - [chemistry](notes/AE/CHEMISTRY/chemistry.md)
 - [english](notes/AE/ENGLISH/english.md)
@@ -11,3 +10,5 @@ enableToc: false
 - [specialist](notes/AE/SPECIALIST/specialist.md)
 - [methods](notes/AE/METHODS/methods.md)
 - [physics](notes/AE/PHYSICS/physics.md)
+
+🤓☝️![150](notes/images/keqing%20actually.png)

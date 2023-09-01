@@ -22,14 +22,14 @@
       "noteCount": 1,
       "wordCount": 23,
       "pageCount": 0.07666666666666666,
-      "characterCount": 497,
-      "nonWhitespaceCharacterCount": 471,
+      "characterCount": 490,
+      "nonWhitespaceCharacterCount": 463,
       "linkCount": 3,
       "embedCount": 1,
       "aliases": null,
       "createdDate": 1693311758420,
-      "modifiedDate": 1693533663101,
-      "sizeInBytes": 533
+      "modifiedDate": 1693547085115,
+      "sizeInBytes": 526
     },
     "empty.md": {
       "isDirectory": false,
@@ -118,16 +118,16 @@
     "private/val/navigation.md": {
       "isDirectory": false,
       "noteCount": 1,
-      "wordCount": 15,
-      "pageCount": 0.05,
-      "characterCount": 173,
-      "nonWhitespaceCharacterCount": 151,
-      "linkCount": 3,
+      "wordCount": 18,
+      "pageCount": 0.06,
+      "characterCount": 217,
+      "nonWhitespaceCharacterCount": 193,
+      "linkCount": 4,
       "embedCount": 0,
       "aliases": null,
-      "createdDate": 1692179543681,
-      "modifiedDate": 1693311767613,
-      "sizeInBytes": 200
+      "createdDate": 1693311767613,
+      "modifiedDate": 1693547254424,
+      "sizeInBytes": 244
     },
     "private/val/lotus/asunaJett.md": {
       "isDirectory": false,
@@ -171,33 +171,19 @@
       "modifiedDate": 1693311767535,
       "sizeInBytes": 2001
     },
-    "notes/images/Pasted image 20230828125257.gif.md": {
-      "isDirectory": false,
-      "noteCount": 1,
-      "wordCount": 0,
-      "pageCount": 0,
-      "characterCount": 0,
-      "nonWhitespaceCharacterCount": 0,
-      "linkCount": 0,
-      "embedCount": 0,
-      "aliases": null,
-      "createdDate": 1693198383553,
-      "modifiedDate": 1693198383553,
-      "sizeInBytes": 0
-    },
     "notes/daily/daily.md": {
       "isDirectory": false,
       "noteCount": 1,
-      "wordCount": 32,
-      "pageCount": 0.10666666666666667,
-      "characterCount": 429,
-      "nonWhitespaceCharacterCount": 391,
-      "linkCount": 8,
+      "wordCount": 48,
+      "pageCount": 0.16,
+      "characterCount": 766,
+      "nonWhitespaceCharacterCount": 711,
+      "linkCount": 16,
       "embedCount": 0,
       "aliases": null,
-      "createdDate": 1692066051195,
-      "modifiedDate": 1693311767474,
-      "sizeInBytes": 451
+      "createdDate": 1693311767474,
+      "modifiedDate": 1693547209705,
+      "sizeInBytes": 788
     },
     "notes/daily/UCAT.md": {
       "isDirectory": false,
@@ -580,16 +566,16 @@
     "notes/archive/AEold/subsections/phys.md": {
       "isDirectory": false,
       "noteCount": 1,
-      "wordCount": 24,
-      "pageCount": 0.08,
-      "characterCount": 414,
-      "nonWhitespaceCharacterCount": 384,
-      "linkCount": 6,
+      "wordCount": 30,
+      "pageCount": 0.1,
+      "characterCount": 486,
+      "nonWhitespaceCharacterCount": 450,
+      "linkCount": 7,
       "embedCount": 0,
       "aliases": null,
-      "createdDate": 1686103273501,
-      "modifiedDate": 1693311767026,
-      "sizeInBytes": 449
+      "createdDate": 1693311767026,
+      "modifiedDate": 1693547283986,
+      "sizeInBytes": 521
     },
     "notes/archive/AEold/subsections/methods.md": {
       "isDirectory": false,
@@ -1966,44 +1952,44 @@
     "notes/AE/notes.md": {
       "isDirectory": false,
       "noteCount": 1,
-      "wordCount": 15,
-      "pageCount": 0.05,
-      "characterCount": 282,
-      "nonWhitespaceCharacterCount": 266,
-      "linkCount": 6,
-      "embedCount": 0,
+      "wordCount": 18,
+      "pageCount": 0.06,
+      "characterCount": 351,
+      "nonWhitespaceCharacterCount": 331,
+      "linkCount": 7,
+      "embedCount": 1,
       "aliases": null,
       "createdDate": 1693311764305,
-      "modifiedDate": 1693533653633,
-      "sizeInBytes": 321
+      "modifiedDate": 1693540812136,
+      "sizeInBytes": 396
     },
     "notes/AE/SPECIALIST/trigonometry.md": {
       "isDirectory": false,
       "noteCount": 1,
       "wordCount": 971,
       "pageCount": 3.236666666666667,
-      "characterCount": 6266,
-      "nonWhitespaceCharacterCount": 5197,
+      "characterCount": 6252,
+      "nonWhitespaceCharacterCount": 5183,
       "linkCount": 0,
       "embedCount": 5,
       "aliases": null,
       "createdDate": 1693311764778,
-      "modifiedDate": 1693455257873,
-      "sizeInBytes": 6295
+      "modifiedDate": 1693547382680,
+      "sizeInBytes": 6281
     },
     "notes/AE/SPECIALIST/specialist.md": {
       "isDirectory": false,
       "noteCount": 1,
-      "wordCount": 16,
-      "pageCount": 0.05333333333333334,
-      "characterCount": 248,
-      "nonWhitespaceCharacterCount": 227,
-      "linkCount": 4,
+      "wordCount": 22,
+      "pageCount": 0.07333333333333333,
+      "characterCount": 322,
+      "nonWhitespaceCharacterCount": 297,
+      "linkCount": 5,
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1693311764743,
-      "modifiedDate": 1693455250614,
-      "sizeInBytes": 292
+      "modifiedDate": 1693547613861,
+      "sizeInBytes": 366
     },
     "notes/AE/SPECIALIST/matrices.md": {
       "isDirectory": false,
@@ -2092,16 +2078,16 @@
     "notes/AE/PHYSICS/physics.md": {
       "isDirectory": false,
       "noteCount": 1,
-      "wordCount": 22,
-      "pageCount": 0.07333333333333333,
-      "characterCount": 305,
-      "nonWhitespaceCharacterCount": 281,
-      "linkCount": 4,
+      "wordCount": 32,
+      "pageCount": 0.10666666666666667,
+      "characterCount": 476,
+      "nonWhitespaceCharacterCount": 443,
+      "linkCount": 7,
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1693311764527,
-      "modifiedDate": 1693531722476,
-      "sizeInBytes": 346
+      "modifiedDate": 1693547366499,
+      "sizeInBytes": 517
     },
     "notes/AE/PHYSICS/nuclearPhysics.md": {
       "isDirectory": false,
@@ -2190,16 +2176,16 @@
     "notes/AE/METHODS/methods.md": {
       "isDirectory": false,
       "noteCount": 1,
-      "wordCount": 10,
-      "pageCount": 0.03333333333333333,
-      "characterCount": 267,
-      "nonWhitespaceCharacterCount": 256,
-      "linkCount": 4,
+      "wordCount": 35,
+      "pageCount": 0.11666666666666667,
+      "characterCount": 498,
+      "nonWhitespaceCharacterCount": 463,
+      "linkCount": 7,
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1693311764266,
-      "modifiedDate": 1693360541583,
-      "sizeInBytes": 308
+      "modifiedDate": 1693547450520,
+      "sizeInBytes": 539
     },
     "notes/AE/METHODS/kinematics.md": {
       "isDirectory": false,
@@ -2344,30 +2330,16 @@
     "notes/AE/JAPANESE/japanese.md": {
       "isDirectory": false,
       "noteCount": 1,
-      "wordCount": 8,
-      "pageCount": 0.02666666666666667,
-      "characterCount": 134,
-      "nonWhitespaceCharacterCount": 123,
-      "linkCount": 2,
+      "wordCount": 47,
+      "pageCount": 0.15666666666666668,
+      "characterCount": 420,
+      "nonWhitespaceCharacterCount": 370,
+      "linkCount": 5,
       "embedCount": 0,
       "aliases": null,
-      "createdDate": 1687741736611,
-      "modifiedDate": 1693311764041,
-      "sizeInBytes": 176
-    },
-    "notes/AE/JAPANESE/grammarMasterlist.md": {
-      "isDirectory": false,
-      "noteCount": 1,
-      "wordCount": 25,
-      "pageCount": 0.08333333333333333,
-      "characterCount": 180,
-      "nonWhitespaceCharacterCount": 149,
-      "linkCount": 2,
-      "embedCount": 0,
-      "aliases": null,
-      "createdDate": 1686274463724,
-      "modifiedDate": 1693311764022,
-      "sizeInBytes": 231
+      "createdDate": 1693311764041,
+      "modifiedDate": 1693547533251,
+      "sizeInBytes": 488
     },
     "notes/AE/ENGLISH/comprehendingStructure.md": {
       "isDirectory": false,
@@ -2386,16 +2358,16 @@
     "notes/AE/ENGLISH/GAcomprehension.md": {
       "isDirectory": false,
       "noteCount": 1,
-      "wordCount": 606,
-      "pageCount": 2.02,
-      "characterCount": 3569,
-      "nonWhitespaceCharacterCount": 2932,
+      "wordCount": 609,
+      "pageCount": 2.03,
+      "characterCount": 3591,
+      "nonWhitespaceCharacterCount": 2950,
       "linkCount": 0,
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1693312429309,
-      "modifiedDate": 1693484758542,
-      "sizeInBytes": 3613
+      "modifiedDate": 1693547604842,
+      "sizeInBytes": 3635
     },
     "notes/AE/ENGLISH/timBurton.md": {
       "isDirectory": false,
@@ -2421,9 +2393,9 @@
       "linkCount": 0,
       "embedCount": 0,
       "aliases": null,
-      "createdDate": 1692410843519,
-      "modifiedDate": 1693311763985,
-      "sizeInBytes": 1644
+      "createdDate": 1693311763985,
+      "modifiedDate": 1693547579103,
+      "sizeInBytes": 1654
     },
     "notes/AE/ENGLISH/presentationNotes.md": {
       "isDirectory": false,
@@ -2442,32 +2414,32 @@
     "notes/AE/ENGLISH/english.md": {
       "isDirectory": false,
       "noteCount": 1,
-      "wordCount": 19,
-      "pageCount": 0.06333333333333334,
-      "characterCount": 228,
-      "nonWhitespaceCharacterCount": 208,
-      "linkCount": 3,
+      "wordCount": 33,
+      "pageCount": 0.11,
+      "characterCount": 404,
+      "nonWhitespaceCharacterCount": 371,
+      "linkCount": 5,
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1693311763906,
-      "modifiedDate": 1693531586675,
-      "sizeInBytes": 269
+      "modifiedDate": 1693547592727,
+      "sizeInBytes": 445
     },
-    "notes/AE/CHEMISTRY/aboriginalCaseStudy.md": {
+    "notes/AE/CHEMISTRY/ratesOfReactionReport.md": {
       "isDirectory": false,
       "noteCount": 1,
-      "wordCount": 25,
-      "pageCount": 0.08333333333333333,
-      "characterCount": 158,
-      "nonWhitespaceCharacterCount": 132,
-      "linkCount": 1,
-      "embedCount": 0,
+      "wordCount": 198,
+      "pageCount": 0.66,
+      "characterCount": 1353,
+      "nonWhitespaceCharacterCount": 1110,
+      "linkCount": 0,
+      "embedCount": 2,
       "aliases": null,
-      "createdDate": 1693535293519,
-      "modifiedDate": 1693538579476,
-      "sizeInBytes": 236
+      "createdDate": 1693311763851,
+      "modifiedDate": 1693547781317,
+      "sizeInBytes": 1433
     },
-    "notes/AE/CHEMISTRY/empircalFormula.md": {
+    "notes/AE/CHEMISTRY/empiricalFormula.md": {
       "isDirectory": false,
       "noteCount": 1,
       "wordCount": 91,
@@ -2480,6 +2452,20 @@
       "createdDate": 1693534470616,
       "modifiedDate": 1693534841220,
       "sizeInBytes": 534
+    },
+    "notes/AE/CHEMISTRY/aboriginalCaseStudy.md": {
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 42,
+      "pageCount": 0.14,
+      "characterCount": 263,
+      "nonWhitespaceCharacterCount": 220,
+      "linkCount": 1,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1693535293519,
+      "modifiedDate": 1693547643521,
+      "sizeInBytes": 341
     },
     "notes/AE/CHEMISTRY/lucarelli.md": {
       "isDirectory": false,
@@ -2522,20 +2508,6 @@
       "createdDate": 1693311763887,
       "modifiedDate": 1693531547954,
       "sizeInBytes": 4828
-    },
-    "notes/AE/CHEMISTRY/ratesOfReaction.md": {
-      "isDirectory": false,
-      "noteCount": 1,
-      "wordCount": 192,
-      "pageCount": 0.64,
-      "characterCount": 1323,
-      "nonWhitespaceCharacterCount": 1087,
-      "linkCount": 0,
-      "embedCount": 2,
-      "aliases": null,
-      "createdDate": 1693311763851,
-      "modifiedDate": 1693531544862,
-      "sizeInBytes": 1382
     },
     "notes/AE/CHEMISTRY/organicChem.md": {
       "isDirectory": false,
@@ -2596,16 +2568,16 @@
     "notes/AE/CHEMISTRY/chemistry.md": {
       "isDirectory": false,
       "noteCount": 1,
-      "wordCount": 67,
-      "pageCount": 0.22333333333333333,
-      "characterCount": 697,
-      "nonWhitespaceCharacterCount": 626,
-      "linkCount": 9,
+      "wordCount": 104,
+      "pageCount": 0.3466666666666667,
+      "characterCount": 1086,
+      "nonWhitespaceCharacterCount": 978,
+      "linkCount": 13,
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1693311763629,
-      "modifiedDate": 1693531680326,
-      "sizeInBytes": 740
+      "modifiedDate": 1693547787419,
+      "sizeInBytes": 1129
     },
     "notes/AE/CHEMISTRY/acidsAndBases.md": {
       "isDirectory": false,
