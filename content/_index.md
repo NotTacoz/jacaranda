@@ -7,7 +7,7 @@ enableToc: false
 
 # welcome
 these are whats important:
-- [notes](notes/AE/notes.md)
+- [notes](notes/archive/AE/notes.md)
 - [daily notes](notes/daily/daily.md)
 
 no longer maintained:

@@ -13,11 +13,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notes/AE/CHEMISTRY/gases.md",
+                "file": "_index.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
               }
+            }
+          },
+          {
+            "id": "75fa7840a20ce499",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
             }
           }
         ]
@@ -50,7 +58,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#AE",
+                "query": "tag:#navigation",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -103,6 +111,7 @@
       {
         "id": "f843a14175e799e0",
         "type": "tabs",
+        "dimension": 42.56965944272446,
         "children": [
           {
             "id": "bba4689984c92ddc",
@@ -110,7 +119,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "notes/AE/CHEMISTRY/gases.md",
+                "file": "_index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,16 +133,6 @@
               "state": {
                 "sortOrder": "frequency",
                 "useHierarchy": false
-              }
-            }
-          },
-          {
-            "id": "d3c78e59a83f4aa0",
-            "type": "leaf",
-            "state": {
-              "type": "outline",
-              "state": {
-                "file": "notes/AE/CHEMISTRY/gases.md"
               }
             }
           },
@@ -154,12 +153,28 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
+      },
+      {
+        "id": "bb25972fbf091ed7",
+        "type": "tabs",
+        "dimension": 57.43034055727554,
+        "children": [
+          {
+            "id": "d3c78e59a83f4aa0",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "_index.md"
+              }
+            }
+          }
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 215.5,
-    "collapsed": true
+    "width": 247.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -174,44 +189,44 @@
   },
   "active": "97ab87e014dd9cf2",
   "lastOpenFiles": [
+    "notes/daily/2023-09-01.md",
+    "notes/helloWorld.md",
+    "notes/archive/daily/2023-05-03.md",
+    "notes/archive/daily/DAILY.md",
+    "_index.md",
+    "notes/archive/AE/CHEMISTRY/aboriginalCaseStudy.md",
+    "notes/archive/AE/CHEMISTRY/acidsAndBases.md",
+    "notes/archive/AE/notes.md",
+    "notes/archive/AE/CHEMISTRY/gases.md",
     "notes/images/testok.png",
     "notes/images/keqingactually.png",
     "notes/images/Screen Shot 2023-08-31 at 11.19.24 am.png",
     "notes/images/Screen Shot 2023-08-31 at 11.18.17 am.png",
-    "notes/daily/2023-09-01.md",
-    "notes/AE/CHEMISTRY/ratesOfReactionReport.md",
-    "notes/AE/CHEMISTRY/empiricalFormula.md",
+    "notes/archive/AE/CHEMISTRY/ratesOfReactionReport.md",
+    "notes/archive/AE/CHEMISTRY/empiricalFormula.md",
     "notes/images/keqing actually.png",
     "notes/images/keq OK(1).png",
     "notes/images/keq OK(1) 1.png",
     "notes/images/Screen Shot 2023-08-21 at 2.27.57 pm.png",
     "notes/images/Screen Shot 2023-08-09 at 6.07.23 pm.png",
     "notes/images/Screen Shot 2023-08-09 at 5.46.06 pm.png",
-    "notes/images/Screen Shot 2023-08-08 at 12.51.52 pm.png",
     "notes/images/Pasted image 20230828125257.gif.md",
     "notes/images/11+Physics+Revision+Checklist+-+Ionising+Radiation+&+Nuclear+Reactions+2023.pdf",
     "notes/images/11 Physics Revision Checklist - Electrical Circuits 2023.pdf",
     "notes/AE/JAPANESE/grammarMasterlist.md",
     "notes/AE/CHEMISTRY/ratesOfReaction.md",
     "notes/AE/CHEMISTRY/empircalFormula.md",
-    "notes/AE/CHEMISTRY/gases.md",
-    "notes/AE/CHEMISTRY/thermodynamics.md",
-    "notes/AE/CHEMISTRY/acidsAndBases.md",
-    "notes/AE/notes.md",
+    "notes/archive/AE/CHEMISTRY/thermodynamics.md",
     "notes/images/keqing%20actually.png.md",
-    "notes/AE/SPECIALIST/inductionProof.md",
-    "notes/AE/CHEMISTRY/chemistry.md",
+    "notes/archive/AE/SPECIALIST/inductionProof.md",
+    "notes/archive/AE/CHEMISTRY/chemistry.md",
     "notes/AE/CHEMISTRY/().md",
     "notes/AE/CHEMISTRY/empircalFormula|empircalFormula.md",
-    "notes/AE/CHEMISTRY/aboriginalCaseStudy.md",
-    "notes/AE/SPECIALIST/specialist.md",
-    "notes/AE/ENGLISH/GAcomprehension.md",
-    "notes/AE/ENGLISH/english.md",
-    "notes/AE/ENGLISH/speech.md",
-    "notes/AE/SPECIALIST/matrices.md",
-    "notes/AE/JAPANESE/japanese.md",
-    "notes/AE/METHODS/methods.md",
-    "notes/AE/SPECIALIST/investigation.md",
+    "notes/archive/AE/SPECIALIST/specialist.md",
+    "notes/archive/AE/ENGLISH/GAcomprehension.md",
+    "notes/archive/AE/ENGLISH/english.md",
+    "notes/archive/AE/ENGLISH/speech.md",
+    "notes/archive/AE/SPECIALIST/matrices.md",
     "notes/AE/val/haven",
     "notes/AE/val",
     "private/val/haven",
