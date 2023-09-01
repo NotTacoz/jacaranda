@@ -49,7 +49,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notes/AE/notes.md",
+                "file": "_index.md",
                 "mode": "source",
                 "source": false
               }
@@ -170,7 +170,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "notes/AE/notes.md",
+                "file": "_index.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -187,7 +187,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "notes/AE/notes.md",
+                "file": "_index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -210,7 +210,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "notes/AE/notes.md"
+                "file": "_index.md"
               }
             }
           },
@@ -251,6 +251,7 @@
   },
   "active": "0c4ad1a0a3b42570",
   "lastOpenFiles": [
+    "notes/AE/notes.md",
     "notes/images/keqing actually.png",
     "notes/AE/ENGLISH/comprehendingStructure.md",
     "notes/AE/ENGLISH/presentationNotes.md",
@@ -264,7 +265,6 @@
     "notes/AE/CHEMISTRY/thermodynamics.md",
     "notes/AE/CHEMISTRY/reactionsParticlesAndCollisions.md",
     "notes/AE/CHEMISTRY/CAP4.md",
-    "notes/AE/notes.md",
     "_index.md",
     "notes/images/keq OK(1) 1.png",
     "notes/images/keq OK(1).png",
@@ -286,7 +286,6 @@
     "notes/images/Screen Shot 2023-03-22 at 6.24.45 pm.png",
     "notes/images/Screen Shot 2023-08-08 at 6.51.56 pm.png",
     "notes/images/Screen Shot 2023-08-08 at 12.52.35 pm.png",
-    "notes/images/Screen Shot 2023-08-09 at 5.55.10 pm.png",
     "notes/images/11 Physics Revision Checklist - Electrical Circuits 2023.pdf",
     "notes/images/11+Physics+Revision+Checklist+-+Ionising+Radiation+&+Nuclear+Reactions+2023.pdf",
     "notes/AE/val/haven",
