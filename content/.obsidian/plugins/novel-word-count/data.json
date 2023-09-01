@@ -2372,16 +2372,16 @@
     "notes/AE/ENGLISH/comprehendingStructure.md": {
       "isDirectory": false,
       "noteCount": 1,
-      "wordCount": 2,
-      "pageCount": 0.006666666666666667,
-      "characterCount": 10,
-      "nonWhitespaceCharacterCount": 6,
+      "wordCount": 69,
+      "pageCount": 0.23,
+      "characterCount": 361,
+      "nonWhitespaceCharacterCount": 291,
       "linkCount": 0,
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1693538611085,
-      "modifiedDate": 1693538616560,
-      "sizeInBytes": 40
+      "modifiedDate": 1693538704995,
+      "sizeInBytes": 401
     },
     "notes/AE/ENGLISH/GAcomprehension.md": {
       "isDirectory": false,

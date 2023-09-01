@@ -49,7 +49,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notes/AE/ENGLISH/comprehendingStructure.md",
+                "file": "notes/AE/notes.md",
                 "mode": "source",
                 "source": false
               }
@@ -170,7 +170,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "notes/AE/ENGLISH/comprehendingStructure.md",
+                "file": "notes/AE/notes.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -187,7 +187,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "notes/AE/ENGLISH/comprehendingStructure.md",
+                "file": "notes/AE/notes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -210,7 +210,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "notes/AE/ENGLISH/comprehendingStructure.md"
+                "file": "notes/AE/notes.md"
               }
             }
           },
@@ -251,8 +251,9 @@
   },
   "active": "0c4ad1a0a3b42570",
   "lastOpenFiles": [
-    "notes/AE/ENGLISH/presentationNotes.md",
+    "notes/images/keqing actually.png",
     "notes/AE/ENGLISH/comprehendingStructure.md",
+    "notes/AE/ENGLISH/presentationNotes.md",
     "notes/AE/CHEMISTRY/empircalFormula.md",
     "notes/AE/CHEMISTRY/aboriginalCaseStudy.md",
     "notes/AE/CHEMISTRY/acidsAndBases.md",
@@ -279,7 +280,6 @@
     "notes/AE/PHYSICS/physicsReview.md",
     "notes/AE/PHYSICS/reportChecklist.md",
     "notes/AE/PHYSICS/REVISIONelectricalPhysics.md",
-    "notes/AE/PHYSICS/researchAssignment1.md",
     "notes/images/Screen Shot 2023-03-09 at 12.15.23 pm.png",
     "notes/images/Screen Shot 2023-03-14 at 12.41.20 pm.png",
     "notes/images/Screen Shot 2023-05-08 at 9.17.59 am.png",
