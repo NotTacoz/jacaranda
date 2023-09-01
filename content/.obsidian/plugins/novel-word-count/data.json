@@ -2245,18 +2245,18 @@
     "notes/AE/notes.md": {
       "isDirectory": false,
       "noteCount": 1,
-      "wordCount": 18,
+      "wordCount": 19,
       "wordCountTowardGoal": 0,
       "wordGoal": null,
-      "pageCount": 0.06,
-      "characterCount": 351,
-      "nonWhitespaceCharacterCount": 331,
+      "pageCount": 0.06333333333333334,
+      "characterCount": 349,
+      "nonWhitespaceCharacterCount": 329,
       "linkCount": 7,
       "embedCount": 1,
       "aliases": null,
       "createdDate": 1693311764305,
-      "modifiedDate": 1693540812136,
-      "sizeInBytes": 396
+      "modifiedDate": 1693570522217,
+      "sizeInBytes": 394
     },
     "notes/AE/SPECIALIST/trigonometry.md": {
       "isDirectory": false,

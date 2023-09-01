@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notes/daily/2023-09-01.md",
+                "file": "notes/AE/CHEMISTRY/empiricalFormula.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "notes/daily/2023-09-01.md",
+                "file": "notes/AE/CHEMISTRY/empiricalFormula.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "notes/daily/2023-09-01.md"
+                "file": "notes/AE/CHEMISTRY/empiricalFormula.md"
               }
             }
           },
@@ -174,12 +174,18 @@
   },
   "active": "97ab87e014dd9cf2",
   "lastOpenFiles": [
-    "notes/AE/SPECIALIST/inductionProof.md",
+    "notes/AE/CHEMISTRY/gases.md",
+    "notes/AE/CHEMISTRY/empiricalFormula.md",
+    "notes/AE/CHEMISTRY/thermodynamics.md",
+    "notes/AE/CHEMISTRY/acidsAndBases.md",
+    "notes/AE/notes.md",
+    "notes/images/keqingactually.png",
+    "notes/images/keqing%20actually.png.md",
     "notes/daily/2023-09-01.md",
+    "notes/AE/SPECIALIST/inductionProof.md",
     "notes/AE/CHEMISTRY/chemistry.md",
     "notes/AE/CHEMISTRY/().md",
     "notes/AE/CHEMISTRY/ratesOfReactionReport.md",
-    "notes/AE/CHEMISTRY/empiricalFormula.md",
     "notes/AE/CHEMISTRY/empircalFormula|empircalFormula.md",
     "notes/AE/CHEMISTRY/aboriginalCaseStudy.md",
     "notes/AE/SPECIALIST/specialist.md",
@@ -193,18 +199,12 @@
     "notes/images/Screen Shot 2023-08-31 at 11.19.24 am.png",
     "notes/AE/SPECIALIST/investigation.md",
     "notes/images/Screen Shot 2023-08-31 at 11.18.17 am.png",
-    "notes/AE/notes.md",
     "notes/AE/PHYSICS/physics.md",
     "notes/archive/AEold/subsections/phys.md",
     "notes/archive/_indexOld.md",
     "notes/daily/daily.md",
-    "private/val/navigation.md",
-    "notes/images/Pasted image 20230828125257.gif.md",
-    "notes/archive/AEold/english/ANALYSING-TEXTS.md",
-    "_index.md",
     "notes/images/testok.png",
     "notes/images/keq OK(1) 1.png",
-    "notes/images/keqing actually.png",
     "notes/images/Screen Shot 2023-09-01 at 9.44.48 am.png",
     "notes/images/Screen Shot 2023-03-09 at 12.15.23 pm.png",
     "notes/images/Screen Shot 2023-03-14 at 12.41.20 pm.png",
