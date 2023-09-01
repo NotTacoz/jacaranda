@@ -1,5 +1,5 @@
 ---
-title: "rates of reaction"
+title: "Rates of Reaction"
 ---
 #chemistry #AE
 - consider collision theory

@@ -2064,16 +2064,16 @@
     "notes/AE/PHYSICS/reportChecklist.md": {
       "isDirectory": false,
       "noteCount": 1,
-      "wordCount": 561,
-      "pageCount": 1.87,
-      "characterCount": 3375,
-      "nonWhitespaceCharacterCount": 2802,
+      "wordCount": 548,
+      "pageCount": 1.8266666666666667,
+      "characterCount": 3325,
+      "nonWhitespaceCharacterCount": 2764,
       "linkCount": 0,
       "embedCount": 0,
       "aliases": null,
-      "createdDate": 1692536768275,
-      "modifiedDate": 1693311764565,
-      "sizeInBytes": 3376
+      "createdDate": 1693311764565,
+      "modifiedDate": 1693531749981,
+      "sizeInBytes": 3358
     },
     "notes/AE/PHYSICS/physicsReview.md": {
       "isDirectory": false,
@@ -2092,16 +2092,16 @@
     "notes/AE/PHYSICS/physics.md": {
       "isDirectory": false,
       "noteCount": 1,
-      "wordCount": 15,
-      "pageCount": 0.05,
-      "characterCount": 217,
-      "nonWhitespaceCharacterCount": 199,
-      "linkCount": 3,
+      "wordCount": 22,
+      "pageCount": 0.07333333333333333,
+      "characterCount": 305,
+      "nonWhitespaceCharacterCount": 281,
+      "linkCount": 4,
       "embedCount": 0,
       "aliases": null,
-      "createdDate": 1690624127673,
-      "modifiedDate": 1693311764527,
-      "sizeInBytes": 258
+      "createdDate": 1693311764527,
+      "modifiedDate": 1693531722476,
+      "sizeInBytes": 346
     },
     "notes/AE/PHYSICS/nuclearPhysics.md": {
       "isDirectory": false,
@@ -2158,20 +2158,6 @@
       "createdDate": 1692855747019,
       "modifiedDate": 1693311764378,
       "sizeInBytes": 11962
-    },
-    "notes/AE/PHYSICS/REVISIONelectricalPhysics.md": {
-      "isDirectory": false,
-      "noteCount": 1,
-      "wordCount": 6,
-      "pageCount": 0.02,
-      "characterCount": 127,
-      "nonWhitespaceCharacterCount": 116,
-      "linkCount": 0,
-      "embedCount": 1,
-      "aliases": null,
-      "createdDate": 1692886672113,
-      "modifiedDate": 1693311764645,
-      "sizeInBytes": 169
     },
     "notes/AE/METHODS/sequences.md": {
       "isDirectory": false,
@@ -2386,16 +2372,16 @@
     "notes/AE/ENGLISH/GAcomprehension.md": {
       "isDirectory": false,
       "noteCount": 1,
-      "wordCount": 600,
-      "pageCount": 2,
-      "characterCount": 3536,
-      "nonWhitespaceCharacterCount": 2906,
+      "wordCount": 606,
+      "pageCount": 2.02,
+      "characterCount": 3569,
+      "nonWhitespaceCharacterCount": 2932,
       "linkCount": 0,
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1693312429309,
-      "modifiedDate": 1693483081501,
-      "sizeInBytes": 3580
+      "modifiedDate": 1693484758542,
+      "sizeInBytes": 3613
     },
     "notes/AE/ENGLISH/timBurton.md": {
       "isDirectory": false,
@@ -2425,20 +2411,6 @@
       "modifiedDate": 1693311763985,
       "sizeInBytes": 1644
     },
-    "notes/AE/ENGLISH/reactionsParticlesAndCollisions.md": {
-      "isDirectory": false,
-      "noteCount": 1,
-      "wordCount": 188,
-      "pageCount": 0.6266666666666667,
-      "characterCount": 1291,
-      "nonWhitespaceCharacterCount": 1070,
-      "linkCount": 0,
-      "embedCount": 0,
-      "aliases": null,
-      "createdDate": 1692931531369,
-      "modifiedDate": 1693311763965,
-      "sizeInBytes": 1343
-    },
     "notes/AE/ENGLISH/presentationNotes.md": {
       "isDirectory": false,
       "noteCount": 1,
@@ -2449,23 +2421,51 @@
       "linkCount": 0,
       "embedCount": 0,
       "aliases": null,
-      "createdDate": 1691045298986,
-      "modifiedDate": 1693311763945,
-      "sizeInBytes": 2246
+      "createdDate": 1693311763945,
+      "modifiedDate": 1693531593555,
+      "sizeInBytes": 2263
     },
     "notes/AE/ENGLISH/english.md": {
       "isDirectory": false,
       "noteCount": 1,
-      "wordCount": 12,
-      "pageCount": 0.04,
-      "characterCount": 143,
-      "nonWhitespaceCharacterCount": 128,
-      "linkCount": 2,
+      "wordCount": 19,
+      "pageCount": 0.06333333333333334,
+      "characterCount": 228,
+      "nonWhitespaceCharacterCount": 208,
+      "linkCount": 3,
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1693311763906,
-      "modifiedDate": 1693481952323,
-      "sizeInBytes": 184
+      "modifiedDate": 1693531586675,
+      "sizeInBytes": 269
+    },
+    "notes/AE/CHEMISTRY/lucarelli.md": {
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 300,
+      "pageCount": 1,
+      "characterCount": 1653,
+      "nonWhitespaceCharacterCount": 1352,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1693531887855,
+      "modifiedDate": 1693532376172,
+      "sizeInBytes": 1679
+    },
+    "notes/AE/CHEMISTRY/reactionsParticlesAndCollisions.md": {
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 188,
+      "pageCount": 0.6266666666666667,
+      "characterCount": 1291,
+      "nonWhitespaceCharacterCount": 1070,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1693311763965,
+      "modifiedDate": 1693531617313,
+      "sizeInBytes": 1348
     },
     "notes/AE/CHEMISTRY/thermodynamics.md": {
       "isDirectory": false,
@@ -2477,8 +2477,8 @@
       "linkCount": 0,
       "embedCount": 3,
       "aliases": null,
-      "createdDate": 1692256759735,
-      "modifiedDate": 1693311763887,
+      "createdDate": 1693311763887,
+      "modifiedDate": 1693531547954,
       "sizeInBytes": 4828
     },
     "notes/AE/CHEMISTRY/ratesOfReaction.md": {
@@ -2492,7 +2492,7 @@
       "embedCount": 2,
       "aliases": null,
       "createdDate": 1693311763851,
-      "modifiedDate": 1693483924161,
+      "modifiedDate": 1693531544862,
       "sizeInBytes": 1382
     },
     "notes/AE/CHEMISTRY/organicChem.md": {
@@ -2533,8 +2533,8 @@
       "linkCount": 0,
       "embedCount": 0,
       "aliases": null,
-      "createdDate": 1692064650823,
-      "modifiedDate": 1693311763758,
+      "createdDate": 1693311763758,
+      "modifiedDate": 1693531540675,
       "sizeInBytes": 3171
     },
     "notes/AE/CHEMISTRY/courseOutline.md": {
@@ -2554,16 +2554,16 @@
     "notes/AE/CHEMISTRY/chemistry.md": {
       "isDirectory": false,
       "noteCount": 1,
-      "wordCount": 59,
-      "pageCount": 0.19666666666666666,
-      "characterCount": 558,
-      "nonWhitespaceCharacterCount": 493,
-      "linkCount": 7,
+      "wordCount": 67,
+      "pageCount": 0.22333333333333333,
+      "characterCount": 697,
+      "nonWhitespaceCharacterCount": 626,
+      "linkCount": 9,
       "embedCount": 0,
       "aliases": null,
-      "createdDate": 1692066118480,
-      "modifiedDate": 1693311763629,
-      "sizeInBytes": 601
+      "createdDate": 1693311763629,
+      "modifiedDate": 1693531680326,
+      "sizeInBytes": 740
     },
     "notes/AE/CHEMISTRY/acidsAndBases.md": {
       "isDirectory": false,
@@ -2582,30 +2582,30 @@
     "notes/AE/CHEMISTRY/CAP4.md": {
       "isDirectory": false,
       "noteCount": 1,
-      "wordCount": 2205,
-      "pageCount": 7.35,
-      "characterCount": 14206,
-      "nonWhitespaceCharacterCount": 11722,
+      "wordCount": 2268,
+      "pageCount": 7.56,
+      "characterCount": 14582,
+      "nonWhitespaceCharacterCount": 12012,
       "linkCount": 0,
       "embedCount": 3,
       "aliases": null,
       "createdDate": 1693311763611,
-      "modifiedDate": 1693483925836,
-      "sizeInBytes": 14307
+      "modifiedDate": 1693532651283,
+      "sizeInBytes": 14683
     },
     "notes/AE/CHEMISTRY/CAP3.md": {
       "isDirectory": false,
       "noteCount": 1,
-      "wordCount": 795,
-      "pageCount": 2.65,
-      "characterCount": 4915,
-      "nonWhitespaceCharacterCount": 4081,
+      "wordCount": 792,
+      "pageCount": 2.64,
+      "characterCount": 4898,
+      "nonWhitespaceCharacterCount": 4067,
       "linkCount": 0,
       "embedCount": 0,
       "aliases": null,
-      "createdDate": 1691845683409,
-      "modifiedDate": 1693311763556,
-      "sizeInBytes": 4916
+      "createdDate": 1693311763556,
+      "modifiedDate": 1693531864374,
+      "sizeInBytes": 4920
     }
   }
 }

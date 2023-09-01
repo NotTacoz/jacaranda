@@ -11,10 +11,11 @@ enableToc: false
 ## Semester 2
 
 #### Term 3
-
 - [Acids and Bases](notes/AE/CHEMISTRY/acidsAndBases.md)
 - [cap 3 revision](notes/AE/CHEMISTRY/CAP3.md)
 - [thermodynamics](notes/AE/CHEMISTRY/thermodynamics.md)
 - [organic chem](notes/AE/CHEMISTRY/organicChem.md)
+- [reaction, particles, and collisions](notes/AE/CHEMISTRY/reactionsParticlesAndCollisions.md)
 - [gases: kinetic energy](notes/AE/CHEMISTRY/kineticEnergy.md)
 - [gases: gas laws](notes/AE/CHEMISTRY/gases.md)
+- [cap4 revision](notes/AE/CHEMISTRY/CAP4.md)

@@ -1,5 +1,5 @@
 ---
-title: "gases"
+title: "Gases"
 ---
 
 ## gas pressure

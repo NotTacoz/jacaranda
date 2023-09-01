@@ -1,5 +1,5 @@
 ---
-title: "reactionsParticlesAndCollisions"
+title: "Reactions, Particles, and Collisions"
 ---
 
 ## reactions, particles and collisions

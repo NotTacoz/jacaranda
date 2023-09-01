@@ -72,48 +72,61 @@
     "2023/7/28": 377,
     "2023/7/29": 426,
     "2023/7/30": 273,
-    "2023/7/31": 871
+    "2023/7/31": 871,
+    "2023/8/1": 399
   },
   "todaysWordCount": {
-    "notes/AE/CHEMISTRY/CAP4.md": {
-      "initial": 1936,
-      "current": 2114
+    "notes/AE/CHEMISTRY/CAP3.md": {
+      "initial": 748,
+      "current": 748
     },
-    "notes/AE/SPECIALIST/trigonometry.md": {
-      "initial": 828,
-      "current": 1101
+    "notes/AE/CHEMISTRY/chemistry.md": {
+      "initial": 88,
+      "current": 104
     },
-    "notes/AE/SPECIALIST/investigation.md": {
-      "initial": 32,
-      "current": 34
-    },
-    "notes/AE/SPECIALIST/inductionProof.md": {
-      "initial": 445,
-      "current": 448
-    },
-    "notes/AE/SPECIALIST/matrices.md": {
-      "initial": 2440,
-      "current": 2442
-    },
-    "notes/AE/SPECIALIST/specialist.md": {
-      "initial": 22,
-      "current": 35
+    "notes/AE/CHEMISTRY/gases.md": {
+      "initial": 493,
+      "current": 493
     },
     "notes/AE/CHEMISTRY/ratesOfReaction.md": {
-      "initial": 41,
-      "current": 192
+      "initial": 191,
+      "current": 191
     },
-    "notes/AE/ENGLISH/goodAnswersReview.md": {
-      "initial": 343,
-      "current": 403
+    "notes/AE/CHEMISTRY/thermodynamics.md": {
+      "initial": 720,
+      "current": 720
     },
     "notes/AE/ENGLISH/english.md": {
-      "initial": 13,
-      "current": 22
+      "initial": 22,
+      "current": 32
     },
-    "notes/AE/ENGLISH/GAcomprehension.md": {
-      "initial": 403,
-      "current": 583
+    "notes/AE/ENGLISH/presentationNotes.md": {
+      "initial": 347,
+      "current": 350
+    },
+    "notes/AE/CHEMISTRY/reactionsParticlesAndCollisions.md": {
+      "initial": 165,
+      "current": 168
+    },
+    "notes/AE/PHYSICS/physics.md": {
+      "initial": 30,
+      "current": 39
+    },
+    "notes/AE/PHYSICS/reportChecklist.md": {
+      "initial": 444,
+      "current": 444
+    },
+    "notes/AE/CHEMISTRY/CAP4.md": {
+      "initial": 2114,
+      "current": 2197
+    },
+    "lucarelli.md": {
+      "initial": 2,
+      "current": 2
+    },
+    "notes/AE/CHEMISTRY/lucarelli.md": {
+      "initial": 2,
+      "current": 277
     }
   }
 }

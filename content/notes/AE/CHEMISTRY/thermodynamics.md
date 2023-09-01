@@ -1,5 +1,5 @@
 ---
-title: "thermodynamics"
+title: "Thermodynamics"
 ---
 
 ## enthalpy change

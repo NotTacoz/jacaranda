@@ -13,7 +13,31 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notes/AE/ENGLISH/GAcomprehension.md",
+                "file": "notes/AE/CHEMISTRY/CAP4.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "4a97864e1542227d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "notes/AE/CHEMISTRY/CAP3.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "d10c3bb85261ec75",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "notes/AE/CHEMISTRY/lucarelli.md",
                 "mode": "source",
                 "source": false
               }
@@ -109,7 +133,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "notes/AE/ENGLISH/GAcomprehension.md",
+                "file": "notes/AE/CHEMISTRY/CAP4.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -126,7 +150,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "notes/AE/ENGLISH/GAcomprehension.md",
+                "file": "notes/AE/CHEMISTRY/CAP4.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -149,7 +173,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "notes/AE/ENGLISH/GAcomprehension.md"
+                "file": "notes/AE/CHEMISTRY/CAP4.md"
               }
             }
           },
@@ -190,9 +214,32 @@
   },
   "active": "6ef9b6cc0e77cb6d",
   "lastOpenFiles": [
+    "notes/images/Screen Shot 2023-09-01 at 9.44.48 am.png",
+    "notes/AE/CHEMISTRY/lucarelli.md",
     "notes/AE/CHEMISTRY/CAP4.md",
     "notes/AE/CHEMISTRY/CAP3.md",
+    "notes/AE/CHEMISTRY/kineticEnergy.md",
+    "lucarelli.md",
     "notes/AE/CHEMISTRY/acidsAndBases.md",
+    "notes/AE/CHEMISTRY/chemistry.md",
+    "notes/AE/CHEMISTRY/gases.md",
+    "notes/AE/CHEMISTRY/thermodynamics.md",
+    "notes/AE/CHEMISTRY/reactionsParticlesAndCollisions.md",
+    "notes/AE/notes.md",
+    "notes/AE/PHYSICS/heat.md",
+    "notes/AE/PHYSICS/nuclearPhysics.md",
+    "notes/AE/PHYSICS/physics.md",
+    "notes/AE/PHYSICS/physicsReview.md",
+    "notes/AE/PHYSICS/reportChecklist.md",
+    "notes/AE/PHYSICS/REVISIONelectricalPhysics.md",
+    "notes/AE/PHYSICS/researchAssignment1.md",
+    "notes/AE/PHYSICS/electricalPhysics.md",
+    "notes/AE/CHEMISTRY/ratesOfReaction.md",
+    "notes/AE/ENGLISH/speech.md",
+    "notes/AE/ENGLISH/presentationNotes.md",
+    "notes/AE/ENGLISH/english.md",
+    "notes/AE/ENGLISH/GAcomprehension.md",
+    "notes/AE/CHEMISTRY/organicChem.md",
     "notes/images/Screen Shot 2023-03-09 at 12.15.23 pm.png",
     "notes/images/Screen Shot 2023-03-14 at 12.41.20 pm.png",
     "notes/images/Screen Shot 2023-05-08 at 9.17.59 am.png",
@@ -203,29 +250,6 @@
     "notes/images/Screen Shot 2023-08-09 at 5.57.25 pm.png",
     "notes/images/Screen Shot 2023-08-09 at 6.07.23 pm.png",
     "notes/images/Screen Shot 2023-08-16 at 5.53.18 pm.png",
-    "notes/AE/notes.md",
-    "notes/AE/ENGLISH/GAcomprehension.md",
-    "notes/AE/ENGLISH/english.md",
-    "notes/AE/CHEMISTRY/ratesOfReaction.md",
-    "notes/AE/SPECIALIST/trigonometry.md",
-    "notes/AE/SPECIALIST/specialist.md",
-    "notes/AE/SPECIALIST/matrices.md",
-    "notes/AE/SPECIALIST/inductionProof.md",
-    "notes/AE/SPECIALIST/investigation.md",
-    "_index.md",
-    "notes/AE/METHODS/differentiation.md",
-    "notes/AE/CHEMISTRY/courseOutline.md",
-    "notes/AE/METHODS/sequences.md",
-    "notes/AE/METHODS/antidifferentiation.md",
-    "Untitled.md",
-    "notes/AE/METHODS/exponentialRelationships.md",
-    "notes/AE/METHODS/indexLaws.md",
-    "notes/AE/METHODS/kinematics.md",
-    "notes/AE/METHODS/solvingTrigEquations.md",
-    "notes/AE/METHODS/methods.md",
-    "notes/AE/PHYSICS/heat.md",
-    "notes/archive/AEold/english/lessonnotes/T1W7L2.md",
-    "notes/archive/AEold/english/lessonnotes/T1W8L1.md",
     "notes/images/11 Physics Revision Checklist - Electrical Circuits 2023.pdf",
     "notes/images/11+Physics+Revision+Checklist+-+Ionising+Radiation+&+Nuclear+Reactions+2023.pdf",
     "notes/AE/val/haven",

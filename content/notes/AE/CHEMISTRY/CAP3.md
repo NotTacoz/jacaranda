@@ -1,7 +1,8 @@
-## title: "CAP3"
+---
+title: "CAP3"
+---
 
 everything wrong with the lucarelli textbook (pdf ):
-
 - can't ctrl+f to search for words
 - can't copy and paste areas of the textbook (since everything is an image)
 - no chapters navigation (that exists in the proper form)

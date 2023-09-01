@@ -4,5 +4,6 @@
   "newLinkFormat": "absolute",
   "useMarkdownLinks": true,
   "showUnsupportedFiles": false,
-  "attachmentFolderPath": "notes/images"
+  "attachmentFolderPath": "notes/images",
+  "newFileLocation": "current"
 }

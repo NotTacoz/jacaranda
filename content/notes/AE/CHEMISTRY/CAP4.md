@@ -48,7 +48,6 @@ title: "CAP4"
 	- isomers will have different chemical and physical properties
 	- ![](notes/images/Screen%20Shot%202023-08-31%20at%209.23.35%20am.png)
 - 145.  Describe the nature of bonding in alkanes, alkenes and benzene, using ideas of single and multiple bonds (π bonds), and delocalisation.
-	- 
 - 146.  Explain why alkenes are able to form geometric isomers, whereas alkanes are not.
 	- free rotation is not possible in double bonds
 
@@ -57,9 +56,16 @@ title: "CAP4"
 - 147.  Explain the difference in chemical reactivity of alkanes, alkenes and benzene using discussion of bonding.
 - 148.  Write equations, and draw and name the products for substitution reactions of alkanes and benzene with halogens. 
 - 149.  Explain why substitution reactions of alkanes require visible / UV light to take place.
+	- UV light / heat speeds up the rate of reaction, acting ... **incomplete**
 - 150.  Recognise that substitution reactions of benzene require a catalyst.
 - 151.  Identify, draw and name the products from single and multiple substitution reactions.
 - 152.  Write equations, and draw and name the products of addition reactions of alkenes, with halogens, hydrogen halides and hydrogen.
+	- preface: alkenes go through addition reactions because it is **unsaturated** - alkanes and benzenes do not (even tho benzene is unsaturated)
+	- double bond is replaced by atoms like H, F, Cl, Br, I
+	- reagents: $H_{2},Cl_{2},Br_{2},HCl,HBr,HI$ 
+		- note H2 need Pt catalyst
+		- br2 and cl2 most convenient in lab - bromine water and chlorine water
+		- ![](notes/images/Screen%20Shot%202023-09-01%20at%209.44.48%20am.png)
 - 153.  Describe how aqueous solutions of bromine and iodine can be used to test for unsaturation, and give observable outcomes.
 - 154.  Write equations, and draw and name the products of complete combustion reactions of hydrocarbons.
 - 155.  Given information about the products, write equations for the incomplete combustion reactions of hydrocarbons.
@@ -163,7 +169,8 @@ title: "CAP4"
 	- a positive catalyst provides easier pathway, with a **lower activation energy** 
 		- meaning more particles will have sufficient energy for reaction to occur. 
 		- this increases amount of successful collisions, increasing the rate of reaction.
-- 198.  Draw and interpret energy profile diagrams for catalysed and uncatalysed reactions. - reaction pathway is lower in energy profile diagram, see picture below:![](notes/images/Screen%20Shot%202023-08-28%20at%209.15.28%20am.png)
+- 198.  Draw and interpret energy profile diagrams for catalysed and uncatalysed reactions. 
+	- reaction pathway is lower in energy profile diagram, see picture below:![](notes/images/Screen%20Shot%202023-08-28%20at%209.15.28%20am.png)
 - 199.  _Justify the use of catalysts in industry, to increase the rate of a reaction that would otherwise be uneconomically slow. (SHE)_
 	- 
 - 200.  _Describe how catalysts can be used to reduce negative impact on the environment, for example in catalytic converters. (SHE)_
