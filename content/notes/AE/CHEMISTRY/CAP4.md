@@ -70,6 +70,7 @@ title: "CAP4"
 - 154.  Write equations, and draw and name the products of complete combustion reactions of hydrocarbons.
 - 155.  Given information about the products, write equations for the incomplete combustion reactions of hydrocarbons.
 - 156.  Explain why incomplete combustion is undesirable when using hydrocarbons as fuels.
+	- 
 - 157.  _Discuss the benefits and drawbacks of using hydrocarbons as fuels, including the effect on the environment. (SHE)_
 - 158.  _Compare the effectiveness and suitability of different fuels, including hydrocarbons and biofuels (biogas, biodiesel, bioethanol), and suggest why certain fuels are used. (SHE)_
 - 159.  Calculate percentage composition of a hydrocarbon from the relative atomic masses of the constituent species.
@@ -108,7 +109,6 @@ title: "CAP4"
 	- Diffusion - gases rapidly diffuse as the particles are moving rapidly and continue to move until they hit something
 	- Compressibility - gases are compressible as there is a large amount of space between the particles
 - 167.  Explain the origin of the Kelvin temperature scale, and state the meaning of the term absolute zero.
-	- 
 - 168.  Convert temperatures between Celsius and Kelvin.
 	- temperature is measure of average kinetic energy of the particles.
 	- temperature of gases is measured in Kelvin (K)

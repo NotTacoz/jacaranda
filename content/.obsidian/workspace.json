@@ -13,7 +13,43 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notes/AE/CHEMISTRY/CAP4.md",
+                "file": "notes/AE/CHEMISTRY/organicChem.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "9c5970fe215e1fb3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "notes/AE/CHEMISTRY/acidsAndBases.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "c73c2c5ae0bd5dd2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "notes/AE/ENGLISH/presentationNotes.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "0c4ad1a0a3b42570",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "notes/AE/ENGLISH/comprehendingStructure.md",
                 "mode": "source",
                 "source": false
               }
@@ -43,7 +79,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -133,7 +170,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "notes/AE/CHEMISTRY/CAP4.md",
+                "file": "notes/AE/ENGLISH/comprehendingStructure.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -150,7 +187,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "notes/AE/CHEMISTRY/CAP4.md",
+                "file": "notes/AE/ENGLISH/comprehendingStructure.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -173,7 +210,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "notes/AE/CHEMISTRY/CAP4.md"
+                "file": "notes/AE/ENGLISH/comprehendingStructure.md"
               }
             }
           },
@@ -212,20 +249,30 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "6ef9b6cc0e77cb6d",
+  "active": "0c4ad1a0a3b42570",
   "lastOpenFiles": [
-    "notes/images/Screen Shot 2023-09-01 at 9.44.48 am.png",
-    "notes/AE/CHEMISTRY/lucarelli.md",
-    "notes/AE/CHEMISTRY/CAP4.md",
-    "notes/AE/CHEMISTRY/CAP3.md",
-    "notes/AE/CHEMISTRY/kineticEnergy.md",
-    "lucarelli.md",
+    "notes/AE/ENGLISH/presentationNotes.md",
+    "notes/AE/ENGLISH/comprehendingStructure.md",
+    "notes/AE/CHEMISTRY/empircalFormula.md",
+    "notes/AE/CHEMISTRY/aboriginalCaseStudy.md",
     "notes/AE/CHEMISTRY/acidsAndBases.md",
     "notes/AE/CHEMISTRY/chemistry.md",
-    "notes/AE/CHEMISTRY/gases.md",
+    "notes/AE/CHEMISTRY/CAP3.md",
+    "notes/AE/CHEMISTRY/organicChem.md",
+    "notes/AE/CHEMISTRY/ratesOfReaction.md",
     "notes/AE/CHEMISTRY/thermodynamics.md",
     "notes/AE/CHEMISTRY/reactionsParticlesAndCollisions.md",
+    "notes/AE/CHEMISTRY/CAP4.md",
     "notes/AE/notes.md",
+    "_index.md",
+    "notes/images/keq OK(1) 1.png",
+    "notes/images/keq OK(1).png",
+    "notes/AE/CHEMISTRY/kineticEnergy.md",
+    "notes/AE/CHEMISTRY/courseOutline.md",
+    "notes/AE/CHEMISTRY/lucarelli.md",
+    "notes/images/Screen Shot 2023-09-01 at 9.44.48 am.png",
+    "lucarelli.md",
+    "notes/AE/CHEMISTRY/gases.md",
     "notes/AE/PHYSICS/heat.md",
     "notes/AE/PHYSICS/nuclearPhysics.md",
     "notes/AE/PHYSICS/physics.md",
@@ -233,13 +280,6 @@
     "notes/AE/PHYSICS/reportChecklist.md",
     "notes/AE/PHYSICS/REVISIONelectricalPhysics.md",
     "notes/AE/PHYSICS/researchAssignment1.md",
-    "notes/AE/PHYSICS/electricalPhysics.md",
-    "notes/AE/CHEMISTRY/ratesOfReaction.md",
-    "notes/AE/ENGLISH/speech.md",
-    "notes/AE/ENGLISH/presentationNotes.md",
-    "notes/AE/ENGLISH/english.md",
-    "notes/AE/ENGLISH/GAcomprehension.md",
-    "notes/AE/CHEMISTRY/organicChem.md",
     "notes/images/Screen Shot 2023-03-09 at 12.15.23 pm.png",
     "notes/images/Screen Shot 2023-03-14 at 12.41.20 pm.png",
     "notes/images/Screen Shot 2023-05-08 at 9.17.59 am.png",
@@ -247,9 +287,6 @@
     "notes/images/Screen Shot 2023-08-08 at 6.51.56 pm.png",
     "notes/images/Screen Shot 2023-08-08 at 12.52.35 pm.png",
     "notes/images/Screen Shot 2023-08-09 at 5.55.10 pm.png",
-    "notes/images/Screen Shot 2023-08-09 at 5.57.25 pm.png",
-    "notes/images/Screen Shot 2023-08-09 at 6.07.23 pm.png",
-    "notes/images/Screen Shot 2023-08-16 at 5.53.18 pm.png",
     "notes/images/11 Physics Revision Checklist - Electrical Circuits 2023.pdf",
     "notes/images/11+Physics+Revision+Checklist+-+Ionising+Radiation+&+Nuclear+Reactions+2023.pdf",
     "notes/AE/val/haven",

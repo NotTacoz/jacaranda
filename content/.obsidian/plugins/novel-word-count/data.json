@@ -20,16 +20,16 @@
     "_index.md": {
       "isDirectory": false,
       "noteCount": 1,
-      "wordCount": 22,
-      "pageCount": 0.07333333333333333,
-      "characterCount": 460,
-      "nonWhitespaceCharacterCount": 431,
+      "wordCount": 23,
+      "pageCount": 0.07666666666666666,
+      "characterCount": 497,
+      "nonWhitespaceCharacterCount": 471,
       "linkCount": 3,
-      "embedCount": 0,
+      "embedCount": 1,
       "aliases": null,
       "createdDate": 1693311758420,
-      "modifiedDate": 1693311758420,
-      "sizeInBytes": 496
+      "modifiedDate": 1693533663101,
+      "sizeInBytes": 533
     },
     "empty.md": {
       "isDirectory": false,
@@ -1968,14 +1968,14 @@
       "noteCount": 1,
       "wordCount": 15,
       "pageCount": 0.05,
-      "characterCount": 284,
+      "characterCount": 282,
       "nonWhitespaceCharacterCount": 266,
       "linkCount": 6,
       "embedCount": 0,
       "aliases": null,
-      "createdDate": 1686289697529,
-      "modifiedDate": 1693311764305,
-      "sizeInBytes": 323
+      "createdDate": 1693311764305,
+      "modifiedDate": 1693533653633,
+      "sizeInBytes": 321
     },
     "notes/AE/SPECIALIST/trigonometry.md": {
       "isDirectory": false,
@@ -2369,6 +2369,20 @@
       "modifiedDate": 1693311764022,
       "sizeInBytes": 231
     },
+    "notes/AE/ENGLISH/comprehendingStructure.md": {
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 2,
+      "pageCount": 0.006666666666666667,
+      "characterCount": 10,
+      "nonWhitespaceCharacterCount": 6,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1693538611085,
+      "modifiedDate": 1693538616560,
+      "sizeInBytes": 40
+    },
     "notes/AE/ENGLISH/GAcomprehension.md": {
       "isDirectory": false,
       "noteCount": 1,
@@ -2438,6 +2452,34 @@
       "createdDate": 1693311763906,
       "modifiedDate": 1693531586675,
       "sizeInBytes": 269
+    },
+    "notes/AE/CHEMISTRY/aboriginalCaseStudy.md": {
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 25,
+      "pageCount": 0.08333333333333333,
+      "characterCount": 158,
+      "nonWhitespaceCharacterCount": 132,
+      "linkCount": 1,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1693535293519,
+      "modifiedDate": 1693538579476,
+      "sizeInBytes": 236
+    },
+    "notes/AE/CHEMISTRY/empircalFormula.md": {
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 91,
+      "pageCount": 0.30333333333333334,
+      "characterCount": 491,
+      "nonWhitespaceCharacterCount": 400,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1693534470616,
+      "modifiedDate": 1693534841220,
+      "sizeInBytes": 534
     },
     "notes/AE/CHEMISTRY/lucarelli.md": {
       "isDirectory": false,
@@ -2582,16 +2624,16 @@
     "notes/AE/CHEMISTRY/CAP4.md": {
       "isDirectory": false,
       "noteCount": 1,
-      "wordCount": 2268,
-      "pageCount": 7.56,
-      "characterCount": 14582,
-      "nonWhitespaceCharacterCount": 12012,
+      "wordCount": 2279,
+      "pageCount": 7.596666666666667,
+      "characterCount": 14713,
+      "nonWhitespaceCharacterCount": 12138,
       "linkCount": 0,
-      "embedCount": 3,
+      "embedCount": 4,
       "aliases": null,
       "createdDate": 1693311763611,
-      "modifiedDate": 1693532651283,
-      "sizeInBytes": 14683
+      "modifiedDate": 1693534446330,
+      "sizeInBytes": 14814
     },
     "notes/AE/CHEMISTRY/CAP3.md": {
       "isDirectory": false,

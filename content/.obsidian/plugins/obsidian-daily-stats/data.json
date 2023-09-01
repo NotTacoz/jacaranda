@@ -73,7 +73,7 @@
     "2023/7/29": 426,
     "2023/7/30": 273,
     "2023/7/31": 871,
-    "2023/8/1": 399
+    "2023/8/1": 571
   },
   "todaysWordCount": {
     "notes/AE/CHEMISTRY/CAP3.md": {
@@ -127,6 +127,38 @@
     "notes/AE/CHEMISTRY/lucarelli.md": {
       "initial": 2,
       "current": 277
+    },
+    "notes/AE/notes.md": {
+      "initial": 48,
+      "current": 42
+    },
+    "_index.md": {
+      "initial": 79,
+      "current": 79
+    },
+    "notes/AE/CHEMISTRY/Untitled.md": {
+      "initial": 2,
+      "current": 26
+    },
+    "notes/AE/CHEMISTRY/idk.md": {
+      "initial": 26,
+      "current": 87
+    },
+    "notes/AE/CHEMISTRY/empircalFormula.md": {
+      "initial": 87,
+      "current": 88
+    },
+    "notes/AE/CHEMISTRY/aboriginalCaseStudy.md": {
+      "initial": 3,
+      "current": 38
+    },
+    "notes/AE/ENGLISH/comprehending.md": {
+      "initial": 3,
+      "current": 3
+    },
+    "notes/AE/ENGLISH/comprehendingStructure.md": {
+      "initial": 4,
+      "current": 55
     }
   }
 }
