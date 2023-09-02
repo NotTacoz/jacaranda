@@ -2,8 +2,7 @@
 title: "Course Outline"
 ---
 
----
-
+#AE #chemistry #courseOutline
 ## **Topic 1: ATOMIC STRUCTURE**
 
 ### Essential Chemistry Skills

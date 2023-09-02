@@ -1,6 +1,8 @@
 ---
 title: "CAP4"
 ---
+
+#AE #chemistry 
 ## **Topic 4: CARBON CHEMISTRY & ENERGY**
 
 ### Structure & Naming
@@ -35,9 +37,9 @@ title: "CAP4"
 	- saturated hydrocarbons are hydrocarbons which only contains singular bonds. 
 	- ie all cycloalkanes and alkanes are saturated, cycloalkenes, alkene and alkyne are not saturated, and hence called unsaturated
 - iupac practice, no notes, just get better at naming and recognising through practice
-  - 141.  Use IUPAC nomenclature to name straight and simple branched chain alkanes and alkenes (C1 – C8, one double bond per molecule).
-  - 142.  Use IUPAC nomenclature to name straight chained haloalkanes (C1 – C8).
-  - 143.  Draw and name structural isomers of alkanes and alkenes, specifically chain isomers and position isomers.
+	- 141.  Use IUPAC nomenclature to name straight and simple branched chain alkanes and alkenes (C1 – C8, one double bond per molecule).
+	- 142.  Use IUPAC nomenclature to name straight chained haloalkanes (C1 – C8).
+	- 143.  Draw and name structural isomers of alkanes and alkenes, specifically chain isomers and position isomers.
 - 144.  Draw and name geometric isomers of alkenes, using cis and trans notation.
 	- geometric isomerism
 		- isomers of alkenes
@@ -48,12 +50,40 @@ title: "CAP4"
 	- isomers will have different chemical and physical properties
 	- ![](notes/images/Screen%20Shot%202023-08-31%20at%209.23.35%20am.png)
 - 145.  Describe the nature of bonding in alkanes, alkenes and benzene, using ideas of single and multiple bonds (π bonds), and delocalisation.
+	- > [!note] needs more notes from in class stuff / i researched all of this so HIGH CHANCE WRONG or not needed
+	- alkanes 
+		- composed of only single covalent bonds. (C-C)
+		- single bonds are formed by sharing two electrons (single sigma bond) between carbon atoms
+		- there are no [[notes/delocalised|delocalisation]] of electrons - electrons are localised between two bonded atoms. four sigma bonds / carbon atom, tetrahedral geometry.
+	- alkenes
+		- contains **at least one** double bond (C=C)
+			- this double bond consists of one sigma bond and one pi bond
+		- there is limited delocalisation - this is due to the presence of the pi bond. 
+	- benzenes
+		- hexagonal ring of six carbon atoms, alternating single and double bonds.
+		- benzene has extensive delocalisation of pi electrons.
+			- in benzene, the six pi electrons are not localised within specific double bonds, but delocalised over the entire hexagonal ring. (??)
 - 146.  Explain why alkenes are able to form geometric isomers, whereas alkanes are not.
 	- free rotation is not possible in double bonds
 
 ### Reactions of Hydrocarbons
 
 - 147.  Explain the difference in chemical reactivity of alkanes, alkenes and benzene using discussion of bonding.
+	- Bonding: 
+		- Alkanes are **all** single bonded, 
+		- alkenes contains at least one double bond (C=C)
+			- double bond consists of one sigma bond and one pi bond
+		- and benzene is an arene (misleading as arenes dont react with bromine water XD)
+			- hexagonal ring of 6 carbon atoms, alternating double and single bonds.![What is Benzene? - REGENESIS Remediation Solutions|200](https://regenesis.com/wp-content/uploads/2020/04/benzene.png)
+	- reactivity (ordered + reasoning)
+		- alkenes are relatively more reactive than alkanes and benzenes
+			- pi bond = more reactive than alkanes, as it is weaker
+		- alkanes are relatively unreactive
+			- due to strength of carbon-carbon single bonds
+			- electrons are evenly distributed, which makes it hard to break these bonds.
+		- benzenes are relatively less reactive than alkanes and alkenes
+			- this is because the pi electrons are [[notes/delocalised|delocalised]]. 
+			- this spreads **electron density** (? idk if this is in the lucarelli/syllabus)
 - 148.  Write equations, and draw and name the products for substitution reactions of alkanes and benzene with halogens. 
 - 149.  Explain why substitution reactions of alkanes require visible / UV light to take place.
 	- UV light / heat speeds up the rate of reaction, acting ... **incomplete**
@@ -73,7 +103,19 @@ title: "CAP4"
 	- 
 - 157.  _Discuss the benefits and drawbacks of using hydrocarbons as fuels, including the effect on the environment. (SHE)_
 - 158.  _Compare the effectiveness and suitability of different fuels, including hydrocarbons and biofuels (biogas, biodiesel, bioethanol), and suggest why certain fuels are used. (SHE)_
+	- fuels made by living organisms or the waste produced are called biofuels.
+	- advantages (vs fossil):
+		- biofuels provides renewable energy source - fossil doesn't
+		- less impact on environment
+	- production of electricity, heating water and fuels for buses.
+	- able to provide energy at a small scale
+	- is there more??/ Idk 
 - 159.  Calculate percentage composition of a hydrocarbon from the relative atomic masses of the constituent species.
+	- you will be given a table, with isotopes and their relative abundance.
+	- relative atomic mass = $\frac{\text{{neutron}} \times \text{\% composition (do this for all of em)} }{100}$
+	- if you want to calculate the percentage composition, percentage composition (in %) $=\frac{\text{mass}}{\text{total mass}} \times 100$ 
+		- [source](https://youtu.be/bGmbyztdCHE?si=pzcGMGuyJg097get)
+	- **idk if this is correct, I dont remember revising this in class so i am lost :(**
 - 160.  Use the mole concept and the law of conservation of mass to calculate quantities of reactants and products in a chemical reaction.
 - 161.  Identify and calculate empirical formulae for hydrocarbons using percentage composition data and combustion analysis data, and relate this to the molecular formulae.
 - 162.  Use molecular mass and empirical formulae calculations to establish molecular structure.

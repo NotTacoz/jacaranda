@@ -19,7 +19,7 @@ enableToc: false
 - [reaction, particles, and collisions](notes/archive/AE/CHEMISTRY/reactionsParticlesAndCollisions.md)
 - [gases: kinetic energy](notes/archive/AE/CHEMISTRY/kineticEnergy.md)
 - [gases: gas laws](notes/archive/AE/CHEMISTRY/gases.md)
-- [cap4 revision](notes/archive/AE/CHEMISTRY/CAP4.md)
+- [cap4 revision](notes/CAP4.md)
 - [empirical formulas](notes/archive/AE/CHEMISTRY/empiricalFormula.md)
 	- [dead emus, floating fish, and an awful lot of motion sickness](notes/archive/AE/CHEMISTRY/aboriginalCaseStudy.md)
 - [rates of reaction (report)](notes/archive/AE/CHEMISTRY/ratesOfReactionReport.md)

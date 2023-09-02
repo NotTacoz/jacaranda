@@ -1,6 +1,7 @@
 ---
 title: "empirical formula calcs <3"
 ---
+#AE #chemistry 
 ## empirical formula ahhhhhhhhhhhhhhhhhhhhhh
 more likely other schools won't do this calculation. BECAUSE IT IS YEAR 12!!!!!! typical question 100% will be there (pilling seal of guarantee)
 ### example q
