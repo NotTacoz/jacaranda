@@ -177,8 +177,19 @@ title: "CAP4"
 ### Rate of Reaction
 
 - 185.  State that the rate of a chemical reaction can be quantified by measuring the rate of change in an observable quantity that indicates amount of reactant used up or product made.
+	- **rate** is how quickly one quantity changes compared to another.
+	- in chemical reaction, the **rate of reaction** is defined as the amounts of reactants used up **or** amount of products formed in given time.
+	- the rate of reaction = $\frac{\text{amount of substance used or produced}}{\text{time taken}}$
+	- (change in one measurable quantity over change in time)
 - 186.  Describe a range of methods to measure the rate of a reaction, including volume of gas produced, mass lost, colour change and changes to transparency.
 - 187.  Describe how to change the rate of a chemical reaction, using changes to reactant concentration, gas pressure, temperature, surface area of solid reactant, or use of a catalyst.
+	- factors that affect reaction rates
+		- nature of reactants
+			- reactants requiring smaller amount of energy to break will have higher reaction rate
+			- if there is a larger concentration of reactants, 
+		- concentration & pressure
+		- surface area
+		- temperature
 - 188.  State that a catalyst is a substance that speeds up a chemical reaction without being consumed.
 - 189.  _Conduct experimental work safely, competently and methodically in order to collect valid and reliable data to measure the rate of reaction. (SIS)_
 - 190.  _Represent rate of reaction data in tables and graphs, using correct units and symbols, in order to identify trends and any anomalous data. (SIS)_

@@ -74,16 +74,13 @@
     "2023/7/30": 273,
     "2023/7/31": 871,
     "2023/8/1": 1191,
-    "2023/8/2": 332
+    "2023/8/2": 332,
+    "2023/8/3": 92
   },
   "todaysWordCount": {
     "notes/CAP4.md": {
-      "initial": 2317,
-      "current": 2601
-    },
-    "notes/delocalised.md": {
-      "initial": 2,
-      "current": 50
+      "initial": 2601,
+      "current": 2693
     }
   }
 }
