@@ -1,0 +1,439 @@
+<!DOCTYPE html>
+<html><head><title>Electrical Physics</title><meta charSet="utf-8"/><meta name="viewport" content="width=device-width, initial-scale=1.0"/><meta property="og:title" content="Electrical Physics"/><meta property="og:description" content="electric charge § electric charge is a property of matter some particles have a positive charge, some have negative, and some have a neutral (no) charge."/><meta property="og:image" content="https://nottacoz.github.io/static/og-image.png"/><meta property="og:width" content="1200"/><meta property="og:height" content="675"/><link rel="icon" href="../../../../static/icon.png"/><meta name="description" content="electric charge § electric charge is a property of matter some particles have a positive charge, some have negative, and some have a neutral (no) charge."/><meta name="generator" content="Quartz"/><link rel="preconnect" href="https://fonts.googleapis.com"/><link rel="preconnect" href="https://fonts.gstatic.com"/><link href="../../../../index.css" rel="stylesheet" type="text/css" spa-preserve/><link href="https://cdn.jsdelivr.net/npm/katex@0.16.0/dist/katex.min.css" rel="stylesheet" type="text/css" spa-preserve/><link href="https://fonts.googleapis.com/css2?family=IBM Plex Mono&amp;family=Schibsted Grotesk:wght@400;700&amp;family=Source Sans Pro:ital,wght@0,400;0,600;1,400;1,600&amp;display=swap" rel="stylesheet" type="text/css" spa-preserve/><script src="../../../../prescript.js" type="application/javascript" spa-preserve></script><script type="application/javascript" spa-preserve>const fetchData = fetch(`../../../../static/contentIndex.json`).then(data => data.json())</script></head><body data-slug="notes/archive/AE/PHYSICS/electricalPhysics"><div id="quartz-root" class="page"><div id="quartz-body"><div class="left sidebar"><h1 class="page-title"><a href="../../../..">🌸 JACARANDA</a></h1><div class="spacer mobile-only"></div><div class="search"><div id="search-icon"><p>Search</p><div></div><svg tabIndex="0" aria-labelledby="title desc" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 19.9 19.7"><title id="title">Search</title><desc id="desc">Search</desc><g class="search-path" fill="none"><path stroke-linecap="square" d="M18.5 18.3l-5.4-5.4"></path><circle cx="8" cy="8" r="7"></circle></g></svg></div><div id="search-container"><div id="search-space"><input autocomplete="off" id="search-bar" name="search" type="text" aria-label="Search for something" placeholder="Search for something"/><div id="results-container"></div></div></div></div><div class="darkmode"><input class="toggle" id="darkmode-toggle" type="checkbox" tabIndex="-1"/><label id="toggle-label-light" for="darkmode-toggle" tabIndex="-1"><svg xmlns="http://www.w3.org/2000/svg" xmlnsXlink="http://www.w3.org/1999/xlink" version="1.1" id="dayIcon" x="0px" y="0px" viewBox="0 0 35 35" style="enable-background:new 0 0 35 35;" xmlSpace="preserve"><title>Light mode</title><path d="M6,17.5C6,16.672,5.328,16,4.5,16h-3C0.672,16,0,16.672,0,17.5    S0.672,19,1.5,19h3C5.328,19,6,18.328,6,17.5z M7.5,26c-0.414,0-0.789,0.168-1.061,0.439l-2,2C4.168,28.711,4,29.086,4,29.5    C4,30.328,4.671,31,5.5,31c0.414,0,0.789-0.168,1.06-0.44l2-2C8.832,28.289,9,27.914,9,27.5C9,26.672,8.329,26,7.5,26z M17.5,6    C18.329,6,19,5.328,19,4.5v-3C19,0.672,18.329,0,17.5,0S16,0.672,16,1.5v3C16,5.328,16.671,6,17.5,6z M27.5,9    c0.414,0,0.789-0.168,1.06-0.439l2-2C30.832,6.289,31,5.914,31,5.5C31,4.672,30.329,4,29.5,4c-0.414,0-0.789,0.168-1.061,0.44    l-2,2C26.168,6.711,26,7.086,26,7.5C26,8.328,26.671,9,27.5,9z M6.439,8.561C6.711,8.832,7.086,9,7.5,9C8.328,9,9,8.328,9,7.5    c0-0.414-0.168-0.789-0.439-1.061l-2-2C6.289,4.168,5.914,4,5.5,4C4.672,4,4,4.672,4,5.5c0,0.414,0.168,0.789,0.439,1.06    L6.439,8.561z M33.5,16h-3c-0.828,0-1.5,0.672-1.5,1.5s0.672,1.5,1.5,1.5h3c0.828,0,1.5-0.672,1.5-1.5S34.328,16,33.5,16z     M28.561,26.439C28.289,26.168,27.914,26,27.5,26c-0.828,0-1.5,0.672-1.5,1.5c0,0.414,0.168,0.789,0.439,1.06l2,2    C28.711,30.832,29.086,31,29.5,31c0.828,0,1.5-0.672,1.5-1.5c0-0.414-0.168-0.789-0.439-1.061L28.561,26.439z M17.5,29    c-0.829,0-1.5,0.672-1.5,1.5v3c0,0.828,0.671,1.5,1.5,1.5s1.5-0.672,1.5-1.5v-3C19,29.672,18.329,29,17.5,29z M17.5,7    C11.71,7,7,11.71,7,17.5S11.71,28,17.5,28S28,23.29,28,17.5S23.29,7,17.5,7z M17.5,25c-4.136,0-7.5-3.364-7.5-7.5    c0-4.136,3.364-7.5,7.5-7.5c4.136,0,7.5,3.364,7.5,7.5C25,21.636,21.636,25,17.5,25z"></path></svg></label><label id="toggle-label-dark" for="darkmode-toggle" tabIndex="-1"><svg xmlns="http://www.w3.org/2000/svg" xmlnsXlink="http://www.w3.org/1999/xlink" version="1.1" id="nightIcon" x="0px" y="0px" viewBox="0 0 100 100" style="enable-background='new 0 0 100 100'" xmlSpace="preserve"><title>Dark mode</title><path d="M96.76,66.458c-0.853-0.852-2.15-1.064-3.23-0.534c-6.063,2.991-12.858,4.571-19.655,4.571  C62.022,70.495,50.88,65.88,42.5,57.5C29.043,44.043,25.658,23.536,34.076,6.47c0.532-1.08,0.318-2.379-0.534-3.23  c-0.851-0.852-2.15-1.064-3.23-0.534c-4.918,2.427-9.375,5.619-13.246,9.491c-9.447,9.447-14.65,22.008-14.65,35.369  c0,13.36,5.203,25.921,14.65,35.368s22.008,14.65,35.368,14.65c13.361,0,25.921-5.203,35.369-14.65  c3.872-3.871,7.064-8.328,9.491-13.246C97.826,68.608,97.611,67.309,96.76,66.458z"></path></svg></label></div><div class="toc desktop-only"><button type="button" id="toc"><h3>Table of Contents</h3><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="fold"><polyline points="6 9 12 15 18 9"></polyline></svg></button><div id="toc-content"><ul class="overflow"><li class="depth-0"><a href="#electric-charge" data-for="electric-charge">electric charge</a></li><li class="depth-0"><a href="#behaviour-of-charged-particles" data-for="behaviour-of-charged-particles">behaviour of charged particles</a></li><li class="depth-1"><a href="#measuring-charge" data-for="measuring-charge">measuring charge</a></li><li class="depth-0"><a href="#van-de-graaff" data-for="van-de-graaff">van de graaff</a></li><li class="depth-0"><a href="#electric-current" data-for="electric-current">electric current</a></li><li class="depth-1"><a href="#example-problem" data-for="example-problem">example problem:</a></li><li class="depth-1"><a href="#electric-fields" data-for="electric-fields">electric fields</a></li><li class="depth-0"><a href="#coulombs-law" data-for="coulombs-law">coulombs law</a></li><li class="depth-0"><a href="#electrical-potential-energy" data-for="electrical-potential-energy">electrical potential energy</a></li><li class="depth-1"><a href="#electrical-potential" data-for="electrical-potential">electrical potential</a></li><li class="depth-1"><a href="#potential-difference" data-for="potential-difference">potential difference</a></li><li class="depth-1"><a href="#emf" data-for="emf">emf</a></li><li class="depth-1"><a href="#summary" data-for="summary">summary</a></li><li class="depth-0"><a href="#power" data-for="power">power</a></li><li class="depth-0"><a href="#resistance" data-for="resistance">resistance</a></li><li class="depth-1"><a href="#energy-loss-in-a-resistor" data-for="energy-loss-in-a-resistor">energy loss in a resistor</a></li><li class="depth-1"><a href="#v-i-profiles-helpful-for-investigation" data-for="v-i-profiles-helpful-for-investigation">V-I profiles (HELPFUL FOR INVESTIGATION)</a></li><li class="depth-0"><a href="#kirchhoffs-laws" data-for="kirchhoffs-laws">kirchhoffs laws</a></li><li class="depth-0"><a href="#53-electric-current-and-circuits" data-for="53-electric-current-and-circuits">5.3 electric current and circuits</a></li><li class="depth-0"><a href="#charge-and-current-problems-worksheet" data-for="charge-and-current-problems-worksheet">Charge and Current: Problems Worksheet</a></li></ul></div></div><div class="recent-notes undefined"><h3>Recent Notes</h3><ul class="recent-ul"><li class="recent-li"><div class="section"><div class="desc"><h3><a href="../../../../tags/blahbaslksfjaf" class="internal">chemfsafasfasfistry</a></h3></div><p class="meta">Sep 04, 2023</p><ul class="tags"></ul></div></li><li class="recent-li"><div class="section"><div class="desc"><h3><a href="../../../../notes/temperatureBehaviour" class="internal">behaviour of temperatures</a></h3></div><p class="meta">Sep 04, 2023</p><ul class="tags"><li><a class="internal tag-link" href="../../../../tags/ae">#ae</a></li><li><a class="internal tag-link" href="../../../../tags/chemistry">#chemistry</a></li></ul></div></li><li class="recent-li"><div class="section"><div class="desc"><h3><a href="../../../../notes/daily/2023-09-04" class="internal">2023-09-04</a></h3></div><p class="meta">Sep 04, 2023</p><ul class="tags"><li><a class="internal tag-link" href="../../../../tags/daily">#daily</a></li></ul></div></li></ul></div></div><div class="center"><div class="page-header"><div class="popover-hint"><h1 class="article-title">Electrical Physics</h1><p class="content-meta">Aug 29, 2023, 12 min read</p></div></div><article class="popover-hint"><h2 id="electric-charge">electric charge<a aria-hidden="true" tabindex="-1" href="#electric-charge" class="internal"> §</a></h2>
+<ul>
+<li>electric charge is a property of matter</li>
+<li>some particles have a positive charge, some have negative, and some have a neutral (no) charge.
+<ul>
+<li>how do the forces between electric charges work?
+<ul>
+<li>like charges repel, opposite charges attracts.</li>
+<li>size of the force will be equal but opposite.
+<ul>
+<li>extension of newtons 3rd law.</li>
+</ul>
+</li>
+</ul>
+</li>
+</ul>
+</li>
+<li>measured in coulombs (C) and is given the symbol <span class="math math-inline"><span class="katex"><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.625em;vertical-align:-0.1944em;"></span><span class="mord mathnormal" style="margin-right:0.03588em;">q</span></span></span></span></span></li>
+<li>charge cannot be created or destroyed, but can transfer from 1 location to another.
+<ul>
+<li>this can be done by applying friction.</li>
+<li>e.g. comb rubbing through dry hair, this will create friction, and provides necessary work to transfer the electrons from one object to another.</li>
+<li>when comb is removed, it will be negatively charged.</li>
+<li>when hovered over a neutral piece of paper, electrons are pushed away from the paper and the protons are pulled to create an attractive force.
+<ul>
+<li>attraction force that exist is stronger than the repulsive force that exists.</li>
+</ul>
+</li>
+</ul>
+</li>
+<li>an insulator is a material that <strong>does not</strong> allow charges to move around it.</li>
+<li>conductor allows electric charge to accumulate on the surface of the object, and electric charge tends to exist on the surface of the object; like charges repel.</li>
+<li><span class="math math-inline"><span class="katex"><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.6833em;"></span><span class="mord mathnormal" style="margin-right:0.13889em;">F</span><span class="mspace" style="margin-right:0.2778em;"></span><span class="mrel">=</span><span class="mspace" style="margin-right:0.2778em;"></span></span><span class="base"><span class="strut" style="height:1.2902em;vertical-align:-0.4451em;"></span><span class="mord"><span class="mopen nulldelimiter"></span><span class="mfrac"><span class="vlist-t vlist-t2"><span class="vlist-r"><span class="vlist" style="height:0.8451em;"><span style="top:-2.655em;"><span class="pstrut" style="height:3em;"></span><span class="sizing reset-size6 size3 mtight"><span class="mord mtight"><span class="mord mtight">4</span><span class="mord mathnormal mtight" style="margin-right:0.03588em;">π</span><span class="mord mtight"><span class="mord mathnormal mtight">ϵ</span><span class="msupsub"><span class="vlist-t vlist-t2"><span class="vlist-r"><span class="vlist" style="height:0.3173em;"><span style="top:-2.357em;margin-left:0em;margin-right:0.0714em;"><span class="pstrut" style="height:2.5em;"></span><span class="sizing reset-size3 size1 mtight"><span class="mord mtight"><span class="mord mtight">0</span></span></span></span></span><span class="vlist-s">​</span></span><span class="vlist-r"><span class="vlist" style="height:0.143em;"><span></span></span></span></span></span></span></span></span></span><span style="top:-3.23em;"><span class="pstrut" style="height:3em;"></span><span class="frac-line" style="border-bottom-width:0.04em;"></span></span><span style="top:-3.394em;"><span class="pstrut" style="height:3em;"></span><span class="sizing reset-size6 size3 mtight"><span class="mord mtight"><span class="mord mtight">1</span></span></span></span></span><span class="vlist-s">​</span></span><span class="vlist-r"><span class="vlist" style="height:0.4451em;"><span></span></span></span></span></span><span class="mclose nulldelimiter"></span></span><span class="mord"><span class="mopen nulldelimiter"></span><span class="mfrac"><span class="vlist-t vlist-t2"><span class="vlist-r"><span class="vlist" style="height:0.7475em;"><span style="top:-2.655em;"><span class="pstrut" style="height:3em;"></span><span class="sizing reset-size6 size3 mtight"><span class="mord mtight"><span class="mord mtight"><span class="mord mathnormal mtight" style="margin-right:0.02778em;">r</span><span class="msupsub"><span class="vlist-t"><span class="vlist-r"><span class="vlist" style="height:0.7463em;"><span style="top:-2.786em;margin-right:0.0714em;"><span class="pstrut" style="height:2.5em;"></span><span class="sizing reset-size3 size1 mtight"><span class="mord mtight"><span class="mord mtight">2</span></span></span></span></span></span></span></span></span></span></span></span><span style="top:-3.23em;"><span class="pstrut" style="height:3em;"></span><span class="frac-line" style="border-bottom-width:0.04em;"></span></span><span style="top:-3.4461em;"><span class="pstrut" style="height:3em;"></span><span class="sizing reset-size6 size3 mtight"><span class="mord mtight"><span class="mord mtight"><span class="mord mathnormal mtight" style="margin-right:0.03588em;">q</span><span class="msupsub"><span class="vlist-t vlist-t2"><span class="vlist-r"><span class="vlist" style="height:0.3173em;"><span style="top:-2.357em;margin-left:-0.0359em;margin-right:0.0714em;"><span class="pstrut" style="height:2.5em;"></span><span class="sizing reset-size3 size1 mtight"><span class="mord mtight"><span class="mord mtight">1</span></span></span></span></span><span class="vlist-s">​</span></span><span class="vlist-r"><span class="vlist" style="height:0.143em;"><span></span></span></span></span></span></span><span class="mord mtight"><span class="mord mathnormal mtight" style="margin-right:0.03588em;">q</span><span class="msupsub"><span class="vlist-t vlist-t2"><span class="vlist-r"><span class="vlist" style="height:0.3173em;"><span style="top:-2.357em;margin-left:-0.0359em;margin-right:0.0714em;"><span class="pstrut" style="height:2.5em;"></span><span class="sizing reset-size3 size1 mtight"><span class="mord mtight"><span class="mord mtight">2</span></span></span></span></span><span class="vlist-s">​</span></span><span class="vlist-r"><span class="vlist" style="height:0.143em;"><span></span></span></span></span></span></span></span></span></span></span><span class="vlist-s">​</span></span><span class="vlist-r"><span class="vlist" style="height:0.345em;"><span></span></span></span></span></span><span class="mclose nulldelimiter"></span></span><span class="mspace" style="margin-right:0.2778em;"></span><span class="mrel">=</span><span class="mspace" style="margin-right:0.2778em;"></span></span><span class="base"><span class="strut" style="height:1.2772em;vertical-align:-0.345em;"></span><span class="mord"><span class="mopen nulldelimiter"></span><span class="mfrac"><span class="vlist-t vlist-t2"><span class="vlist-r"><span class="vlist" style="height:0.9322em;"><span style="top:-2.655em;"><span class="pstrut" style="height:3em;"></span><span class="sizing reset-size6 size3 mtight"><span class="mord mtight"><span class="mord mtight"><span class="mord mathnormal mtight">d</span><span class="msupsub"><span class="vlist-t"><span class="vlist-r"><span class="vlist" style="height:0.7463em;"><span style="top:-2.786em;margin-right:0.0714em;"><span class="pstrut" style="height:2.5em;"></span><span class="sizing reset-size3 size1 mtight"><span class="mord mtight">2</span></span></span></span></span></span></span></span></span></span></span><span style="top:-3.23em;"><span class="pstrut" style="height:3em;"></span><span class="frac-line" style="border-bottom-width:0.04em;"></span></span><span style="top:-3.4461em;"><span class="pstrut" style="height:3em;"></span><span class="sizing reset-size6 size3 mtight"><span class="mord mtight"><span class="mord mtight"><span class="mord mathnormal mtight" style="margin-right:0.03148em;">k</span><span class="mord mtight"><span class="mord mathnormal mtight" style="margin-right:0.03588em;">q</span><span class="msupsub"><span class="vlist-t vlist-t2"><span class="vlist-r"><span class="vlist" style="height:0.3173em;"><span style="top:-2.357em;margin-left:-0.0359em;margin-right:0.0714em;"><span class="pstrut" style="height:2.5em;"></span><span class="sizing reset-size3 size1 mtight"><span class="mord mtight"><span class="mord mtight">1</span></span></span></span></span><span class="vlist-s">​</span></span><span class="vlist-r"><span class="vlist" style="height:0.143em;"><span></span></span></span></span></span></span><span class="mord mtight"><span class="mord mathnormal mtight" style="margin-right:0.03588em;">q</span><span class="msupsub"><span class="vlist-t vlist-t2"><span class="vlist-r"><span class="vlist" style="height:0.3173em;"><span style="top:-2.357em;margin-left:-0.0359em;margin-right:0.0714em;"><span class="pstrut" style="height:2.5em;"></span><span class="sizing reset-size3 size1 mtight"><span class="mord mtight"><span class="mord mtight">2</span></span></span></span></span><span class="vlist-s">​</span></span><span class="vlist-r"><span class="vlist" style="height:0.143em;"><span></span></span></span></span></span></span></span></span></span></span></span><span class="vlist-s">​</span></span><span class="vlist-r"><span class="vlist" style="height:0.345em;"><span></span></span></span></span></span><span class="mclose nulldelimiter"></span></span></span></span></span></span></li>
+</ul>
+<h2 id="behaviour-of-charged-particles">behaviour of charged particles<a aria-hidden="true" tabindex="-1" href="#behaviour-of-charged-particles" class="internal"> §</a></h2>
+<ul>
+<li>particles have property called charge
+<ul>
+<li>charge can be positive, negative or neutral.</li>
+<li>usually charge is balanced out perfectly.</li>
+<li>when significant numbers of these charged particles become separated or move relative to each other, it results in <strong>electricity</strong>.</li>
+</ul>
+</li>
+<li>tiny particles are called atoms</li>
+</ul>
+<p><strong>table of charge and repel/attraction of other charges</strong></p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<table><thead><tr><th>charge</th><th>positive</th><th>negative</th></tr></thead><tbody><tr><td>positive</td><td>repel</td><td>attract</td></tr><tr><td>negative</td><td>attract</td><td>repel</td></tr></tbody></table>
+<h3 id="measuring-charge">measuring charge<a aria-hidden="true" tabindex="-1" href="#measuring-charge" class="internal"> §</a></h3>
+<ul>
+<li>in order to measure the actual amount of charge, a ‘fundamental’ unit would be the size of the charge on one electron/proton.</li>
+<li>coulomb (symbol C) unit of charge.</li>
+<li>+1 coulomb (1 C) is equivalent to <span class="math math-inline"><span class="katex"><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.7278em;vertical-align:-0.0833em;"></span><span class="mord">6.2</span><span class="mspace" style="margin-right:0.2222em;"></span><span class="mbin">×</span><span class="mspace" style="margin-right:0.2222em;"></span></span><span class="base"><span class="strut" style="height:0.8141em;"></span><span class="mord">1</span><span class="mord"><span class="mord">0</span><span class="msupsub"><span class="vlist-t"><span class="vlist-r"><span class="vlist" style="height:0.8141em;"><span style="top:-3.063em;margin-right:0.05em;"><span class="pstrut" style="height:2.7em;"></span><span class="sizing reset-size6 size3 mtight"><span class="mord mtight"><span class="mord mtight">18</span></span></span></span></span></span></span></span></span></span></span></span></span> protons.</li>
+<li>charge of single proton is <span class="math math-inline"><span class="katex"><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.7278em;vertical-align:-0.0833em;"></span><span class="mord">+</span><span class="mord">1.6</span><span class="mspace" style="margin-right:0.2222em;"></span><span class="mbin">×</span><span class="mspace" style="margin-right:0.2222em;"></span></span><span class="base"><span class="strut" style="height:0.8141em;"></span><span class="mord">1</span><span class="mord"><span class="mord">0</span><span class="msupsub"><span class="vlist-t"><span class="vlist-r"><span class="vlist" style="height:0.8141em;"><span style="top:-3.063em;margin-right:0.05em;"><span class="pstrut" style="height:2.7em;"></span><span class="sizing reset-size6 size3 mtight"><span class="mord mtight"><span class="mord mtight">−</span><span class="mord mtight">19</span></span></span></span></span></span></span></span></span></span></span></span></span></li>
+<li>charge of single electron is <span class="math math-inline"><span class="katex"><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.7278em;vertical-align:-0.0833em;"></span><span class="mord">−</span><span class="mord">1.6</span><span class="mspace" style="margin-right:0.2222em;"></span><span class="mbin">×</span><span class="mspace" style="margin-right:0.2222em;"></span></span><span class="base"><span class="strut" style="height:0.8141em;"></span><span class="mord">1</span><span class="mord"><span class="mord">0</span><span class="msupsub"><span class="vlist-t"><span class="vlist-r"><span class="vlist" style="height:0.8141em;"><span style="top:-3.063em;margin-right:0.05em;"><span class="pstrut" style="height:2.7em;"></span><span class="sizing reset-size6 size3 mtight"><span class="mord mtight"><span class="mord mtight">−</span><span class="mord mtight">19</span></span></span></span></span></span></span></span></span></span></span></span></span></li>
+<li>the letter q is used to represent the quantity of charge.</li>
+</ul>
+<h2 id="van-de-graaff">van de graaff<a aria-hidden="true" tabindex="-1" href="#van-de-graaff" class="internal"> §</a></h2>
+<ul>
+<li>uses friction of a conveyer belt to accumulate an electric charge on the metal dome.
+<ul>
+<li>transfer of a charge. electrons move from one object to another.
+<ul>
+<li>(not entirely sure which way they move, nor does it matter)</li>
+</ul>
+</li>
+<li>lets say the electrons jump from conveyer belt to <strong>metal dome</strong></li>
+<li>development of electric charge on the surface of the drone
+<ul>
+<li>high electric charge | static charge within the dome.</li>
+</ul>
+</li>
+</ul>
+</li>
+<li>repulsion
+<ul>
+<li>when the dome develops overall charge and a person plays their hand on the dome, the dome wants to get rid of its charge. Charges will spread around your body, like charges repel, therefore your hair will stand up on end.</li>
+<li>light hair -> pushes away from the body and each other / repulsive force</li>
+</ul>
+</li>
+<li>static discharge
+<ul>
+<li>sparks
+<ul>
+<li>if the amount of charge is great enough and the distance is small enough, the air will be ionised.</li>
+<li>this creates a channel for the charges to jump to another location, causing a visible spark (static shock)</li>
+</ul>
+</li>
+<li>if the charge is great, but there is nowhere nearby to jump to, the charge will gradually “leak” out the surrounding neutral air.</li>
+</ul>
+</li>
+</ul>
+<h2 id="electric-current">electric current<a aria-hidden="true" tabindex="-1" href="#electric-current" class="internal"> §</a></h2>
+<ul>
+<li>an electric current is the flow / movement of electric charge.</li>
+<li>it is measured in Amperes (A) and given the symbol I</li>
+<li>current is measured with a device called an ammeter.</li>
+<li>-ve charges more to the left current (I) is moving to the right.</li>
+<li>I = q/t (charge (c)/ time (s))</li>
+<li>in physics, we define the +ve direction of current as the direction that +ve charges flow (called conventional current)</li>
+<li>since current is the movement of electric charge, connected with the movement of physical particles, it must be a conserved quantity, the charge carried always have to somewhere.</li>
+<li>no. of +ve particles at location 1 = no. of +ve particles at location 2 (no chance for +ve charge to leave wire)</li>
+<li><span class="math math-inline"><span class="katex"><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:1em;vertical-align:-0.25em;"></span><span class="mop op-symbol small-op" style="position:relative;top:0em;">∑</span><span class="mspace" style="margin-right:0.1667em;"></span><span class="mord"><span class="mord mathnormal" style="margin-right:0.07847em;">I</span><span class="msupsub"><span class="vlist-t vlist-t2"><span class="vlist-r"><span class="vlist" style="height:0.3117em;"><span style="top:-2.55em;margin-left:-0.0785em;margin-right:0.05em;"><span class="pstrut" style="height:2.7em;"></span><span class="sizing reset-size6 size3 mtight"><span class="mord mtight"><span class="mord mathnormal mtight">in</span></span></span></span></span><span class="vlist-s">​</span></span><span class="vlist-r"><span class="vlist" style="height:0.15em;"><span></span></span></span></span></span></span><span class="mspace" style="margin-right:0.2778em;"></span><span class="mrel">=</span><span class="mspace" style="margin-right:0.2778em;"></span></span><span class="base"><span class="strut" style="height:1em;vertical-align:-0.25em;"></span><span class="mop op-symbol small-op" style="position:relative;top:0em;">∑</span><span class="mspace" style="margin-right:0.1667em;"></span><span class="mord"><span class="mord mathnormal" style="margin-right:0.07847em;">I</span><span class="msupsub"><span class="vlist-t vlist-t2"><span class="vlist-r"><span class="vlist" style="height:0.2806em;"><span style="top:-2.55em;margin-left:-0.0785em;margin-right:0.05em;"><span class="pstrut" style="height:2.7em;"></span><span class="sizing reset-size6 size3 mtight"><span class="mord mtight"><span class="mord mathnormal mtight">o</span><span class="mord mathnormal mtight">u</span><span class="mord mathnormal mtight">t</span></span></span></span></span><span class="vlist-s">​</span></span><span class="vlist-r"><span class="vlist" style="height:0.15em;"><span></span></span></span></span></span></span></span></span></span></span> due to conservation of charge.</li>
+</ul>
+<h3 id="example-problem">example problem:<a aria-hidden="true" tabindex="-1" href="#example-problem" class="internal"> §</a></h3>
+<ul>
+<li>how many electrons flow through the ammeter in 3.5min?
+<ul>
+<li>I1 = 70mA = 0.07A</li>
+<li>q = It = 0.070 _ 3.5 _ 60 = 14.7</li>
+<li>no of e = 14.6/1.6x10^-19 = 9.19x10^19</li>
+</ul>
+</li>
+</ul>
+<h3 id="electric-fields">electric fields<a aria-hidden="true" tabindex="-1" href="#electric-fields" class="internal"> §</a></h3>
+<ul>
+<li>a drawing of the force experienced by a hypothetical, positive ‘test charge’ when placed near a charged object.</li>
+</ul>
+<ol>
+<li>field lines go from positive to negative.</li>
+<li>positive charges travel in direction of arrows, negative charges travel in the opposite direction.</li>
+<li>field lines do not cross.</li>
+<li>field lines are evenly spread.</li>
+<li>the closer the field lines, the stronger the electric field.</li>
+</ol>
+<h4 id="example---point-charge">example - point charge<a aria-hidden="true" tabindex="-1" href="#example---point-charge" class="internal"> §</a></h4>
+<ul>
+<li>point charge is electrical charge (usually a particle) which we assume has zero radius i.e. electrons.</li>
+</ul>
+<h4 id="example-2---spherical-charges">example 2 - spherical charges<a aria-hidden="true" tabindex="-1" href="#example-2---spherical-charges" class="internal"> §</a></h4>
+<ul>
+<li>identical to point charges, these usually have a charge evenly distributed on their surface to produce a radial electric field.</li>
+</ul>
+<h4 id="example-3---charged-plates">example 3 - charged plates<a aria-hidden="true" tabindex="-1" href="#example-3---charged-plates" class="internal"> §</a></h4>
+<ul>
+<li>electric charges are distributed evenly along the plates. the field between the plates is evenly distributed in parallel lines but the ends are bowed.</li>
+</ul>
+<h2 id="coulombs-law">coulombs law<a aria-hidden="true" tabindex="-1" href="#coulombs-law" class="internal"> §</a></h2>
+<ul>
+<li>force between two point charges placed in proximity to each other can be determined using coulombs law: <span class="math math-inline"><span class="katex"><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.6833em;"></span><span class="mord mathnormal" style="margin-right:0.13889em;">F</span><span class="mspace" style="margin-right:0.2778em;"></span><span class="mrel">=</span><span class="mspace" style="margin-right:0.2778em;"></span></span><span class="base"><span class="strut" style="height:1.2902em;vertical-align:-0.4451em;"></span><span class="mord"><span class="mopen nulldelimiter"></span><span class="mfrac"><span class="vlist-t vlist-t2"><span class="vlist-r"><span class="vlist" style="height:0.8451em;"><span style="top:-2.655em;"><span class="pstrut" style="height:3em;"></span><span class="sizing reset-size6 size3 mtight"><span class="mord mtight"><span class="mord mtight">4</span><span class="mord mathnormal mtight" style="margin-right:0.03588em;">π</span><span class="mord mtight"><span class="mord mathnormal mtight">ϵ</span><span class="msupsub"><span class="vlist-t vlist-t2"><span class="vlist-r"><span class="vlist" style="height:0.3173em;"><span style="top:-2.357em;margin-left:0em;margin-right:0.0714em;"><span class="pstrut" style="height:2.5em;"></span><span class="sizing reset-size3 size1 mtight"><span class="mord mtight"><span class="mord mtight">0</span></span></span></span></span><span class="vlist-s">​</span></span><span class="vlist-r"><span class="vlist" style="height:0.143em;"><span></span></span></span></span></span></span></span></span></span><span style="top:-3.23em;"><span class="pstrut" style="height:3em;"></span><span class="frac-line" style="border-bottom-width:0.04em;"></span></span><span style="top:-3.394em;"><span class="pstrut" style="height:3em;"></span><span class="sizing reset-size6 size3 mtight"><span class="mord mtight"><span class="mord mtight">1</span></span></span></span></span><span class="vlist-s">​</span></span><span class="vlist-r"><span class="vlist" style="height:0.4451em;"><span></span></span></span></span></span><span class="mclose nulldelimiter"></span></span><span class="mord"><span class="mopen nulldelimiter"></span><span class="mfrac"><span class="vlist-t vlist-t2"><span class="vlist-r"><span class="vlist" style="height:0.7475em;"><span style="top:-2.655em;"><span class="pstrut" style="height:3em;"></span><span class="sizing reset-size6 size3 mtight"><span class="mord mtight"><span class="mord mtight"><span class="mord mathnormal mtight" style="margin-right:0.02778em;">r</span><span class="msupsub"><span class="vlist-t"><span class="vlist-r"><span class="vlist" style="height:0.7463em;"><span style="top:-2.786em;margin-right:0.0714em;"><span class="pstrut" style="height:2.5em;"></span><span class="sizing reset-size3 size1 mtight"><span class="mord mtight">2</span></span></span></span></span></span></span></span></span></span></span><span style="top:-3.23em;"><span class="pstrut" style="height:3em;"></span><span class="frac-line" style="border-bottom-width:0.04em;"></span></span><span style="top:-3.4461em;"><span class="pstrut" style="height:3em;"></span><span class="sizing reset-size6 size3 mtight"><span class="mord mtight"><span class="mord mtight"><span class="mord mathnormal mtight" style="margin-right:0.03588em;">q</span><span class="msupsub"><span class="vlist-t vlist-t2"><span class="vlist-r"><span class="vlist" style="height:0.3173em;"><span style="top:-2.357em;margin-left:-0.0359em;margin-right:0.0714em;"><span class="pstrut" style="height:2.5em;"></span><span class="sizing reset-size3 size1 mtight"><span class="mord mtight"><span class="mord mtight">1</span></span></span></span></span><span class="vlist-s">​</span></span><span class="vlist-r"><span class="vlist" style="height:0.143em;"><span></span></span></span></span></span></span><span class="mord mtight"><span class="mord mathnormal mtight" style="margin-right:0.03588em;">q</span><span class="msupsub"><span class="vlist-t vlist-t2"><span class="vlist-r"><span class="vlist" style="height:0.3173em;"><span style="top:-2.357em;margin-left:-0.0359em;margin-right:0.0714em;"><span class="pstrut" style="height:2.5em;"></span><span class="sizing reset-size3 size1 mtight"><span class="mord mtight"><span class="mord mtight">2</span></span></span></span></span><span class="vlist-s">​</span></span><span class="vlist-r"><span class="vlist" style="height:0.143em;"><span></span></span></span></span></span></span></span></span></span></span><span class="vlist-s">​</span></span><span class="vlist-r"><span class="vlist" style="height:0.345em;"><span></span></span></span></span></span><span class="mclose nulldelimiter"></span></span></span></span></span></span></li>
+<li>F = the force between the charges (N), r = the distance between the two charges
+<ul>
+<li>indicates direction of the force.</li>
+<li>positive value indicates two like charges or a force of repulsion.</li>
+<li>negative value indicates opposite or a force of attraction.</li>
+</ul>
+</li>
+<li><span class="math math-inline"><span class="katex"><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.625em;vertical-align:-0.1944em;"></span><span class="mord"><span class="mord mathnormal" style="margin-right:0.03588em;">q</span><span class="msupsub"><span class="vlist-t vlist-t2"><span class="vlist-r"><span class="vlist" style="height:0.3011em;"><span style="top:-2.55em;margin-left:-0.0359em;margin-right:0.05em;"><span class="pstrut" style="height:2.7em;"></span><span class="sizing reset-size6 size3 mtight"><span class="mord mtight"><span class="mord mtight">1</span></span></span></span></span><span class="vlist-s">​</span></span><span class="vlist-r"><span class="vlist" style="height:0.15em;"><span></span></span></span></span></span></span></span></span></span></span> = the first charge (C)</li>
+<li><span class="math math-inline"><span class="katex"><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.625em;vertical-align:-0.1944em;"></span><span class="mord"><span class="mord mathnormal" style="margin-right:0.03588em;">q</span><span class="msupsub"><span class="vlist-t vlist-t2"><span class="vlist-r"><span class="vlist" style="height:0.3011em;"><span style="top:-2.55em;margin-left:-0.0359em;margin-right:0.05em;"><span class="pstrut" style="height:2.7em;"></span><span class="sizing reset-size6 size3 mtight"><span class="mord mtight"><span class="mord mtight">2</span></span></span></span></span><span class="vlist-s">​</span></span><span class="vlist-r"><span class="vlist" style="height:0.15em;"><span></span></span></span></span></span></span></span></span></span></span> = the second charge (C)</li>
+<li><span class="math math-inline"><span class="katex"><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.6944em;"></span><span class="mord mathnormal" style="margin-right:0.03148em;">k</span></span></span></span></span> = coulomb constant</li>
+<li><span class="math math-inline"><span class="katex"><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.4306em;"></span><span class="mord mathnormal" style="margin-right:0.02778em;">r</span></span></span></span></span> = distances of separation</li>
+</ul>
+<h2 id="electrical-potential-energy">electrical potential energy<a aria-hidden="true" tabindex="-1" href="#electrical-potential-energy" class="internal"> §</a></h2>
+<ul>
+<li>potential energy is ‘stored’ energy which has the capacity to do work which typically arises because of the position of objects or particles.</li>
+</ul>
+<h3 id="electrical-potential">electrical potential<a aria-hidden="true" tabindex="-1" href="#electrical-potential" class="internal"> §</a></h3>
+<ul>
+<li>not the same as EPE.</li>
+<li>electrical potential is the amount of potential energy per unit of charge (per coulomb) i.e. total amount of electrical potential energy for 1 coulomb</li>
+<li><span class="math math-inline"><span class="katex"><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.6833em;"></span><span class="mord mathnormal" style="margin-right:0.22222em;">V</span><span class="mspace" style="margin-right:0.2778em;"></span><span class="mrel">=</span><span class="mspace" style="margin-right:0.2778em;"></span></span><span class="base"><span class="strut" style="height:1.3534em;vertical-align:-0.4811em;"></span><span class="mord"><span class="mopen nulldelimiter"></span><span class="mfrac"><span class="vlist-t vlist-t2"><span class="vlist-r"><span class="vlist" style="height:0.8723em;"><span style="top:-2.655em;"><span class="pstrut" style="height:3em;"></span><span class="sizing reset-size6 size3 mtight"><span class="mord mtight"><span class="mord mathnormal mtight" style="margin-right:0.03588em;">q</span></span></span></span><span style="top:-3.23em;"><span class="pstrut" style="height:3em;"></span><span class="frac-line" style="border-bottom-width:0.04em;"></span></span><span style="top:-3.394em;"><span class="pstrut" style="height:3em;"></span><span class="sizing reset-size6 size3 mtight"><span class="mord mtight"><span class="mord mathnormal mtight" style="margin-right:0.05764em;">E</span></span></span></span></span><span class="vlist-s">​</span></span><span class="vlist-r"><span class="vlist" style="height:0.4811em;"><span></span></span></span></span></span><span class="mclose nulldelimiter"></span></span><span class="mspace" style="margin-right:0.2778em;"></span><span class="mrel">=</span><span class="mspace" style="margin-right:0.2778em;"></span></span><span class="base"><span class="strut" style="height:1.3534em;vertical-align:-0.4811em;"></span><span class="mord"><span class="mopen nulldelimiter"></span><span class="mfrac"><span class="vlist-t vlist-t2"><span class="vlist-r"><span class="vlist" style="height:0.8723em;"><span style="top:-2.655em;"><span class="pstrut" style="height:3em;"></span><span class="sizing reset-size6 size3 mtight"><span class="mord mtight"><span class="mord mathnormal mtight" style="margin-right:0.03588em;">q</span></span></span></span><span style="top:-3.23em;"><span class="pstrut" style="height:3em;"></span><span class="frac-line" style="border-bottom-width:0.04em;"></span></span><span style="top:-3.394em;"><span class="pstrut" style="height:3em;"></span><span class="sizing reset-size6 size3 mtight"><span class="mord mtight"><span class="mord mathnormal mtight" style="margin-right:0.13889em;">W</span></span></span></span></span><span class="vlist-s">​</span></span><span class="vlist-r"><span class="vlist" style="height:0.4811em;"><span></span></span></span></span></span><span class="mclose nulldelimiter"></span></span></span></span></span></span></li>
+<li>because of the attraction of the particles, they might start to fall towards the plate.
+<ul>
+<li>charge particles will naturally (and desire to) move from a high potential to a low potential.</li>
+<li>we can do opposite by putting energy into particles, making them move away. you need energy to increase your potential 1V to 3V requires v = 2V.</li>
+</ul>
+</li>
+</ul>
+<h3 id="potential-difference">potential difference<a aria-hidden="true" tabindex="-1" href="#potential-difference" class="internal"> §</a></h3>
+<ul>
+<li>potential difference (or voltage) is measured using voltmeter.</li>
+<li>a potential difference must be measured by two different locations on a circuit.</li>
+<li>will exist if the charge particles gain potential energy (battery) or lose potential energy (light gloves, resistors, speakers etc.)</li>
+</ul>
+<h3 id="emf">emf<a aria-hidden="true" tabindex="-1" href="#emf" class="internal"> §</a></h3>
+<ul>
+<li>
+<p>an electromotive force (emf) is another term for a “potential difference” when the charged particles are being supplied with electrical potential energy (instead of losing potential energy)</p>
+</li>
+<li>
+<p>an emf is formed through the separation of oppositely charged particles; in a battery this is achieved by using one chemical that craves electrons and another that is happy to release them.</p>
+</li>
+<li>
+<p>an emf will drive an electric current around a closed circuit. the charged particles will naturally move to a lower potential as they are attached to the opposite charge on the far side of the circuit.</p>
+<blockquote class="callout" data-callout="note">
+<div class="callout-title">
+                  <div class="callout-icon"><svg xmlns="http://www.w3.org/2000/svg" width="100%" height="100%" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><line x1="18" y1="2" x2="22" y2="6"></line><path d="M7.5 20.5 19 9l-4-4L3.5 16.5 2 22z"></path></svg></div>
+                  <div class="callout-title-inner"><p>Note </p></div>
+                  
+                </div>
+<p>energy in = energy out</p>
+</blockquote>
+</li>
+<li>
+<p>12.0 -> 8.5 over 12s</p>
+</li>
+</ul>
+<h3 id="summary">summary<a aria-hidden="true" tabindex="-1" href="#summary" class="internal"> §</a></h3>
+<ul>
+<li>the EMF supplies charged particles with potential energy</li>
+<li>the EMF drives the charged particles around a closed circuit</li>
+<li>the charged particles lose potential energy as they flow, converting it to heat, light, sound, etc.</li>
+<li>energy is conserved during these transformations.</li>
+</ul>
+<h2 id="power">power<a aria-hidden="true" tabindex="-1" href="#power" class="internal"> §</a></h2>
+<ul>
+<li>power is the rate of change</li>
+<li>P (watts W) = E/t (energy (J)/time (s))</li>
+<li>since I = q/t, P = vq/t = VI | power = voltage x current</li>
+</ul>
+<h2 id="resistance">resistance<a aria-hidden="true" tabindex="-1" href="#resistance" class="internal"> §</a></h2>
+<ul>
+<li>resistance of a circuit element increase when:
+<ul>
+<li>length is increased: electrons interactions with protons is increased as they need to take a longer path to reach the other side</li>
+<li>diameter is reduced: amount of paths available for delocalised electrons to move through.</li>
+<li>temperature is increased: as electrons try to move through, increasing temperature results in higher kinetic energy meaning protons moving/vibrating more rapidly. Electric fields then have more influence on the electrons.</li>
+<li>resistivity of material is larger: part of the intrinsic behaviour iron -> copper -> silver</li>
+</ul>
+</li>
+</ul>
+<h3 id="energy-loss-in-a-resistor">energy loss in a resistor<a aria-hidden="true" tabindex="-1" href="#energy-loss-in-a-resistor" class="internal"> §</a></h3>
+<ul>
+<li>when a current flows through a circuit element with a resistance, a potential difference will exist across that element (Ohm’s law) V = IR.</li>
+<li>a potential difference is a measure of the drop in ‘potential energy per coulomb’</li>
+<li>as a current flows through a resistor, there needs to be a change in energy of the charged particles that are flowing through.</li>
+<li>this is confirmed using a voltmeter that will measure that there is a potential difference.</li>
+</ul>
+<h4 id="where-will-this-energy-go">where will this energy go?<a aria-hidden="true" tabindex="-1" href="#where-will-this-energy-go" class="internal"> §</a></h4>
+<ul>
+<li>a current flowing through a resistive element will produce heat. This might be desirable, or simply a form of wasted energy.</li>
+<li>transfer of kinetic energy (movement of particles)</li>
+<li>e.g. toaster -> drive a current through a metal bar -> current due to resistance will release heat energy.</li>
+</ul>
+<h3 id="v-i-profiles-helpful-for-investigation">V-I profiles (HELPFUL FOR INVESTIGATION)<a aria-hidden="true" tabindex="-1" href="#v-i-profiles-helpful-for-investigation" class="internal"> §</a></h3>
+<ul>
+<li>when we analyse different circuit components, looking at the voltage-current profile, it helps us explain a particular component of the circuit.</li>
+<li>as we increase the voltage, the amount of current flowing through that element will also increase.
+<ul>
+<li>in a resistor, this will provide a linear relationship.<img src="../../../../notes/images/Pasted-image-20230809090847.png" alt="300"/>
+(ohmic resistor graph)</li>
+<li>we can figure out the gradient if we analyse the graph.</li>
+<li>gradient = rise/run = change in current/change in voltage = I/V (ohms law flipped!!!)</li>
+<li>I/V is flipped ohms law, therefore, Resistance = 1/gradient.</li>
+<li>indicate points CLEARLY on the graph!!!!!!!!!</li>
+</ul>
+</li>
+<li>in a <strong>voltage current profile</strong> for a resistor, the resistance = 1/gradient, the gradient is constant and therefore the resistance of the resistor is also a constant, therefore the resistance of the resistor is also a constant value - <strong>ohmic conductor</strong>.</li>
+<li>non-ohmic conductor
+<ul>
+<li>a globe is not ohmic. Their resistance changes with respect to the voltage that is placed across them.</li>
+<li>if the resistance is 1/gradient and the resistance is changing, then the gradient is changing.</li>
+<li>non-ohmic device can be identified from its voltage current profile, as the gradient will <strong>NOT</strong> be constant.</li>
+</ul>
+</li>
+</ul>
+<h2 id="kirchhoffs-laws">kirchhoffs laws<a aria-hidden="true" tabindex="-1" href="#kirchhoffs-laws" class="internal"> §</a></h2>
+<ul>
+<li>kirchhoffs current law (KCL)
+<ul>
+<li>the sum of the currents flowing into a junction is equal to the sum of the currents flowing out.</li>
+<li><span class="math math-inline"><span class="katex"><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.8333em;vertical-align:-0.15em;"></span><span class="mord"><span class="mord mathnormal" style="margin-right:0.07847em;">I</span><span class="msupsub"><span class="vlist-t vlist-t2"><span class="vlist-r"><span class="vlist" style="height:0.3283em;"><span style="top:-2.55em;margin-left:-0.0785em;margin-right:0.05em;"><span class="pstrut" style="height:2.7em;"></span><span class="sizing reset-size6 size3 mtight"><span class="mord mtight"><span class="mord mathnormal mtight" style="margin-right:0.13889em;">T</span></span></span></span></span><span class="vlist-s">​</span></span><span class="vlist-r"><span class="vlist" style="height:0.15em;"><span></span></span></span></span></span></span><span class="mspace" style="margin-right:0.2778em;"></span><span class="mrel">=</span><span class="mspace" style="margin-right:0.2778em;"></span></span><span class="base"><span class="strut" style="height:0.8333em;vertical-align:-0.15em;"></span><span class="mord"><span class="mord mathnormal" style="margin-right:0.07847em;">I</span><span class="msupsub"><span class="vlist-t vlist-t2"><span class="vlist-r"><span class="vlist" style="height:0.3011em;"><span style="top:-2.55em;margin-left:-0.0785em;margin-right:0.05em;"><span class="pstrut" style="height:2.7em;"></span><span class="sizing reset-size6 size3 mtight"><span class="mord mtight"><span class="mord mtight">1</span></span></span></span></span><span class="vlist-s">​</span></span><span class="vlist-r"><span class="vlist" style="height:0.15em;"><span></span></span></span></span></span></span><span class="mspace" style="margin-right:0.2222em;"></span><span class="mbin">+</span><span class="mspace" style="margin-right:0.2222em;"></span></span><span class="base"><span class="strut" style="height:0.8333em;vertical-align:-0.15em;"></span><span class="mord"><span class="mord mathnormal" style="margin-right:0.07847em;">I</span><span class="msupsub"><span class="vlist-t vlist-t2"><span class="vlist-r"><span class="vlist" style="height:0.3011em;"><span style="top:-2.55em;margin-left:-0.0785em;margin-right:0.05em;"><span class="pstrut" style="height:2.7em;"></span><span class="sizing reset-size6 size3 mtight"><span class="mord mtight"><span class="mord mtight">2</span></span></span></span></span><span class="vlist-s">​</span></span><span class="vlist-r"><span class="vlist" style="height:0.15em;"><span></span></span></span></span></span></span></span></span></span></span></li>
+</ul>
+</li>
+<li>4 things to think abt when looking at diagram (referring to series circuit):
+<ul>
+<li>ohms law</li>
+<li>kirchhoffs voltage law</li>
+<li>kirchhoffs current law</li>
+<li>equivalent resistance</li>
+</ul>
+</li>
+</ul>
+<h2 id="53-electric-current-and-circuits">5.3 electric current and circuits<a aria-hidden="true" tabindex="-1" href="#53-electric-current-and-circuits" class="internal"> §</a></h2>
+<ul>
+<li><strong>electrical circuit</strong> is a path made of conductive material, through which charges can flow in a closed loop.</li>
+<li>movement of electrons is called <strong>electron flow</strong>.</li>
+</ul>
+<h2 id="charge-and-current-problems-worksheet">Charge and Current: Problems Worksheet<a aria-hidden="true" tabindex="-1" href="#charge-and-current-problems-worksheet" class="internal"> §</a></h2>
+<ol>
+<li>Object X is known to have a net positive charge. Through experimentation the following was observed:</li>
+</ol>
+<ul>
+<li>Object X attracts object Y</li>
+<li>Object Y repels object Z
+a. Explain, using the our current understanding of the atom, how object X could have gained a positive net charge.</li>
+<li>by having more protons that electrons
+b. Object X is placed near object Z. Would these two objects attract or repel each other?</li>
+<li>attract, because Object Y and Z have the same charge (since they repel each other), and object Y is attracted to object X (opposite charges), so object Z and X have opposing charges (attracting each other)
+c. When object X is placed near object Y it loses its net positive charge. Suggest the most likely reason why this occurs.</li>
+<li>because the net positive charge is counteracted by an equally negative charge.</li>
+</ul>
+<ol start="2">
+<li>After moving around on carpet in socks, Jane reaches for a door knob and receives a static shock
+a. Describe the physics behind the cause of a static shock.</li>
+</ol>
+<ul>
+<li>Jane has a net negative charge because her body collected electrons, and the electrons are released when she touches the door knob.
+b. Explain how the conditions required for Jane to be shocked occurred.</li>
+<li>metals conduct electricity, and the electrons stored in your body by collecting the electrons on the carpet is conducted by the metal doorknob, and felt as a “static shock”.
+c. On the diagram above, draw the charge distribution of Jane’s hand and the door knob just prior to the shock occurring (be careful with the ratio of positive and negative charges drawn).
+Erm</li>
+</ul>
+<ol start="3">
+<li>During a Van der Graff demonstration the metal dome builds up a large positive charge. The teacher places a single aluminium pie plate on top of the dome. After a while the pie plate flies off. Explain the cause behind the pie plate flying off.
+<ul>
+<li>the charge</li>
+</ul>
+</li>
+<li>Rubbing a balloon against dry hair allows the balloon to temporarily stick to a wall. Explain, using the diagram to assist, why the balloon sticks.</li>
+<li>The charge of several objects was recorded into a table. This table is shown below.</li>
+</ol>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<table><thead><tr><th>object</th><th>charge (C)</th></tr></thead><tbody><tr><td>object A</td><td><span class="math math-inline"><span class="katex"><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.7278em;vertical-align:-0.0833em;"></span><span class="mord">1.6</span><span class="mspace" style="margin-right:0.2222em;"></span><span class="mbin">×</span><span class="mspace" style="margin-right:0.2222em;"></span></span><span class="base"><span class="strut" style="height:0.8141em;"></span><span class="mord">1</span><span class="mord"><span class="mord">0</span><span class="msupsub"><span class="vlist-t"><span class="vlist-r"><span class="vlist" style="height:0.8141em;"><span style="top:-3.063em;margin-right:0.05em;"><span class="pstrut" style="height:2.7em;"></span><span class="sizing reset-size6 size3 mtight"><span class="mord mtight"><span class="mord mtight">−</span><span class="mord mtight">19</span></span></span></span></span></span></span></span></span></span></span></span></span></td></tr><tr><td>object B</td><td><span class="math math-inline"><span class="katex"><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.7278em;vertical-align:-0.0833em;"></span><span class="mord">4.8</span><span class="mspace" style="margin-right:0.2222em;"></span><span class="mbin">×</span><span class="mspace" style="margin-right:0.2222em;"></span></span><span class="base"><span class="strut" style="height:0.8141em;"></span><span class="mord">1</span><span class="mord"><span class="mord">0</span><span class="msupsub"><span class="vlist-t"><span class="vlist-r"><span class="vlist" style="height:0.8141em;"><span style="top:-3.063em;margin-right:0.05em;"><span class="pstrut" style="height:2.7em;"></span><span class="sizing reset-size6 size3 mtight"><span class="mord mtight"><span class="mord mtight">−</span><span class="mord mtight">19</span></span></span></span></span></span></span></span></span></span></span></span></span></td></tr><tr><td>object C</td><td><span class="math math-inline"><span class="katex"><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.7278em;vertical-align:-0.0833em;"></span><span class="mord">5.6</span><span class="mspace" style="margin-right:0.2222em;"></span><span class="mbin">×</span><span class="mspace" style="margin-right:0.2222em;"></span></span><span class="base"><span class="strut" style="height:0.8141em;"></span><span class="mord">1</span><span class="mord"><span class="mord">0</span><span class="msupsub"><span class="vlist-t"><span class="vlist-r"><span class="vlist" style="height:0.8141em;"><span style="top:-3.063em;margin-right:0.05em;"><span class="pstrut" style="height:2.7em;"></span><span class="sizing reset-size6 size3 mtight"><span class="mord mtight"><span class="mord mtight">−</span><span class="mord mtight">19</span></span></span></span></span></span></span></span></span></span></span></span></span></td></tr><tr><td>object D</td><td><span class="math math-inline"><span class="katex"><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.7278em;vertical-align:-0.0833em;"></span><span class="mord">8.0</span><span class="mspace" style="margin-right:0.2222em;"></span><span class="mbin">×</span><span class="mspace" style="margin-right:0.2222em;"></span></span><span class="base"><span class="strut" style="height:0.8141em;"></span><span class="mord">1</span><span class="mord"><span class="mord">0</span><span class="msupsub"><span class="vlist-t"><span class="vlist-r"><span class="vlist" style="height:0.8141em;"><span style="top:-3.063em;margin-right:0.05em;"><span class="pstrut" style="height:2.7em;"></span><span class="sizing reset-size6 size3 mtight"><span class="mord mtight"><span class="mord mtight">−</span><span class="mord mtight">19</span></span></span></span></span></span></span></span></span></span></span></span></span></td></tr></tbody></table>
+<p>Which object did not have its charge measured accurately? Justify your choice.</p>
+<ol start="6">
+<li>Calculate the current that flows through a copper wire when 20.0 mC of negative charge passes a point in the wire within <span class="math math-inline"><span class="katex"><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.7278em;vertical-align:-0.0833em;"></span><span class="mord">2.00</span><span class="mspace" style="margin-right:0.2222em;"></span><span class="mbin">×</span><span class="mspace" style="margin-right:0.2222em;"></span></span><span class="base"><span class="strut" style="height:0.8141em;"></span><span class="mord">1</span><span class="mord"><span class="mord">0</span><span class="msupsub"><span class="vlist-t"><span class="vlist-r"><span class="vlist" style="height:0.8141em;"><span style="top:-3.063em;margin-right:0.05em;"><span class="pstrut" style="height:2.7em;"></span><span class="sizing reset-size6 size3 mtight"><span class="mord mtight"><span class="mord mtight">−</span><span class="mord mtight">4</span></span></span></span></span></span></span></span></span></span></span></span></span>s.</li>
+<li>How many electrons would flow through a wire over a 2.00 minute period if the current in the wire was a steady 30.0 mA?</li>
+<li>The material in the diagram below has mobile charges that move from the left hand side to the right hand side of the material.<img src="../../../../notes/images/Screen-Shot-2023-07-24-at-12.45.04-pm.png" alt/>
+a. Which direction is the current if these mobile charges are positive? b. Which direction is the current if these mobile charges are negative? c. If two of the mobile charges were positive and the other two were negative, explain whether or not a current is flowing in the material.</li>
+<li>Write in the current flowing through the electrical wire indicated by the ”?” in each diagram below.<img src="../../../../notes/images/Screen-Shot-2023-07-24-at-12.45.30-pm.png" alt/>
+a. 1A
+b. 5A
+c. 3A
+d. -5A</li>
+<li>Explain why silver and copper conduct electricity while rubber and plastic insulate again the flow of electrical current.
+<ul>
+<li>the electrons in plastic and rubber are very tightly bound to their respective nuclei and cannot readily move from one atom to another. Non-metals do not conduct electricity very well and are known as insulators. Meanwhile silver and copper the outermost electrons are only very slightly attracted to their respective nuclei. As a consequence, metals are good conductors of electricity. In conductors, loosely held electrons can ‘jump’ from one atom to another and move freely throughout the material.</li>
+</ul>
+</li>
+</ol>
+<p>know absolute and percentage uncertainty for the test ^_^</p></article></div><div class="right sidebar"><div class="graph"><h3>Graph View</h3><div class="graph-outer"><div id="graph-container" data-cfg="{&quot;drag&quot;:true,&quot;zoom&quot;:true,&quot;depth&quot;:1,&quot;scale&quot;:1.1,&quot;repelForce&quot;:0.5,&quot;centerForce&quot;:0.3,&quot;linkDistance&quot;:30,&quot;fontSize&quot;:0.6,&quot;opacityScale&quot;:1}"></div><svg version="1.1" id="global-graph-icon" xmlns="http://www.w3.org/2000/svg" xmlnsXlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 55 55" fill="currentColor" xmlSpace="preserve"><path d="M49,0c-3.309,0-6,2.691-6,6c0,1.035,0.263,2.009,0.726,2.86l-9.829,9.829C32.542,17.634,30.846,17,29,17
+	s-3.542,0.634-4.898,1.688l-7.669-7.669C16.785,10.424,17,9.74,17,9c0-2.206-1.794-4-4-4S9,6.794,9,9s1.794,4,4,4
+	c0.74,0,1.424-0.215,2.019-0.567l7.669,7.669C21.634,21.458,21,23.154,21,25s0.634,3.542,1.688,4.897L10.024,42.562
+	C8.958,41.595,7.549,41,6,41c-3.309,0-6,2.691-6,6s2.691,6,6,6s6-2.691,6-6c0-1.035-0.263-2.009-0.726-2.86l12.829-12.829
+	c1.106,0.86,2.44,1.436,3.898,1.619v10.16c-2.833,0.478-5,2.942-5,5.91c0,3.309,2.691,6,6,6s6-2.691,6-6c0-2.967-2.167-5.431-5-5.91
+	v-10.16c1.458-0.183,2.792-0.759,3.898-1.619l7.669,7.669C41.215,39.576,41,40.26,41,41c0,2.206,1.794,4,4,4s4-1.794,4-4
+	s-1.794-4-4-4c-0.74,0-1.424,0.215-2.019,0.567l-7.669-7.669C36.366,28.542,37,26.846,37,25s-0.634-3.542-1.688-4.897l9.665-9.665
+	C46.042,11.405,47.451,12,49,12c3.309,0,6-2.691,6-6S52.309,0,49,0z M11,9c0-1.103,0.897-2,2-2s2,0.897,2,2s-0.897,2-2,2
+	S11,10.103,11,9z M6,51c-2.206,0-4-1.794-4-4s1.794-4,4-4s4,1.794,4,4S8.206,51,6,51z M33,49c0,2.206-1.794,4-4,4s-4-1.794-4-4
+	s1.794-4,4-4S33,46.794,33,49z M29,31c-3.309,0-6-2.691-6-6s2.691-6,6-6s6,2.691,6,6S32.309,31,29,31z M47,41c0,1.103-0.897,2-2,2
+	s-2-0.897-2-2s0.897-2,2-2S47,39.897,47,41z M49,10c-2.206,0-4-1.794-4-4s1.794-4,4-4s4,1.794,4,4S51.206,10,49,10z"></path></svg></div><div id="global-graph-outer"><div id="global-graph-container" data-cfg="{&quot;drag&quot;:true,&quot;zoom&quot;:true,&quot;depth&quot;:-1,&quot;scale&quot;:0.9,&quot;repelForce&quot;:0.5,&quot;centerForce&quot;:0.3,&quot;linkDistance&quot;:30,&quot;fontSize&quot;:0.6,&quot;opacityScale&quot;:1}"></div></div></div><div class="backlinks"><h3>Backlinks</h3><ul class="overflow"><li><a href="../../../../notes/archive/AE/PHYSICS/physics" class="internal">physics</a></li></ul></div></div></div><footer><hr/><p>Created with <a href="https://quartz.jzhao.xyz/">Quartz v4.0.10</a>, © 2023</p><ul><li><a href="https://github.com/NotTacoz/jacaranda">GitHub</a></li></ul><img src="https://visitor-badge.laobi.icu/badge?page_id=NotTacoz.NotTacoz"/></footer></div></body><script type="application/javascript">// quartz/components/scripts/quartz/components/scripts/callout.inline.ts
+function toggleCallout() {
+  const outerBlock = this.parentElement;
+  outerBlock.classList.toggle(`is-collapsed`);
+  const collapsed = outerBlock.classList.contains(`is-collapsed`);
+  const height = collapsed ? this.scrollHeight : outerBlock.scrollHeight;
+  outerBlock.style.maxHeight = height + `px`;
+  let current = outerBlock;
+  let parent = outerBlock.parentElement;
+  while (parent) {
+    if (!parent.classList.contains(`callout`)) {
+      return;
+    }
+    const collapsed2 = parent.classList.contains(`is-collapsed`);
+    const height2 = collapsed2 ? parent.scrollHeight : parent.scrollHeight + current.scrollHeight;
+    parent.style.maxHeight = height2 + `px`;
+    current = parent;
+    parent = parent.parentElement;
+  }
+}
+function setupCallout() {
+  const collapsible = document.getElementsByClassName(
+    `callout is-collapsible`
+  );
+  for (const div of collapsible) {
+    const title = div.firstElementChild;
+    if (title) {
+      title.removeEventListener(`click`, toggleCallout);
+      title.addEventListener(`click`, toggleCallout);
+      const collapsed = div.classList.contains(`is-collapsed`);
+      const height = collapsed ? title.scrollHeight : div.scrollHeight;
+      div.style.maxHeight = height + `px`;
+    }
+  }
+}
+document.addEventListener(`nav`, setupCallout);
+window.addEventListener(`resize`, setupCallout);
+</script><script type="module">
+          import mermaid from 'https://cdn.jsdelivr.net/npm/mermaid/dist/mermaid.esm.min.mjs';
+          const darkMode = document.documentElement.getAttribute('saved-theme') === 'dark'
+          mermaid.initialize({ 
+            startOnLoad: false,
+            securityLevel: 'loose',
+            theme: darkMode ? 'dark' : 'default'
+          });
+          document.addEventListener('nav', async () => {
+            await mermaid.run({
+              querySelector: '.mermaid'
+            })
+          });
+          </script><script src="https://cdn.jsdelivr.net/npm/katex@0.16.7/dist/contrib/copy-tex.min.js" type="application/javascript"></script><script type="application/javascript">
+          const socket = new WebSocket('ws://localhost:3001')
+          socket.addEventListener('message', () => document.location.reload())
+        </script><script src="../../../../postscript.js" type="module"></script></html>

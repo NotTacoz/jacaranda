@@ -27,8 +27,12 @@ export const Description: QuartzTransformerPlugin<Partial<Options> | undefined> 
       return [
         () => {
           return async (tree: HTMLRoot, file) => {
-            const frontMatterDescription = file.data.frontmatter?.description
+            const frontMatterDescription = (file.data.frontmatter?.description)
             const text = escapeHTML(toString(tree))
+            
+            // if (Array.isArray(frontMatterDescription) && frontMatterDescription.length > 0) {
+            //   frontMatterDescription = frontMatterDescription[0]
+            // } 
 
             const desc = frontMatterDescription ?? text
             const sentences = desc.replace(/\s+/g, " ").split(".")

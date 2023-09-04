@@ -1,5 +1,4 @@
 ---
 title: chemistry
-description:
-  - Chemistry and stuff.
+description: all things chemistry
 ---
