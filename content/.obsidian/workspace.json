@@ -65,7 +65,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "tags/japanese.md",
+                "file": "tags/specialist.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -164,7 +164,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "tags/japanese.md",
+                "file": "tags/specialist.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -211,7 +211,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "tags/japanese.md"
+                "file": "tags/specialist.md"
               }
             }
           }
@@ -235,12 +235,13 @@
   },
   "active": "fdebf47ae407d5ce",
   "lastOpenFiles": [
+    "notes/Untitled.md",
+    "tags/specialist.md",
     "tags/physics.md",
+    "tags/methods.md",
     "tags/japanese.md",
     "tags/chemistry.md",
     "tags/english.md",
-    "tags/specialist.md",
-    "tags/methods.md",
     "notes/archive/AE/notes.md",
     "_index.md",
     "notes/CAP4.md",
@@ -260,7 +261,6 @@
     "notes/archive/AE/PHYSICS/physics.md",
     "notes/archive/AE/SPECIALIST/specialist.md",
     "notes/daily/2023-09-01.md",
-    "notes/archive/AEold/methods/lessonnotes/T1W6L1.md",
     "tags",
     "notes/images/testok.png",
     "notes/images/keqingactually.png",
