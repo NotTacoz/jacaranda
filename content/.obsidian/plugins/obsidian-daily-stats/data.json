@@ -76,7 +76,7 @@
     "2023/8/1": 1191,
     "2023/8/2": 332,
     "2023/8/3": 271,
-    "2023/8/4": 252
+    "2023/8/4": 245
   },
   "todaysWordCount": {
     "tags/AE.md": {
@@ -169,7 +169,7 @@
     },
     "notes/archive/AE/notes.md": {
       "initial": 15,
-      "current": 33
+      "current": 15
     },
     "tags/specialist.md": {
       "initial": 3,
@@ -190,6 +190,14 @@
     "tags/physics.md": {
       "initial": 3,
       "current": 4
+    },
+    "templates/daily.md": {
+      "initial": 3,
+      "current": 5
+    },
+    "notes/daily/2023-09-04.md": {
+      "initial": 5,
+      "current": 14
     }
   }
 }

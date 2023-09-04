@@ -162,6 +162,22 @@
       "modifiedDate": 1693789204132,
       "sizeInBytes": 534
     },
+    "templates/daily.md": {
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 2,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.006666666666666667,
+      "characterCount": 8,
+      "nonWhitespaceCharacterCount": 6,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1693801245710,
+      "modifiedDate": 1693801263268,
+      "sizeInBytes": 50
+    },
     "templates/tags.md": {
       "isDirectory": false,
       "noteCount": 1,
@@ -257,6 +273,22 @@
       "createdDate": 1693571253600,
       "modifiedDate": 1693792672024,
       "sizeInBytes": 775
+    },
+    "notes/daily/2023-09-04.md": {
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 18,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.06,
+      "characterCount": 69,
+      "nonWhitespaceCharacterCount": 51,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1693801255320,
+      "modifiedDate": 1693801290840,
+      "sizeInBytes": 110
     },
     "notes/daily/daily.md": {
       "isDirectory": false,
@@ -2405,18 +2437,18 @@
     "notes/archive/AE/notes.md": {
       "isDirectory": false,
       "noteCount": 1,
-      "wordCount": 19,
+      "wordCount": 7,
       "wordCountTowardGoal": 0,
       "wordGoal": null,
-      "pageCount": 0.06333333333333334,
-      "characterCount": 260,
-      "nonWhitespaceCharacterCount": 239,
-      "linkCount": 7,
+      "pageCount": 0.023333333333333334,
+      "characterCount": 86,
+      "nonWhitespaceCharacterCount": 77,
+      "linkCount": 1,
       "embedCount": 1,
       "aliases": null,
       "createdDate": 1693570799799,
-      "modifiedDate": 1693795443343,
-      "sizeInBytes": 305
+      "modifiedDate": 1693801349408,
+      "sizeInBytes": 131
     },
     "notes/archive/AE/ENGLISH/comprehendingStructure.md": {
       "isDirectory": false,

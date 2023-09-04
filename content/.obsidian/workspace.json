@@ -13,20 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "tags/chemistry.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "68f566115c75f52e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "tags/chemistry.md",
+                "file": "notes/archive/AE/notes.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -46,8 +33,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -138,7 +124,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "tags/chemistry.md",
+                "file": "notes/archive/AE/notes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -185,7 +171,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "tags/chemistry.md"
+                "file": "notes/archive/AE/notes.md"
               }
             }
           }
@@ -207,17 +193,21 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "68f566115c75f52e",
+  "active": "4cf05399156c65c8",
   "lastOpenFiles": [
+    "_index.md",
+    "templates/tags.md",
+    "templates/post.md",
+    "notes/daily/2023-09-04.md",
+    "templates/daily.md",
+    "tags/chemistry.md",
     "notes/七五三.md",
     "tags/english.md",
     "tags/methods.md",
     "tags/specialist.md",
     "tags/physics.md",
     "tags/japanese.md",
-    "tags/chemistry.md",
     "notes/archive/AE/notes.md",
-    "_index.md",
     "notes/CAP4.md",
     "notes/delocalised.md",
     "notes/helloWorld.md",
@@ -231,9 +221,6 @@
     "notes/archive/AE/ENGLISH/english.md",
     "notes/archive/AE/JAPANESE/japanese.md",
     "notes/archive/AE/JAPANESE/japaneseExamReview.md",
-    "notes/archive/AE/PHYSICS/physics.md",
-    "notes/archive/AE/SPECIALIST/specialist.md",
-    "notes/daily/2023-09-01.md",
     "tags",
     "notes/images/testok.png",
     "notes/images/keqingactually.png",
