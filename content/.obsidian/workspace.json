@@ -21,38 +21,12 @@
             }
           },
           {
-            "id": "e24877fca83af0c9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "tags/specialist.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
             "id": "68f566115c75f52e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "tags/chemistry.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "fdebf47ae407d5ce",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "tags/specialist.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -73,7 +47,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -164,7 +138,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "notes/七五三.md",
+                "file": "tags/chemistry.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -211,7 +185,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "notes/七五三.md"
+                "file": "tags/chemistry.md"
               }
             }
           }
@@ -233,11 +207,11 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "5f057ecec01eccc7",
+  "active": "68f566115c75f52e",
   "lastOpenFiles": [
+    "notes/七五三.md",
     "tags/english.md",
     "tags/methods.md",
-    "notes/七五三.md",
     "tags/specialist.md",
     "tags/physics.md",
     "tags/japanese.md",

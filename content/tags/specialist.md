@@ -1,5 +1,0 @@
----
-title: specialist
-description:
-  - specialist
----

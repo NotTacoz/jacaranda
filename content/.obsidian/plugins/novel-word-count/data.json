@@ -18,22 +18,6 @@
     "excludeComments": false
   },
   "cachedCounts": {
-    "tags/specialist.md": {
-      "isDirectory": false,
-      "noteCount": 1,
-      "wordCount": 0,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 0,
-      "characterCount": 1,
-      "nonWhitespaceCharacterCount": 0,
-      "linkCount": 0,
-      "embedCount": 0,
-      "aliases": null,
-      "createdDate": 1693792512641,
-      "modifiedDate": 1693798997776,
-      "sizeInBytes": 54
-    },
     "tags/ae.md": {
       "isDirectory": false,
       "noteCount": 1,
@@ -63,8 +47,8 @@
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1693789313864,
-      "modifiedDate": 1693789371075,
-      "sizeInBytes": 94
+      "modifiedDate": 1693801172086,
+      "sizeInBytes": 98
     },
     "private/val/split/tenzJett.md": {
       "isDirectory": false,
@@ -239,7 +223,7 @@
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1693743822962,
-      "modifiedDate": 1693792662212,
+      "modifiedDate": 1693799648929,
       "sizeInBytes": 327
     },
     "notes/ratesOfReactionReportActual.md": {
