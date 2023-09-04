@@ -76,7 +76,7 @@
     "2023/8/1": 1191,
     "2023/8/2": 332,
     "2023/8/3": 271,
-    "2023/8/4": 248
+    "2023/8/4": 258
   },
   "todaysWordCount": {
     "tags/AE.md": {
@@ -173,23 +173,23 @@
     },
     "tags/specialist.md": {
       "initial": 3,
-      "current": 4
+      "current": 6
     },
     "tags/japanese.md": {
       "initial": 0,
-      "current": 4
+      "current": 6
     },
     "tags/methods.md": {
       "initial": 4,
-      "current": 4
+      "current": 6
     },
     "tags/english.md": {
       "initial": 4,
-      "current": 3
+      "current": 6
     },
     "tags/physics.md": {
       "initial": 3,
-      "current": 4
+      "current": 6
     },
     "templates/daily.md": {
       "initial": 3,
@@ -201,7 +201,7 @@
     },
     "tags/ae.md": {
       "initial": 18,
-      "current": 6
+      "current": 9
     },
     "notes/temperatureBehaviour.md": {
       "initial": 4,
