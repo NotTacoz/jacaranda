@@ -1,5 +1,5 @@
 ---
 title: Chemistry
 description:
-  - chemistry
+  - Chemistry stuff.
 ---

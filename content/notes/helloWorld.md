@@ -4,8 +4,6 @@ tags:
   - navigation
   - ae
 ---
-
-
 ## what is this? why is this?
 - This is the start of a new structuring/hierarchy system for my notes
 - Everything will be organised by tags, as I found navigating folders has been way too painful to deal with, I'll see how it goes.

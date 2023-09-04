@@ -109,7 +109,7 @@
     },
     "tags/chemistry.md": {
       "initial": 11,
-      "current": 4
+      "current": 5
     },
     "notes/productToSumAndSumToProduct.md": {
       "initial": 4,
@@ -198,6 +198,10 @@
     "notes/daily/2023-09-04.md": {
       "initial": 5,
       "current": 14
+    },
+    "tags/ae.md": {
+      "initial": 18,
+      "current": 6
     }
   }
 }

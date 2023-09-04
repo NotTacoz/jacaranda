@@ -31,8 +31,8 @@
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1693789153933,
-      "modifiedDate": 1693790497071,
-      "sizeInBytes": 101
+      "modifiedDate": 1693801759355,
+      "sizeInBytes": 50
     },
     "tags/chemistry.md": {
       "isDirectory": false,
@@ -47,8 +47,8 @@
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1693789313864,
-      "modifiedDate": 1693801633164,
-      "sizeInBytes": 52
+      "modifiedDate": 1693801763783,
+      "sizeInBytes": 59
     },
     "private/val/split/tenzJett.md": {
       "isDirectory": false,
@@ -265,14 +265,14 @@
       "wordCountTowardGoal": 0,
       "wordGoal": null,
       "pageCount": 0.41,
-      "characterCount": 721,
+      "characterCount": 719,
       "nonWhitespaceCharacterCount": 595,
       "linkCount": 1,
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1693571253600,
-      "modifiedDate": 1693792672024,
-      "sizeInBytes": 775
+      "modifiedDate": 1693801670620,
+      "sizeInBytes": 773
     },
     "notes/daily/2023-09-04.md": {
       "isDirectory": false,
