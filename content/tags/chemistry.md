@@ -1,5 +1,5 @@
 ---
-title: chemistry
+title: Chemistry
 description:
-  - Everything related to the scientific field of chemistry
+  - chemistry
 ---
