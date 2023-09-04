@@ -1,6 +1,9 @@
 ---
-title: "japanese"
+title: japanese
 enableToc: false
+tags:
+  - AE
+  - japanese
 ---
 #masterlist #japanese #AE
 ## Grammar idk???

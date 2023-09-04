@@ -1,5 +1,8 @@
 ---
-title: "methods masterlist"
+title: methods masterlist
+tags:
+  - AE
+  - methods
 ---
 
 [go back](notes/archive/notes.md)

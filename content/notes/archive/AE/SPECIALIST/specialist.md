@@ -1,6 +1,9 @@
 ---
-title: "specialist"
+title: specialist
 enableToc: false
+tags:
+  - specialist
+  - AE
 ---
 
 ## Semester 1

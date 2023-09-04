@@ -1,10 +1,10 @@
 ---
 title: Product to sum and sum to product
 tags:
-  - AE
   - specialist
   - notes
   - inClass
+  - ae
 ---
 ## Product to sum to product
 - given $$\sin(A+B)=\sin A\cos B+\cos A\sin B$$$$\sin(A-B)=\sin A\cos B-\cos A\sin B$$

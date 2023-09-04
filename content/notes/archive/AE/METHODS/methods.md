@@ -1,8 +1,11 @@
 ---
-title: "methods"
+title: methods
 enableToc: false
+tags:
+  - AE
+  - methods
+  - masterlist
 ---
-#masterlist #methods #AE
 ## sem 2 idk
 - [solving trig equations](notes/archive/AE/METHODS/solvingTrigEquations.md)
 - [differentiation](notes/archive/AE/METHODS/differentiation.md)

@@ -4,23 +4,89 @@
     "type": "split",
     "children": [
       {
-        "id": "dc168f6891a3965e",
+        "id": "16d97be9a235acd1",
         "type": "tabs",
         "children": [
           {
-            "id": "193b60dda4350695",
+            "id": "4cf05399156c65c8",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "tags/ae.md",
+                "file": "tags/chemistry.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "e24877fca83af0c9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "tags/specialist.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "68f566115c75f52e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "tags/chemistry.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "a1a61124e643d179",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "tags/methods.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "fcc1bf81054798f1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "tags/english.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "fdebf47ae407d5ce",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "notes/CAP4.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -111,7 +177,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "tags/ae.md",
+                "file": "notes/CAP4.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -158,7 +224,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "tags/ae.md"
+                "file": "notes/CAP4.md"
               }
             }
           }
@@ -180,35 +246,35 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "193b60dda4350695",
+  "active": "fdebf47ae407d5ce",
   "lastOpenFiles": [
-    "tags/chemistry.md",
-    "tags/ae.md",
-    "notes/productToSumAndSumToProduct.md",
-    "notes/ratesOfReactionReportActual.md",
-    "notes/CAP4.md",
     "notes/delocalised.md",
     "notes/helloWorld.md",
+    "notes/productToSumAndSumToProduct.md",
+    "notes/ratesOfReactionReportActual.md",
     "notes/七五三.md",
+    "tags/ae.md",
+    "tags/physics.md",
+    "tags/english.md",
+    "tags/methods.md",
+    "tags/chemistry.md",
+    "tags/japanese.md",
+    "notes/archive/AE/CHEMISTRY/chemistry.md",
+    "tags/specialist.md",
+    "notes/archive/AE/notes.md",
+    "_index.md",
+    "notes/archive/notes.md",
+    "notes/archive/AE/METHODS/methods.md",
+    "notes/archive/AEold/subsections/methods.md",
+    "notes/archive/AE/ENGLISH/english.md",
+    "notes/archive/AE/JAPANESE/japanese.md",
+    "notes/archive/AE/JAPANESE/japaneseExamReview.md",
+    "notes/archive/AE/PHYSICS/physics.md",
+    "notes/archive/AE/SPECIALIST/specialist.md",
+    "notes/CAP4.md",
     "notes/daily/2023-09-01.md",
     "notes/archive/AEold/methods/lessonnotes/T1W6L1.md",
-    "notes/archive/AE/CHEMISTRY/acidsAndBases.md",
-    "templates/post.md",
-    "templates/tags.md",
-    "templates/newGrammar.md",
-    "templates/daily.md",
     "tags",
-    "notes/archive/AE/CHEMISTRY/howToReportROR.md",
-    "notes/daily/2023-09-03.md",
-    "notes/daily/daily.md",
-    "notes/archive/notes.md",
-    "notes/archive/_indexOld.md",
-    "notes/archive/AE/CHEMISTRY/organicChem.md",
-    "notes/archive/AE/CHEMISTRY/empiricalFormula.md",
-    "notes/archive/AE/CHEMISTRY/courseOutline.md",
-    "notes/archive/AE/CHEMISTRY/gases.md",
-    "notes/archive/AE/CHEMISTRY/reactionsParticlesAndCollisions.md",
-    "notes/archive/AE/CHEMISTRY/thermodynamics.md",
     "notes/images/testok.png",
     "notes/images/keqingactually.png",
     "notes/images/Screen Shot 2023-08-31 at 11.19.24 am.png",

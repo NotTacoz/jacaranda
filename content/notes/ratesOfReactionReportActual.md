@@ -1,9 +1,9 @@
 ---
 title: ratesOfReactionReportActual
 tags:
-  - AE
   - chemistry
   - report
+  - ae
 ---
 
 >[!note] format is FUCKED but i cant be bothered to fix it right now xd

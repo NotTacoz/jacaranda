@@ -76,7 +76,7 @@
     "2023/8/1": 1191,
     "2023/8/2": 332,
     "2023/8/3": 271,
-    "2023/8/4": 216
+    "2023/8/4": 272
   },
   "todaysWordCount": {
     "tags/AE.md": {
@@ -89,7 +89,7 @@
     },
     "notes/helloWorld.md": {
       "initial": 133,
-      "current": 133
+      "current": 134
     },
     "templates/post.md": {
       "initial": 3,
@@ -138,6 +138,58 @@
     "notes/daily/2023-09-01.md": {
       "initial": 115,
       "current": 115
+    },
+    "notes/archive/AE/SPECIALIST/specialist.md": {
+      "initial": 49,
+      "current": 51
+    },
+    "notes/archive/AE/CHEMISTRY/chemistry.md": {
+      "initial": 168,
+      "current": 169
+    },
+    "notes/archive/AE/PHYSICS/physics.md": {
+      "initial": 68,
+      "current": 70
+    },
+    "notes/archive/AE/JAPANESE/japanese.md": {
+      "initial": 73,
+      "current": 75
+    },
+    "notes/archive/AE/ENGLISH/english.md": {
+      "initial": 60,
+      "current": 62
+    },
+    "notes/archive/AEold/subsections/methods.md": {
+      "initial": 184,
+      "current": 186
+    },
+    "notes/archive/AE/METHODS/methods.md": {
+      "initial": 73,
+      "current": 73
+    },
+    "notes/archive/AE/notes.md": {
+      "initial": 15,
+      "current": 18
+    },
+    "tags/specialist.md": {
+      "initial": 3,
+      "current": 11
+    },
+    "tags/japanese.md": {
+      "initial": 0,
+      "current": 11
+    },
+    "tags/methods.md": {
+      "initial": 4,
+      "current": 11
+    },
+    "tags/english.md": {
+      "initial": 4,
+      "current": 11
+    },
+    "tags/physics.md": {
+      "initial": 3,
+      "current": 11
     }
   }
 }

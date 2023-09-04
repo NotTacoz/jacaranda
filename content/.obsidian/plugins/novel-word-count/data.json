@@ -18,6 +18,86 @@
     "excludeComments": false
   },
   "cachedCounts": {
+    "tags/physics.md": {
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 0,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0,
+      "characterCount": 1,
+      "nonWhitespaceCharacterCount": 0,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1693792634797,
+      "modifiedDate": 1693792655555,
+      "sizeInBytes": 94
+    },
+    "tags/english.md": {
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 0,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0,
+      "characterCount": 1,
+      "nonWhitespaceCharacterCount": 0,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1693792616662,
+      "modifiedDate": 1693792632477,
+      "sizeInBytes": 92
+    },
+    "tags/methods.md": {
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 0,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0,
+      "characterCount": 1,
+      "nonWhitespaceCharacterCount": 0,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1693792596059,
+      "modifiedDate": 1693792612668,
+      "sizeInBytes": 94
+    },
+    "tags/japanese.md": {
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 0,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0,
+      "characterCount": 1,
+      "nonWhitespaceCharacterCount": 0,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1693792542695,
+      "modifiedDate": 1693792592702,
+      "sizeInBytes": 94
+    },
+    "tags/specialist.md": {
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 0,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0,
+      "characterCount": 1,
+      "nonWhitespaceCharacterCount": 0,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1693792512641,
+      "modifiedDate": 1693792537792,
+      "sizeInBytes": 100
+    },
     "tags/ae.md": {
       "isDirectory": false,
       "noteCount": 1,
@@ -207,7 +287,7 @@
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1693789394396,
-      "modifiedDate": 1693790128052,
+      "modifiedDate": 1693792669827,
       "sizeInBytes": 954
     },
     "notes/七五三.md": {
@@ -223,7 +303,7 @@
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1693743822962,
-      "modifiedDate": 1693789946927,
+      "modifiedDate": 1693792662212,
       "sizeInBytes": 327
     },
     "notes/ratesOfReactionReportActual.md": {
@@ -239,7 +319,7 @@
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1693743603150,
-      "modifiedDate": 1693789917981,
+      "modifiedDate": 1693792665810,
       "sizeInBytes": 3384
     },
     "notes/helloWorld.md": {
@@ -255,8 +335,8 @@
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1693571253600,
-      "modifiedDate": 1693789269834,
-      "sizeInBytes": 768
+      "modifiedDate": 1693792672024,
+      "sizeInBytes": 775
     },
     "notes/daily/daily.md": {
       "isDirectory": false,
@@ -575,7 +655,7 @@
       "embedCount": 4,
       "aliases": null,
       "createdDate": 1693311763611,
-      "modifiedDate": 1693790817722,
+      "modifiedDate": 1693792683024,
       "sizeInBytes": 18349
     },
     "notes/delocalised.md": {
@@ -591,7 +671,7 @@
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1693629109289,
-      "modifiedDate": 1693789968086,
+      "modifiedDate": 1693792679560,
       "sizeInBytes": 361
     },
     "notes/archive/_indexOld.md": {
@@ -1023,8 +1103,8 @@
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1693311767006,
-      "modifiedDate": 1693311767006,
-      "sizeInBytes": 1440
+      "modifiedDate": 1693792067631,
+      "sizeInBytes": 1463
     },
     "notes/archive/AEold/subsections/eng.md": {
       "isDirectory": false,
@@ -2207,8 +2287,8 @@
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1693570799798,
-      "modifiedDate": 1693571207199,
-      "sizeInBytes": 573
+      "modifiedDate": 1693792040555,
+      "sizeInBytes": 596
     },
     "notes/archive/AE/PHYSICS/researchAssignment1.md": {
       "isDirectory": false,
@@ -2351,8 +2431,8 @@
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1693570799798,
-      "modifiedDate": 1693571207236,
-      "sizeInBytes": 398
+      "modifiedDate": 1693792019931,
+      "sizeInBytes": 424
     },
     "notes/archive/AE/SPECIALIST/matrices.md": {
       "isDirectory": false,
@@ -2405,18 +2485,18 @@
     "notes/archive/AE/notes.md": {
       "isDirectory": false,
       "noteCount": 1,
-      "wordCount": 19,
+      "wordCount": 10,
       "wordCountTowardGoal": 0,
       "wordGoal": null,
-      "pageCount": 0.06333333333333334,
-      "characterCount": 398,
-      "nonWhitespaceCharacterCount": 377,
-      "linkCount": 7,
+      "pageCount": 0.03333333333333333,
+      "characterCount": 120,
+      "nonWhitespaceCharacterCount": 107,
+      "linkCount": 2,
       "embedCount": 1,
       "aliases": null,
       "createdDate": 1693570799799,
-      "modifiedDate": 1693789204357,
-      "sizeInBytes": 443
+      "modifiedDate": 1693792511761,
+      "sizeInBytes": 165
     },
     "notes/archive/AE/ENGLISH/comprehendingStructure.md": {
       "isDirectory": false,
@@ -2495,8 +2575,8 @@
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1693570799797,
-      "modifiedDate": 1693571207084,
-      "sizeInBytes": 485
+      "modifiedDate": 1693792059256,
+      "sizeInBytes": 508
     },
     "notes/archive/AE/ENGLISH/GAcomprehension.md": {
       "isDirectory": false,
@@ -2607,8 +2687,8 @@
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1693570799798,
-      "modifiedDate": 1693571207123,
-      "sizeInBytes": 528
+      "modifiedDate": 1693792051306,
+      "sizeInBytes": 552
     },
     "notes/archive/AE/CHEMISTRY/lucarelli.md": {
       "isDirectory": false,
@@ -2789,18 +2869,18 @@
     "notes/archive/AE/CHEMISTRY/chemistry.md": {
       "isDirectory": false,
       "noteCount": 1,
-      "wordCount": 104,
+      "wordCount": 101,
       "wordCountTowardGoal": 0,
       "wordGoal": null,
-      "pageCount": 0.3466666666666667,
-      "characterCount": 1164,
-      "nonWhitespaceCharacterCount": 1057,
+      "pageCount": 0.33666666666666667,
+      "characterCount": 1137,
+      "nonWhitespaceCharacterCount": 1033,
       "linkCount": 13,
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1693570799796,
-      "modifiedDate": 1693743913027,
-      "sizeInBytes": 1207
+      "modifiedDate": 1693792088588,
+      "sizeInBytes": 1235
     },
     "notes/archive/AE/CHEMISTRY/aboriginalCaseStudy.md": {
       "isDirectory": false,
@@ -2837,18 +2917,18 @@
     "notes/archive/AE/METHODS/methods.md": {
       "isDirectory": false,
       "noteCount": 1,
-      "wordCount": 35,
+      "wordCount": 32,
       "wordCountTowardGoal": 0,
       "wordGoal": null,
-      "pageCount": 0.11666666666666667,
-      "characterCount": 554,
-      "nonWhitespaceCharacterCount": 519,
+      "pageCount": 0.10666666666666667,
+      "characterCount": 529,
+      "nonWhitespaceCharacterCount": 497,
       "linkCount": 7,
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1693570799798,
-      "modifiedDate": 1693571207161,
-      "sizeInBytes": 595
+      "modifiedDate": 1693792078714,
+      "sizeInBytes": 608
     },
     "notes/archive/AE/METHODS/solvingTrigEquations.md": {
       "isDirectory": false,
