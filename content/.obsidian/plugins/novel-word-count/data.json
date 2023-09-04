@@ -18,38 +18,6 @@
     "excludeComments": false
   },
   "cachedCounts": {
-    "tags/ae.md": {
-      "isDirectory": false,
-      "noteCount": 1,
-      "wordCount": 0,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 0,
-      "characterCount": 1,
-      "nonWhitespaceCharacterCount": 0,
-      "linkCount": 0,
-      "embedCount": 0,
-      "aliases": null,
-      "createdDate": 1693789153933,
-      "modifiedDate": 1693801759355,
-      "sizeInBytes": 50
-    },
-    "tags/chemistry.md": {
-      "isDirectory": false,
-      "noteCount": 1,
-      "wordCount": 0,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 0,
-      "characterCount": 1,
-      "nonWhitespaceCharacterCount": 0,
-      "linkCount": 0,
-      "embedCount": 0,
-      "aliases": null,
-      "createdDate": 1693789313864,
-      "modifiedDate": 1693801763783,
-      "sizeInBytes": 59
-    },
     "private/val/split/tenzJett.md": {
       "isDirectory": false,
       "noteCount": 1,

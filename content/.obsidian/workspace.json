@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "tags/chemistry.md",
+                "file": "notes/CAP4.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -124,7 +124,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "tags/chemistry.md",
+                "file": "notes/CAP4.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -171,7 +171,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "tags/chemistry.md"
+                "file": "notes/CAP4.md"
               }
             }
           }
@@ -196,13 +196,13 @@
   "active": "4cf05399156c65c8",
   "lastOpenFiles": [
     "tags/ae.md",
+    "tags/chemistry.md",
     "notes/CAP4.md",
     "notes/delocalised.md",
     "notes/productToSumAndSumToProduct.md",
     "notes/ratesOfReactionReportActual.md",
     "notes/七五三.md",
     "notes/helloWorld.md",
-    "tags/chemistry.md",
     "notes/archive/AE/notes.md",
     "_index.md",
     "templates/tags.md",
