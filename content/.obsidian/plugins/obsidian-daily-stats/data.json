@@ -76,7 +76,7 @@
     "2023/8/1": 1191,
     "2023/8/2": 332,
     "2023/8/3": 271,
-    "2023/8/4": 211
+    "2023/8/4": 216
   },
   "todaysWordCount": {
     "tags/AE.md": {
@@ -126,6 +126,18 @@
     "notes/CAP4.md": {
       "initial": 2706,
       "current": 2708
+    },
+    "notes/archive/AE/CHEMISTRY/acidsAndBases.md": {
+      "initial": 475,
+      "current": 478
+    },
+    "notes/archive/AEold/methods/lessonnotes/T1W6L1.md": {
+      "initial": 348,
+      "current": 350
+    },
+    "notes/daily/2023-09-01.md": {
+      "initial": 115,
+      "current": 115
     }
   }
 }

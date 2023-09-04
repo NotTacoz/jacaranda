@@ -1,5 +1,9 @@
 ---
-title: "Acids and Bases"
+title: Acids and Bases
+tags:
+  - AE
+  - chemistry
+  - acidsAndBases
 ---
 
 ## idk what this is (its not really notes)

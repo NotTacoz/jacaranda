@@ -4,37 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "65d36f7700bc139a",
+        "id": "dc168f6891a3965e",
         "type": "tabs",
         "children": [
           {
-            "id": "8c4344be00b2cfff",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "tags/ae.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "143d02a0a75acb0c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "notes/ratesOfReactionReportActual.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "c4d1987b2e98186b",
+            "id": "193b60dda4350695",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -46,8 +20,7 @@
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -77,7 +50,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "pres",
+                "query": "tag:#lesson",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -207,17 +180,20 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "c4d1987b2e98186b",
+  "active": "193b60dda4350695",
   "lastOpenFiles": [
+    "tags/chemistry.md",
+    "tags/ae.md",
+    "notes/productToSumAndSumToProduct.md",
+    "notes/ratesOfReactionReportActual.md",
     "notes/CAP4.md",
     "notes/delocalised.md",
-    "notes/productToSumAndSumToProduct.md",
     "notes/helloWorld.md",
-    "notes/ratesOfReactionReportActual.md",
     "notes/七五三.md",
-    "tags/ae.md",
+    "notes/daily/2023-09-01.md",
+    "notes/archive/AEold/methods/lessonnotes/T1W6L1.md",
+    "notes/archive/AE/CHEMISTRY/acidsAndBases.md",
     "templates/post.md",
-    "tags/chemistry.md",
     "templates/tags.md",
     "templates/newGrammar.md",
     "templates/daily.md",
@@ -233,9 +209,6 @@
     "notes/archive/AE/CHEMISTRY/gases.md",
     "notes/archive/AE/CHEMISTRY/reactionsParticlesAndCollisions.md",
     "notes/archive/AE/CHEMISTRY/thermodynamics.md",
-    "notes/archive/AE/CHEMISTRY/lucarelli.md",
-    "notes/archive/AE/CHEMISTRY/kineticEnergy.md",
-    "notes/archive/AE/CHEMISTRY/chemistry.md",
     "notes/images/testok.png",
     "notes/images/keqingactually.png",
     "notes/images/Screen Shot 2023-08-31 at 11.19.24 am.png",

@@ -293,18 +293,18 @@
     "notes/daily/2023-09-01.md": {
       "isDirectory": false,
       "noteCount": 1,
-      "wordCount": 111,
+      "wordCount": 110,
       "wordCountTowardGoal": 0,
       "wordGoal": null,
-      "pageCount": 0.37,
-      "characterCount": 712,
-      "nonWhitespaceCharacterCount": 594,
+      "pageCount": 0.36666666666666664,
+      "characterCount": 705,
+      "nonWhitespaceCharacterCount": 588,
       "linkCount": 3,
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1693570799799,
-      "modifiedDate": 1693572424622,
-      "sizeInBytes": 739
+      "modifiedDate": 1693790706269,
+      "sizeInBytes": 746
     },
     "notes/daily/2023-08-25.md": {
       "isDirectory": false,
@@ -569,14 +569,14 @@
       "wordCountTowardGoal": 0,
       "wordGoal": null,
       "pageCount": 9.366666666666667,
-      "characterCount": 18183,
+      "characterCount": 18182,
       "nonWhitespaceCharacterCount": 14978,
       "linkCount": 3,
       "embedCount": 4,
       "aliases": null,
       "createdDate": 1693311763611,
-      "modifiedDate": 1693790459236,
-      "sizeInBytes": 18350
+      "modifiedDate": 1693790817722,
+      "sizeInBytes": 18349
     },
     "notes/delocalised.md": {
       "isDirectory": false,
@@ -2127,8 +2127,8 @@
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1693311766150,
-      "modifiedDate": 1693311766150,
-      "sizeInBytes": 1837
+      "modifiedDate": 1693790659244,
+      "sizeInBytes": 1862
     },
     "notes/archive/AEold/methods/lessonnotes/T1W1L2.md": {
       "isDirectory": false,
@@ -2751,8 +2751,8 @@
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1693311763535,
-      "modifiedDate": 1693311763535,
-      "sizeInBytes": 2899
+      "modifiedDate": 1693790642904,
+      "sizeInBytes": 2942
     },
     "notes/archive/AE/CHEMISTRY/courseOutline.md": {
       "isDirectory": false,
