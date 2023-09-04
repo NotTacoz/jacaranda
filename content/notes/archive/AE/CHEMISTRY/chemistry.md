@@ -22,4 +22,4 @@ enableToc: false
 - [cap4 revision](notes/CAP4.md)
 - [empirical formulas](notes/archive/AE/CHEMISTRY/empiricalFormula.md)
 	- [dead emus, floating fish, and an awful lot of motion sickness](notes/archive/AE/CHEMISTRY/aboriginalCaseStudy.md)
-- [rates of reaction (report)](notes/archive/AE/CHEMISTRY/ratesOfReactionReport.md)
+- [rates of reaction (report)](notes/archive/AE/CHEMISTRY/howToReportROR.md)

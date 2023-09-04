@@ -120,6 +120,7 @@ title: "CAP4"
 - 161.  Identify and calculate empirical formulae for hydrocarbons using percentage composition data and combustion analysis data, and relate this to the molecular formulae.
 - 162.  Use molecular mass and empirical formulae calculations to establish molecular structure.
 ## **Topic 5: ENERGY & RATE**
+[[notes/archive/AE/CHEMISTRY/howToReportROR|rates of reaction report notes in class :/]]
 
 ### Energy & Enthalpy (NOT IN CAP)
 

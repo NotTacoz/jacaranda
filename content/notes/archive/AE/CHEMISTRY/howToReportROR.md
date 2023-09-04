@@ -3,6 +3,8 @@ title: "Rates of Reaction (writing the report)"
 ---
 #chemistry #AE
 
+[[notes/ratesOfReactionReportActual|the actual report i report]]
+
 this is for writing a report
 - consider collision theory
   - for reactions to happen, particles must collide.

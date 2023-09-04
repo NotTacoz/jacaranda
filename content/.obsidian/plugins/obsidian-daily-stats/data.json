@@ -75,12 +75,32 @@
     "2023/7/31": 871,
     "2023/8/1": 1191,
     "2023/8/2": 332,
-    "2023/8/3": 92
+    "2023/8/3": 271
   },
   "todaysWordCount": {
     "notes/CAP4.md": {
       "initial": 2601,
-      "current": 2693
+      "current": 2705
+    },
+    "notes/ratesOfReactionReportActual.md": {
+      "initial": 429,
+      "current": 466
+    },
+    "notes/archive/AE/CHEMISTRY/ratesOfReactionReport.md": {
+      "initial": 200,
+      "current": 207
+    },
+    "notes/七五三.md": {
+      "initial": 4,
+      "current": 51
+    },
+    "notes/daily/2023-09-03.md": {
+      "initial": 4,
+      "current": 64
+    },
+    "notes/daily/daily.md": {
+      "initial": 156,
+      "current": 172
     }
   }
 }

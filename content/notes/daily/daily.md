@@ -9,7 +9,8 @@ Daily notes has been discontinued indefinitely. Maybe it will come back.
 - [ucat info](notes/daily/UCAT.md)
 
 ## spam
-
+- [[notes/daily/2023-09-03|2023-09-03]]
+- [[notes/daily/2023-09-01|2023-09-01]]
 - [2023-08-15](notes/daily/2023-08-15.md)
 - [2023-08-14](notes/daily/2023-08-14.md)
 - [2023-08-13](notes/daily/2023-08-13.md)
