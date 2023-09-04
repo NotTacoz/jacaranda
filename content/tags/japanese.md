@@ -1,5 +1,0 @@
----
-title: japanese
-description:
-  - japanese
----

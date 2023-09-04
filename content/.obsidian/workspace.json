@@ -47,12 +47,12 @@
             }
           },
           {
-            "id": "a1a61124e643d179",
+            "id": "fdebf47ae407d5ce",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "tags/methods.md",
+                "file": "tags/specialist.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -60,12 +60,12 @@
             }
           },
           {
-            "id": "fdebf47ae407d5ce",
+            "id": "5f057ecec01eccc7",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "tags/specialist.md",
+                "file": "notes/七五三.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -103,7 +103,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#lesson",
+                "query": "#japanese :japanese ",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -164,7 +164,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "tags/specialist.md",
+                "file": "notes/七五三.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -211,7 +211,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "tags/specialist.md"
+                "file": "notes/七五三.md"
               }
             }
           }
@@ -233,15 +233,15 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "fdebf47ae407d5ce",
+  "active": "5f057ecec01eccc7",
   "lastOpenFiles": [
-    "notes/Untitled.md",
+    "tags/english.md",
+    "tags/methods.md",
+    "notes/七五三.md",
     "tags/specialist.md",
     "tags/physics.md",
-    "tags/methods.md",
     "tags/japanese.md",
     "tags/chemistry.md",
-    "tags/english.md",
     "notes/archive/AE/notes.md",
     "_index.md",
     "notes/CAP4.md",
@@ -249,7 +249,6 @@
     "notes/helloWorld.md",
     "notes/productToSumAndSumToProduct.md",
     "notes/ratesOfReactionReportActual.md",
-    "notes/七五三.md",
     "tags/ae.md",
     "notes/archive/AE/CHEMISTRY/chemistry.md",
     "notes/archive/notes.md",

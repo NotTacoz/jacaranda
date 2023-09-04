@@ -1,5 +1,0 @@
----
-title: methods
-description:
-  - methods
----

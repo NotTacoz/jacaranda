@@ -1,5 +1,0 @@
----
-title: physics
-description:
-  - physics
----
