@@ -1,5 +1,7 @@
 ---
-title: "the daily taco"
+title: the daily taco
+tags:
+  - daily
 ---
 
 i share my daily thoughts and ideas and rant on random topics im interested at the moment

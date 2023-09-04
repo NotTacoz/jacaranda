@@ -1,5 +1,8 @@
 ---
-title: "Waves"
+title: Waves
+tags:
+  - AE
+  - physics
 ---
 
 ## Tube Resonance

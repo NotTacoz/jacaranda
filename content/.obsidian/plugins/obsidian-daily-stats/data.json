@@ -76,7 +76,7 @@
     "2023/8/1": 1191,
     "2023/8/2": 332,
     "2023/8/3": 271,
-    "2023/8/4": 546
+    "2023/8/4": 580
   },
   "todaysWordCount": {
     "tags/AE.md": {
@@ -706,6 +706,102 @@
     "notes/archive/AEold/methods/lessonnotes/T2W1L3.md": {
       "initial": 258,
       "current": 259
+    },
+    "notes/archive/AEold/english/lessonnotes/T2W1L4.md": {
+      "initial": 354,
+      "current": 356
+    },
+    "notes/archive/AEold/chemistry/lessonnotes/T2W1L4.md": {
+      "initial": 349,
+      "current": 351
+    },
+    "notes/archive/AEold/specialist/lessonnotes/T2W2L1.md": {
+      "initial": 342,
+      "current": 343
+    },
+    "notes/archive/AEold/chemistry/lessonnotes/T2W2L2.md": {
+      "initial": 281,
+      "current": 282
+    },
+    "notes/archive/AEold/methods/lessonnotes/T2W2L2.md": {
+      "initial": 46,
+      "current": 47
+    },
+    "notes/archive/AEold/specialist/lessonnotes/T2W2L3.md": {
+      "initial": 94,
+      "current": 95
+    },
+    "notes/archive/AEold/english/lessonnotes/T2W3L1.md": {
+      "initial": 321,
+      "current": 323
+    },
+    "notes/archive/AEold/methods/lessonnotes/T2W3L1.md": {
+      "initial": 24,
+      "current": 25
+    },
+    "notes/archive/AEold/specialist/lessonnotes/T2W3L1.md": {
+      "initial": 211,
+      "current": 213
+    },
+    "notes/archive/AEold/chemistry/lessonnotes/T2W3L1.md": {
+      "initial": 71,
+      "current": 72
+    },
+    "notes/archive/AEold/chemistry/lessonnotes/T2W3L2.md": {
+      "initial": 434,
+      "current": 435
+    },
+    "notes/archive/AEold/english/lessonnotes/T2W3L2.md": {
+      "initial": 59,
+      "current": 60
+    },
+    "notes/archive/AEold/specialist/lessonnotes/T2W3L2.md": {
+      "initial": 56,
+      "current": 57
+    },
+    "notes/archive/daily/DAILY.md": {
+      "initial": 113,
+      "current": 114
+    },
+    "notes/archive/AE/ENGLISH/timBurton.md": {
+      "initial": 205,
+      "current": 206
+    },
+    "notes/archive/AE/CHEMISTRY/thermodynamics.md": {
+      "initial": 722,
+      "current": 723
+    },
+    "notes/archive/AEold/japanese/listening/XDDDD.md": {
+      "initial": 135,
+      "current": 137
+    },
+    "notes/daily/UCAT.md": {
+      "initial": 189,
+      "current": 191
+    },
+    "notes/archive/AEold/physics/testnotes/Waves.md": {
+      "initial": 95,
+      "current": 97
+    },
+    "notes/archive/AEold/english/WTCS-CONTEXT.md": {
+      "initial": 378,
+      "current": 380
+    },
+    "notes/archive/AEold/english/WTCS-PRAC2.md": {
+      "initial": 2491,
+      "current": 2492
+    },
+    "notes/archive/AEold/english/WTCS-THE-OTHER.md": {
+      "initial": 231,
+      "current": 232
+    },
+    "notes/archive/AEold/english/WTCS-VALUES-ATTITUDES.md": {
+      "initial": 522,
+      "current": 524
+    },
+    "notes/archive/AE/JAPANESE/日本の季節.md": {
+      "initial": 111,
+      "current": 113
     }
   }
 }

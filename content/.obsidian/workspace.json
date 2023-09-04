@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notes/archive/AEold/methods/lessonnotes/T2W1L3.md",
+                "file": "notes/archive/AE/JAPANESE/日本の季節.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -103,7 +103,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 320.50271224975586
+    "width": 319.50271224975586
   },
   "right": {
     "id": "8bc85ecb066bcf9c",
@@ -120,7 +120,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "notes/archive/AEold/methods/lessonnotes/T2W1L3.md",
+                "file": "notes/archive/AE/JAPANESE/日本の季節.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -167,7 +167,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "notes/archive/AEold/methods/lessonnotes/T2W1L3.md"
+                "file": "notes/archive/AE/JAPANESE/日本の季節.md"
               }
             }
           }
@@ -191,32 +191,32 @@
   },
   "active": "b7f7752c18e5abe5",
   "lastOpenFiles": [
+    "notes/archive/AEold/english/WTCS-VALUES-ATTITUDES.md",
+    "notes/archive/AEold/english/WTCS-THE-OTHER.md",
+    "notes/archive/AEold/english/WTCS-PRAC2.md",
+    "notes/archive/AEold/english/WTCS-CONTEXT.md",
+    "notes/archive/AEold/physics/testnotes/Waves.md",
+    "notes/daily/UCAT.md",
+    "notes/archive/AEold/japanese/listening/XDDDD.md",
+    "notes/archive/AE/CHEMISTRY/thermodynamics.md",
+    "notes/archive/AE/ENGLISH/timBurton.md",
+    "notes/archive/daily/DAILY.md",
+    "notes/archive/AEold/specialist/lessonnotes/T2W3L2.md",
+    "notes/archive/AEold/english/lessonnotes/T2W3L2.md",
+    "notes/archive/AEold/chemistry/lessonnotes/T2W3L2.md",
+    "notes/archive/AEold/chemistry/lessonnotes/T2W3L1.md",
+    "notes/archive/AEold/specialist/lessonnotes/T2W3L1.md",
+    "notes/archive/AEold/methods/lessonnotes/T2W3L1.md",
+    "notes/archive/AEold/english/lessonnotes/T2W3L1.md",
+    "notes/archive/AEold/specialist/lessonnotes/T2W2L3.md",
+    "notes/archive/AEold/methods/lessonnotes/T2W2L2.md",
+    "notes/archive/AEold/chemistry/lessonnotes/T2W2L2.md",
+    "notes/archive/AEold/specialist/lessonnotes/T2W2L1.md",
+    "notes/archive/AEold/chemistry/lessonnotes/T2W1L4.md",
+    "notes/archive/AEold/english/lessonnotes/T2W1L4.md",
+    "notes/archive/AEold/methods/lessonnotes/T2W1L3.md",
     "notes/archive/AEold/methods/lessonnotes/T2W1L2.md",
     "notes/archive/AEold/specialist/lessonnotes/T2W1L1.md",
-    "notes/archive/AEold/english/lessonnotes/T1W9L4.md",
-    "notes/archive/AEold/methods/lessonnotes/T1W9L4.md",
-    "notes/archive/AEold/chemistry/lessonnotes/T1W9L2.md",
-    "notes/archive/AEold/specialist/lessonnotes/T1W9L1.md",
-    "notes/archive/AEold/chemistry/lessonnotes/T1W9L1.md",
-    "notes/archive/AEold/chemistry/lessonnotes/T1W8L3.md",
-    "notes/archive/AEold/methods/lessonnotes/T1W8L3.md",
-    "notes/archive/AEold/methods/lessonnotes/T1W8L2.md",
-    "notes/archive/AEold/english/lessonnotes/T1W8L1.md",
-    "notes/archive/AEold/chemistry/lessonnotes/T1W8L1.md",
-    "notes/archive/AEold/specialist/lessonnotes/T1W8L1.md",
-    "notes/archive/AEold/methods/lessonnotes/T1W8L1.md",
-    "notes/archive/AEold/specialist/lessonnotes/T1W7L4.md",
-    "notes/archive/AEold/methods/lessonnotes/T1W7L4.md",
-    "notes/archive/AEold/chemistry/lessonnotes/T1W7L4.md",
-    "notes/archive/AEold/chemistry/lessonnotes/T1W7L3.md",
-    "notes/archive/AEold/english/lessonnotes/T1W7L2.md",
-    "notes/archive/AEold/chemistry/lessonnotes/T1W7L2.md",
-    "notes/archive/AEold/methods/lessonnotes/T1W7L1.md",
-    "notes/archive/AEold/chemistry/lessonnotes/T1W7L1.md",
-    "notes/archive/AEold/methods/lessonnotes/T1W6L4.md",
-    "notes/archive/AEold/chemistry/lessonnotes/T1W6L4.md",
-    "notes/archive/AEold/specialist/lessonnotes/T1W6L4.md",
-    "notes/archive/AEold/specialist/lessonnotes/T1W6L3.md",
     "notes/AE/JAPANESE",
     "notes/AE",
     "tags",

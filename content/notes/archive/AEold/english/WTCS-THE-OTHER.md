@@ -1,5 +1,8 @@
 ---
-title: "WTCS-THE-OTHER"
+title: WTCS-THE-OTHER
+tags:
+  - AE
+  - english
 ---
 
 # the concept of the other

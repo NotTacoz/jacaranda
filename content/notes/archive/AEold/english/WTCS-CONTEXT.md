@@ -1,5 +1,8 @@
 ---
-title: "where the crawdads sing context"
+title: where the crawdads sing context
+tags:
+  - AE
+  - english
 ---
 
 [go back](notes/archive/AEold/subsections/eng.md)

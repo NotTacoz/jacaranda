@@ -1,5 +1,8 @@
 ---
-title: "WTCS-PRAC2"
+title: WTCS-PRAC2
+tags:
+  - AE
+  - english
 ---
 
 1.     Discuss how your attitudes influence your response to the way a controversy is represented in at least one text.

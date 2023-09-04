@@ -1,5 +1,8 @@
 ---
-title: "WTCS-VALUES-ATTITUDES"
+title: WTCS-VALUES-ATTITUDES
+tags:
+  - AE
+  - english
 ---
 
 # values and attitudes

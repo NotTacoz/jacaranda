@@ -1,5 +1,9 @@
 ---
-title: "thomas insanity arc :33333 :3 :3 :3"
+title: thomas insanity arc :33333 :3 :3 :3
+tags:
+  - AE
+  - japanese
+  - listening
 ---
 
 replay: 12

@@ -1,5 +1,9 @@
 ---
-title: "UCAT"
+title: UCAT
+tags:
+  - UCAT
+  - MED
+  - "#daily"
 ---
 
 ## What is UCAT?
