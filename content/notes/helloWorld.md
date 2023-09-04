@@ -1,8 +1,9 @@
 ---
-title: "hello world"
+title: hello world
+tags:
+  - navigation
 ---
 
-#navigation 
 
 ## what is this? why is this?
 - This is the start of a new structuring/hierarchy system for my notes

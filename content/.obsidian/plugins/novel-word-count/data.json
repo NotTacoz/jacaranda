@@ -18,6 +18,38 @@
     "excludeComments": false
   },
   "cachedCounts": {
+    "tags/chemistry.md": {
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 0,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0,
+      "characterCount": 1,
+      "nonWhitespaceCharacterCount": 0,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1693789313864,
+      "modifiedDate": 1693789371075,
+      "sizeInBytes": 94
+    },
+    "tags/AE.md": {
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 0,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0,
+      "characterCount": 1,
+      "nonWhitespaceCharacterCount": 0,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1693789153933,
+      "modifiedDate": 1693789185160,
+      "sizeInBytes": 101
+    },
     "private/val/split/tenzJett.md": {
       "isDirectory": false,
       "noteCount": 1,
@@ -31,7 +63,7 @@
       "embedCount": 5,
       "aliases": null,
       "createdDate": 1693311767652,
-      "modifiedDate": 1693311767652,
+      "modifiedDate": 1693789205018,
       "sizeInBytes": 5760
     },
     "private/val/lotus/asunaJett.md": {
@@ -47,7 +79,7 @@
       "embedCount": 8,
       "aliases": null,
       "createdDate": 1693311767594,
-      "modifiedDate": 1693311767594,
+      "modifiedDate": 1693789204981,
       "sizeInBytes": 4969
     },
     "private/val/navigation.md": {
@@ -79,7 +111,7 @@
       "embedCount": 2,
       "aliases": null,
       "createdDate": 1693311767569,
-      "modifiedDate": 1693311767569,
+      "modifiedDate": 1693789204944,
       "sizeInBytes": 2907
     },
     "private/val/haven/foxy9Jett.md": {
@@ -95,7 +127,7 @@
       "embedCount": 2,
       "aliases": null,
       "createdDate": 1693311767535,
-      "modifiedDate": 1693311767535,
+      "modifiedDate": 1693789204887,
       "sizeInBytes": 2001
     },
     "private/private-note.md": {
@@ -127,8 +159,24 @@
       "embedCount": 1,
       "aliases": null,
       "createdDate": 1693570799796,
-      "modifiedDate": 1693572482288,
+      "modifiedDate": 1693789204132,
       "sizeInBytes": 534
+    },
+    "templates/tags.md": {
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 0,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0,
+      "characterCount": 1,
+      "nonWhitespaceCharacterCount": 0,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1693789284994,
+      "modifiedDate": 1693789308328,
+      "sizeInBytes": 43
     },
     "templates/post.md": {
       "isDirectory": false,
@@ -143,40 +191,8 @@
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1686274931801,
-      "modifiedDate": 1686274931801,
-      "sizeInBytes": 27
-    },
-    "templates/newGrammar.md": {
-      "isDirectory": false,
-      "noteCount": 1,
-      "wordCount": 5,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 0.016666666666666666,
-      "characterCount": 82,
-      "nonWhitespaceCharacterCount": 75,
-      "linkCount": 1,
-      "embedCount": 0,
-      "aliases": null,
-      "createdDate": 1693311767690,
-      "modifiedDate": 1693311767690,
-      "sizeInBytes": 108
-    },
-    "templates/daily.md": {
-      "isDirectory": false,
-      "noteCount": 1,
-      "wordCount": 2,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 0.006666666666666667,
-      "characterCount": 10,
-      "nonWhitespaceCharacterCount": 6,
-      "linkCount": 0,
-      "embedCount": 0,
-      "aliases": null,
-      "createdDate": 1693311767672,
-      "modifiedDate": 1693311767672,
-      "sizeInBytes": 36
+      "modifiedDate": 1693789278515,
+      "sizeInBytes": 40
     },
     "notes/七五三.md": {
       "isDirectory": false,
@@ -197,34 +213,34 @@
     "notes/ratesOfReactionReportActual.md": {
       "isDirectory": false,
       "noteCount": 1,
-      "wordCount": 423,
+      "wordCount": 420,
       "wordCountTowardGoal": 0,
       "wordGoal": null,
-      "pageCount": 1.41,
-      "characterCount": 3370,
-      "nonWhitespaceCharacterCount": 2838,
+      "pageCount": 1.4,
+      "characterCount": 3346,
+      "nonWhitespaceCharacterCount": 2818,
       "linkCount": 1,
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1693743603150,
-      "modifiedDate": 1693743913065,
-      "sizeInBytes": 3493
+      "modifiedDate": 1693789247009,
+      "sizeInBytes": 3505
     },
     "notes/helloWorld.md": {
       "isDirectory": false,
       "noteCount": 1,
-      "wordCount": 124,
+      "wordCount": 123,
       "wordCountTowardGoal": 0,
       "wordGoal": null,
-      "pageCount": 0.41333333333333333,
-      "characterCount": 734,
-      "nonWhitespaceCharacterCount": 606,
+      "pageCount": 0.41,
+      "characterCount": 721,
+      "nonWhitespaceCharacterCount": 595,
       "linkCount": 1,
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1693571253600,
-      "modifiedDate": 1693571723390,
-      "sizeInBytes": 762
+      "modifiedDate": 1693789269834,
+      "sizeInBytes": 768
     },
     "notes/daily/daily.md": {
       "isDirectory": false,
@@ -543,7 +559,7 @@
       "embedCount": 4,
       "aliases": null,
       "createdDate": 1693311763611,
-      "modifiedDate": 1693743913045,
+      "modifiedDate": 1693789204150,
       "sizeInBytes": 18300
     },
     "notes/delocalised.md": {
@@ -575,7 +591,7 @@
       "embedCount": 1,
       "aliases": null,
       "createdDate": 1693311764813,
-      "modifiedDate": 1693571296950,
+      "modifiedDate": 1693789204850,
       "sizeInBytes": 593
     },
     "notes/archive/notes.md": {
@@ -655,7 +671,7 @@
       "embedCount": 2,
       "aliases": null,
       "createdDate": 1693311766888,
-      "modifiedDate": 1693311766888,
+      "modifiedDate": 1693789204812,
       "sizeInBytes": 1224
     },
     "notes/archive/AEold/specialist/lessonnotes/T2W2L3.md": {
@@ -703,7 +719,7 @@
       "embedCount": 1,
       "aliases": null,
       "createdDate": 1693311766809,
-      "modifiedDate": 1693311766809,
+      "modifiedDate": 1693789204775,
       "sizeInBytes": 837
     },
     "notes/archive/AEold/specialist/lessonnotes/T1W9L1.md": {
@@ -895,7 +911,7 @@
       "embedCount": 1,
       "aliases": null,
       "createdDate": 1693311766578,
-      "modifiedDate": 1693311766578,
+      "modifiedDate": 1693789204735,
       "sizeInBytes": 1043
     },
     "notes/archive/AEold/specialist/lessonnotes/T1W10L1.md": {
@@ -1087,7 +1103,7 @@
       "embedCount": 3,
       "aliases": null,
       "createdDate": 1693311766481,
-      "modifiedDate": 1693311766481,
+      "modifiedDate": 1693789204678,
       "sizeInBytes": 10098
     },
     "notes/archive/AEold/physics/pearson/7.1.md": {
@@ -1183,7 +1199,7 @@
       "embedCount": 1,
       "aliases": null,
       "createdDate": 1693311765435,
-      "modifiedDate": 1693311765435,
+      "modifiedDate": 1693789204471,
       "sizeInBytes": 3122
     },
     "notes/archive/AEold/chemistry/lessonnotes/T2W3L1.md": {
@@ -1359,7 +1375,7 @@
       "embedCount": 3,
       "aliases": null,
       "createdDate": 1693311765240,
-      "modifiedDate": 1693311765240,
+      "modifiedDate": 1693789204432,
       "sizeInBytes": 2735
     },
     "notes/archive/AEold/chemistry/lessonnotes/T1W6L3.md": {
@@ -1567,7 +1583,7 @@
       "embedCount": 2,
       "aliases": null,
       "createdDate": 1693311764980,
-      "modifiedDate": 1693311764980,
+      "modifiedDate": 1693789204394,
       "sizeInBytes": 14692
     },
     "notes/archive/AEold/chemistry/testnotes/CAP2.md": {
@@ -1583,7 +1599,7 @@
       "embedCount": 3,
       "aliases": null,
       "createdDate": 1693311941947,
-      "modifiedDate": 1693311941947,
+      "modifiedDate": 1693789204509,
       "sizeInBytes": 29436
     },
     "notes/archive/AEold/chemistry/notes/solubility.md": {
@@ -1887,7 +1903,7 @@
       "embedCount": 1,
       "aliases": null,
       "createdDate": 1693311766250,
-      "modifiedDate": 1693311766250,
+      "modifiedDate": 1693789204622,
       "sizeInBytes": 168
     },
     "notes/archive/AEold/methods/lessonnotes/T2W3L1.md": {
@@ -2047,7 +2063,7 @@
       "embedCount": 3,
       "aliases": null,
       "createdDate": 1693311766231,
-      "modifiedDate": 1693311766231,
+      "modifiedDate": 1693789204584,
       "sizeInBytes": 2389
     },
     "notes/archive/AEold/methods/lessonnotes/T1W6L2.md": {
@@ -2079,7 +2095,7 @@
       "embedCount": 3,
       "aliases": null,
       "createdDate": 1693311766195,
-      "modifiedDate": 1693311766195,
+      "modifiedDate": 1693789204546,
       "sizeInBytes": 1884
     },
     "notes/archive/AEold/methods/lessonnotes/T1W6L1.md": {
@@ -2255,7 +2271,7 @@
       "embedCount": 3,
       "aliases": null,
       "createdDate": 1693311764452,
-      "modifiedDate": 1693311764452,
+      "modifiedDate": 1693789204282,
       "sizeInBytes": 15372
     },
     "notes/archive/AE/PHYSICS/heat.md": {
@@ -2303,7 +2319,7 @@
       "embedCount": 5,
       "aliases": null,
       "createdDate": 1693570799798,
-      "modifiedDate": 1693570799799,
+      "modifiedDate": 1693789204321,
       "sizeInBytes": 6281
     },
     "notes/archive/AE/SPECIALIST/specialist.md": {
@@ -2383,7 +2399,7 @@
       "embedCount": 1,
       "aliases": null,
       "createdDate": 1693570799799,
-      "modifiedDate": 1693571207293,
+      "modifiedDate": 1693789204357,
       "sizeInBytes": 443
     },
     "notes/archive/AE/ENGLISH/comprehendingStructure.md": {
@@ -2623,7 +2639,7 @@
       "embedCount": 3,
       "aliases": null,
       "createdDate": 1693311763887,
-      "modifiedDate": 1693531547954,
+      "modifiedDate": 1693789204261,
       "sizeInBytes": 4828
     },
     "notes/archive/AE/CHEMISTRY/reactionsParticlesAndCollisions.md": {
@@ -2671,7 +2687,7 @@
       "embedCount": 5,
       "aliases": null,
       "createdDate": 1693311763795,
-      "modifiedDate": 1693311763795,
+      "modifiedDate": 1693789204223,
       "sizeInBytes": 5983
     },
     "notes/archive/AE/CHEMISTRY/howToReportROR.md": {
@@ -2687,7 +2703,7 @@
       "embedCount": 2,
       "aliases": null,
       "createdDate": 1693570799797,
-      "modifiedDate": 1693743857920,
+      "modifiedDate": 1693789204187,
       "sizeInBytes": 1499
     },
     "notes/archive/AE/CHEMISTRY/gases.md": {

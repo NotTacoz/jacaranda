@@ -1,10 +1,12 @@
 ---
-title: "ratesOfReactionReportActual"
+title: ratesOfReactionReportActual
+tags:
+  - AE
+  - chemistry
+  - report
 ---
 
 >[!note] format is FUCKED but i cant be bothered to fix it right now xd
-
-#chemistry #AE #report
 
 based on the [[notes/archive/AE/CHEMISTRY/howToReportROR|how to write a rate of reactions report]]
 

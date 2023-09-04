@@ -75,32 +75,41 @@
     "2023/7/31": 871,
     "2023/8/1": 1191,
     "2023/8/2": 332,
-    "2023/8/3": 271
+    "2023/8/3": 271,
+    "2023/8/4": 25
   },
   "todaysWordCount": {
-    "notes/CAP4.md": {
-      "initial": 2601,
-      "current": 2705
+    "tags/AE.md": {
+      "initial": 2,
+      "current": 18
     },
     "notes/ratesOfReactionReportActual.md": {
-      "initial": 429,
-      "current": 466
+      "initial": 467,
+      "current": 467
     },
-    "notes/archive/AE/CHEMISTRY/ratesOfReactionReport.md": {
-      "initial": 200,
-      "current": 207
+    "notes/helloWorld.md": {
+      "initial": 133,
+      "current": 133
     },
-    "notes/七五三.md": {
+    "templates/post.md": {
+      "initial": 3,
+      "current": 4
+    },
+    "templates/Untitled.md": {
       "initial": 4,
-      "current": 51
+      "current": 4
     },
-    "notes/daily/2023-09-03.md": {
-      "initial": 4,
-      "current": 64
+    "templates/tags.md": {
+      "initial": 3,
+      "current": 3
     },
-    "notes/daily/daily.md": {
-      "initial": 156,
-      "current": 172
+    "notes/chemistry.md": {
+      "initial": 3,
+      "current": 11
+    },
+    "tags/chemistry.md": {
+      "initial": 11,
+      "current": 11
     }
   }
 }
