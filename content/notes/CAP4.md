@@ -1,8 +1,12 @@
 ---
-title: "CAP4"
+title: CAP4
+tags:
+  - AE
+  - chemistry
+  - organicChemistry
+  - ratesOfReaction
 ---
 
-#AE #chemistry 
 ## **Topic 4: CARBON CHEMISTRY & ENERGY**
 
 ### Structure & Naming

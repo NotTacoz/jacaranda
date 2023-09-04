@@ -1,4 +1,4 @@
 ---
-title: AE
+title: ae
 description: This is all the work/homework/notes I did for the ATAR Year 11 Course
 ---

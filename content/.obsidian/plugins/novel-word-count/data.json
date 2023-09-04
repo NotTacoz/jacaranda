@@ -18,6 +18,22 @@
     "excludeComments": false
   },
   "cachedCounts": {
+    "tags/ae.md": {
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 0,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0,
+      "characterCount": 1,
+      "nonWhitespaceCharacterCount": 0,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1693789153933,
+      "modifiedDate": 1693790497071,
+      "sizeInBytes": 101
+    },
     "tags/chemistry.md": {
       "isDirectory": false,
       "noteCount": 1,
@@ -33,22 +49,6 @@
       "createdDate": 1693789313864,
       "modifiedDate": 1693789371075,
       "sizeInBytes": 94
-    },
-    "tags/AE.md": {
-      "isDirectory": false,
-      "noteCount": 1,
-      "wordCount": 0,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 0,
-      "characterCount": 1,
-      "nonWhitespaceCharacterCount": 0,
-      "linkCount": 0,
-      "embedCount": 0,
-      "aliases": null,
-      "createdDate": 1693789153933,
-      "modifiedDate": 1693789185160,
-      "sizeInBytes": 101
     },
     "private/val/split/tenzJett.md": {
       "isDirectory": false,
@@ -194,6 +194,22 @@
       "modifiedDate": 1693789278515,
       "sizeInBytes": 40
     },
+    "notes/productToSumAndSumToProduct.md": {
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 138,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.46,
+      "characterCount": 856,
+      "nonWhitespaceCharacterCount": 716,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1693789394396,
+      "modifiedDate": 1693790128052,
+      "sizeInBytes": 954
+    },
     "notes/七五三.md": {
       "isDirectory": false,
       "noteCount": 1,
@@ -207,24 +223,24 @@
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1693743822962,
-      "modifiedDate": 1693746671251,
-      "sizeInBytes": 286
+      "modifiedDate": 1693789946927,
+      "sizeInBytes": 327
     },
     "notes/ratesOfReactionReportActual.md": {
       "isDirectory": false,
       "noteCount": 1,
-      "wordCount": 420,
+      "wordCount": 419,
       "wordCountTowardGoal": 0,
       "wordGoal": null,
-      "pageCount": 1.4,
-      "characterCount": 3346,
-      "nonWhitespaceCharacterCount": 2818,
+      "pageCount": 1.3966666666666667,
+      "characterCount": 3225,
+      "nonWhitespaceCharacterCount": 2699,
       "linkCount": 1,
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1693743603150,
-      "modifiedDate": 1693789247009,
-      "sizeInBytes": 3505
+      "modifiedDate": 1693789917981,
+      "sizeInBytes": 3384
     },
     "notes/helloWorld.md": {
       "isDirectory": false,
@@ -549,34 +565,34 @@
     "notes/CAP4.md": {
       "isDirectory": false,
       "noteCount": 1,
-      "wordCount": 2812,
+      "wordCount": 2810,
       "wordCountTowardGoal": 0,
       "wordGoal": null,
-      "pageCount": 9.373333333333333,
-      "characterCount": 18199,
-      "nonWhitespaceCharacterCount": 14991,
+      "pageCount": 9.366666666666667,
+      "characterCount": 18183,
+      "nonWhitespaceCharacterCount": 14978,
       "linkCount": 3,
       "embedCount": 4,
       "aliases": null,
       "createdDate": 1693311763611,
-      "modifiedDate": 1693789204150,
-      "sizeInBytes": 18300
+      "modifiedDate": 1693790459236,
+      "sizeInBytes": 18350
     },
     "notes/delocalised.md": {
       "isDirectory": false,
       "noteCount": 1,
-      "wordCount": 52,
+      "wordCount": 49,
       "wordCountTowardGoal": 0,
       "wordGoal": null,
-      "pageCount": 0.17333333333333334,
-      "characterCount": 320,
-      "nonWhitespaceCharacterCount": 267,
+      "pageCount": 0.16333333333333333,
+      "characterCount": 287,
+      "nonWhitespaceCharacterCount": 237,
       "linkCount": 0,
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1693629109289,
-      "modifiedDate": 1693629187929,
-      "sizeInBytes": 348
+      "modifiedDate": 1693789968086,
+      "sizeInBytes": 361
     },
     "notes/archive/_indexOld.md": {
       "isDirectory": false,

@@ -76,7 +76,7 @@
     "2023/8/1": 1191,
     "2023/8/2": 332,
     "2023/8/3": 271,
-    "2023/8/4": 25
+    "2023/8/4": 211
   },
   "todaysWordCount": {
     "tags/AE.md": {
@@ -85,7 +85,7 @@
     },
     "notes/ratesOfReactionReportActual.md": {
       "initial": 467,
-      "current": 467
+      "current": 454
     },
     "notes/helloWorld.md": {
       "initial": 133,
@@ -110,6 +110,22 @@
     "tags/chemistry.md": {
       "initial": 11,
       "current": 11
+    },
+    "notes/productToSumAndSumToProduct.md": {
+      "initial": 4,
+      "current": 185
+    },
+    "notes/七五三.md": {
+      "initial": 52,
+      "current": 55
+    },
+    "notes/delocalised.md": {
+      "initial": 51,
+      "current": 51
+    },
+    "notes/CAP4.md": {
+      "initial": 2706,
+      "current": 2708
     }
   }
 }

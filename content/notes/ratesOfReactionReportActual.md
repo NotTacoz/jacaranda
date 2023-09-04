@@ -12,8 +12,6 @@ based on the [[notes/archive/AE/CHEMISTRY/howToReportROR|how to write a rate of 
 
 ## Rates of Reaction: Effect of changing concentration
 
-![200](file:////Users/thomas/Library/Group%20Containers/UBF8T346G9.Office/TemporaryItems/msohtmlclip/clip_image001.png)
-
 ### Background Research
 
 In the experiment, we will be finding the relationship between the concentration of acid and the rate of reaction. Specifically, the relationship of concentration and effect on rate of reaction in an acid neutralisation reaction between hydrochloric acid and calcium carbonate.
