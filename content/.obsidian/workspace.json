@@ -60,19 +60,6 @@
             }
           },
           {
-            "id": "fcc1bf81054798f1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "tags/english.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
             "id": "fdebf47ae407d5ce",
             "type": "leaf",
             "state": {
@@ -86,7 +73,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -248,9 +235,10 @@
   },
   "active": "fdebf47ae407d5ce",
   "lastOpenFiles": [
+    "tags/physics.md",
+    "tags/japanese.md",
     "tags/chemistry.md",
     "tags/english.md",
-    "tags/japanese.md",
     "tags/specialist.md",
     "tags/methods.md",
     "notes/archive/AE/notes.md",
@@ -262,7 +250,6 @@
     "notes/ratesOfReactionReportActual.md",
     "notes/七五三.md",
     "tags/ae.md",
-    "tags/physics.md",
     "notes/archive/AE/CHEMISTRY/chemistry.md",
     "notes/archive/notes.md",
     "notes/archive/AE/METHODS/methods.md",
