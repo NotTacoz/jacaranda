@@ -76,7 +76,7 @@
     "2023/8/1": 1191,
     "2023/8/2": 332,
     "2023/8/3": 271,
-    "2023/8/4": 245
+    "2023/8/4": 248
   },
   "todaysWordCount": {
     "tags/AE.md": {
@@ -109,7 +109,7 @@
     },
     "tags/chemistry.md": {
       "initial": 11,
-      "current": 5
+      "current": 6
     },
     "notes/productToSumAndSumToProduct.md": {
       "initial": 4,
@@ -202,6 +202,10 @@
     "tags/ae.md": {
       "initial": 18,
       "current": 6
+    },
+    "notes/temperatureBehaviour.md": {
+      "initial": 4,
+      "current": 7
     }
   }
 }

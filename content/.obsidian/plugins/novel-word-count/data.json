@@ -18,6 +18,22 @@
     "excludeComments": false
   },
   "cachedCounts": {
+    "tags/chemistry.md": {
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 0,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0,
+      "characterCount": 1,
+      "nonWhitespaceCharacterCount": 0,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1693803713270,
+      "modifiedDate": 1693803729640,
+      "sizeInBytes": 63
+    },
     "private/val/split/tenzJett.md": {
       "isDirectory": false,
       "noteCount": 1,
@@ -175,8 +191,24 @@
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1686274931801,
-      "modifiedDate": 1693789278515,
+      "modifiedDate": 1693803694330,
       "sizeInBytes": 40
+    },
+    "notes/temperatureBehaviour.md": {
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 0,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0,
+      "characterCount": 1,
+      "nonWhitespaceCharacterCount": 0,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1693803679350,
+      "modifiedDate": 1693803706282,
+      "sizeInBytes": 68
     },
     "notes/productToSumAndSumToProduct.md": {
       "isDirectory": false,
