@@ -1,5 +1,8 @@
 ---
-title: "chromatography"
+title: chromatography
+tags:
+  - AE
+  - chemistry
 ---
 
 ## what is

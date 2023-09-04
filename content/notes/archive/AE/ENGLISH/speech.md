@@ -1,5 +1,9 @@
 ---
-title: "speech structure"
+title: speech structure
+tags:
+  - english
+  - structure
+  - speech
 ---
 
 ## Structure

@@ -1,5 +1,8 @@
 ---
-title: "emission spectra"
+title: emission spectra
+tags:
+  - AE
+  - chemistry
 ---
 
 based on the stawa book lol
@@ -29,3 +32,4 @@ related:
 
 - [atomic structures](notes/archive/AEold/chemistry/lessonnotes/ATOMIC-STRUCTURES.md)
 - [flame test](notes/archive/AEold/chemistry/lessonnotes/FLAME-TEST.md)
+- [[notes/archive/AEold/chemistry/notes/chromatography|chromatography]]

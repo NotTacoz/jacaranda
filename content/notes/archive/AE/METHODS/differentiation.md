@@ -1,7 +1,10 @@
 ---
-title: "differentiation"
+title: differentiation
+tags:
+  - AE
+  - differentiation
+  - methods
 ---
-
 ## average rate of change
 
 - straight line graphs have constant gradients.

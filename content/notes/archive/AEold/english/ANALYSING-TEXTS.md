@@ -1,5 +1,8 @@
 ---
-title: "ANALYSING-TEXTS"
+title: ANALYSING-TEXTS
+tags:
+  - AE
+  - english
 ---
 
 based on the english WA book for year 11.

@@ -1,5 +1,8 @@
 ---
-title: "exponentialRelationships"
+title: exponentialRelationships
+tags:
+  - AE
+  - methods
 ---
 
 ## Idk anymore: exponential relationships.

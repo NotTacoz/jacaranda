@@ -1,5 +1,10 @@
 ---
-title: "english masterlist"
+title: english masterlist
+tags:
+  - AE
+  - masterlist
+  - navigation
+  - english
 ---
 
 [go back](notes/archive/notes.md)

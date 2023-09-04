@@ -1,5 +1,9 @@
 ---
-title: "feedback spec cap 1 XD"
+title: feedback spec cap 1 XD
+tags:
+  - AE
+  - feedback
+  - specialist
 ---
 
 # haha ha hahahaha

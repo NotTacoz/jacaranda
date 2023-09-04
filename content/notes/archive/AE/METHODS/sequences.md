@@ -1,5 +1,8 @@
 ---
-title: "sequences"
+title: sequences
+tags:
+  - AE
+  - methods
 ---
 
 - when looking at identifying the explicit rule, it is finding the rule through linear equations and quadratic relationships like that

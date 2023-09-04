@@ -1,7 +1,10 @@
 ---
-title: "trigonometry"
+title: trigonometry
+tags:
+  - trigonometry
+  - specialist
+  - AE
 ---
-#trigonometry #specialist #AE 
 ## Assumed Knowledge (from methods)
 
 - Angles in degrees in radians (and converting between units).

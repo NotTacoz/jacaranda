@@ -1,5 +1,10 @@
 ---
-## title: "essay structure"
+title: ESSAY-STRUCTURE
+tags:
+  - AE
+  - english
+  - structure
+  - responding
 ---
 
 [go back](notes/archive/AEold/subsections/eng.md)

@@ -1,5 +1,8 @@
 ---
-title: "Sound Properties"
+title: Sound Properties
+tags:
+  - AE
+  - physics
 ---
 
 ## idk

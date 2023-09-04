@@ -1,5 +1,7 @@
 ---
-title: "empty"
+title: empty
+tags:
+  - navigation
 ---
 
 dont mind this

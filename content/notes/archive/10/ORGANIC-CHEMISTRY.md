@@ -1,5 +1,8 @@
 ---
-title: "10 organic chemistry"
+title: 10 organic chemistry
+tags:
+  - "10"
+  - organicChemistry
 ---
 
 [go back](notes/archive/AEold/subsections/chem.md)

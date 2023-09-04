@@ -1,5 +1,9 @@
 ---
-title: "solvingTrigEquations"
+title: solvingTrigEquations
+tags:
+  - AE
+  - methods
+  - trigonometry
 ---
 
 ## Recap - Exact Values in the Unit Circle

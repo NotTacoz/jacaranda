@@ -1,5 +1,10 @@
 ---
-title: "japanese masterlist"
+title: japanese masterlist
+tags:
+  - AE
+  - japanese
+  - masterlist
+  - navigation
 ---
 
 [go back](notes/archive/notes.md)

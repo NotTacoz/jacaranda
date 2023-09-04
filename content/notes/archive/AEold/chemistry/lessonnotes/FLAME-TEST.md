@@ -1,7 +1,9 @@
 ---
-title: "flame test"
+title: flame test
+tags:
+  - AE
+  - chemistry
 ---
-
 # experiment 8: flame test
 
 - A flame test is a visual way of demonstrating the different frequencies emitted when an electron emits photons and moves from a higher energy state to a lower energy state.

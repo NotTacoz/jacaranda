@@ -1,5 +1,8 @@
 ---
-title: "physics masterlist"
+title: physics masterlist
+tags:
+  - AE
+  - physics
 ---
 
 [go back](notes/archive/notes.md)

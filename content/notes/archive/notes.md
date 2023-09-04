@@ -1,5 +1,9 @@
 ---
-title: "notes"
+title: notes
+tags:
+  - AE
+  - navigation
+  - masterlist
 ---
 
 - [Methods Notes](notes/archive/AEold/subsections/methods.md)

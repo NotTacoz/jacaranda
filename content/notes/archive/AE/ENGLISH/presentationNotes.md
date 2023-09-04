@@ -1,5 +1,9 @@
 ---
-title: "Brenda Matthews Presentation Notes"
+title: Brenda Matthews Presentation Notes
+tags:
+  - AE
+  - english
+  - notes
 ---
 
 Notes taken from 3/8/23's english day presentations.

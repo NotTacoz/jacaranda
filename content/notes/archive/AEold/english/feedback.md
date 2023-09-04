@@ -1,5 +1,9 @@
 ---
-title: "feedback"
+title: feedback
+tags:
+  - AE
+  - english
+  - feedback
 ---
 
 - evidence is not just recounting plot points or retelling what happens. textual evidence needs to be discussed in terms of scenes and using film language (meta language - e.g. body language, dialogue, facial expressions.)

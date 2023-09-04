@@ -1,6 +1,8 @@
 ---
-title: home
+title: home (archived old)
 enableToc: false
+tags:
+  - navigation
 ---
 
 ![](notes/images/Pasted%20image%2020230228195052.png)

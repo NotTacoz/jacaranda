@@ -1,5 +1,9 @@
 ---
-title: "spec masterlist"
+title: spec masterlist
+tags:
+  - AE
+  - masterlist
+  - navigation
 ---
 
 [go back](notes/archive/notes.md)

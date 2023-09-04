@@ -1,5 +1,8 @@
 ---
-title: "polarity"
+title: polarity
+tags:
+  - AE
+  - chemistry
 ---
 
 based off page 128

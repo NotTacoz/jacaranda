@@ -1,5 +1,9 @@
 ---
-title: "Kinetic Energy & Temperature"
+title: Kinetic Energy & Temperature
+tags:
+  - AE
+  - chemistry
+  - gases
 ---
 
 ## Crash Course Video Notes

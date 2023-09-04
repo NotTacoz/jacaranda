@@ -1,5 +1,9 @@
 ---
-title: "Motion Investigation"
+title: Motion Investigation
+tags:
+  - physics
+  - AE
+  - investigations
 ---
 
 # hypothesis

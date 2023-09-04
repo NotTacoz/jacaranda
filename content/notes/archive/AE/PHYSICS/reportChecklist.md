@@ -1,5 +1,9 @@
 ---
-title: "reportChecklist"
+title: reportChecklist
+tags:
+  - AE
+  - physics
+  - report
 ---
 
 this isnt really useful - checklist has been discontinued.

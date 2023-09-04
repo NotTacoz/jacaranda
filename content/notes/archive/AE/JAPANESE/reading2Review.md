@@ -1,7 +1,11 @@
 ---
-title: "reading2Review"
+title: reading2Review
+tags:
+  - feedback
+  - review
+  - AE
+  - japanese
 ---
-
 mistakes:
 
 ## Text 1

@@ -1,5 +1,9 @@
 ---
-title: "dead emus, floating fish, and an awful lot of motion sickness"
+title: dead emus, floating fish, and an awful lot of motion sickness
+tags:
+  - AE
+  - AT
+  - chemistry
 ---
 
 - plant

@@ -1,5 +1,9 @@
 ---
-title: "antidifferentiation"
+title: antidifferentiation
+tags:
+  - AE
+  - methods
+  - differentiation
 ---
 
 -> x power -> -1 from power + c

@@ -1,5 +1,10 @@
 ---
-title: "LISTENING-PRACTICE1"
+title: LISTENING-PRACTICE1
+tags:
+  - AE
+  - japanese
+  - listening
+  - practice
 ---
 
 - [x] listening revision booklet. (A-D)

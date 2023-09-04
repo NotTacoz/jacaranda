@@ -1,5 +1,10 @@
 ---
-title: "selfJett"
+title: selfJett
+tags:
+  - valorant
+  - jett
+  - self
+  - review
 ---
 
 ![](notes/images/Screen%20Shot%202023-08-16%20at%205.53.08%20pm.png)

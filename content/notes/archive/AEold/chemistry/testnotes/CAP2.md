@@ -1,5 +1,9 @@
 ---
-title: "CAP2"
+title: CAP2
+tags:
+  - chemistry
+  - checklist
+  - AE
 ---
 
 ✅ for completed

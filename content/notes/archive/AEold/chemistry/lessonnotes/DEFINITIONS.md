@@ -1,6 +1,11 @@
 ---
 layout: default
-title: "Chemistry Definitions Megalist"
+title: Chemistry Definitions Megalist
+tags:
+  - AE
+  - chemistry
+  - definitions
+  - megalist
 ---
 
 [go back](notes/archive/AEold/subsections/chem.md)

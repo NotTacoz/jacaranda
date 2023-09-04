@@ -1,5 +1,10 @@
 ---
-title: "CAP1"
+title: CAP1
+tags:
+  - AE
+  - checklist
+  - CAPRevision
+  - physics
 ---
 
 based on revision checklist

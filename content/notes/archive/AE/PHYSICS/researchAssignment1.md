@@ -1,5 +1,8 @@
 ---
-title: "Medical Physics and Dosimetry"
+title: Medical Physics and Dosimetry
+tags:
+  - AE
+  - physics
 ---
 
 > [!note]

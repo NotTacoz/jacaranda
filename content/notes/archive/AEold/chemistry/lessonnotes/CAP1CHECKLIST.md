@@ -1,5 +1,9 @@
 ---
-title: "cap 1 checklist"
+title: cap 1 checklist
+tags:
+  - AE
+  - checklist
+  - chemistry
 ---
 
 lil checklist to make sure ive studied everything :)

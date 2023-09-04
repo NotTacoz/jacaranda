@@ -1,7 +1,11 @@
 ---
-title: "kinematics"
+title: kinematics
+tags:
+  - AE
+  - methods
+  - physics
 ---
-
+learnt in methods but practical in physics
 ## location
 
 - location with reference to the fixed point $0$

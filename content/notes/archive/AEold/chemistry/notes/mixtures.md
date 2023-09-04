@@ -1,5 +1,8 @@
 ---
-title: "mixtures"
+title: mixtures
+tags:
+  - AE
+  - chemistry
 ---
 
 - solvent, solute, evaporate solvent, and you are left with solute in solid form.

@@ -1,5 +1,9 @@
 ---
-title: "navigation"
+title: navigation
+tags:
+  - navigation
+  - masterlist
+  - valorant
 ---
 
 ## haven

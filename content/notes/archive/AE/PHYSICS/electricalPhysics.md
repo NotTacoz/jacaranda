@@ -1,5 +1,8 @@
 ---
-title: "Electrical Physics"
+title: Electrical Physics
+tags:
+  - AE
+  - physics
 ---
 
 ## electric charge

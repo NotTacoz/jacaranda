@@ -1,5 +1,9 @@
 ---
-title: "nuclearphysicsidk"
+title: nuclearphysicsidk
+tags:
+  - "10"
+  - nuclearPhysics
+  - physics
 ---
 
 # 1. bohr’s model of the atom

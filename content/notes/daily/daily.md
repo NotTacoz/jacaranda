@@ -1,5 +1,9 @@
 ---
-title: "daily"
+title: daily
+tags:
+  - daily
+  - masterlist
+  - navigation
 ---
 
 Daily notes has been discontinued indefinitely. Maybe it will come back.

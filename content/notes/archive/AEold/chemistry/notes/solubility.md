@@ -1,5 +1,8 @@
 ---
-title: "solubility"
+title: solubility
+tags:
+  - AE
+  - chemistry
 ---
 
 ## refer to lesson notes for most of solubility things

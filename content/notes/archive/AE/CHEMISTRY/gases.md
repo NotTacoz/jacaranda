@@ -1,7 +1,10 @@
 ---
-title: "Gases"
+title: Gases
+tags:
+  - AE
+  - chemistry
+  - gases
 ---
-
 ## gas pressure
 
 - **pressure** is defined as force per unit area

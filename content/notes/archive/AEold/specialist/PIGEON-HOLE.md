@@ -1,5 +1,8 @@
 ---
-title: "pigeonhole principle"
+title: pigeonhole principle
+tags:
+  - AE
+  - specialist
 ---
 
 [go back](notes/archive/AEold/subsections/spec.md)

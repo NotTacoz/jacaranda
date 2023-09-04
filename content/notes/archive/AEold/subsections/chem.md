@@ -1,5 +1,10 @@
 ---
-title: "chemistry masterlist"
+title: chemistry masterlist
+tags:
+  - AE
+  - chemistry
+  - masterlist
+  - navigation
 ---
 
 [go back](notes/archive/notes.md)

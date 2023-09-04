@@ -1,5 +1,8 @@
 ---
 title: "research task: atomic structure"
+tags:
+  - AE
+  - chemistry
 ---
 
 [go back](notes/archive/AEold/subsections/chem.md)

@@ -1,5 +1,8 @@
 ---
-title: "circuitsInvestigation"
+title: circuitsInvestigation
+tags:
+  - AE
+  - physics
 ---
 
 Electrical Circuits: Investigation of Internal Resistance of Batteries

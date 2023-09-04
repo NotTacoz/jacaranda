@@ -1,5 +1,8 @@
 ---
-title: "Nuclear Physics"
+title: Nuclear Physics
+tags:
+  - AE
+  - physics
 ---
 
 ## 4 Types of Nuclear Radiation
