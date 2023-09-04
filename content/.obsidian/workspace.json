@@ -78,7 +78,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notes/CAP4.md",
+                "file": "tags/japanese.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -177,7 +177,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "notes/CAP4.md",
+                "file": "tags/japanese.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -224,7 +224,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "notes/CAP4.md"
+                "file": "tags/japanese.md"
               }
             }
           }
@@ -248,6 +248,14 @@
   },
   "active": "fdebf47ae407d5ce",
   "lastOpenFiles": [
+    "tags/chemistry.md",
+    "tags/english.md",
+    "tags/japanese.md",
+    "tags/specialist.md",
+    "tags/methods.md",
+    "notes/archive/AE/notes.md",
+    "_index.md",
+    "notes/CAP4.md",
     "notes/delocalised.md",
     "notes/helloWorld.md",
     "notes/productToSumAndSumToProduct.md",
@@ -255,14 +263,7 @@
     "notes/七五三.md",
     "tags/ae.md",
     "tags/physics.md",
-    "tags/english.md",
-    "tags/methods.md",
-    "tags/chemistry.md",
-    "tags/japanese.md",
     "notes/archive/AE/CHEMISTRY/chemistry.md",
-    "tags/specialist.md",
-    "notes/archive/AE/notes.md",
-    "_index.md",
     "notes/archive/notes.md",
     "notes/archive/AE/METHODS/methods.md",
     "notes/archive/AEold/subsections/methods.md",
@@ -271,7 +272,6 @@
     "notes/archive/AE/JAPANESE/japaneseExamReview.md",
     "notes/archive/AE/PHYSICS/physics.md",
     "notes/archive/AE/SPECIALIST/specialist.md",
-    "notes/CAP4.md",
     "notes/daily/2023-09-01.md",
     "notes/archive/AEold/methods/lessonnotes/T1W6L1.md",
     "tags",
