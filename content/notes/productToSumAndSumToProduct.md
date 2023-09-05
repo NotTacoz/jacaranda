@@ -7,7 +7,8 @@ tags:
   - ae
 ---
 ## Product to sum to product
-- given $$\sin(A+B)=\sin A\cos B+\cos A\sin B$$$$\sin(A-B)=\sin A\cos B-\cos A\sin B$$
+- given $$\sin(A+B)=\sin A\cos B+\cos A\sin B$$
+$$\sin(A-B)=\sin A\cos B-\cos A\sin B$$
 - adding these gives:$$\sin(A+B)+\sin(A-B)=2\sin A\cos B$$
 - and so$$\sin A\cos B= \frac{1}{2} (\sin (A+B)+\sin(A-B))$$
 - or writing $A+B=P$ and $A-B=Q$ $$\sin P + \sin Q = 2 \sin \left( \frac{P+Q}{2} \right)\cos\left( \frac{P-Q}{2} \right)$$

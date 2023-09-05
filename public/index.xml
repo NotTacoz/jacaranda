@@ -171,7 +171,7 @@
     <title>~ながら</title>
     <link>https://nottacoz.github.io/notes/archive/AE/JAPANESE/ながら</link>
     <guid>https://nottacoz.github.io/notes/archive/AE/JAPANESE/ながら</guid>
-    <description>Return to JAPANESE Grammar Masterlist ACTION 1 (verb stem) | ながら | ACTION 2 simultaneous actions that ONE person is doing. ie you cannot use ~ながら for “while person A does this, person B does this” IT DOES NOT WORK ながら is usually added on the less important verb.</description>
+    <description>ACTION 1 (verb stem) | ながら | ACTION 2 simultaneous actions that ONE person is doing. ie you cannot use ~ながら for “while person A does this, person B does this” IT DOES NOT WORK ながら is usually added on the less important verb.</description>
     <pubDate>Tue, 29 Aug 2023 12:22:44 GMT</pubDate>
   </item><item>
     <title>~方</title>
@@ -213,7 +213,7 @@
     <title>kinematics</title>
     <link>https://nottacoz.github.io/notes/archive/AE/METHODS/kinematics</link>
     <guid>https://nottacoz.github.io/notes/archive/AE/METHODS/kinematics</guid>
-    <description>location § location with reference to the fixed point 0 displacement &amp; distance § displacement § displacement s is a vector s=Δx=x2​−x1​1 positions are often given as displacements from the origin 0 distance § distance is a scalar make sure you’re clear between difference between displacement and distance (scalar vs vector, where distance doesn’t have a direction) distance describes total length travelled by particle, whilst displacement is not.</description>
+    <description>learnt in methods but practical in physics location § location with reference to the fixed point 0 displacement &amp; distance § displacement § displacement s is a vector s=Δx=x2​−x1​1 positions are often given as displacements from the origin 0 distance § distance is a scalar make sure you’re clear between difference between displacement and distance (scalar vs vector, where distance doesn’t have a direction) distance describes total length travelled by particle, whilst displacement is not.</description>
     <pubDate>Tue, 29 Aug 2023 12:22:44 GMT</pubDate>
   </item><item>
     <title>methods</title>
@@ -309,13 +309,13 @@
     <title>trigonometry</title>
     <link>https://nottacoz.github.io/notes/archive/AE/SPECIALIST/trigonometry</link>
     <guid>https://nottacoz.github.io/notes/archive/AE/SPECIALIST/trigonometry</guid>
-    <description>#trigonometry#specialist#ae Assumed Knowledge (from methods) § Angles in degrees in radians (and converting between units). Defining sin and cos using the unit circle.</description>
+    <description>Assumed Knowledge (from methods) § Angles in degrees in radians (and converting between units). Defining sin and cos using the unit circle. Graphs of y = sinx, y = cosx and y = tanx.</description>
     <pubDate>Fri, 01 Sep 2023 12:19:59 GMT</pubDate>
   </item><item>
     <title>notes</title>
     <link>https://nottacoz.github.io/notes/archive/AE/notes</link>
     <guid>https://nottacoz.github.io/notes/archive/AE/notes</guid>
-    <description>go back 🤓☝️ subject notes §.</description>
+    <description> 🤓☝️ subject notes § chemistry physics specialist methods english japanese .</description>
     <pubDate>Fri, 01 Sep 2023 12:19:59 GMT</pubDate>
   </item><item>
     <title>research task: atomic structure</title>
@@ -600,12 +600,6 @@
     <description>Combinations (selections) § Suppose you select a team of 3 people from a group of 8. The number of permutations for 3 out of 8 ppl is: 8P3​=(8−3)!8!​=336 however, the order of team doesn’t matter.</description>
     <pubDate>Tue, 29 Aug 2023 12:22:46 GMT</pubDate>
   </item><item>
-    <title>T1W2L1: Combinations Reflection</title>
-    <link>https://nottacoz.github.io/notes/archive/AEold/methods/lessonnotes/T1W2L1</link>
-    <guid>https://nottacoz.github.io/notes/archive/AEold/methods/lessonnotes/T1W2L1</guid>
-    <description></description>
-    <pubDate>Tue, 29 Aug 2023 12:22:46 GMT</pubDate>
-  </item><item>
     <title>T1W5L1</title>
     <link>https://nottacoz.github.io/notes/archive/AEold/methods/lessonnotes/T1W5L1</link>
     <guid>https://nottacoz.github.io/notes/archive/AEold/methods/lessonnotes/T1W5L1</guid>
@@ -762,12 +756,6 @@
     <description>#specialist#ae#permutation#combinations difference between permutation and combination § permutation is arrangement of things order matters in permutations ABC and BCA are different permutations of letters A,B,C a combination is a collection of things order is irrelevant in combinations ABC and BCA are the same combination ABC and BCD are different combinations permutation formula for A, B, C and D 4×3×2×1=4! the number of permutations of n objects is n! for all integers n≥1 n×(n−1)×(n−2)×⋯×1 and 0=1 digression § recursive definition: for all integers n≥1 n!=n×(n−1)! and 0=1 simplifying expressions involving factorials.</description>
     <pubDate>Tue, 29 Aug 2023 12:22:46 GMT</pubDate>
   </item><item>
-    <title>T1W3L3</title>
-    <link>https://nottacoz.github.io/notes/archive/AEold/specialist/lessonnotes/T1W3L3</link>
-    <guid>https://nottacoz.github.io/notes/archive/AEold/specialist/lessonnotes/T1W3L3</guid>
-    <description></description>
-    <pubDate>Thu, 02 Mar 2023 04:06:15 GMT</pubDate>
-  </item><item>
     <title>T1W5L1</title>
     <link>https://nottacoz.github.io/notes/archive/AEold/specialist/lessonnotes/T1W5L1</link>
     <guid>https://nottacoz.github.io/notes/archive/AEold/specialist/lessonnotes/T1W5L1</guid>
@@ -906,7 +894,7 @@
     <description>go back Year 11 § Pigeon Hole Principle Lesson Notes § Term 1 § T1W3L2 T1W3L3 T1W5L?: idk fix this thing Vectors § T1W6L2: Vectors T1W6L3: Vectors Continued T1W6L4: no notes T1W7L1: vectors in euclidian geometry T1W7L2: vectors in component form T1W7L3: vectors continued T1W7L4: position vectors T1W8L1: vector multiplication T1W9L1: scalar projection &amp; vector projection Term 2 § T2W2L3: Circle Theorems T2W1L1 T2W3L2 T2W1L3 T2W3L1 T2W1L1 T1W10L1 Test Feedback § cap1 feedback fjsfajfksajf .</description>
     <pubDate>Tue, 29 Aug 2023 12:22:47 GMT</pubDate>
   </item><item>
-    <title>home</title>
+    <title>home (archived old)</title>
     <link>https://nottacoz.github.io/notes/archive/_indexOld</link>
     <guid>https://nottacoz.github.io/notes/archive/_indexOld</guid>
     <description> hello! § these are whats important: notes method notes spec notes chem notes physics notes japanese notes english notes the daily taco enjoy your stay!.</description>
@@ -972,22 +960,10 @@
     <description>AUGUST: VERBAL REASONING ARC § WHOLE MONTH TO MASTER VERBAL REASONING. .</description>
     <pubDate>Tue, 29 Aug 2023 12:22:47 GMT</pubDate>
   </item><item>
-    <title>2023-08-10</title>
-    <link>https://nottacoz.github.io/notes/daily/2023-08-10</link>
-    <guid>https://nottacoz.github.io/notes/daily/2023-08-10</guid>
-    <description>Todo §.</description>
-    <pubDate>Tue, 29 Aug 2023 12:22:47 GMT</pubDate>
-  </item><item>
     <title>2023-08-11</title>
     <link>https://nottacoz.github.io/notes/daily/2023-08-11</link>
     <guid>https://nottacoz.github.io/notes/daily/2023-08-11</guid>
     <description>Todo § chemistry feedback dont describe it in your own words. furthermore, do not simplify. analyse/describe/discuss. never simplify no abbreviation on key terms.</description>
-    <pubDate>Tue, 29 Aug 2023 12:22:47 GMT</pubDate>
-  </item><item>
-    <title>2023-08-12</title>
-    <link>https://nottacoz.github.io/notes/daily/2023-08-12</link>
-    <guid>https://nottacoz.github.io/notes/daily/2023-08-12</guid>
-    <description>Todo §.</description>
     <pubDate>Tue, 29 Aug 2023 12:22:47 GMT</pubDate>
   </item><item>
     <title>2023-08-13</title>
@@ -996,40 +972,16 @@
     <description>Todo § just tryna get my daily words up mafault.</description>
     <pubDate>Tue, 29 Aug 2023 12:22:47 GMT</pubDate>
   </item><item>
-    <title>2023-08-14</title>
-    <link>https://nottacoz.github.io/notes/daily/2023-08-14</link>
-    <guid>https://nottacoz.github.io/notes/daily/2023-08-14</guid>
-    <description>Todo §.</description>
-    <pubDate>Tue, 29 Aug 2023 12:22:47 GMT</pubDate>
-  </item><item>
     <title>2023-08-15</title>
     <link>https://nottacoz.github.io/notes/daily/2023-08-15</link>
     <guid>https://nottacoz.github.io/notes/daily/2023-08-15</guid>
     <description>Todo § good morni g .</description>
     <pubDate>Tue, 29 Aug 2023 12:22:47 GMT</pubDate>
   </item><item>
-    <title>2023-08-16</title>
-    <link>https://nottacoz.github.io/notes/daily/2023-08-16</link>
-    <guid>https://nottacoz.github.io/notes/daily/2023-08-16</guid>
-    <description>Todo §.</description>
-    <pubDate>Tue, 29 Aug 2023 12:22:47 GMT</pubDate>
-  </item><item>
-    <title>2023-08-19</title>
-    <link>https://nottacoz.github.io/notes/daily/2023-08-19</link>
-    <guid>https://nottacoz.github.io/notes/daily/2023-08-19</guid>
-    <description>Todo §.</description>
-    <pubDate>Sat, 19 Aug 2023 02:06:58 GMT</pubDate>
-  </item><item>
     <title>2023-08-20</title>
     <link>https://nottacoz.github.io/notes/daily/2023-08-20</link>
     <guid>https://nottacoz.github.io/notes/daily/2023-08-20</guid>
     <description>Todo § impromptu -&gt; revising -&gt; memorising impromptu -&gt; revising all : / its so difficulttttt.</description>
-    <pubDate>Tue, 29 Aug 2023 12:22:47 GMT</pubDate>
-  </item><item>
-    <title>2023-08-21</title>
-    <link>https://nottacoz.github.io/notes/daily/2023-08-21</link>
-    <guid>https://nottacoz.github.io/notes/daily/2023-08-21</guid>
-    <description>Todo §.</description>
     <pubDate>Tue, 29 Aug 2023 12:22:47 GMT</pubDate>
   </item><item>
     <title>2023-08-22</title>
@@ -1048,12 +1000,6 @@
     <link>https://nottacoz.github.io/notes/daily/2023-08-25</link>
     <guid>https://nottacoz.github.io/notes/daily/2023-08-25</guid>
     <description>Todo § need to start scheduling ahead, and following the schedule to a tee start making flashcards for chemistry start spamming methods practice exams.</description>
-    <pubDate>Tue, 29 Aug 2023 12:22:47 GMT</pubDate>
-  </item><item>
-    <title>2023-08-28</title>
-    <link>https://nottacoz.github.io/notes/daily/2023-08-28</link>
-    <guid>https://nottacoz.github.io/notes/daily/2023-08-28</guid>
-    <description>Todo §.</description>
     <pubDate>Tue, 29 Aug 2023 12:22:47 GMT</pubDate>
   </item><item>
     <title>2023-09-01</title>
@@ -1101,7 +1047,7 @@
     <title>Product to sum and sum to product</title>
     <link>https://nottacoz.github.io/notes/productToSumAndSumToProduct</link>
     <guid>https://nottacoz.github.io/notes/productToSumAndSumToProduct</guid>
-    <description>Product to sum to product § given \sin(A+B)=\sin A\cos B+\cos A\sin B$$$$\sin(A-B)=\sin A\cos B-\cos A\sin B adding these gives:sin(A+B)+sin(A−B)=2sinAcosB and sosinAcosB=21​(sin(A+B)+sin(A−B)) or writing A+B=P and A−B=Q sinP+sinQ=2sin(2P+Q​)cos(2P−Q​) these are some of 8 formulas D:, for sinAcosB, cosAsinB, cosAcosB etc etc.</description>
+    <description>Product to sum to product § given sin(A+B)=sinAcosB+cosAsinB sin(A−B)=sinAcosB−cosAsinB adding these gives:sin(A+B)+sin(A−B)=2sinAcosB and sosinAcosB=21​(sin(A+B)+sin(A−B)) or writing A+B=P and A−B=Q sinP+sinQ=2sin(2P+Q​)cos(2P−Q​) these are some of 8 formulas D:, for sinAcosB, cosAsinB, cosAcosB etc etc.</description>
     <pubDate>Mon, 04 Sep 2023 01:03:14 GMT</pubDate>
   </item><item>
     <title>ratesOfReactionReportActual</title>
@@ -1116,17 +1062,59 @@
     <description></description>
     <pubDate>Mon, 04 Sep 2023 05:01:19 GMT</pubDate>
   </item><item>
+    <title>trighardquestions</title>
+    <link>https://nottacoz.github.io/notes/trighardquestions</link>
+    <guid>https://nottacoz.github.io/notes/trighardquestions</guid>
+    <description> today we are looking at hard questions in trig 4 spec ex 4c § show that cos70+sin40=cos10 no formula for it :( do we give up? no Never back down never WHAT!!!!!! rearrange: cos70−cos10=−sin40 dont assume its true to begin with heres how to write it: consider cos70−cos10 =−2sin270+10​sin270−10​ =−2sin40sin30 =−sin40 12b § solve sin5θ−sin3θ+sinθ=0 for 0≤θ≤x 2cos(25θ+3θ​)sin(25θ−3θ​) 2cos4θsinθ+sinθ=0 sinθ(2cos4θ+1)=0 sinθ=0 or 2cos4θ+1=0 θ=0 or π and cos4π=−21​ 4θ=32π​,34π​,38π​,310π​ θ=6π​,3π​,32π​,65π​.</description>
+    <pubDate>Tue, 05 Sep 2023 01:59:04 GMT</pubDate>
+  </item><item>
     <title>七五三</title>
     <link>https://nottacoz.github.io/notes/七五三</link>
     <guid>https://nottacoz.github.io/notes/七五三</guid>
     <description>research for the presentation in class (2-3 slides long) 子どもの大切な通過儀礼のひとつ、七五三 important rite of passage for children 通過儀礼、つうかぎれい: rite of passage 大切、たいせつ: important AHHHHHHHHHh .</description>
     <pubDate>Sun, 03 Sep 2023 12:23:42 GMT</pubDate>
   </item><item>
-    <title>chemfsafasfasfistry</title>
-    <link>https://nottacoz.github.io/tags/blahbaslksfjaf</link>
-    <guid>https://nottacoz.github.io/tags/blahbaslksfjaf</guid>
-    <description>testing.</description>
+    <title>ae</title>
+    <link>https://nottacoz.github.io/tags/ae</link>
+    <guid>https://nottacoz.github.io/tags/ae</guid>
+    <description>everything i did in year 11.</description>
+    <pubDate>Mon, 04 Sep 2023 07:03:09 GMT</pubDate>
+  </item><item>
+    <title>chemistry</title>
+    <link>https://nottacoz.github.io/tags/chemistry</link>
+    <guid>https://nottacoz.github.io/tags/chemistry</guid>
+    <description>all things chemistry.</description>
     <pubDate>Mon, 04 Sep 2023 05:01:53 GMT</pubDate>
+  </item><item>
+    <title>english</title>
+    <link>https://nottacoz.github.io/tags/english</link>
+    <guid>https://nottacoz.github.io/tags/english</guid>
+    <description>all things english.</description>
+    <pubDate>Mon, 04 Sep 2023 07:03:29 GMT</pubDate>
+  </item><item>
+    <title>japanese</title>
+    <link>https://nottacoz.github.io/tags/japanese</link>
+    <guid>https://nottacoz.github.io/tags/japanese</guid>
+    <description>all things japanese.</description>
+    <pubDate>Mon, 04 Sep 2023 07:03:33 GMT</pubDate>
+  </item><item>
+    <title>methods</title>
+    <link>https://nottacoz.github.io/tags/methods</link>
+    <guid>https://nottacoz.github.io/tags/methods</guid>
+    <description>all things methods.</description>
+    <pubDate>Mon, 04 Sep 2023 07:03:23 GMT</pubDate>
+  </item><item>
+    <title>physics</title>
+    <link>https://nottacoz.github.io/tags/physics</link>
+    <guid>https://nottacoz.github.io/tags/physics</guid>
+    <description>all things physics.</description>
+    <pubDate>Mon, 04 Sep 2023 07:03:41 GMT</pubDate>
+  </item><item>
+    <title>specialist</title>
+    <link>https://nottacoz.github.io/tags/specialist</link>
+    <guid>https://nottacoz.github.io/tags/specialist</guid>
+    <description>all things specialist.</description>
+    <pubDate>Mon, 04 Sep 2023 07:03:16 GMT</pubDate>
   </item>
     </channel>
   </rss>

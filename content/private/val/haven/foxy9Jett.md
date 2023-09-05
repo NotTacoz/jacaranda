@@ -1,8 +1,11 @@
 ---
-title: "foxy9jett"
+title: foxy9jett
+tags:
+  - jett
+  - haven
+  - valorant
+  - foxy9
 ---
-
-#jett #haven #valorant #foxy9
 https://youtu.be/NDiY9EUQ8_A
 
 A-A meaning: Foxy9 Plays A - Enemies go A

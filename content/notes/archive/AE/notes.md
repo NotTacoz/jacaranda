@@ -4,11 +4,8 @@ enableToc: false
 tags:
   - navigation
 ---
-[go back](_index.md)
-
-🤓☝️
-
 ![[notes/images/keqingactually.png|150]]
+🤓☝️
 ## subject notes
 - [[tags/chemistry|chemistry]]
 - [[tags/physics|physics]]
