@@ -274,6 +274,38 @@
       "modifiedDate": 1693812295372,
       "sizeInBytes": 81
     },
+    "notes/englishDraftFeedback6-9-23.md": {
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 159,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.53,
+      "characterCount": 869,
+      "nonWhitespaceCharacterCount": 708,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1693971336351,
+      "modifiedDate": 1693971790221,
+      "sizeInBytes": 950
+    },
+    "notes/arithemeticSeries.md": {
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 42,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.14,
+      "characterCount": 272,
+      "nonWhitespaceCharacterCount": 229,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1693965068163,
+      "modifiedDate": 1693966144274,
+      "sizeInBytes": 350
+    },
     "notes/specificHeatCapacity.md": {
       "isDirectory": false,
       "noteCount": 1,
@@ -322,22 +354,6 @@
       "modifiedDate": 1693880088392,
       "sizeInBytes": 1185
     },
-    "notes/temperatureBehaviour.md": {
-      "isDirectory": false,
-      "noteCount": 1,
-      "wordCount": 0,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 0,
-      "characterCount": 1,
-      "nonWhitespaceCharacterCount": 0,
-      "linkCount": 0,
-      "embedCount": 0,
-      "aliases": null,
-      "createdDate": 1693803679350,
-      "modifiedDate": 1693803706282,
-      "sizeInBytes": 68
-    },
     "notes/ratesOfReactionReportActual.md": {
       "isDirectory": false,
       "noteCount": 1,
@@ -345,14 +361,14 @@
       "wordCountTowardGoal": 0,
       "wordGoal": null,
       "pageCount": 1.3966666666666667,
-      "characterCount": 3225,
+      "characterCount": 3224,
       "nonWhitespaceCharacterCount": 2699,
       "linkCount": 1,
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1693743603150,
-      "modifiedDate": 1693792665810,
-      "sizeInBytes": 3384
+      "modifiedDate": 1693964452985,
+      "sizeInBytes": 3383
     },
     "notes/productToSumAndSumToProduct.md": {
       "isDirectory": false,
@@ -789,18 +805,18 @@
     "notes/archive/_indexOld.md": {
       "isDirectory": false,
       "noteCount": 1,
-      "wordCount": 34,
+      "wordCount": 56,
       "wordCountTowardGoal": 0,
       "wordGoal": null,
-      "pageCount": 0.11333333333333333,
-      "characterCount": 557,
-      "nonWhitespaceCharacterCount": 505,
-      "linkCount": 8,
+      "pageCount": 0.18666666666666668,
+      "characterCount": 921,
+      "nonWhitespaceCharacterCount": 845,
+      "linkCount": 14,
       "embedCount": 1,
       "aliases": null,
       "createdDate": 1693311764813,
-      "modifiedDate": 1693811904754,
-      "sizeInBytes": 629
+      "modifiedDate": 1693965274375,
+      "sizeInBytes": 993
     },
     "notes/archive/AEold/subsections/spec.md": {
       "isDirectory": false,
@@ -2517,18 +2533,18 @@
     "notes/archive/AE/PHYSICS/heat.md": {
       "isDirectory": false,
       "noteCount": 1,
-      "wordCount": 341,
+      "wordCount": 347,
       "wordCountTowardGoal": 0,
       "wordGoal": null,
-      "pageCount": 1.1366666666666667,
-      "characterCount": 2117,
-      "nonWhitespaceCharacterCount": 1766,
-      "linkCount": 0,
+      "pageCount": 1.1566666666666667,
+      "characterCount": 2244,
+      "nonWhitespaceCharacterCount": 1889,
+      "linkCount": 2,
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1693311764472,
-      "modifiedDate": 1693811880649,
-      "sizeInBytes": 2172
+      "modifiedDate": 1693964406109,
+      "sizeInBytes": 2297
     },
     "notes/archive/AE/PHYSICS/electricalPhysics.md": {
       "isDirectory": false,
@@ -3145,14 +3161,14 @@
       "wordCountTowardGoal": 0,
       "wordGoal": null,
       "pageCount": 0.43333333333333335,
-      "characterCount": 796,
+      "characterCount": 795,
       "nonWhitespaceCharacterCount": 665,
       "linkCount": 1,
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1693885473586,
-      "modifiedDate": 1693885879177,
-      "sizeInBytes": 881
+      "modifiedDate": 1693964331591,
+      "sizeInBytes": 889
     },
     "empty.md": {
       "isDirectory": false,

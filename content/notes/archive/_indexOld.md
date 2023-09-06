@@ -21,3 +21,13 @@ these are whats important:
 - [the daily taco](notes/archive/daily/DAILY.md)
 
 enjoy your stay!
+
+
+
+more links (outdated, but for the purpose of better linkijng)
+- [[notes/archive/AE/METHODS/methods|methods]]
+- [[notes/archive/AE/SPECIALIST/specialist|specialist]]
+- [[notes/archive/AE/ENGLISH/english|english]]
+- [[notes/archive/AE/JAPANESE/japanese|japanese]]
+- [[notes/archive/AE/CHEMISTRY/chemistry|chemistry]]
+- [[notes/archive/AE/PHYSICS/physics|physics]]

@@ -4,24 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "d96ef14e6e907b49",
+        "id": "967f2cdf0541e9d5",
         "type": "tabs",
         "children": [
           {
-            "id": "ee37974e94fd8382",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
-            "id": "2c209d64c20b240a",
+            "id": "359807b573053d36",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notes/daily/2023-09-05.md",
+                "file": "notes/arithemeticSeries.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -29,25 +21,12 @@
             }
           },
           {
-            "id": "ba2f3f97a1de65a1",
+            "id": "c14b072e700d0e49",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notes/daily/2023-09-06.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "914e8ccf3366ae42",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "notes/specificHeatCapacity.md",
+                "file": "notes/englishDraftFeedback6-9-23.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -55,7 +34,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -146,7 +125,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "notes/specificHeatCapacity.md",
+                "file": "notes/englishDraftFeedback6-9-23.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -193,7 +172,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "notes/specificHeatCapacity.md"
+                "file": "notes/englishDraftFeedback6-9-23.md"
               }
             }
           }
@@ -215,26 +194,29 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "914e8ccf3366ae42",
+  "active": "c14b072e700d0e49",
   "lastOpenFiles": [
+    "notes/arithemeticSeries.md",
+    "notes/englishDraftFeedback6-9-23.md",
     "notes/1.2specificHeatCapacity.md",
-    "notes/specificHeatCapacity.md",
-    "notes/daily/2023-09-06.md",
-    "notes/daily/2023-09-05.md",
-    "notes/archive/AE/PHYSICS/heat.md",
-    "notes/trighardquestions.md",
-    "notes/images/kfc keqing burger.png",
-    "notes/images/keqing judges.png",
-    "notes/productToSumAndSumToProduct.md",
-    "notes/temperatureBehaviour.md",
-    "notes/七五三.md",
+    "notes/archive/_indexOld.md",
     "notes/CAP4.md",
     "notes/helloWorld.md",
-    "notes/images/testok.png",
+    "notes/ratesOfReactionReportActual.md",
+    "notes/specificHeatCapacity.md",
     "notes/delocalised.md",
+    "notes/七五三.md",
+    "notes/trighardquestions.md",
+    "notes/productToSumAndSumToProduct.md",
+    "notes/temperatureBehaviour.md",
+    "notes/archive/AE/PHYSICS/heat.md",
+    "notes/daily/2023-09-05.md",
+    "notes/daily/2023-09-06.md",
+    "notes/images/kfc keqing burger.png",
+    "notes/images/keqing judges.png",
+    "notes/images/testok.png",
     "notes/archive/AE/notes.md",
     "_index.md",
-    "notes/ratesOfReactionReportActual.md",
     "notes/archive/AE/JAPANESE/japanese.md",
     "notes/archive/AE/JAPANESE/japaneseExamReview.md",
     "notes/archive/AE/JAPANESE/reading2Review.md",
@@ -243,9 +225,6 @@
     "notes/daily/2023-09-04.md",
     "private/val/haven/foxy9Jett.md",
     "templates/daily.md",
-    "notes/archive/AE/JAPANESE/日本の季節.md",
-    "notes/archive/AEold/english/WTCS-VALUES-ATTITUDES.md",
-    "notes/archive/AEold/english/WTCS-THE-OTHER.md",
     "notes/AE/JAPANESE",
     "notes/AE",
     "tags",

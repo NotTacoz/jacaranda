@@ -78,7 +78,7 @@
     "2023/8/3": 271,
     "2023/8/4": 581,
     "2023/8/5": 378,
-    "2023/8/6": 505
+    "2023/8/6": 774
   },
   "todaysWordCount": {
     "notes/daily/2023-09-05.md": {
@@ -92,6 +92,30 @@
     "notes/specificHeatCapacity.md": {
       "initial": 4,
       "current": 509
+    },
+    "notes/1.2specificHeatCapacity.md": {
+      "initial": 135,
+      "current": 135
+    },
+    "notes/archive/AE/PHYSICS/heat.md": {
+      "initial": 340,
+      "current": 351
+    },
+    "notes/ratesOfReactionReportActual.md": {
+      "initial": 454,
+      "current": 454
+    },
+    "notes/arithemeticSeries.md": {
+      "initial": 4,
+      "current": 50
+    },
+    "notes/archive/_indexOld.md": {
+      "initial": 83,
+      "current": 129
+    },
+    "notes/englishDraftFeedback6-9-23.md": {
+      "initial": 0,
+      "current": 166
     }
   }
 }

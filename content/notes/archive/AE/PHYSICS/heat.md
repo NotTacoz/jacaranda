@@ -2,10 +2,9 @@
 title: heat
 tags:
   - AE
-  - chemistry
   - heat
+  - physics
 ---
-
 Science Understanding Heating processes
 
 - the kinetic particle model describes matter as consisting of particles in constant motion, except at absolute zero
@@ -15,8 +14,9 @@ Science Understanding Heating processes
 	- internal energy refers to the total kinetic and potential energy of particles within substance.
 - temperature is a measure of the average kinetic energy of particles in a system
 - provided a substance does not change state, its temperature change is proportional to the amount of energy added to or removed from the substance; the constant of proportionality describes the heat capacity of the substance
-  - This includes applying the relationship
-  - $Q = mc\Delta T$
+	- This includes applying the relationship
+	- $Q = mc\Delta T$
+	- look through [[notes/specificHeatCapacity|specificHeatCapacity]] and [[notes/1.2specificHeatCapacity|1.2specificHeatCapacity]]
 - change of state involves separating particles which exert attractive forces on each other; latent heat is the energy required to be added to or removed from a system to change the state of the system This includes applying the relationship = Q m L
 - two systems in contact transfer energy between particles so that eventually the systems reach the same temperature; that is, they are in thermal equilibrium. This may involve changes of state as well as changes in temperature
 - a system with thermal energy has the capacity to do mechanical work [to apply a force over a distance]; when work is done, the internal energy of the system changes
