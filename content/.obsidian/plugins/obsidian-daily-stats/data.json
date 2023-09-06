@@ -77,24 +77,21 @@
     "2023/8/2": 332,
     "2023/8/3": 271,
     "2023/8/4": 581,
-    "2023/8/5": 216
+    "2023/8/5": 378,
+    "2023/8/6": 505
   },
   "todaysWordCount": {
-    "notes/daily/2023-09-04.md": {
-      "initial": 15,
-      "current": 16
+    "notes/daily/2023-09-05.md": {
+      "initial": 44,
+      "current": 43
     },
-    "_index.md": {
-      "initial": 79,
-      "current": 79
+    "notes/daily/2023-09-06.md": {
+      "initial": 44,
+      "current": 44
     },
-    "notes/archive/AE/notes.md": {
-      "initial": 31,
-      "current": 31
-    },
-    "notes/trighardquestions.md": {
+    "notes/specificHeatCapacity.md": {
       "initial": 4,
-      "current": 219
+      "current": 509
     }
   }
 }

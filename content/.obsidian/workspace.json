@@ -21,7 +21,33 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notes/trighardquestions.md",
+                "file": "notes/daily/2023-09-05.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "ba2f3f97a1de65a1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "notes/daily/2023-09-06.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "914e8ccf3366ae42",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "notes/specificHeatCapacity.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -29,7 +55,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -120,7 +146,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "notes/trighardquestions.md",
+                "file": "notes/specificHeatCapacity.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -167,7 +193,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "notes/trighardquestions.md"
+                "file": "notes/specificHeatCapacity.md"
               }
             }
           }
@@ -189,11 +215,16 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "2c209d64c20b240a",
+  "active": "914e8ccf3366ae42",
   "lastOpenFiles": [
+    "notes/1.2specificHeatCapacity.md",
+    "notes/specificHeatCapacity.md",
+    "notes/daily/2023-09-06.md",
+    "notes/daily/2023-09-05.md",
+    "notes/archive/AE/PHYSICS/heat.md",
+    "notes/trighardquestions.md",
     "notes/images/kfc keqing burger.png",
     "notes/images/keqing judges.png",
-    "notes/trighardquestions.md",
     "notes/productToSumAndSumToProduct.md",
     "notes/temperatureBehaviour.md",
     "notes/七五三.md",
@@ -215,10 +246,6 @@
     "notes/archive/AE/JAPANESE/日本の季節.md",
     "notes/archive/AEold/english/WTCS-VALUES-ATTITUDES.md",
     "notes/archive/AEold/english/WTCS-THE-OTHER.md",
-    "notes/archive/AEold/english/WTCS-PRAC2.md",
-    "notes/archive/AEold/english/WTCS-CONTEXT.md",
-    "notes/archive/AEold/physics/testnotes/Waves.md",
-    "notes/daily/UCAT.md",
     "notes/AE/JAPANESE",
     "notes/AE",
     "tags",
@@ -229,7 +256,6 @@
     "notes/images/keq OK(1).png",
     "notes/images/keq OK(1) 1.png",
     "notes/images/Screen Shot 2023-08-21 at 2.27.57 pm.png",
-    "notes/images/Screen Shot 2023-08-09 at 6.07.23 pm.png",
     "notes/images/11+Physics+Revision+Checklist+-+Ionising+Radiation+&+Nuclear+Reactions+2023.pdf",
     "notes/images/11 Physics Revision Checklist - Electrical Circuits 2023.pdf",
     "notes/AE/val/haven",
