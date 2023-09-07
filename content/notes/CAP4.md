@@ -96,10 +96,14 @@ date: 2023-09-01
 	- occurs when alkane/benzene is combined with chlorine water or bromine water, and one of the H in the hydrocarbon is replaced (**substituted**) of one or more H atoms with Cl or Br atoms.
 - 149.  Explain why substitution reactions of alkanes require visible / UV light to take place.
 	- UV light / heat speeds up the rate of reaction.
-	- this is because the light supplies sufficient energy to meet the activation energy of the reaction.
+	- uv light is used to overcome the activation energy, it is done by breaking the hydrocarbon bonds to form [[notes/radicals|radicals]]
 - 150.  Recognise that substitution reactions of benzene require a catalyst.
 	- activation energy of benzene is higher, because the electrons are delocalised and thus benzene is relatively less reactive than alkane. thus, uv light, the catalyst, which is able to provide more energy than light can cause benzene to react. (? IDK IF THIS IS A GRADE ANSWER, I CAME UP WITH IT BY MYSELF XD)
 - 151.  Identify, draw and name the products from single and multiple substitution reactions.
+	- alkanes can react with halogens, such as bromine and chlorine in UV light
+	- if there is excess of the halogen, then reaction is allowed to proceed to completion
+	- ![[notes/images/Screen Shot 2023-09-07 at 7.49.58 pm.png|400]]
+	- wowie
 - 152.  Write equations, and draw and name the products of addition reactions of alkenes, with halogens, hydrogen halides and hydrogen.
 	- preface: alkenes go through addition reactions because it is **unsaturated** - alkanes and benzenes do not (even tho benzene is unsaturated)
 	- double bond is replaced by atoms like H, F, Cl, Br, I
@@ -108,6 +112,11 @@ date: 2023-09-01
 		- br2 and cl2 most convenient in lab - bromine water and chlorine water
 		- ![](notes/images/Screen%20Shot%202023-09-01%20at%209.44.48%20am.png)
 - 153.  Describe how aqueous solutions of bromine and iodine can be used to test for unsaturation, and give observable outcomes.
+	- bromine is used to test for unsaturation.
+	- aqueous bromine solution is orange in colour.
+	- few drops added to alkane and benzene, there is no immediate reaction
+		- because substitution reactions are slow and requires a catalyst
+	- but added to alkene, or another unsaturated compound, orange colour disappears almost instantly, as bromine is consumed!
 - 154.  Write equations, and draw and name the products of complete combustion reactions of hydrocarbons.
 - 155.  Given information about the products, write equations for the incomplete combustion reactions of hydrocarbons.
 - 156.  Explain why incomplete combustion is undesirable when using hydrocarbons as fuels.

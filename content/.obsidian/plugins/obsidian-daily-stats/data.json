@@ -79,7 +79,7 @@
     "2023/8/4": 581,
     "2023/8/5": 378,
     "2023/8/6": 1004,
-    "2023/8/7": 1342
+    "2023/8/7": 1555
   },
   "todaysWordCount": {
     "notes/random english analysis.md": {
@@ -136,7 +136,7 @@
     },
     "notes/CAP4.md": {
       "initial": 2854,
-      "current": 2854
+      "current": 2960
     },
     "notes/七五三.md": {
       "initial": 59,
@@ -180,7 +180,27 @@
     },
     "notes/archive/AE/CHEMISTRY/rates of reaction (writing a report).md": {
       "initial": 212,
-      "current": 216
+      "current": 226
+    },
+    "notes/archive/AE/CHEMISTRY/chemistry.md": {
+      "initial": 175,
+      "current": 188
+    },
+    "notes/archive/AE/SPECIALIST/specialist.md": {
+      "initial": 51,
+      "current": 80
+    },
+    "notes/daily/daily.md": {
+      "initial": 176,
+      "current": 208
+    },
+    "empty.md": {
+      "initial": 57,
+      "current": 63
+    },
+    "notes/radicals.md": {
+      "initial": 8,
+      "current": 25
     }
   }
 }
