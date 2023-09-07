@@ -142,15 +142,27 @@ var FileHelper = class {
     this.plugin = plugin;
     this.debugHelper = new DebugHelper();
     this.cjkRegex = /\p{Script=Han}|\p{Script=Hiragana}|\p{Script=Katakana}|\p{Script=Hangul}|[0-9]+/gu;
-    this.ExcludedFileTypes = /* @__PURE__ */ new Set([
-      "pdf",
-      "jpg",
-      "jpeg",
-      "png",
-      "webp",
-      "gif",
-      "avif",
-      "heic"
+    this.FileTypeAllowlist = /* @__PURE__ */ new Set([
+      "",
+      // Markdown extensions
+      "markdown",
+      "md",
+      "mdml",
+      "mdown",
+      "mdtext",
+      "mdtxt",
+      "mdwn",
+      "mkd",
+      "mkdn",
+      // Text files
+      "txt",
+      "text",
+      "rtf",
+      // MD with embedded code
+      "qmd",
+      "rmd",
+      // MD for screenwriters
+      "fountain"
     ]);
   }
   get settings() {
@@ -161,7 +173,7 @@ var FileHelper = class {
   }
   async getAllFileCounts(wordCountType) {
     const debugEnd = this.debugHelper.debugStart("getAllFileCounts");
-    const files = this.vault.getMarkdownFiles();
+    const files = this.vault.getFiles();
     const counts = {};
     for (const file of files) {
       const contents = await this.vault.cachedRead(file);
@@ -330,7 +342,7 @@ var FileHelper = class {
     return meaningfulContent;
   }
   shouldCountFile(file, metadata) {
-    if (this.ExcludedFileTypes.has(file.extension.toLowerCase())) {
+    if (!this.FileTypeAllowlist.has(file.extension.toLowerCase())) {
       return false;
     }
     if (metadata.frontmatter && metadata.frontmatter.hasOwnProperty("wordcount") && (metadata.frontmatter.wordcount === null || metadata.frontmatter.wordcount === false || metadata.frontmatter.wordcount === "false")) {

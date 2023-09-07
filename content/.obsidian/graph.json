@@ -2,51 +2,79 @@
   "collapse-filter": false,
   "search": "",
   "showTags": true,
-  "showAttachments": true,
+  "showAttachments": false,
   "hideUnresolved": false,
   "showOrphans": true,
-  "collapse-color-groups": false,
+  "collapse-color-groups": true,
   "colorGroups": [
     {
-      "query": "path:notes/AE/chemistry",
+      "query": "tag:#methods  ",
       "color": {
         "a": 1,
-        "rgb": 14701138
+        "rgb": 16731469
       }
     },
     {
-      "query": "path:notes/AE/specialist",
+      "query": "tag:#specialist  ",
       "color": {
         "a": 1,
-        "rgb": 14725458
+        "rgb": 16758886
       }
     },
     {
-      "query": "path:notes/AE/methods",
+      "query": "tag:#physics  ",
       "color": {
         "a": 1,
-        "rgb": 11657298
+        "rgb": 15728501
       }
     },
     {
-      "query": "path:notes/AE/english",
+      "query": "tag:#chemistry  ",
       "color": {
         "a": 1,
-        "rgb": 5431378
+        "rgb": 6750156
       }
     },
     {
-      "query": "path:notes/AE/physics",
+      "query": "tag:#english  ",
       "color": {
         "a": 1,
-        "rgb": 5431473
+        "rgb": 7395839
       }
     },
     {
-      "query": "path:notes/AE/japanese",
+      "query": "tag:#japanese  ",
       "color": {
         "a": 1,
-        "rgb": 5419488
+        "rgb": 11031295
+      }
+    },
+    {
+      "query": "tag:#valorant  ",
+      "color": {
+        "a": 1,
+        "rgb": 16711680
+      }
+    },
+    {
+      "query": "tag:#navigation path:",
+      "color": {
+        "a": 1,
+        "rgb": 16777215
+      }
+    },
+    {
+      "query": "tag:#tags  ",
+      "color": {
+        "a": 1,
+        "rgb": 16735452
+      }
+    },
+    {
+      "query": "tag:#daily  ",
+      "color": {
+        "a": 1,
+        "rgb": 0
       }
     }
   ],
@@ -60,6 +88,6 @@
   "repelStrength": 13.5328711155132,
   "linkStrength": 1,
   "linkDistance": 49,
-  "scale": 0.09982288287324395,
-  "close": false
+  "scale": 0.11876151992910187,
+  "close": true
 }

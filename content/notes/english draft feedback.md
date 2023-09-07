@@ -1,9 +1,10 @@
 ---
-title: english feedback from 6/9/23
+title: english feedback from
 tags:
   - ae
   - english
   - feedback
+date: 2023-09-06
 ---
 received my draft back marked, and I am taking notes of things I should improve on/I did wrong:
 - (FIXED) space for thesis is not needed

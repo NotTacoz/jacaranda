@@ -5,6 +5,7 @@ tags:
   - organicChemistry
   - ratesOfReaction
   - ae
+date: 2023-09-05
 ---
 ## **Topic 4: CARBON CHEMISTRY & ENERGY**
 
@@ -87,10 +88,17 @@ tags:
 		- benzenes are relatively less reactive than alkanes and alkenes
 			- this is because the pi electrons are [[notes/delocalised|delocalised]]. 
 			- this spreads **electron density** (? idk if this is in the lucarelli/syllabus)
-- 148.  Write equations, and draw and name the products for substitution reactions of alkanes and benzene with halogens. 
+- 148.  Write equations, and draw and name the products for substitution reactions of alkanes and benzene with [[notes/halogens|halogens]]. 
+	- alkane example:
+		- ethane: $CH_{3}CH_{3}+Br_{2}(aq)\stackrel{UV}{\to}CH_{3}CH_{2}Br+HBr$
+	- benzene example
+		- benzene: $C_{6}H_{6}+Cl_{2} (aq) \stackrel{UV}{\to} C_{6}H_{5}Cl+HCl$
+	- occurs when alkane/benzene is combined with chlorine water or bromine water, and one of the H in the hydrocarbon is replaced (**substituted**) of one or more H atoms with Cl or Br atoms.
 - 149.  Explain why substitution reactions of alkanes require visible / UV light to take place.
-	- UV light / heat speeds up the rate of reaction, acting ... **incomplete**
+	- UV light / heat speeds up the rate of reaction.
+	- this is because the light supplies sufficient energy to meet the activation energy of the reaction.
 - 150.  Recognise that substitution reactions of benzene require a catalyst.
+	- activation energy of benzene is higher, because the electrons are delocalised and thus benzene is relatively less reactive than alkane. thus, uv light, the catalyst, which is able to provide more energy than light can cause benzene to react. (? IDK IF THIS IS A GRADE ANSWER, I CAME UP WITH IT BY MYSELF XD)
 - 151.  Identify, draw and name the products from single and multiple substitution reactions.
 - 152.  Write equations, and draw and name the products of addition reactions of alkenes, with halogens, hydrogen halides and hydrogen.
 	- preface: alkenes go through addition reactions because it is **unsaturated** - alkanes and benzenes do not (even tho benzene is unsaturated)

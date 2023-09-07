@@ -6,6 +6,7 @@ tags:
   - heat
   - lesson
   - notes
+date: 2023-09-06
 ---
 - this is the teacher presentation on heat capacity, notes based on pearson can be found [[notes/1.2specificHeatCapacity|here]] 
 

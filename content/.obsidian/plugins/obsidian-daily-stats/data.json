@@ -78,44 +78,17 @@
     "2023/8/3": 271,
     "2023/8/4": 581,
     "2023/8/5": 378,
-    "2023/8/6": 774
+    "2023/8/6": 1004,
+    "2023/8/7": 369
   },
   "todaysWordCount": {
-    "notes/daily/2023-09-05.md": {
-      "initial": 44,
-      "current": 43
+    "notes/random english analysis.md": {
+      "initial": 10,
+      "current": 379
     },
-    "notes/daily/2023-09-06.md": {
-      "initial": 44,
-      "current": 44
-    },
-    "notes/specificHeatCapacity.md": {
-      "initial": 4,
-      "current": 509
-    },
-    "notes/1.2specificHeatCapacity.md": {
-      "initial": 135,
-      "current": 135
-    },
-    "notes/archive/AE/PHYSICS/heat.md": {
-      "initial": 340,
-      "current": 351
-    },
-    "notes/ratesOfReactionReportActual.md": {
-      "initial": 454,
-      "current": 454
-    },
-    "notes/arithemeticSeries.md": {
-      "initial": 4,
-      "current": 50
-    },
-    "notes/archive/_indexOld.md": {
-      "initial": 83,
-      "current": 129
-    },
-    "notes/englishDraftFeedback6-9-23.md": {
-      "initial": 0,
-      "current": 166
+    "notes/archive/AE/ENGLISH/comprehendingStructure.md": {
+      "initial": 60,
+      "current": 60
     }
   }
 }

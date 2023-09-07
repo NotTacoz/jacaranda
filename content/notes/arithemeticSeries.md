@@ -5,6 +5,7 @@ tags:
   - methods
   - lesson
   - notes
+date: 2023-09-06
 ---
 arithmetic series methods
 establish and use the formula for the sum of the first n terms of an arithmetic sequence

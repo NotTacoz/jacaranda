@@ -4,8 +4,8 @@ tags:
   - AE
   - english
   - structure
+  - comprehension
 ---
-
 ## comprehending structure
 - recently, scsa wanted to move away from the thesis sentence as a body paragraph approach, so this structure reflects that:
 ### structure
