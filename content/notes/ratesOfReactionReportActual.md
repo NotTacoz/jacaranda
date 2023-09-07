@@ -4,6 +4,7 @@ tags:
   - chemistry
   - report
   - ae
+date: 2023-09-07
 ---
 >[!note] format is FUCKED but i cant be bothered to fix it right now xd
 

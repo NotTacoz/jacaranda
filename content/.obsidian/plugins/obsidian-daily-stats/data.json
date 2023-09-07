@@ -79,7 +79,7 @@
     "2023/8/4": 581,
     "2023/8/5": 378,
     "2023/8/6": 1004,
-    "2023/8/7": 369
+    "2023/8/7": 370
   },
   "todaysWordCount": {
     "notes/random english analysis.md": {
@@ -89,6 +89,26 @@
     "notes/archive/AE/ENGLISH/comprehendingStructure.md": {
       "initial": 60,
       "current": 60
+    },
+    "notes/english draft feedback.md": {
+      "initial": 167,
+      "current": 167
+    },
+    "notes/productToSumAndSumToProduct.md": {
+      "initial": 183,
+      "current": 183
+    },
+    "notes/trighardquestions.md": {
+      "initial": 223,
+      "current": 223
+    },
+    "notes/ratesOfReactionReportActual.md": {
+      "initial": 458,
+      "current": 458
+    },
+    "templates/daily.md": {
+      "initial": 6,
+      "current": 7
     }
   }
 }
