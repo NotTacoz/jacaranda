@@ -4,7 +4,7 @@ tags:
   - ae
   - specialist
   - complexnumbers
-date: 2023-09-06
+date: 2023-09-07
 ---
 ## the life of i the struggle to be real
 - over time we have invented new numbers

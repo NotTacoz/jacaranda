@@ -4,7 +4,7 @@ tags:
   - ae
   - specialist
   - complexnumbers
-date: 2023-09-06
+date: 2023-09-07
 ---
 ## complex numbers
 for any [[notes/imaginary numbers|imaginary numbers]] $bi$, $$(bi)^2=-b^2$$

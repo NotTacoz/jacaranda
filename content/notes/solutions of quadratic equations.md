@@ -6,7 +6,7 @@ tags:
   - specialist
   - complexnumbers
   - quadratics
-date: 2023-09-06
+date: 2023-09-07
 ---
 $$ax^2+bx+c=0$$
 discriminant $\Delta=b^2-4ac$

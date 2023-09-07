@@ -1,14 +1,14 @@
 ---
-title: ratesOfReactionReportActual
+title: rate of reaction report actual
 tags:
   - chemistry
   - report
   - ae
-date: 2023-09-07
+date: 2023-09-04
 ---
 >[!note] format is FUCKED but i cant be bothered to fix it right now xd
 
-based on the [[notes/archive/AE/CHEMISTRY/howToReportROR|how to write a rate of reactions report]]
+based on the [[notes/archive/AE/CHEMISTRY/rates of reaction (writing a report)|how to write a rate of reactions report]]
 
 ## Rates of Reaction: Effect of changing concentration
 

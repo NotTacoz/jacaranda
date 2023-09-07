@@ -3,7 +3,7 @@ title: helloWorld
 tags:
   - navigation
   - ae
-date: 2023-09-06
+date: 2023-09-01
 ---
 ## what is this? why is this?
 - This is the start of a new structuring/hierarchy system for my notes

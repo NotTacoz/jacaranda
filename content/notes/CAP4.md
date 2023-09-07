@@ -5,7 +5,7 @@ tags:
   - organicChemistry
   - ratesOfReaction
   - ae
-date: 2023-09-05
+date: 2023-09-01
 ---
 ## **Topic 4: CARBON CHEMISTRY & ENERGY**
 
@@ -111,7 +111,6 @@ date: 2023-09-05
 - 154.  Write equations, and draw and name the products of complete combustion reactions of hydrocarbons.
 - 155.  Given information about the products, write equations for the incomplete combustion reactions of hydrocarbons.
 - 156.  Explain why incomplete combustion is undesirable when using hydrocarbons as fuels.
-	- 
 - 157.  _Discuss the benefits and drawbacks of using hydrocarbons as fuels, including the effect on the environment. (SHE)_
 - 158.  _Compare the effectiveness and suitability of different fuels, including hydrocarbons and biofuels (biogas, biodiesel, bioethanol), and suggest why certain fuels are used. (SHE)_
 	- fuels made by living organisms or the waste produced are called biofuels.
@@ -131,7 +130,7 @@ date: 2023-09-05
 - 161.  Identify and calculate empirical formulae for hydrocarbons using percentage composition data and combustion analysis data, and relate this to the molecular formulae.
 - 162.  Use molecular mass and empirical formulae calculations to establish molecular structure.
 ## **Topic 5: ENERGY & RATE**
-[[notes/archive/AE/CHEMISTRY/howToReportROR|rates of reaction report notes in class :/]]
+[[notes/archive/AE/CHEMISTRY/rates of reaction (writing a report)|rates of reaction report notes in class :/]]
 
 ### Energy & Enthalpy (NOT IN CAP)
 
@@ -168,9 +167,7 @@ date: 2023-09-05
 	- temperature of gases is measured in Kelvin (K)
 	- $0\degree C=273.15K$, Degrees Celsius + 273.15 = Kelvin, Kelvin - 273.15 = Degrees Celsius
 - 169.  Use kinetic theory to describe and explain the relationships between pressure, temperature and volume of an ideal gas in a qualitative fashion, (Boyle’s Law, Charles’ Law, and Pressure Law).
-	- 
 - 170.  Draw and interpret graphs that represent the relationship between pressure, temperature and volume.
-	- 
 - 171.  State that the relationships between pressure, temperature, volume and number of moles can be combined to give the ideal gas equation, PV = nRT (Use of equation not required).
 - 172.  Describe the internal energy of a system as the sum of the kinetic energy and the potential energy of the particles.
 - 173.  Describe the enthalpy of a system as a measure of the energy stored within a system, and state that it cannot be measured directly.
@@ -237,6 +234,4 @@ date: 2023-09-05
 - 198.  Draw and interpret energy profile diagrams for catalysed and uncatalysed reactions. 
 	- reaction pathway is lower in energy profile diagram, see picture below:![](notes/images/Screen%20Shot%202023-08-28%20at%209.15.28%20am.png)
 - 199.  _Justify the use of catalysts in industry, to increase the rate of a reaction that would otherwise be uneconomically slow. (SHE)_
-	- 
 - 200.  _Describe how catalysts can be used to reduce negative impact on the environment, for example in catalytic converters. (SHE)_
-	- 

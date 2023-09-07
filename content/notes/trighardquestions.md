@@ -5,7 +5,7 @@ tags:
   - specialist
   - questions
   - trigonometry
-date: 2023-09-07
+date: 2023-09-05
 ---
 ![[notes/images/kfc keqing burger.png|150]]
 

@@ -79,7 +79,7 @@
     "2023/8/4": 581,
     "2023/8/5": 378,
     "2023/8/6": 1004,
-    "2023/8/7": 815
+    "2023/8/7": 1342
   },
   "todaysWordCount": {
     "notes/random english analysis.md": {
@@ -112,7 +112,7 @@
     },
     "templates/post.md": {
       "initial": 7,
-      "current": 14
+      "current": 13
     },
     "notes/Untitled.md": {
       "initial": 8,
@@ -133,6 +133,54 @@
     "notes/solutions of quadratic equations.md": {
       "initial": 9,
       "current": 144
+    },
+    "notes/CAP4.md": {
+      "initial": 2854,
+      "current": 2854
+    },
+    "notes/七五三.md": {
+      "initial": 59,
+      "current": 59
+    },
+    "notes/delocalised.md": {
+      "initial": 55,
+      "current": 55
+    },
+    "notes/helloWorld.md": {
+      "initial": 137,
+      "current": 137
+    },
+    "notes/recursive rule.md": {
+      "initial": 9,
+      "current": 15
+    },
+    "notes/physics test feedback.md": {
+      "initial": 9,
+      "current": 12
+    },
+    "notes/physics electricity test feedback.md": {
+      "initial": 13,
+      "current": 293
+    },
+    "notes/daily/2023-09-07.md": {
+      "initial": 42,
+      "current": 55
+    },
+    "notes/SIS Hazard Risk and Minimising Risk.md": {
+      "initial": 13,
+      "current": 190
+    },
+    "notes/rate of reaction.md": {
+      "initial": 9,
+      "current": 54
+    },
+    "notes/rate of reaction report actual.md": {
+      "initial": 462,
+      "current": 462
+    },
+    "notes/archive/AE/CHEMISTRY/rates of reaction (writing a report).md": {
+      "initial": 212,
+      "current": 216
     }
   }
 }

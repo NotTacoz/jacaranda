@@ -5,7 +5,7 @@ tags:
   - notes
   - inClass
   - ae
-date: 2023-09-07
+date: 2023-09-05
 ---
 ## Product to sum to product
 - given $$\sin(A+B)=\sin A\cos B+\cos A\sin B$$

@@ -1,9 +1,11 @@
 ---
-title: "Rates of Reaction (writing the report)"
+title: Rates of Reaction (writing the report)
+tags:
+  - AE
+  - chemistry
+date: 2023-09-01
 ---
-#chemistry #AE
-
-[[notes/ratesOfReactionReportActual|the actual report i report]]
+[[notes/rate of reaction report actual|the actual report i report]]
 
 this is for writing a report
 - consider collision theory
