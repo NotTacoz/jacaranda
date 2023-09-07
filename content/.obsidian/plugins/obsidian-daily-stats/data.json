@@ -79,7 +79,7 @@
     "2023/8/4": 581,
     "2023/8/5": 378,
     "2023/8/6": 1004,
-    "2023/8/7": 385
+    "2023/8/7": 815
   },
   "todaysWordCount": {
     "notes/random english analysis.md": {
@@ -117,6 +117,22 @@
     "notes/Untitled.md": {
       "initial": 8,
       "current": 8
+    },
+    "notes/the life of i the struggle to be real.md": {
+      "initial": 16,
+      "current": 35
+    },
+    "notes/complex numbers.md": {
+      "initial": 9,
+      "current": 210
+    },
+    "notes/imaginary numbers.md": {
+      "initial": 28,
+      "current": 103
+    },
+    "notes/solutions of quadratic equations.md": {
+      "initial": 9,
+      "current": 144
     }
   }
 }

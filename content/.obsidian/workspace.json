@@ -4,16 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "df35889076ec4939",
+        "id": "8056f43b491e9cca",
         "type": "tabs",
         "children": [
           {
-            "id": "af3d8ec06ee46d9c",
+            "id": "5062e66da28f9fe3",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "880f3494825199ed",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notes/delocalised.md",
+                "file": "notes/imaginary numbers.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -21,12 +29,12 @@
             }
           },
           {
-            "id": "3b7da5d2f3d277cd",
+            "id": "7fff3723808be043",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notes/helloWorld.md",
+                "file": "notes/complex numbers.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -34,38 +42,12 @@
             }
           },
           {
-            "id": "e0a69857275b7b16",
+            "id": "21c04464dc239c72",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notes/delocalised.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "821829c937fed480",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "notes/helloWorld.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "2ff833ea4b32786a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "notes/delocalised.md",
+                "file": "notes/complex numbers.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -73,7 +55,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -164,7 +146,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "notes/delocalised.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -190,7 +171,7 @@
             }
           },
           {
-            "id": "07b00d07e4093ad8",
+            "id": "2ff833ea4b32786a",
             "type": "leaf",
             "state": {
               "type": "graph",
@@ -210,9 +191,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "notes/delocalised.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -235,15 +214,17 @@
   },
   "active": "2ff833ea4b32786a",
   "lastOpenFiles": [
-    "notes/Untitled 1.md",
-    "notes/Untitled.md",
+    "notes/complex numbers.md",
+    "notes/solutions of quadratic equations.md",
+    "notes/imaginary numbers.md",
     "notes/delocalised.md",
+    "notes/helloWorld.md",
+    "notes/Untitled 1.md",
     "templates/daily.md",
     "templates/tags.md",
     "templates/post.md",
     "notes/Untitled 4.md",
     "notes/Untitled 3.md",
-    "notes/helloWorld.md",
     "notes/Untitled 2.md",
     "notes/specificHeatCapacity.md",
     "notes/1.2specificHeatCapacity.md",
@@ -259,8 +240,6 @@
     "notes/archive/AE/ENGLISH/GAcomprehension.md",
     "notes/arithemeticSeries.md",
     "notes/archive/_indexOld.md",
-    "notes/daily/2023-09-06.md",
-    "private/val/haven/foxy9Jett.md",
     "notes/images/keqing judges.png",
     "notes/images/kfc keqing burger.png",
     "notes/images/testok.png",
