@@ -31,8 +31,8 @@
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1693789284994,
-      "modifiedDate": 1693812136629,
-      "sizeInBytes": 56
+      "modifiedDate": 1694051082406,
+      "sizeInBytes": 64
     },
     "templates/post.md": {
       "isDirectory": false,
@@ -47,8 +47,8 @@
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1686274931801,
-      "modifiedDate": 1693973190777,
-      "sizeInBytes": 57
+      "modifiedDate": 1694051070716,
+      "sizeInBytes": 90
     },
     "templates/daily.md": {
       "isDirectory": false,
@@ -63,8 +63,8 @@
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1693801245710,
-      "modifiedDate": 1694050713406,
-      "sizeInBytes": 67
+      "modifiedDate": 1694051118484,
+      "sizeInBytes": 100
     },
     "tags/specialist.md": {
       "isDirectory": false,

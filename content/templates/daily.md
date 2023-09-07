@@ -1,7 +1,7 @@
 ---
-title: "{{title}}"
+title: <% tp.file.title %>
 tags:
   - daily
-date: "{{date}}"
+date: <% tp.date.now("YYYY-MM-DD", -1) %>
 ---
 ## Todo
