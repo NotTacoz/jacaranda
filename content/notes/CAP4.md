@@ -118,8 +118,17 @@ date: 2023-09-01
 		- because substitution reactions are slow and requires a catalyst
 	- but added to alkene, or another unsaturated compound, orange colour disappears almost instantly, as bromine is consumed!
 - 154.  Write equations, and draw and name the products of complete combustion reactions of hydrocarbons.
+	- hydrocarbons are excellent fuels, and when ignited in excess air (O2), they produce carbon dioxide, water vapour and heat energy
+	- called combustion reactions
 - 155.  Given information about the products, write equations for the incomplete combustion reactions of hydrocarbons.
-- 156.  Explain why incomplete combustion is undesirable when using hydrocarbons as fuels.
+	- occurs if air (o2) supply is limited.
+	- carbon monoxide and even soot \[C(s)] can be produced
+- 156.  Explain why incomplete combustion is undesirable when using hydrocarbons as fuels. (PROBABLY A QUESTION)
+	- produces significantly less energy than complete combustion
+	- potential health [[notes/SIS Hazard Risk and Minimising Risk|hazard]] due to toxic products formed (carbon monoxide is toxic, soot is toxic (if you inhale it))
+		- risk is hypoxia when inhaling carbon monoxide.
+		- carbon monoxide is colourless and odourless gas, so it may go unnoticed.
+	- to manage risks, there needs to be adequate ventilation.
 - 157.  _Discuss the benefits and drawbacks of using hydrocarbons as fuels, including the effect on the environment. (SHE)_
 - 158.  _Compare the effectiveness and suitability of different fuels, including hydrocarbons and biofuels (biogas, biodiesel, bioethanol), and suggest why certain fuels are used. (SHE)_
 	- fuels made by living organisms or the waste produced are called biofuels.

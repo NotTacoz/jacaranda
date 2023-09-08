@@ -37,18 +37,18 @@
     "notes/CAP4.md": {
       "isDirectory": false,
       "noteCount": 1,
-      "wordCount": 3029,
+      "wordCount": 3139,
       "wordCountTowardGoal": 0,
       "wordGoal": null,
-      "pageCount": 10.096666666666666,
-      "characterCount": 19598,
-      "nonWhitespaceCharacterCount": 16167,
-      "linkCount": 5,
+      "pageCount": 10.463333333333333,
+      "characterCount": 20295,
+      "nonWhitespaceCharacterCount": 16743,
+      "linkCount": 6,
       "embedCount": 5,
       "aliases": null,
       "createdDate": 1694087202797,
-      "modifiedDate": 1694088369622,
-      "sizeInBytes": 19782
+      "modifiedDate": 1694089253124,
+      "sizeInBytes": 20479
     },
     "notes/radical.md": {
       "isDirectory": false,
