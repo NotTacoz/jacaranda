@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notes/SIS Hazard Risk and Minimising Risk.md",
+                "file": "notes/CAP4.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -21,7 +21,7 @@
             }
           },
           {
-            "id": "e4c6763b5b830d00",
+            "id": "41c87b986dd6c0cf",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -194,12 +194,20 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "e4c6763b5b830d00",
+  "active": "41c87b986dd6c0cf",
   "lastOpenFiles": [
+    "notes/images/Screen Shot 2023-09-08 at 8.44.42 pm.png",
+    "notes/archive/AE/CHEMISTRY/lucarelli.md",
+    "notes/CAP4.md",
+    "notes/daily/2023-09-08.md",
+    "notes/images/Screen Shot 2023-09-08 at 12.00.31 pm.png",
+    "notes/images/Screen Shot 2023-09-08 at 11.58.48 am.png",
+    "notes/stuff needed to review chem cap4.md",
+    "notes/Untitled.md",
+    "notes/SIS Hazard Risk and Minimising Risk.md",
+    "notes/archive/AE/CHEMISTRY/empirical formula calcs.md",
     "notes/七五三.md",
     "notes/specificHeatCapacity.md",
-    "notes/CAP4.md",
-    "notes/SIS Hazard Risk and Minimising Risk.md",
     "notes/trighardquestions.md",
     "notes/radicals.md",
     "notes/images/Screen Shot 2023-09-07 at 7.49.58 pm.png",
@@ -219,17 +227,11 @@
     "private/val/split/tenzJett.md",
     "private/val/lotus/asunaJett.md",
     "private/val/haven/selfJett.md",
-    "private/val/haven/foxy9Jett.md",
     "private/val/split",
     "private/val/lotus",
-    "private/val/navigation.md",
     "private/val/haven",
     "private/val",
-    "private/private-note.md",
     "private",
-    "notes/solutions of quadratic equations.md",
-    "notes/rate of reaction.md",
-    "notes/rate of reaction report actual.md",
     "notes/images/testok.png",
     "notes/images/kfc keqing burger.png",
     "notes/images/keqingactually.png",
@@ -237,8 +239,6 @@
     "notes/images/Screen Shot 2023-09-01 at 9.44.48 am.png",
     "notes/images/Screen Shot 2023-08-31 at 9.23.35 am.png",
     "notes/images/Screen Shot 2023-08-31 at 2.46.54 pm.png",
-    "notes/images/Screen Shot 2023-08-31 at 11.19.24 am.png",
-    "notes/images/Screen Shot 2023-08-31 at 11.18.17 am.png",
     "notes/archive/daily",
     "notes/archive/AEold/specialist/lessonnotes",
     "notes/archive/AEold/specialist/feedback",

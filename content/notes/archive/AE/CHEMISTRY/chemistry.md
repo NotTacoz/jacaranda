@@ -24,6 +24,6 @@ tags:
 - [gases: kinetic energy](notes/archive/AE/CHEMISTRY/kineticEnergy.md)
 - [gases: gas laws](notes/archive/AE/CHEMISTRY/gases.md)
 - [cap4 revision](notes/CAP4.md)
-- [empirical formulas](notes/archive/AE/CHEMISTRY/empiricalFormula.md)
+- [empirical formulas](notes/archive/AE/CHEMISTRY/empirical%20formula%20calcs.md)
 	- [dead emus, floating fish, and an awful lot of motion sickness](notes/archive/AE/CHEMISTRY/aboriginalCaseStudy.md)
 - [rates of reaction (report)](notes/archive/AE/CHEMISTRY/rates%20of%20reaction%20(writing%20a%20report).md)

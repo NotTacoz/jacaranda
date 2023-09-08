@@ -147,6 +147,7 @@ date: 2023-09-01
 - 160.  Use the mole concept and the law of conservation of mass to calculate quantities of reactants and products in a chemical reaction.
 - 161.  Identify and calculate empirical formulae for hydrocarbons using percentage composition data and combustion analysis data, and relate this to the molecular formulae.
 - 162.  Use molecular mass and empirical formulae calculations to establish molecular structure.
+	- [[notes/archive/AE/CHEMISTRY/empirical formula calcs|empirical formula calculations]]
 ## **Topic 5: ENERGY & RATE**
 [[notes/archive/AE/CHEMISTRY/rates of reaction (writing a report)|rates of reaction report notes in class :/]]
 
@@ -209,15 +210,51 @@ date: 2023-09-01
 	- the rate of reaction = $\frac{\text{amount of substance used or produced}}{\text{time taken}}$
 	- (change in one measurable quantity over change in time)
 - 186.  Describe a range of methods to measure the rate of a reaction, including volume of gas produced, mass lost, colour change and changes to transparency.
+	- we know that $\text{reaction rate} = \frac{\text{amount of substance used or produced}}{\text{time taken}}$, and the amount can be volume of gas produced, mass lost, colour change and changes to transparency.
+	- we can graph this against time, to get the reaction rate, which is the gradient (m = rise/run) where time is x value, amount of substance used or produce is y value.
+	- ![[notes/images/Screen Shot 2023-09-08 at 8.44.42 pm.png]]
 - 187.  Describe how to change the rate of a chemical reaction, using changes to reactant concentration, gas pressure, temperature, surface area of solid reactant, or use of a catalyst.
-	- factors that affect reaction rates
-		- nature of reactants
-			- reactants requiring smaller amount of energy to break will have higher reaction rate
-			- if there is a larger concentration of reactants, 
-		- concentration & pressure
-		- surface area
-		- temperature
+	- factors that affect reaction rates are nature of reactants, concentration rate, gas pressure, temperature, surface area of solid reactant, or use of catalyst.
+	- nature of reactants
+		- reactants requiring smaller amount of energy to break will have higher reaction rate
+		- if there is a larger concentration of reactants, 
+	- concentration & pressure
+		- concentration measures number of particles in a certain volume of solution
+			- when concentration increases, greater number of reactant particles in given volume.
+			- increases frequency ($\therefore$ total n. of) collisions between reactants in a given time.
+				- % of collisions remain the same, higher frequency will lead to increase no. of successful collisions between reactants
+		- increasing pressure works a similar way, increasing pressure increases no. of gas particles/molecules in a given volume.
+			- more frequent collisions, and therefore a higher number of successful collisions - increasing reaction rate.
+	- surface area
+		- reaction only takes place between particles that collide.
+		- in a **solid**, only the exterior particles are available to react.
+		- by dividing a solid mass into smaller pieces, interior particles are exposed and therefore able to react - total surface area has been increased.
+		- ![[notes/images/Screen Shot 2023-09-08 at 11.58.48 am.png]]![[notes/images/Screen Shot 2023-09-08 at 12.00.31 pm.png]]
+		- increases frequency of collisions.
+			- -> increase in number of successful collisions -> increases reaction rate.
+	- temperature
+		- at a given temperature, particles of a substance will have different amounts of kinetic energy. (as **average kinetic energy** determines temperature)
+		- higher temperature, higher average kinetic energy.
+		- more particles will have enough energy to have a successful collision (more particles will have enough energy exceeding the activation energy)
+		- more successful collisions in the same time - larger reaction rate.
+		- higher temperature the particles are also moving faster due to higher Ke
+		- therefore will have more collisions/higher frequency.
+			- relatively small increase to the reaction rate compared to the increase in kinetic energy
+		- only particles with the activation energy, or greater will have enough energy to break the bonds of the reactants to have a successful collision.
+	- catalyst
+		- catalyst is a substance that alters rate of reaction without being consumed (or used up) in the reaction
+	- provides alternative pathway for a reaction
+	- positive catalyst means provides easier pathway with **lower activation energy**.
+	- meaning more particles will have sufficient energy for successful collisions.
+		- increases frequency of successful collisions, as percentage of successful collisions is increased.
+		- reaction rate increases.
 - 188.  State that a catalyst is a substance that speeds up a chemical reaction without being consumed.
+	- substance that alters rate of reaction without being consumed (or used up) in the reaction
+	- provides alternative pathway for a reaction
+	- positive catalyst means provides easier pathway with **lower activation energy**.
+	- meaning more particles will have sufficient energy for successful collisions.
+		- increases frequency of successful collisions, as percentage of successful collisions is increased.
+		- reaction rate increases.
 - 189.  _Conduct experimental work safely, competently and methodically in order to collect valid and reliable data to measure the rate of reaction. (SIS)_
 - 190.  _Represent rate of reaction data in tables and graphs, using correct units and symbols, in order to identify trends and any anomalous data. (SIS)_
 - 191.  _Evaluate the effect of measurement error in numerical data. (SIS)_
