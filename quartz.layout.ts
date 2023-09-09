@@ -45,7 +45,7 @@ export const defaultListPageLayout: PageLayout = {
       title: "Recent Notes",
         limit: 3,
         filter: (f) =>
-          f.slug!.startsWith("notes/") && !f.frontmatter?.noindex && f.frontmatter?.date,
+          f.frontmatter?.date,
         linkToMore: "notes/" as SimpleSlug,
     })),
   ],

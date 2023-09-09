@@ -1650,6 +1650,22 @@
       "modifiedDate": 1694087205292,
       "sizeInBytes": 378
     },
+    "notes/daily/2023-09-09.md": {
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 80,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.26666666666666666,
+      "characterCount": 353,
+      "nonWhitespaceCharacterCount": 265,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1694226591981,
+      "modifiedDate": 1694226624112,
+      "sizeInBytes": 411
+    },
     "notes/daily/2023-09-08.md": {
       "isDirectory": false,
       "noteCount": 1,
@@ -4469,18 +4485,18 @@
     "notes/CAP4.md": {
       "isDirectory": false,
       "noteCount": 1,
-      "wordCount": 3652,
+      "wordCount": 3984,
       "wordCountTowardGoal": 0,
       "wordGoal": null,
-      "pageCount": 12.173333333333334,
-      "characterCount": 23815,
-      "nonWhitespaceCharacterCount": 19687,
+      "pageCount": 13.28,
+      "characterCount": 25923,
+      "nonWhitespaceCharacterCount": 21415,
       "linkCount": 7,
       "embedCount": 8,
       "aliases": null,
       "createdDate": 1694087202797,
-      "modifiedDate": 1694177359165,
-      "sizeInBytes": 23999
+      "modifiedDate": 1694243710218,
+      "sizeInBytes": 26121
     },
     "notes/1.2specificHeatCapacity.md": {
       "isDirectory": false,

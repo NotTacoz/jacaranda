@@ -1787,7 +1787,7 @@ var defaultListPageLayout = {
     DesktopOnly_default(RecentNotes_default({
       title: "Recent Notes",
       limit: 3,
-      filter: (f) => f.slug.startsWith("notes/") && !f.frontmatter?.noindex && f.frontmatter?.date,
+      filter: (f) => f.frontmatter?.date,
       linkToMore: "notes/"
     }))
   ],

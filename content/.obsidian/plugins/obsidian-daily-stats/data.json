@@ -80,20 +80,17 @@
     "2023/8/5": 378,
     "2023/8/6": 1004,
     "2023/8/7": 1659,
-    "2023/8/8": 518
+    "2023/8/8": 556,
+    "2023/8/9": 300
   },
   "todaysWordCount": {
+    "notes/daily/2023-09-09.md": {
+      "initial": 42,
+      "current": 59
+    },
     "notes/CAP4.md": {
-      "initial": 3064,
-      "current": 3567
-    },
-    "notes/archive/AE/CHEMISTRY/empirical formula calcs.md": {
-      "initial": 91,
-      "current": 91
-    },
-    "notes/stuff needed to review chem cap4.md": {
-      "initial": 13,
-      "current": 28
+      "initial": 3605,
+      "current": 3888
     }
   }
 }

@@ -7,20 +7,28 @@ tags:
   - ae
 date: 2023-09-01
 ---
+## stuff/content not in anki deck
+- not in anki deck because they are moreso calculations
+- basically the stuff with no ✅
+- e.g.
+	- iupac revision
+	- empirical formulae revision
+
 ## **Topic 4: CARBON CHEMISTRY & ENERGY**
 
 ### Structure & Naming
 
-- 135.  Explain why carbon is able to form such a diverse range of compounds, using knowledge of bonding capacity.
+- ✅ 135.  Explain why carbon is able to form such a diverse range of compounds, using knowledge of bonding capacity.
 	- Carbon has four valence electrons, allowing it to bond with a range of other atoms.
 	- Carbon has a large bonding capacity, as it is able to form 4 bonds, or form double or triple bonds.
-- 136.  Use molecular formulae, full structural formulae and condensed formulae to show the arrangement of atoms and bonds in covalent molecular substances, including hydrocarbons and haloalkanes.
+- ✅ 136.  Use molecular formulae, full structural formulae and condensed formulae to show the arrangement of atoms and bonds in covalent molecular substances, including hydrocarbons and haloalkanes.
 	- Molecular Formula 
 		- Actual whole number ratio of the atom. Cyclohexane is $C_{6}H_{12}$ 
 		- full Structural formulae (see image) 
 		- structural formula of cyclohexane: ![300](notes/images/Pasted%20image%2020230826120056.png)
 	- condensed formula (not condensed structural) would be $(CH_{2})_{6}$
-- 137.  Define hydrocarbon, and categorise simple hydrocarbons into alkanes, alkenes and aromatic hydrocarbons (benzene). 
+- ✅ 137.  Define hydrocarbon, and categorise simple hydrocarbons into alkanes, alkenes and aromatic hydrocarbons (benzene). 
+	- a hydrocarbon is a molecule composed only of carbons and hydrogen.
 	- hydrocarbons are categorised by the number of their bonds as alkanes, alkenes, and alkynes. 
 		- alkanes 
 			- only single bonds 
@@ -28,16 +36,16 @@ date: 2023-09-01
 			- one or more double bonds 
 		- alkynes 
 			- one or more triple bonds
-- 138.  Use the general formulae for alkanes and alkenes to recognise and categorise hydrocarbons. 
+- ✅ 138.  Use the general formulae for alkanes and alkenes to recognise and categorise hydrocarbons. 
 	- alkanes 
-	  - $C_{n}H_{2n+2}$ 
+		- $C_{n}H_{2n+2}$ 
 	- alkenes 
-	  - $C_{n}H_{2n}$ 
+		- $C_{n}H_{2n}$ 
 	- alkynes 
-	  - $C_{n}H_{2n-2}$
-- 139.  Recognise cycloalkanes and cycloalkenes, and understand that they have different general formulae from their non-cyclic counterparts. 
+		- $C_{n}H_{2n-2}$
+- ✅ 139.  Recognise cycloalkanes and cycloalkenes, and understand that they have different general formulae from their non-cyclic counterparts. 
 	- cycloalkanes and cycloalkenes are just connected in a circle, with their general formulas being $C_{n}H_{2n}$ and $C_{n}H_{2n-2}$ respectively.
-- 140.  Describe hydrocarbons as saturated or unsaturated, and explain the difference between these terms. 
+- ✅ 140.  Describe hydrocarbons as saturated or unsaturated, and explain the difference between these terms. 
 	- saturated hydrocarbons are hydrocarbons which only contains singular bonds. 
 	- ie all cycloalkanes and alkanes are saturated, cycloalkenes, alkene and alkyne are not saturated, and hence called unsaturated
 - iupac practice, no notes, just get better at naming and recognising through practice
@@ -130,24 +138,32 @@ date: 2023-09-01
 		- carbon monoxide is colourless and odourless gas, so it may go unnoticed.
 	- to manage risks, there needs to be adequate ventilation.
 - 157.  _Discuss the benefits and drawbacks of using hydrocarbons as fuels, including the effect on the environment. (SHE)_
+	- benefits (?)
+		- cheaper and more available than other fuel sources like biofuels (??)
+	- drawbacks
+		- hydrocarbon combustion reactions create **carbon dioxide**, which is a **greenhouse gas** and a **carbon emission**.
+			- greenhouse gases like co2 and methane (ch4) contribute to warmer atmosphere by reabsorbing heat that would otherwise be radiated from the earths surface and out into space.
 - 158.  _Compare the effectiveness and suitability of different fuels, including hydrocarbons and biofuels (biogas, biodiesel, bioethanol), and suggest why certain fuels are used. (SHE)_
+	-  idk about hydrocarbons
 	- fuels made by living organisms or the waste produced are called biofuels.
 	- advantages (vs fossil):
 		- biofuels provides renewable energy source - fossil doesn't
 		- less impact on environment
 	- production of electricity, heating water and fuels for buses.
 	- able to provide energy at a small scale
-	- is there more??/ Idk 
-- 159.  Calculate percentage composition of a hydrocarbon from the relative atomic masses of the constituent species.
+	- negligible or extremely low sulphur content.
+		- combustion of sulphur creates emission of sulphur dioxide; which is a respiratory irritant and leads to acid rain.
+- calculations stuff
+	- 159.  Calculate percentage composition of a hydrocarbon from the relative atomic masses of the constituent species.
 	- you will be given a table, with isotopes and their relative abundance.
 	- relative atomic mass = $\frac{\text{{neutron}} \times \text{\% composition (do this for all of em)} }{100}$
 	- if you want to calculate the percentage composition, percentage composition (in %) $=\frac{\text{mass}}{\text{total mass}} \times 100$ 
 		- [source](https://youtu.be/bGmbyztdCHE?si=pzcGMGuyJg097get)
 	- **idk if this is correct, I dont remember revising this in class so i am lost :(**
-- 160.  Use the mole concept and the law of conservation of mass to calculate quantities of reactants and products in a chemical reaction.
-- 161.  Identify and calculate empirical formulae for hydrocarbons using percentage composition data and combustion analysis data, and relate this to the molecular formulae.
-- 162.  Use molecular mass and empirical formulae calculations to establish molecular structure.
-	- [[notes/archive/AE/CHEMISTRY/empirical formula calcs|empirical formula calculations]]
+	- 160.  Use the mole concept and the law of conservation of mass to calculate quantities of reactants and products in a chemical reaction.
+	- 161.  Identify and calculate empirical formulae for hydrocarbons using percentage composition data and combustion analysis data, and relate this to the molecular formulae.
+	- 162.  Use molecular mass and empirical formulae calculations to establish molecular structure.
+		- [[notes/archive/AE/CHEMISTRY/empirical formula calcs|empirical formula calculations]]
 ## **Topic 5: ENERGY & RATE**
 [[notes/archive/AE/CHEMISTRY/rates of reaction (writing a report)|rates of reaction report notes in class :/]]
 
@@ -289,4 +305,20 @@ date: 2023-09-01
 - 198.  Draw and interpret energy profile diagrams for catalysed and uncatalysed reactions. 
 	- reaction pathway is lower in energy profile diagram, see picture below:![](notes/images/Screen%20Shot%202023-08-28%20at%209.15.28%20am.png)
 - 199.  _Justify the use of catalysts in industry, to increase the rate of a reaction that would otherwise be uneconomically slow. (SHE)_
+	- (extension?) heterogeneous catalyst is preferred
+		- easily separated from products of a reaction
+		- much easier to reuse
+		- able to be used at high temperatures
+	- catalysts enable products to be made very rapidly at significantly lower temperatures than would otherwise needed.
+		- lower temperature -> reduces energy requirement for the process -> reduces cost of energy.
+		- in rate of reaction terms:
+			- catalysts reduce activation energy, so either 1. more products at the same temperature can react or 2. the same amount of products react at a lower temperature, as the percentage of successful collisions is higher.
+			- so this means 1. there is a higher rate of reaction or 2. there is a lower temperature (avg kinetic energy of particles in solution)
+			- temperature requires energy, so 2. would reduce the cost of energy.
 - 200.  _Describe how catalysts can be used to reduce negative impact on the environment, for example in catalytic converters. (SHE)_
+	- new cards sold in australia have a catalyst fitted between engine and exhaust pipe
+	- catalysts in cars convert carbon monoxide and nitrogen oxide, formed in the engine, to non-toxic gases carbon dioxide and nitrogen.
+		- $2NO(g)\to N_{2}(g)+O_{2}(g)$
+		- $2CO(g)+O_{2}(g)\to 2CO_{2}(g)$
+	- unburnt hydrocarbons are also converted by the catalysts
+		- $2C_{8}H_{18}(g)+25O_{2}(g)\to 16CO_{2}(g)+18H_{2}O(g)$
