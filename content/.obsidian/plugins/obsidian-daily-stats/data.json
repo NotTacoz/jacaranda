@@ -81,16 +81,25 @@
     "2023/8/6": 1004,
     "2023/8/7": 1659,
     "2023/8/8": 556,
-    "2023/8/9": 300
+    "2023/8/9": 300,
+    "2023/8/10": 203
   },
   "todaysWordCount": {
-    "notes/daily/2023-09-09.md": {
-      "initial": 42,
-      "current": 59
-    },
     "notes/CAP4.md": {
-      "initial": 3605,
+      "initial": 3888,
       "current": 3888
+    },
+    "notes/daily/2023-09-10.md": {
+      "initial": 42,
+      "current": 72
+    },
+    "notes/frustrations of time spent on work vs results.md": {
+      "initial": 7,
+      "current": 180
+    },
+    "notes/stuff needed to review chem cap4.md": {
+      "initial": 29,
+      "current": 28
     }
   }
 }
