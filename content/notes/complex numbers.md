@@ -1,5 +1,5 @@
 ---
-title: complex numers
+title: complex numbers
 tags:
   - ae
   - specialist
@@ -30,3 +30,4 @@ this is applicant in the [[notes/solutions of quadratic equations|solutions of q
 ## arithmetic with complex numbers
 for +, -:
 treat $i$ just like a variable. $$(2+i)+(6-4i)$$$$=2+6+i-4i=8-3i$$
+[[notes/complex numbers part 2|complex numbers part 2]]

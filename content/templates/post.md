@@ -1,6 +1,6 @@
 ---
 title: <% tp.file.title %>
 tags:
-  - ae
+  - AE
 date: <% tp.date.now("YYYY-MM-DD") %>
 ---

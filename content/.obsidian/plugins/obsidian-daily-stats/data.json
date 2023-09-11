@@ -82,24 +82,33 @@
     "2023/8/7": 1659,
     "2023/8/8": 556,
     "2023/8/9": 300,
-    "2023/8/10": 203
+    "2023/8/10": 203,
+    "2023/8/11": 382
   },
   "todaysWordCount": {
-    "notes/CAP4.md": {
-      "initial": 3888,
-      "current": 3888
+    "notes/complex numbers part 2.md": {
+      "initial": 11,
+      "current": 38
     },
-    "notes/daily/2023-09-10.md": {
-      "initial": 42,
-      "current": 72
+    "notes/complex numbers.md": {
+      "initial": 210,
+      "current": 219
     },
-    "notes/frustrations of time spent on work vs results.md": {
-      "initial": 7,
-      "current": 180
+    "notes/daily/2023-09-11.md": {
+      "initial": 43,
+      "current": 45
     },
-    "notes/stuff needed to review chem cap4.md": {
-      "initial": 29,
-      "current": 28
+    "notes/thermal equilibrium.md": {
+      "initial": 9,
+      "current": 105
+    },
+    "notes/latent heat.md": {
+      "initial": 9,
+      "current": 256
+    },
+    "templates/post.md": {
+      "initial": 12,
+      "current": 13
     }
   }
 }
