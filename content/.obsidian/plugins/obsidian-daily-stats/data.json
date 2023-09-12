@@ -84,7 +84,7 @@
     "2023/8/9": 300,
     "2023/8/10": 203,
     "2023/8/11": 576,
-    "2023/8/12": 944
+    "2023/8/12": 1437
   },
   "todaysWordCount": {
     "notes/CAP4.md": {
@@ -126,6 +126,18 @@
     "notes/daily/2023-09-12.md": {
       "initial": 41,
       "current": 45
+    },
+    "notes/latent heat v2.md": {
+      "initial": 9,
+      "current": 18
+    },
+    "notes/latent heat.md": {
+      "initial": 19,
+      "current": 453
+    },
+    "notes/addition reactions.md": {
+      "initial": 8,
+      "current": 58
     }
   }
 }

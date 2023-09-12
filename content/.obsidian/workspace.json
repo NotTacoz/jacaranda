@@ -4,23 +4,50 @@
     "type": "split",
     "children": [
       {
-        "id": "a3a260dab17fc617",
+        "id": "42cf41de629cef9f",
         "type": "tabs",
         "children": [
           {
-            "id": "adf284f60602ccab",
+            "id": "d037197df6464073",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notes/conjugate complex numbers and multiplication and division.md",
+                "file": "notes/latent heat.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "34b8724747018160",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "notes/latent heat.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "554f2b7956b65afd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "notes/addition reactions.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -50,7 +77,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:heat",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -155,7 +182,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "notes/addition reactions.md"
+              }
             }
           }
         ]
@@ -171,6 +200,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "notes/addition reactions.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -194,18 +224,24 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "2ff833ea4b32786a",
+  "active": "554f2b7956b65afd",
   "lastOpenFiles": [
-    "notes/conjugate complex numbers and multiplication and division.md",
+    "notes/complex numbers.md",
     "notes/argand diagrams.md",
+    "notes/solutions of quadratic equations.md",
+    "notes/conjugate complex numbers and multiplication and division.md",
+    "notes/pearson heat navigation.md",
+    "notes/addition reactions.md",
+    "notes/latent heat.md",
+    "notes/archive/AE/PHYSICS/heat.md",
+    "notes/1.2specificHeatCapacity.md",
+    "notes/specificHeatCapacity.md",
+    "notes/thermal equilibrium.md",
+    "notes/images/Screen Shot 2023-09-12 at 11.17.22 am.png",
     "notes/daily/2023-09-12.md",
     "notes/stuff needed to review chem cap4.md",
-    "notes/thermal equilibrium.md",
-    "notes/latent heat.md",
     "notes/CAP4.md",
-    "notes/complex numbers.md",
     "notes/linear factors of quadratic polynomials.md",
-    "notes/solutions of quadratic equations.md",
     "notes/beetlejuice.md",
     "notes/archive/AEold/specialist/lessonnotes/T1W6L2.md",
     "notes/imaginary numbers.md",
@@ -213,9 +249,6 @@
     "notes/images/Pasted image 20230912095914.png",
     "notes/archive/AE/CHEMISTRY/gases.md",
     "notes/images/Screen Shot 2023-09-11 at 12.56.36 pm.png",
-    "notes/pearson heat navigation.md",
-    "notes/specificHeatCapacity.md",
-    "notes/archive/AE/PHYSICS/heat.md",
     "notes/halogens.md",
     "tags/methods.md",
     "tags/physics.md",
@@ -223,15 +256,12 @@
     "templates/tags.md",
     "templates/daily.md",
     "templates/post.md",
-    "notes/1.2specificHeatCapacity.md",
     "notes/images/Screen Shot 2023-09-11 at 12.42.50 pm.png",
     "notes/images/Screen Shot 2023-09-11 at 12.38.12 pm.png",
-    "notes/daily/2023-09-11.md",
     "notes/images/Screen Shot 2023-09-10 at 8.09.49 pm.png",
     "notes/images/Screen Shot 2023-09-10 at 8.09.36 pm.png",
     "notes/images/Screen Shot 2023-09-10 at 8.09.03 pm.png",
     "notes/images/Screen Shot 2023-09-08 at 8.44.42 pm.png",
-    "notes/images/Screen Shot 2023-09-08 at 12.00.31 pm.png",
     "templates",
     "tags",
     "private/val/split",
