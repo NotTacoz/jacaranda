@@ -290,6 +290,22 @@
       "modifiedDate": 1694087202796,
       "sizeInBytes": 436
     },
+    "notes/conjugate complex numbers and multiplication and division.md": {
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 117,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.39,
+      "characterCount": 779,
+      "nonWhitespaceCharacterCount": 660,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1694393796042,
+      "modifiedDate": 1694486494533,
+      "sizeInBytes": 882
+    },
     "notes/linear factors of quadratic polynomials.md": {
       "isDirectory": false,
       "noteCount": 1,
@@ -1893,18 +1909,18 @@
     "notes/daily/2023-09-12.md": {
       "isDirectory": false,
       "noteCount": 1,
-      "wordCount": 48,
+      "wordCount": 55,
       "wordCountTowardGoal": 0,
       "wordGoal": null,
-      "pageCount": 0.16,
-      "characterCount": 187,
-      "nonWhitespaceCharacterCount": 132,
+      "pageCount": 0.18333333333333332,
+      "characterCount": 214,
+      "nonWhitespaceCharacterCount": 152,
       "linkCount": 0,
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1694481952748,
-      "modifiedDate": 1694481953172,
-      "sizeInBytes": 245
+      "modifiedDate": 1694485909002,
+      "sizeInBytes": 272
     },
     "notes/daily/2023-09-09.md": {
       "isDirectory": false,
@@ -2245,18 +2261,18 @@
     "notes/complex numbers.md": {
       "isDirectory": false,
       "noteCount": 1,
-      "wordCount": 177,
+      "wordCount": 183,
       "wordCountTowardGoal": 0,
       "wordGoal": null,
-      "pageCount": 0.59,
-      "characterCount": 1195,
-      "nonWhitespaceCharacterCount": 1010,
+      "pageCount": 0.61,
+      "characterCount": 1265,
+      "nonWhitespaceCharacterCount": 1074,
       "linkCount": 4,
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1694087202811,
-      "modifiedDate": 1694484072500,
-      "sizeInBytes": 1289
+      "modifiedDate": 1694485836676,
+      "sizeInBytes": 1359
     },
     "notes/arithemeticSeries.md": {
       "isDirectory": false,
@@ -2273,22 +2289,6 @@
       "createdDate": 1694087202811,
       "modifiedDate": 1694087205076,
       "sizeInBytes": 367
-    },
-    "notes/complex numbers part 2.md": {
-      "isDirectory": false,
-      "noteCount": 1,
-      "wordCount": 28,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 0.09333333333333334,
-      "characterCount": 154,
-      "nonWhitespaceCharacterCount": 124,
-      "linkCount": 0,
-      "embedCount": 0,
-      "aliases": null,
-      "createdDate": 1694393796042,
-      "modifiedDate": 1694406002952,
-      "sizeInBytes": 255
     },
     "notes/archive/notes.md": {
       "isDirectory": false,

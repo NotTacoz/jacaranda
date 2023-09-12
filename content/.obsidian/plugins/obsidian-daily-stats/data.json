@@ -84,7 +84,7 @@
     "2023/8/9": 300,
     "2023/8/10": 203,
     "2023/8/11": 576,
-    "2023/8/12": 803
+    "2023/8/12": 944
   },
   "todaysWordCount": {
     "notes/CAP4.md": {
@@ -114,6 +114,18 @@
     "notes/solutions of quadratic equations.md": {
       "initial": 144,
       "current": 157
+    },
+    "notes/conjugate complex numbers.md": {
+      "initial": 39,
+      "current": 44
+    },
+    "notes/conjugate complex numbers and multiplication and division.md": {
+      "initial": 42,
+      "current": 174
+    },
+    "notes/daily/2023-09-12.md": {
+      "initial": 41,
+      "current": 45
     }
   }
 }
