@@ -98,5 +98,13 @@
       "key": "K"
     }
   ],
-  "editor:insert-link": []
+  "editor:insert-link": [],
+  "editor:toggle-highlight": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "H"
+    }
+  ]
 }

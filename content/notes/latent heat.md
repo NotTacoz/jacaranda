@@ -27,3 +27,13 @@ date: 2023-09-11
 - at the point solid begins to melt, the particles move further apart, reducing the strength of the bonds holding them in place.
 	- instead of increasing temperature, the extra energy increases the potential energy of the particles, reducing the interparticle or intermolecular forces.
 - tldr: no change in temeprature occurs, as all the extra energy supplied is used in reducing forces between particles.
+- amount required to melt solid = potential energy released when liquid reforms into a solid. it is termed **latent heat of fusion**
+- for a given substance:
+	- heat energy transferred = mass of substance x specific latent heat of fusion
+	- $Q=mL_{\text{fusion}}$
+	- where Q is the heat energy transferred in joules (J)
+	- m is the mass in kilograms (kg)
+	- $L_{\text{fusion}}$ is the latent heat of fusion in $Jkg^{-1}$
+	- 80 times as much energy to turn 1kg of ice into water (no temp change), as it does to raise temperature of 1kg of water by 1degC.
+	- it takes a lot more energy to overcome large intermolecular forces within ice than it does to simply add kinetic energy in raising the temperature.
+	- ![[notes/images/Screen Shot 2023-09-11 at 12.56.36 pm.png]]

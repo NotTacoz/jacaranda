@@ -17,7 +17,6 @@ date: 2023-09-01
 ## **Topic 4: CARBON CHEMISTRY & ENERGY**
 
 ### Structure & Naming
-
 - ✅ 135.  Explain why carbon is able to form such a diverse range of compounds, using knowledge of bonding capacity.
 	- Carbon has four valence electrons, allowing it to bond with a range of other atoms.
 	- Carbon has a large bonding capacity, as it is able to form 4 bonds, or form double or triple bonds.
@@ -125,13 +124,13 @@ date: 2023-09-01
 	- few drops added to alkane and benzene, there is no immediate reaction
 		- because substitution reactions are slow and requires a catalyst
 	- but added to alkene, or another unsaturated compound, orange colour disappears almost instantly, as bromine is consumed!
-- 154.  Write equations, and draw and name the products of complete combustion reactions of hydrocarbons.
+- ✅ 154.  Write equations, and draw and name the products of complete combustion reactions of hydrocarbons.
 	- hydrocarbons are excellent fuels, and when ignited in excess air (O2), they produce carbon dioxide, water vapour and heat energy
 	- called combustion reactions
-- 155.  Given information about the products, write equations for the incomplete combustion reactions of hydrocarbons.
+- ✅ 155.  Given information about the products, write equations for the incomplete combustion reactions of hydrocarbons.
 	- occurs if air (o2) supply is limited.
 	- carbon monoxide and even soot \[C(s)] can be produced
-- 156.  Explain why incomplete combustion is undesirable when using hydrocarbons as fuels. (PROBABLY A QUESTION)
+- ✅ 156.  Explain why incomplete combustion is undesirable when using hydrocarbons as fuels. (PROBABLY A QUESTION)
 	- produces significantly less energy than complete combustion
 	- potential health [[notes/SIS Hazard Risk and Minimising Risk|hazard]] due to toxic products formed (carbon monoxide is toxic, soot is toxic (if you inhale it))
 		- risk is hypoxia when inhaling carbon monoxide.
@@ -144,7 +143,7 @@ date: 2023-09-01
 		- hydrocarbon combustion reactions create **carbon dioxide**, which is a **greenhouse gas** and a **carbon emission**.
 			- greenhouse gases like co2 and methane (ch4) contribute to warmer atmosphere by reabsorbing heat that would otherwise be radiated from the earths surface and out into space.
 - 158.  _Compare the effectiveness and suitability of different fuels, including hydrocarbons and biofuels (biogas, biodiesel, bioethanol), and suggest why certain fuels are used. (SHE)_
-	-  idk about hydrocarbons
+	- idk about hydrocarbons
 	- fuels made by living organisms or the waste produced are called biofuels.
 	- advantages (vs fossil):
 		- biofuels provides renewable energy source - fossil doesn't
@@ -220,7 +219,7 @@ date: 2023-09-01
 
 ### Rate of Reaction
 
-- 185.  State that the rate of a chemical reaction can be quantified by measuring the rate of change in an observable quantity that indicates amount of reactant used up or product made.
+- ✅ 185.  State that the rate of a chemical reaction can be quantified by measuring the rate of change in an observable quantity that indicates amount of reactant used up or product made.
 	- **rate** is how quickly one quantity changes compared to another.
 	- in chemical reaction, the **rate of reaction** is defined as the amounts of reactants used up **or** amount of products formed in given time.
 	- the rate of reaction = $\frac{\text{amount of substance used or produced}}{\text{time taken}}$
@@ -230,11 +229,11 @@ date: 2023-09-01
 	- we can graph this against time, to get the reaction rate, which is the gradient (m = rise/run) where time is x value, amount of substance used or produce is y value.
 	- ![[notes/images/Screen Shot 2023-09-08 at 8.44.42 pm.png]]
 - 187.  Describe how to change the rate of a chemical reaction, using changes to reactant concentration, gas pressure, temperature, surface area of solid reactant, or use of a catalyst.
-	- factors that affect reaction rates are nature of reactants, concentration rate, gas pressure, temperature, surface area of solid reactant, or use of catalyst.
-	- nature of reactants
+	- ✅ factors that affect reaction rates are nature of reactants, concentration rate, gas pressure, temperature, surface area of solid reactant, or use of catalyst.
+	- ✅ nature of reactants
 		- reactants requiring smaller amount of energy to break will have higher reaction rate
-		- if there is a larger concentration of reactants, 
-	- concentration & pressure
+		- if the bonds only require a small amount of energy to break, a larger number of particles will have successful collisions
+	- ✅ concentration & pressure
 		- concentration measures number of particles in a certain volume of solution
 			- when concentration increases, greater number of reactant particles in given volume.
 			- increases frequency ($\therefore$ total n. of) collisions between reactants in a given time.
@@ -305,7 +304,8 @@ date: 2023-09-01
 - 198.  Draw and interpret energy profile diagrams for catalysed and uncatalysed reactions. 
 	- reaction pathway is lower in energy profile diagram, see picture below:![](notes/images/Screen%20Shot%202023-08-28%20at%209.15.28%20am.png)
 - 199.  _Justify the use of catalysts in industry, to increase the rate of a reaction that would otherwise be uneconomically slow. (SHE)_
-	- (extension?) heterogeneous catalyst is preferred
+	- (extension) homogeneous is gas
+	- (extension) heterogeneous catalyst is preferred
 		- easily separated from products of a reaction
 		- much easier to reuse
 		- able to be used at high temperatures

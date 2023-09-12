@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "b6a2d025e7f03f0e",
+        "id": "e60093e3e2e46923",
         "type": "tabs",
         "children": [
           {
-            "id": "e8ec5a71383e001c",
+            "id": "2f04cb18cf147664",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notes/stuff needed to review chem cap4.md",
+                "file": "notes/argand diagrams.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -21,38 +21,12 @@
             }
           },
           {
-            "id": "dd43662dee3b0c4b",
+            "id": "198444d8ec833238",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notes/complex numbers part 2.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "8de13d9897a99da1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "notes/thermal equilibrium.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "310e0e227bd43fab",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "notes/halogens.md",
+                "file": "notes/linear factors of quadratic polynomials.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -60,7 +34,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -90,7 +64,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:heat",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -115,7 +89,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "57f26b66d7acceda",
@@ -143,20 +118,8 @@
       {
         "id": "f843a14175e799e0",
         "type": "tabs",
-        "dimension": 45.85889570552147,
+        "dimension": 35.744089012517385,
         "children": [
-          {
-            "id": "bba4689984c92ddc",
-            "type": "leaf",
-            "state": {
-              "type": "outgoing-link",
-              "state": {
-                "file": "notes/halogens.md",
-                "linksCollapsed": false,
-                "unlinkedCollapsed": true
-              }
-            }
-          },
           {
             "id": "dc698def70c76caa",
             "type": "leaf",
@@ -183,22 +146,48 @@
               "type": "graph",
               "state": {}
             }
+          },
+          {
+            "id": "c276a164fe7e234c",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency"
+              }
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       },
       {
         "id": "bb25972fbf091ed7",
         "type": "tabs",
-        "dimension": 54.14110429447853,
+        "dimension": 28.51182197496523,
         "children": [
           {
             "id": "d3c78e59a83f4aa0",
             "type": "leaf",
             "state": {
               "type": "outline",
+              "state": {}
+            }
+          }
+        ]
+      },
+      {
+        "id": "bafa114bc4e413bf",
+        "type": "tabs",
+        "dimension": 35.744089012517385,
+        "children": [
+          {
+            "id": "bba4689984c92ddc",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
               "state": {
-                "file": "notes/halogens.md"
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
               }
             }
           }
@@ -206,8 +195,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 240.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -221,43 +209,44 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "310e0e227bd43fab",
+  "active": "81295c5bc1260c47",
   "lastOpenFiles": [
+    "notes/linear factors of quadratic polynomials.md",
+    "notes/solutions of quadratic equations.md",
+    "notes/argand diagrams.md",
+    "notes/complex numbers.md",
+    "notes/CAP4.md",
+    "notes/daily/2023-09-12.md",
+    "notes/beetlejuice.md",
+    "notes/archive/AEold/specialist/lessonnotes/T1W6L2.md",
+    "notes/complex numbers part 2.md",
+    "notes/imaginary numbers.md",
+    "notes/thermal equilibrium.md",
+    "notes/stuff needed to review chem cap4.md",
+    "notes/images/Pasted image 20230912095941.png",
+    "notes/images/Pasted image 20230912095914.png",
+    "notes/archive/AE/CHEMISTRY/gases.md",
+    "notes/latent heat.md",
+    "notes/images/Screen Shot 2023-09-11 at 12.56.36 pm.png",
+    "notes/pearson heat navigation.md",
+    "notes/specificHeatCapacity.md",
+    "notes/archive/AE/PHYSICS/heat.md",
+    "notes/halogens.md",
     "tags/methods.md",
     "tags/physics.md",
     "tags/specialist.md",
     "templates/tags.md",
     "templates/daily.md",
     "templates/post.md",
-    "notes/thermal equilibrium.md",
-    "notes/archive/AE/PHYSICS/heat.md",
     "notes/1.2specificHeatCapacity.md",
-    "notes/latent heat.md",
-    "notes/specificHeatCapacity.md",
-    "notes/stuff needed to review chem cap4.md",
-    "notes/complex numbers part 2.md",
     "notes/images/Screen Shot 2023-09-11 at 12.42.50 pm.png",
     "notes/images/Screen Shot 2023-09-11 at 12.38.12 pm.png",
     "notes/daily/2023-09-11.md",
-    "notes/CAP4.md",
-    "notes/complex numbers.md",
-    "notes/frustrations of time spent on work vs results.md",
     "notes/images/Screen Shot 2023-09-10 at 8.09.49 pm.png",
     "notes/images/Screen Shot 2023-09-10 at 8.09.36 pm.png",
     "notes/images/Screen Shot 2023-09-10 at 8.09.03 pm.png",
-    "notes/daily/2023-09-10.md",
-    "notes/productToSumAndSumToProduct.md",
-    "notes/trighardquestions.md",
-    "notes/daily/2023-09-09.md",
     "notes/images/Screen Shot 2023-09-08 at 8.44.42 pm.png",
-    "notes/archive/AE/CHEMISTRY/lucarelli.md",
-    "notes/daily/2023-09-08.md",
     "notes/images/Screen Shot 2023-09-08 at 12.00.31 pm.png",
-    "notes/images/Screen Shot 2023-09-08 at 11.58.48 am.png",
-    "notes/SIS Hazard Risk and Minimising Risk.md",
-    "notes/archive/AE/CHEMISTRY/empirical formula calcs.md",
-    "notes/七五三.md",
-    "notes/images/Screen Shot 2023-09-07 at 7.49.58 pm.png",
     "templates",
     "tags",
     "private/val/split",
@@ -265,7 +254,6 @@
     "private/val/haven",
     "private/val",
     "private",
-    "notes/images/testok.png",
     "notes/archive/daily",
     "notes/archive/AEold/specialist/lessonnotes",
     "notes/archive/AEold/specialist/feedback",

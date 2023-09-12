@@ -21,3 +21,5 @@ $\Delta=(-5)^2-4 \times 1 \times 7 = -3$ so there are no real solutions.
 nevertheless, the quadratic formula yields $$x= \frac{5\pm \sqrt{ -3 }}{2}$$$$=\frac{5}{2}\pm \frac{\sqrt{ 3 }i}{2}$$
 therefore there are two complex solutions: $$x=\frac{5}{2}+\frac{\sqrt{ 3 }}{2}i \text{ or }x = \frac{5}{2} - \frac{\sqrt{ 3 }}{2}i$$
 > [!note] two complex numbers $z$ and $w$ are **equal** if Re(z) = Re(w) and Im(z) = Im(w)
+
+- you can also [[notes/linear factors of quadratic polynomials|linearly factor quadratic polynomials]]
