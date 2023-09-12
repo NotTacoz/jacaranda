@@ -13,41 +13,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notes/latent heat.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "34b8724747018160",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "notes/latent heat.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "554f2b7956b65afd",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "notes/addition reactions.md",
+                "file": "notes/CAP4.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -121,7 +94,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 215.50271224975586
+    "width": 215.50271224975586,
+    "collapsed": true
   },
   "right": {
     "id": "8bc85ecb066bcf9c",
@@ -183,7 +157,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "notes/addition reactions.md"
+                "file": "notes/CAP4.md"
               }
             }
           }
@@ -200,7 +174,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "notes/addition reactions.md",
+                "file": "notes/CAP4.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -210,7 +184,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 240.5
+    "width": 240.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -224,15 +199,19 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "554f2b7956b65afd",
+  "active": "d037197df6464073",
   "lastOpenFiles": [
-    "notes/complex numbers.md",
+    "notes/beetlejuice.md",
     "notes/argand diagrams.md",
     "notes/solutions of quadratic equations.md",
+    "notes/linear factors of quadratic polynomials.md",
+    "notes/complex numbers.md",
     "notes/conjugate complex numbers and multiplication and division.md",
     "notes/pearson heat navigation.md",
-    "notes/addition reactions.md",
+    "notes/CAP4.md",
     "notes/latent heat.md",
+    "notes/structural isomers dispersion force and boiling points.md",
+    "notes/addition reactions.md",
     "notes/archive/AE/PHYSICS/heat.md",
     "notes/1.2specificHeatCapacity.md",
     "notes/specificHeatCapacity.md",
@@ -240,9 +219,6 @@
     "notes/images/Screen Shot 2023-09-12 at 11.17.22 am.png",
     "notes/daily/2023-09-12.md",
     "notes/stuff needed to review chem cap4.md",
-    "notes/CAP4.md",
-    "notes/linear factors of quadratic polynomials.md",
-    "notes/beetlejuice.md",
     "notes/archive/AEold/specialist/lessonnotes/T1W6L2.md",
     "notes/imaginary numbers.md",
     "notes/images/Pasted image 20230912095941.png",
@@ -255,7 +231,6 @@
     "tags/specialist.md",
     "templates/tags.md",
     "templates/daily.md",
-    "templates/post.md",
     "notes/images/Screen Shot 2023-09-11 at 12.42.50 pm.png",
     "notes/images/Screen Shot 2023-09-11 at 12.38.12 pm.png",
     "notes/images/Screen Shot 2023-09-10 at 8.09.49 pm.png",

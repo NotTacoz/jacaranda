@@ -3,7 +3,9 @@ title: addition reactions
 tags:
   - AE
   - chemistry
-date: 2023-09-12
+  - organicChemistry
+date:
+  - 2023-09-12
 ---
 - hydrogenation
 	- saturation
@@ -20,5 +22,7 @@ date: 2023-09-12
 	- conditions:
 		- catalyst
 		- high pressure temperature
+
+in anki deck now 😆
 
 thanks jonathan 😆

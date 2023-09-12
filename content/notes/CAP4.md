@@ -51,7 +51,7 @@ date: 2023-09-01
 	- 141.  Use IUPAC nomenclature to name straight and simple branched chain alkanes and alkenes (C1 – C8, one double bond per molecule).
 	- 142.  Use IUPAC nomenclature to name straight chained haloalkanes (C1 – C8).
 	- 143.  Draw and name structural isomers of alkanes and alkenes, specifically chain isomers and position isomers.
-- 144.  Draw and name geometric isomers of alkenes, using cis and trans notation.
+- ✅ 144.  Draw and name geometric isomers of alkenes, using cis and trans notation.
 	- geometric isomerism
 		- isomers of alkenes
 	- (?) The structure around the carbon atom in a double bond is a triangular planar
@@ -74,7 +74,7 @@ date: 2023-09-01
 		- hexagonal ring of six carbon atoms, alternating single and double bonds.
 		- benzene has extensive delocalisation of pi electrons.
 			- in benzene, the six pi electrons are not localised within specific double bonds, but delocalised over the entire hexagonal ring. (??)
-- 146.  Explain why alkenes are able to form geometric isomers, whereas alkanes are not.
+- ✅ 146.  Explain why alkenes are able to form geometric isomers, whereas alkanes are not.
 	- free rotation is not possible in double bonds
 
 ### Reactions of Hydrocarbons
@@ -228,7 +228,7 @@ date: 2023-09-01
 	- we know that $\text{reaction rate} = \frac{\text{amount of substance used or produced}}{\text{time taken}}$, and the amount can be volume of gas produced, mass lost, colour change and changes to transparency.
 	- we can graph this against time, to get the reaction rate, which is the gradient (m = rise/run) where time is x value, amount of substance used or produce is y value.
 	- ![[notes/images/Screen Shot 2023-09-08 at 8.44.42 pm.png]]
-- 187.  Describe how to change the rate of a chemical reaction, using changes to reactant concentration, gas pressure, temperature, surface area of solid reactant, or use of a catalyst.
+- ✅ 187.  Describe how to change the rate of a chemical reaction, using changes to reactant concentration, gas pressure, temperature, surface area of solid reactant, or use of a catalyst.
 	- ✅ factors that affect reaction rates are nature of reactants, concentration rate, gas pressure, temperature, surface area of solid reactant, or use of catalyst.
 	- ✅ nature of reactants
 		- reactants requiring smaller amount of energy to break will have higher reaction rate
@@ -240,14 +240,14 @@ date: 2023-09-01
 				- % of collisions remain the same, higher frequency will lead to increase no. of successful collisions between reactants
 		- increasing pressure works a similar way, increasing pressure increases no. of gas particles/molecules in a given volume.
 			- more frequent collisions, and therefore a higher number of successful collisions - increasing reaction rate.
-	- surface area
+	- ✅ surface area
 		- reaction only takes place between particles that collide.
 		- in a **solid**, only the exterior particles are available to react.
 		- by dividing a solid mass into smaller pieces, interior particles are exposed and therefore able to react - total surface area has been increased.
 		- ![[notes/images/Screen Shot 2023-09-08 at 11.58.48 am.png]]![[notes/images/Screen Shot 2023-09-08 at 12.00.31 pm.png]]
 		- increases frequency of collisions.
 			- -> increase in number of successful collisions -> increases reaction rate.
-	- temperature
+	- ✅ temperature
 		- at a given temperature, particles of a substance will have different amounts of kinetic energy. (as **average kinetic energy** determines temperature)
 		- higher temperature, higher average kinetic energy.
 		- more particles will have enough energy to have a successful collision (more particles will have enough energy exceeding the activation energy)
@@ -256,14 +256,14 @@ date: 2023-09-01
 		- therefore will have more collisions/higher frequency.
 			- relatively small increase to the reaction rate compared to the increase in kinetic energy
 		- only particles with the activation energy, or greater will have enough energy to break the bonds of the reactants to have a successful collision.
-	- catalyst
+	- ✅ catalyst
 		- catalyst is a substance that alters rate of reaction without being consumed (or used up) in the reaction
-	- provides alternative pathway for a reaction
-	- positive catalyst means provides easier pathway with **lower activation energy**.
-	- meaning more particles will have sufficient energy for successful collisions.
-		- increases frequency of successful collisions, as percentage of successful collisions is increased.
-		- reaction rate increases.
-- 188.  State that a catalyst is a substance that speeds up a chemical reaction without being consumed.
+		- provides alternative pathway for a reaction
+		- positive catalyst means provides easier pathway with **lower activation energy**.
+		- meaning more particles will have sufficient energy for successful collisions.
+			- increases frequency of successful collisions, as percentage of successful collisions is increased.
+			- reaction rate increases.
+- ✅ 188.  State that a catalyst is a substance that speeds up a chemical reaction without being consumed.
 	- substance that alters rate of reaction without being consumed (or used up) in the reaction
 	- provides alternative pathway for a reaction
 	- positive catalyst means provides easier pathway with **lower activation energy**.
@@ -273,7 +273,7 @@ date: 2023-09-01
 - 189.  _Conduct experimental work safely, competently and methodically in order to collect valid and reliable data to measure the rate of reaction. (SIS)_
 - 190.  _Represent rate of reaction data in tables and graphs, using correct units and symbols, in order to identify trends and any anomalous data. (SIS)_
 - 191.  _Evaluate the effect of measurement error in numerical data. (SIS)_
-- 192.  Explain the factors that affect the rate of reaction using collision theory. 
+- ✅ 192.  Explain the factors that affect the rate of reaction using collision theory. 
 	- FOR A REACTION TO OCCUR:
 		1. REACTING MOLECULES **MUST** COLLIDE WITH EACH OTHER 
 		2. THE COLLISIONS MUST OCCUR WITH **ENOUGH ENERGY** to disrupt bonds in the reactants (KNOWN AS **ACTIVATION ENERGY**, $E_{a}$) 
@@ -288,22 +288,22 @@ date: 2023-09-01
 			- $\therefore$ number of successful collisions/rate of reaction depends on: 
 				- total number of collisions/frequency of collisions 
 				- percentage of collisions that are successful (influenced by activation energy and orientation)
-- 194.  State that the activation energy for a reaction is the minimum amount of energy required for particles to react on collision. 
+- ✅ 194.  State that the activation energy for a reaction is the minimum amount of energy required for particles to react on collision. 
 	- what is activation energy? 
 		- minimum amount of energy required for particles to react on collision.
-- 195.  Describe how the size of the activation energy affects the rate of reaction. 
+- ✅ 195.  Describe how the size of the activation energy affects the rate of reaction. 
 	- the lower the activation energy, the larger number of particles will have enough energy for a successful collision.
-- 196.  Explain how the number and strength of bonds to be broken affects the size of the activation energy. 
+- ✅ 196.  Explain how the number and strength of bonds to be broken affects the size of the activation energy. 
 	- it takes energy to break bonds, so the more bonds there has to break, the larger the activation energy.
-- 197.  Describe and explain the effect of using a catalyst on the rate of reaction using collision theory. 
+- ✅ 197.  Describe and explain the effect of using a catalyst on the rate of reaction using collision theory. 
 	- catalyst is a substance that alters the rate of reaction without being consumed in the reaction 
 	- catalyst works by providing alternative pathway for a reaction 
 	- a positive catalyst provides easier pathway, with a **lower activation energy** 
 		- meaning more particles will have sufficient energy for reaction to occur. 
 		- this increases amount of successful collisions, increasing the rate of reaction.
-- 198.  Draw and interpret energy profile diagrams for catalysed and uncatalysed reactions. 
+- ✅ 198.  Draw and interpret energy profile diagrams for catalysed and uncatalysed reactions. 
 	- reaction pathway is lower in energy profile diagram, see picture below:![](notes/images/Screen%20Shot%202023-08-28%20at%209.15.28%20am.png)
-- 199.  _Justify the use of catalysts in industry, to increase the rate of a reaction that would otherwise be uneconomically slow. (SHE)_
+- ✅ 199.  _Justify the use of catalysts in industry, to increase the rate of a reaction that would otherwise be uneconomically slow. (SHE)_
 	- (extension) homogeneous is gas
 	- (extension) heterogeneous catalyst is preferred
 		- easily separated from products of a reaction

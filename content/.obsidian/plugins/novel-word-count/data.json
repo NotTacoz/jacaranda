@@ -274,21 +274,37 @@
       "modifiedDate": 1694087205642,
       "sizeInBytes": 81
     },
+    "notes/structural isomers dispersion force and boiling points.md": {
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 55,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.18333333333333332,
+      "characterCount": 343,
+      "nonWhitespaceCharacterCount": 287,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1694493378650,
+      "modifiedDate": 1694493992266,
+      "sizeInBytes": 456
+    },
     "notes/addition reactions.md": {
       "isDirectory": false,
       "noteCount": 1,
-      "wordCount": 71,
+      "wordCount": 76,
       "wordCountTowardGoal": 0,
       "wordGoal": null,
-      "pageCount": 0.23666666666666666,
-      "characterCount": 426,
-      "nonWhitespaceCharacterCount": 338,
+      "pageCount": 0.25333333333333335,
+      "characterCount": 447,
+      "nonWhitespaceCharacterCount": 353,
       "linkCount": 0,
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1694492970810,
-      "modifiedDate": 1694493142020,
-      "sizeInBytes": 505
+      "modifiedDate": 1694516777997,
+      "sizeInBytes": 553
     },
     "notes/latent heat.md": {
       "isDirectory": false,
@@ -4805,18 +4821,18 @@
     "notes/CAP4.md": {
       "isDirectory": false,
       "noteCount": 1,
-      "wordCount": 4019,
+      "wordCount": 4033,
       "wordCountTowardGoal": 0,
       "wordGoal": null,
-      "pageCount": 13.396666666666667,
-      "characterCount": 26063,
-      "nonWhitespaceCharacterCount": 21522,
+      "pageCount": 13.443333333333333,
+      "characterCount": 26096,
+      "nonWhitespaceCharacterCount": 21536,
       "linkCount": 7,
       "embedCount": 8,
       "aliases": null,
       "createdDate": 1694087202797,
-      "modifiedDate": 1694479378274,
-      "sizeInBytes": 26293
+      "modifiedDate": 1694519701577,
+      "sizeInBytes": 26354
     },
     "notes/1.2specificHeatCapacity.md": {
       "isDirectory": false,

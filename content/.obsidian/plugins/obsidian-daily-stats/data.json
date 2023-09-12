@@ -84,7 +84,7 @@
     "2023/8/9": 300,
     "2023/8/10": 203,
     "2023/8/11": 576,
-    "2023/8/12": 1437
+    "2023/8/12": 1495
   },
   "todaysWordCount": {
     "notes/CAP4.md": {
@@ -137,7 +137,15 @@
     },
     "notes/addition reactions.md": {
       "initial": 8,
-      "current": 58
+      "current": 63
+    },
+    "notes/geometric isomers.md": {
+      "initial": 9,
+      "current": 57
+    },
+    "notes/structural isomers dispersion force ad boiling points.md": {
+      "initial": 57,
+      "current": 62
     }
   }
 }
