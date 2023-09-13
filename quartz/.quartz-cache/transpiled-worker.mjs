@@ -1771,8 +1771,8 @@ var defaultContentPageLayout = {
     DesktopOnly_default(RecentNotes_default({
       title: "Recent Notes",
       limit: 3,
-      filter: (f) => f.slug.startsWith("notes/") && !f.frontmatter?.noindex && f.frontmatter?.date,
-      linkToMore: "notes/"
+      filter: (f) => f.frontmatter?.date,
+      linkToMore: "tags/ae/"
     }))
   ],
   right: [Graph_default(), Backlinks_default()]
@@ -1788,7 +1788,7 @@ var defaultListPageLayout = {
       title: "Recent Notes",
       limit: 3,
       filter: (f) => f.frontmatter?.date,
-      linkToMore: "notes/"
+      linkToMore: "tags/ae/"
     }))
   ],
   right: []

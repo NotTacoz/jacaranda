@@ -26,8 +26,8 @@ export const defaultContentPageLayout: PageLayout = {
       title: "Recent Notes",
         limit: 3,
         filter: (f) =>
-          f.slug!.startsWith("notes/") && !f.frontmatter?.noindex && f.frontmatter?.date,
-        linkToMore: "notes/" as SimpleSlug,
+          f.frontmatter?.date,
+        linkToMore: "tags/ae/" as SimpleSlug,
     })),
   ],
   right: [Component.Graph(), Component.Backlinks()],
@@ -46,7 +46,7 @@ export const defaultListPageLayout: PageLayout = {
         limit: 3,
         filter: (f) =>
           f.frontmatter?.date,
-        linkToMore: "notes/" as SimpleSlug,
+        linkToMore: "tags/ae/" as SimpleSlug,
     })),
   ],
   right: [],

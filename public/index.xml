@@ -27,7 +27,7 @@
     <title>CAP4</title>
     <link>https://nottacoz.github.io/notes/CAP4</link>
     <guid>https://nottacoz.github.io/notes/CAP4</guid>
-    <description>Topic 4: CARBON CHEMISTRY &amp; ENERGY § Structure &amp; Naming § 135. Explain why carbon is able to form such a diverse range of compounds, using knowledge of bonding capacity.</description>
+    <description>stuff/content not in anki deck § not in anki deck because they are moreso calculations basically the stuff with no ✅ e.g. iupac revision empirical formulae revision Topic 4: CARBON CHEMISTRY &amp; ENERGY § Structure &amp; Naming § ✅ 135.</description>
     <pubDate>Fri, 01 Sep 2023 00:00:00 GMT</pubDate>
   </item><item>
     <title>SIS Hazard Risk and Minimising Risk</title>
@@ -35,6 +35,12 @@
     <guid>https://nottacoz.github.io/notes/SIS-Hazard-Risk-and-Minimising-Risk</guid>
     <description>SIS § Investigating two reactions CaCO3​(s)+2HCl(aq)→CaClaq​(s)+H2​O(l)+CO2​(g) Hazard § potential events that causes harm HCl is corrosive Risk § how likely of the occurrence of event that causes harm Minimise Risk § ?? another 1 § Investigating two reactions Na2​S2​O3​(aq)+2HCl(aq)→2​NaCl(aq)+SO2​(g)+S(s)+H2​O(l) Hazard § 1.</description>
     <pubDate>Thu, 07 Sep 2023 00:00:00 GMT</pubDate>
+  </item><item>
+    <title>addition reactions</title>
+    <link>https://nottacoz.github.io/notes/addition-reactions</link>
+    <guid>https://nottacoz.github.io/notes/addition-reactions</guid>
+    <description> hydrogenation saturation alkene + h2 -&gt; alkane halogenation alkene + halogen -&gt; alkane with new functional group test for alkene double bond (?) conditions: kinetic energy i.</description>
+    <pubDate>Tue, 12 Sep 2023 00:00:00 GMT</pubDate>
   </item><item>
     <title>10 organic chemistry</title>
     <link>https://nottacoz.github.io/notes/archive/10/ORGANIC-CHEMISTRY</link>
@@ -777,7 +783,7 @@
     <title>T1W6L2: Vectors</title>
     <link>https://nottacoz.github.io/notes/archive/AEold/specialist/lessonnotes/T1W6L2</link>
     <guid>https://nottacoz.github.io/notes/archive/AEold/specialist/lessonnotes/T1W6L2</guid>
-    <description> A vector is a quantity with magnitude and direction. e.g. a measurement of distance travelled such as 10km is not a vector quantity. ways of representing vector.</description>
+    <description>vectors § A vector is a quantity with magnitude and direction. e.g. a measurement of distance travelled such as 10km is not a vector quantity. ways of representing vector.</description>
     <pubDate>Thu, 07 Sep 2023 11:46:42 GMT</pubDate>
   </item><item>
     <title>T1W6L3: Vectors Continued</title>
@@ -966,17 +972,35 @@
     <description> Methods Notes Specialist Notes Chemistry Notes Physics Notes Japanese Notes English Notes empty .</description>
     <pubDate>Thu, 07 Sep 2023 11:46:42 GMT</pubDate>
   </item><item>
+    <title>argand diagrams</title>
+    <link>https://nottacoz.github.io/notes/argand-diagrams</link>
+    <guid>https://nottacoz.github.io/notes/argand-diagrams</guid>
+    <description>argand diagrams § complex numbers don’t fit on the real line, but they can be represented using a second axis called the argand diagram ![[notes/images/Pasted image 20230912095941.</description>
+    <pubDate>Tue, 12 Sep 2023 00:00:00 GMT</pubDate>
+  </item><item>
     <title>arithemeticSeries</title>
     <link>https://nottacoz.github.io/notes/arithemeticSeries</link>
     <guid>https://nottacoz.github.io/notes/arithemeticSeries</guid>
     <description>arithmetic series methods establish and use the formula for the sum of the first n terms of an arithmetic sequence see mr chua onenote for more info!!!!!!!!!!!!!!!!!!!!!!!!111111 XDDD summation notation symbol sigma Σ used to express sum of a sequence of numbers.</description>
     <pubDate>Wed, 06 Sep 2023 00:00:00 GMT</pubDate>
   </item><item>
-    <title>complex numers</title>
+    <title>beetlejuice</title>
+    <link>https://nottacoz.github.io/notes/beetlejuice</link>
+    <guid>https://nottacoz.github.io/notes/beetlejuice</guid>
+    <description>film context/basic information § from here Director: Tim Burton Genre: Horror/Comedy/Fantasy/Sci-Fi Awards: Academy Award for Best Make-Up Date of Release: 1988 Producer: Michael Bender, Richard Hashimoto, Larry Wilson Narrator and Point of View: No narrator; the movie’s action is primarily, but not exclusively, from the perspective of the Maitlands.</description>
+    <pubDate>Tue, 12 Sep 2023 00:00:00 GMT</pubDate>
+  </item><item>
+    <title>complex numbers</title>
     <link>https://nottacoz.github.io/notes/complex-numbers</link>
     <guid>https://nottacoz.github.io/notes/complex-numbers</guid>
     <description>complex numbers § for any imaginary numbers bi, (bi)2=−b2 now allow addition and subtraction of imaginary numbers bi and real numbers a: e.g. 2+3i$$$$-6 + 1.</description>
     <pubDate>Thu, 07 Sep 2023 00:00:00 GMT</pubDate>
+  </item><item>
+    <title>complex numbers part 2</title>
+    <link>https://nottacoz.github.io/notes/conjugate-complex-numbers-and-multiplication-and-division</link>
+    <guid>https://nottacoz.github.io/notes/conjugate-complex-numbers-and-multiplication-and-division</guid>
+    <description>how do i multiply? § to find a product (a+bi)(c+di), just expand the brackets the normal way, remembering that i2=−1 (copied word for word from cambridge year 11 textbook 14b summary xd) how do i divide? part 1 § look at c+dia+bi​ it is a bit hard to divide normally, so let us learn about the concept of: conjugate complex numbers! ✨ § what is a complex conjugate!? if z=a+bi, then z=a−bi if we multiply z and z, we get (a+bi)(a−bi)=a2−abi+abi−b2i2=a2+b2 how do i divide? part 2 § c+dia+bi​=c+dia+bi​×c−dic−di​=(c+di)(c−di)(a+bi)(c−di)​=c2+d2(a+bi)(c−di)​ and then simplify :D multiplication inverse § to find z−1, calculate z1​ .</description>
+    <pubDate>Mon, 11 Sep 2023 00:00:00 GMT</pubDate>
   </item><item>
     <title>2023-08-09</title>
     <link>https://nottacoz.github.io/notes/daily/2023-08-09</link>
@@ -1074,6 +1098,30 @@
     <description>Todo § chapter 1.1 notes review q 1-7 set 1 (stawa) chapter 1.2 notes review q 1-10 set 3 (stawa) w/s specific heat capacity thurs: w/s .</description>
     <pubDate>Thu, 07 Sep 2023 00:00:00 GMT</pubDate>
   </item><item>
+    <title>2023-09-09</title>
+    <link>https://nottacoz.github.io/notes/daily/2023-09-09</link>
+    <guid>https://nottacoz.github.io/notes/daily/2023-09-09</guid>
+    <description>Todo § chapter 1.1 notes review q 1-7 set 1 (stawa) chapter 1.2 notes review q 1-10 set 3 (stawa) w/s specific heat capacity thurs: w/s stuff revising § CHEMISTRY ANKI FINISH + ALL CHEMISTRY CONTENT + FIRST REVIEW JAPANESE WRITING + SPEAKING SPECIALIST CONTENT + PRACTICE TEST .</description>
+    <pubDate>Fri, 08 Sep 2023 00:00:00 GMT</pubDate>
+  </item><item>
+    <title>2023-09-10</title>
+    <link>https://nottacoz.github.io/notes/daily/2023-09-10</link>
+    <guid>https://nottacoz.github.io/notes/daily/2023-09-10</guid>
+    <description>Todo § chapter 1.1 notes review q 1-7 set 1 (stawa) chapter 1.2 notes review q 1-10 set 3 (stawa) w/s specific heat capacity thurs: w/s i made like an anki deck for chemistry (not done yet) with all notes, will be working through that this week.</description>
+    <pubDate>Sat, 09 Sep 2023 00:00:00 GMT</pubDate>
+  </item><item>
+    <title>2023-09-11</title>
+    <link>https://nottacoz.github.io/notes/daily/2023-09-11</link>
+    <guid>https://nottacoz.github.io/notes/daily/2023-09-11</guid>
+    <description>Todo § chapter 1.1 notes review q 1-7 set 1 (stawa) chapter 1.2 notes review q 1-10 set 3 (stawa) w/s specific heat capacity thurs: w/s .</description>
+    <pubDate>Sun, 10 Sep 2023 00:00:00 GMT</pubDate>
+  </item><item>
+    <title>2023-09-12</title>
+    <link>https://nottacoz.github.io/notes/daily/2023-09-12</link>
+    <guid>https://nottacoz.github.io/notes/daily/2023-09-12</guid>
+    <description>Todo § chapter 1.1 notes review q 1-7 set 1 (stawa) chapter 1.2 notes review q 1-10 set 3 (stawa) w/s specific heat capacity work on startpage v2 .</description>
+    <pubDate>Mon, 11 Sep 2023 00:00:00 GMT</pubDate>
+  </item><item>
     <title>UCAT</title>
     <link>https://nottacoz.github.io/notes/daily/UCAT</link>
     <guid>https://nottacoz.github.io/notes/daily/UCAT</guid>
@@ -1115,6 +1163,24 @@
     <guid>https://nottacoz.github.io/notes/imaginary-numbers</guid>
     <description>the life of i the struggle to be real § over time we have invented new numbers i isnt real tho :( what are imaginary numbers § start by defining i=−1​ allow multiplication by real numbers e.</description>
     <pubDate>Thu, 07 Sep 2023 00:00:00 GMT</pubDate>
+  </item><item>
+    <title>1.3 latent heat</title>
+    <link>https://nottacoz.github.io/notes/latent-heat</link>
+    <guid>https://nottacoz.github.io/notes/latent-heat</guid>
+    <description>energy &amp; change of state § if water is heated -&gt; temperatures will rise. if enough energy is transferred to the water, the water will boil. latent energy is the energy released or absorbed during a change of state (e.</description>
+    <pubDate>Mon, 11 Sep 2023 00:00:00 GMT</pubDate>
+  </item><item>
+    <title>linear factors of quadratic polynomials</title>
+    <link>https://nottacoz.github.io/notes/linear-factors-of-quadratic-polynomials</link>
+    <guid>https://nottacoz.github.io/notes/linear-factors-of-quadratic-polynomials</guid>
+    <description> you can find solutions of quadratic equations using complex numbers e.g. factorise x2+2x+5, solving x2+2x+5=0 using QF gives −1±2i (simplified) you can give it in the form (x+p)(x+q) where p and q are the solutions to x =(x+1−2i)(x+1+2i) .</description>
+    <pubDate>Tue, 12 Sep 2023 00:00:00 GMT</pubDate>
+  </item><item>
+    <title>pearson heat</title>
+    <link>https://nottacoz.github.io/notes/pearson-heat-navigation</link>
+    <guid>https://nottacoz.github.io/notes/pearson-heat-navigation</guid>
+    <description>Chapter 1: Heating Processes § 1.1: heat 1.2: specificHeatCapacity (teacher notes) 1.2: specificHeatCapacity 1.3: latent heat 1.4: thermal equilibrium .</description>
+    <pubDate>Mon, 11 Sep 2023 00:00:00 GMT</pubDate>
   </item><item>
     <title>physics test feedback</title>
     <link>https://nottacoz.github.io/notes/physics-electricity-test-feedback</link>
@@ -1164,11 +1230,23 @@
     <description> this is the teacher presentation on heat capacity, notes based on pearson can be found here mechanical work and thermal energy § 1st law of thermodynamics state that energy changes from one form to another and the total energy in an isolated system remains constant.</description>
     <pubDate>Wed, 06 Sep 2023 00:00:00 GMT</pubDate>
   </item><item>
+    <title>structural isomers dispersion force and boiling points</title>
+    <link>https://nottacoz.github.io/notes/structural-isomers-dispersion-force-and-boiling-points</link>
+    <guid>https://nottacoz.github.io/notes/structural-isomers-dispersion-force-and-boiling-points</guid>
+    <description>which geometric isomer has higher dispersion forces? § branched isomers have a smaller surface area -&gt; they are more compact -&gt; there is less area of contact between temporary/induced dipoles, and/or molecules -&gt; dispersion force strength decreases -&gt; boiling point decreases cis and trans has same physical properties pretty much.</description>
+    <pubDate>Tue, 12 Sep 2023 00:00:00 GMT</pubDate>
+  </item><item>
     <title>stuff needed to review chem cap4</title>
     <link>https://nottacoz.github.io/notes/stuff-needed-to-review-chem-cap4</link>
     <guid>https://nottacoz.github.io/notes/stuff-needed-to-review-chem-cap4</guid>
     <description> ppm calculations (making it into molL-1 and gL-1 and percentage composition) .</description>
     <pubDate>Fri, 08 Sep 2023 00:00:00 GMT</pubDate>
+  </item><item>
+    <title>thermal equilibrium</title>
+    <link>https://nottacoz.github.io/notes/thermal-equilibrium</link>
+    <guid>https://nottacoz.github.io/notes/thermal-equilibrium</guid>
+    <description>thermal equilibrium § what is thermal equilibrium? when two materials are initially at different temperatures come into contact (or are mixed), thermal energy will transfer from hotter material to the colder one (until both are the same temperature) when both materials end up at the same average temperature, the mixture will have reached thermal equilibrium final temperature is somewhere between the middle of the two original temperatures and depends on relative mass of each material and relative specific heat capacities.</description>
+    <pubDate>Mon, 11 Sep 2023 00:00:00 GMT</pubDate>
   </item><item>
     <title>trighardquestions</title>
     <link>https://nottacoz.github.io/notes/trighardquestions</link>
