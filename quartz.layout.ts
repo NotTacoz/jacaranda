@@ -27,7 +27,7 @@ export const defaultContentPageLayout: PageLayout = {
         limit: 3,
         filter: (f) =>
           f.frontmatter?.date,
-        linkToMore: "tags/ae/" as SimpleSlug,
+        linkToMore: "notes/" as SimpleSlug,
     })),
   ],
   right: [Component.Graph(), Component.Backlinks()],
@@ -46,7 +46,7 @@ export const defaultListPageLayout: PageLayout = {
         limit: 3,
         filter: (f) =>
           f.frontmatter?.date,
-        linkToMore: "tags/ae/" as SimpleSlug,
+        linkToMore: "notes/" as SimpleSlug,
     })),
   ],
   right: [],
