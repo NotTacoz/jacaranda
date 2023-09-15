@@ -9,5 +9,7 @@
   "obsidian-rollover-daily-todos",
   "obsidian-vault-statistics-plugin",
   "obsidian-tagfolder",
-  "templater-obsidian"
+  "templater-obsidian",
+  "obsidian-excalidraw-plugin",
+  "obsidian-hider"
 ]

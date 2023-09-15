@@ -106,5 +106,8 @@
       ],
       "key": "H"
     }
-  ]
+  ],
+  "obsidian-excalidraw-plugin:insert-link-to-element": [],
+  "obsidian-excalidraw-plugin:insert-link": [],
+  "obsidian-excalidraw-plugin:toggle-lock": []
 }

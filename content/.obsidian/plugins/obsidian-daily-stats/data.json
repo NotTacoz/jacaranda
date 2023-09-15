@@ -84,68 +84,39 @@
     "2023/8/9": 300,
     "2023/8/10": 203,
     "2023/8/11": 576,
-    "2023/8/12": 1495
+    "2023/8/12": 1495,
+    "2023/8/13": 50,
+    "2023/8/14": 173,
+    "2023/8/15": 97
   },
   "todaysWordCount": {
-    "notes/CAP4.md": {
-      "initial": 3906,
-      "current": 3905
+    "notes/daily/2023-09-14.md": {
+      "initial": 99,
+      "current": 99
     },
-    "notes/beetlejuice.md": {
-      "initial": 8,
-      "current": 421
+    "notes/archive/AEold/english/feedback.md": {
+      "initial": 134,
+      "current": 133
     },
-    "notes/argand diagrams.md": {
+    "notes/Untitled.md": {
       "initial": 9,
-      "current": 285
+      "current": 40
     },
-    "notes/complex numbers.md": {
-      "initial": 219,
-      "current": 224
-    },
-    "notes/archive/AEold/specialist/lessonnotes/T1W6L2.md": {
-      "initial": 233,
-      "current": 263
-    },
-    "notes/linear factors of quadratic polynomials.md": {
-      "initial": 12,
-      "current": 78
-    },
-    "notes/solutions of quadratic equations.md": {
-      "initial": 144,
-      "current": 157
-    },
-    "notes/conjugate complex numbers.md": {
-      "initial": 39,
-      "current": 44
-    },
-    "notes/conjugate complex numbers and multiplication and division.md": {
-      "initial": 42,
-      "current": 174
-    },
-    "notes/daily/2023-09-12.md": {
-      "initial": 41,
+    "notes/nacl dissolvei n water.md": {
+      "initial": 43,
       "current": 45
     },
-    "notes/latent heat v2.md": {
-      "initial": 9,
-      "current": 18
+    "notes/nacl dissolve in water.md": {
+      "initial": 45,
+      "current": 76
     },
-    "notes/latent heat.md": {
-      "initial": 19,
-      "current": 453
+    "notes/15-09-23 practice questions.md": {
+      "initial": 78,
+      "current": 104
     },
-    "notes/addition reactions.md": {
-      "initial": 8,
-      "current": 63
-    },
-    "notes/geometric isomers.md": {
-      "initial": 9,
-      "current": 57
-    },
-    "notes/structural isomers dispersion force ad boiling points.md": {
-      "initial": 57,
-      "current": 62
+    "notes/daily/2023-09-15.md": {
+      "initial": 24,
+      "current": 31
     }
   }
 }

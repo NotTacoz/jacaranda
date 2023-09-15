@@ -1772,7 +1772,7 @@ var defaultContentPageLayout = {
       title: "Recent Notes",
       limit: 3,
       filter: (f) => f.frontmatter?.date,
-      linkToMore: "tags/ae/"
+      linkToMore: "notes/"
     }))
   ],
   right: [Graph_default(), Backlinks_default()]
@@ -1788,7 +1788,7 @@ var defaultListPageLayout = {
       title: "Recent Notes",
       limit: 3,
       filter: (f) => f.frontmatter?.date,
-      linkToMore: "tags/ae/"
+      linkToMore: "notes/"
     }))
   ],
   right: []

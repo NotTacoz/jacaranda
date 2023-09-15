@@ -4,23 +4,37 @@
     "type": "split",
     "children": [
       {
-        "id": "42cf41de629cef9f",
+        "id": "88105af50bda5634",
         "type": "tabs",
         "children": [
           {
-            "id": "d037197df6464073",
+            "id": "2eef60c1287dc3fa",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notes/CAP4.md",
+                "file": "notes/catalyst.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "375e6e8521e67ad4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "notes/daily/2023-09-15.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -94,8 +108,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 215.50271224975586,
-    "collapsed": true
+    "width": 271.50390243530273
   },
   "right": {
     "id": "8bc85ecb066bcf9c",
@@ -104,7 +117,6 @@
       {
         "id": "f843a14175e799e0",
         "type": "tabs",
-        "dimension": 35.744089012517385,
         "children": [
           {
             "id": "dc698def70c76caa",
@@ -147,34 +159,32 @@
         "currentTab": 2
       },
       {
-        "id": "bb25972fbf091ed7",
+        "id": "b744d65389e1a7c0",
         "type": "tabs",
-        "dimension": 28.51182197496523,
         "children": [
           {
-            "id": "d3c78e59a83f4aa0",
+            "id": "ea5551fd57fee0e7",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "notes/CAP4.md"
+                "file": "notes/daily/2023-09-15.md"
               }
             }
           }
         ]
       },
       {
-        "id": "bafa114bc4e413bf",
+        "id": "84ace3b4dc2574cb",
         "type": "tabs",
-        "dimension": 35.744089012517385,
         "children": [
           {
-            "id": "bba4689984c92ddc",
+            "id": "ccb65a9d592ab7ad",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "notes/CAP4.md",
+                "file": "notes/daily/2023-09-15.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -184,8 +194,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 240.5,
-    "collapsed": true
+    "width": 270.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -196,47 +205,49 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "templater-obsidian:Templater": false
+      "templater-obsidian:Templater": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "d037197df6464073",
+  "active": "375e6e8521e67ad4",
   "lastOpenFiles": [
-    "notes/beetlejuice.md",
-    "notes/argand diagrams.md",
-    "notes/solutions of quadratic equations.md",
-    "notes/linear factors of quadratic polynomials.md",
-    "notes/complex numbers.md",
-    "notes/conjugate complex numbers and multiplication and division.md",
-    "notes/pearson heat navigation.md",
+    "Excalidraw/Drawing 2023-09-15 13.42.11.excalidraw.md",
+    "notes/daily/2023-09-15.md",
+    "notes/15-09-23 practice questions.md",
+    "notes/catalyst.md",
+    "notes/images/Screen Shot 2023-09-15 at 11.57.04 am.png",
     "notes/CAP4.md",
-    "notes/latent heat.md",
-    "notes/structural isomers dispersion force and boiling points.md",
-    "notes/addition reactions.md",
-    "notes/archive/AE/PHYSICS/heat.md",
-    "notes/1.2specificHeatCapacity.md",
-    "notes/specificHeatCapacity.md",
-    "notes/thermal equilibrium.md",
-    "notes/images/Screen Shot 2023-09-12 at 11.17.22 am.png",
+    "Excalidraw/Drawing 2023-09-15 10.02.58.excalidraw.md",
+    "notes/archive/AEold/english/feedback.md",
+    "notes/daily/2023-09-14.md",
+    "Excalidraw/Drawing 2023-09-14 14.47.09.excalidraw.md",
+    "notes/images/Screen Shot 2023-09-14 at 2.53.47 pm.png",
+    "notes/images/Screen Shot 2023-09-14 at 2.51.34 pm.png",
+    "notes/arithemeticSeries.md",
+    "templates/daily.md",
+    "notes/daily/2023-09-01.md",
+    "notes/daily/2023-09-13.md",
     "notes/daily/2023-09-12.md",
-    "notes/stuff needed to review chem cap4.md",
-    "notes/archive/AEold/specialist/lessonnotes/T1W6L2.md",
-    "notes/imaginary numbers.md",
+    "notes/daily/2023-09-11.md",
+    "notes/daily/2023-09-10.md",
+    "notes/daily/2023-09-09.md",
+    "notes/daily/2023-09-08.md",
+    "notes/daily/2023-09-07.md",
+    "notes/daily/2023-09-06.md",
+    "notes/archive/AE/CHEMISTRY/rates of reaction (writing a report).md",
+    "notes/rate of reaction.md",
+    "notes/rate of reaction report actual.md",
+    "Excalidraw/Drawing 2023-09-13 20.56.27.excalidraw.md",
+    "Excalidraw/Drawing 2023-09-13 18.38.50.excalidraw.md",
+    "notes/archive/AE/CHEMISTRY/reactionsParticlesAndCollisions.md",
+    "notes/images/Pasted Image 20230913184250_004.jpg",
+    "Excalidraw",
+    "notes/images/Screen Shot 2023-09-12 at 11.17.22 am.png",
     "notes/images/Pasted image 20230912095941.png",
     "notes/images/Pasted image 20230912095914.png",
-    "notes/archive/AE/CHEMISTRY/gases.md",
     "notes/images/Screen Shot 2023-09-11 at 12.56.36 pm.png",
-    "notes/halogens.md",
-    "tags/methods.md",
-    "tags/physics.md",
-    "tags/specialist.md",
-    "templates/tags.md",
-    "templates/daily.md",
     "notes/images/Screen Shot 2023-09-11 at 12.42.50 pm.png",
     "notes/images/Screen Shot 2023-09-11 at 12.38.12 pm.png",
-    "notes/images/Screen Shot 2023-09-10 at 8.09.49 pm.png",
-    "notes/images/Screen Shot 2023-09-10 at 8.09.36 pm.png",
-    "notes/images/Screen Shot 2023-09-10 at 8.09.03 pm.png",
-    "notes/images/Screen Shot 2023-09-08 at 8.44.42 pm.png",
     "templates",
     "tags",
     "private/val/split",
@@ -246,7 +257,6 @@
     "private",
     "notes/archive/daily",
     "notes/archive/AEold/specialist/lessonnotes",
-    "notes/archive/AEold/specialist/feedback",
     "Untitled.canvas",
     "Untitled 2.canvas",
     "Untitled 1.canvas"

@@ -1,5 +1,5 @@
 ---
-title: Untitled
+title: rate of reaction
 tags:
   - ae
   - ratesOfReaction

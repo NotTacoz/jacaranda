@@ -63,8 +63,8 @@
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1694087203136,
-      "modifiedDate": 1694087203136,
-      "sizeInBytes": 100
+      "modifiedDate": 1694664886307,
+      "sizeInBytes": 96
     },
     "tags/specialist.md": {
       "isDirectory": false,
@@ -145,6 +145,22 @@
       "createdDate": 1694087203136,
       "modifiedDate": 1694087205758,
       "sizeInBytes": 70
+    },
+    "tags/daily.md": {
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 0,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0,
+      "characterCount": 1,
+      "nonWhitespaceCharacterCount": 0,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1694600435941,
+      "modifiedDate": 1694600611027,
+      "sizeInBytes": 133
     },
     "tags/chemistry.md": {
       "isDirectory": false,
@@ -274,53 +290,37 @@
       "modifiedDate": 1694087205642,
       "sizeInBytes": 81
     },
-    "notes/structural isomers dispersion force and boiling points.md": {
+    "notes/15-09-23 practice questions.md": {
       "isDirectory": false,
       "noteCount": 1,
-      "wordCount": 55,
+      "wordCount": 89,
       "wordCountTowardGoal": 0,
       "wordGoal": null,
-      "pageCount": 0.18333333333333332,
-      "characterCount": 343,
-      "nonWhitespaceCharacterCount": 287,
+      "pageCount": 0.2966666666666667,
+      "characterCount": 589,
+      "nonWhitespaceCharacterCount": 495,
       "linkCount": 0,
       "embedCount": 0,
       "aliases": null,
-      "createdDate": 1694493378650,
-      "modifiedDate": 1694493992266,
-      "sizeInBytes": 456
+      "createdDate": 1694743775102,
+      "modifiedDate": 1694744579594,
+      "sizeInBytes": 710
     },
-    "notes/addition reactions.md": {
+    "notes/catalyst.md": {
       "isDirectory": false,
       "noteCount": 1,
-      "wordCount": 76,
+      "wordCount": 103,
       "wordCountTowardGoal": 0,
       "wordGoal": null,
-      "pageCount": 0.25333333333333335,
-      "characterCount": 447,
-      "nonWhitespaceCharacterCount": 353,
+      "pageCount": 0.3433333333333333,
+      "characterCount": 610,
+      "nonWhitespaceCharacterCount": 506,
       "linkCount": 0,
-      "embedCount": 0,
+      "embedCount": 1,
       "aliases": null,
-      "createdDate": 1694492970810,
-      "modifiedDate": 1694516777997,
-      "sizeInBytes": 553
-    },
-    "notes/latent heat.md": {
-      "isDirectory": false,
-      "noteCount": 1,
-      "wordCount": 453,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 1.51,
-      "characterCount": 2697,
-      "nonWhitespaceCharacterCount": 2231,
-      "linkCount": 0,
-      "embedCount": 2,
-      "aliases": null,
-      "createdDate": 1694406726013,
-      "modifiedDate": 1694490225413,
-      "sizeInBytes": 2788
+      "createdDate": 1694673592052,
+      "modifiedDate": 1694675501113,
+      "sizeInBytes": 697
     },
     "notes/七五三.md": {
       "isDirectory": false,
@@ -386,6 +386,22 @@
       "modifiedDate": 1694347902453,
       "sizeInBytes": 184
     },
+    "notes/structural isomers dispersion force and boiling points.md": {
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 55,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.18333333333333332,
+      "characterCount": 343,
+      "nonWhitespaceCharacterCount": 287,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1694493378650,
+      "modifiedDate": 1694493992266,
+      "sizeInBytes": 456
+    },
     "notes/specificHeatCapacity.md": {
       "isDirectory": false,
       "noteCount": 1,
@@ -431,8 +447,8 @@
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1694087203135,
-      "modifiedDate": 1694087205566,
-      "sizeInBytes": 335
+      "modifiedDate": 1694601502131,
+      "sizeInBytes": 343
     },
     "notes/rate of reaction report actual.md": {
       "isDirectory": false,
@@ -546,6 +562,22 @@
       "modifiedDate": 1694485048475,
       "sizeInBytes": 459
     },
+    "notes/latent heat.md": {
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 453,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 1.51,
+      "characterCount": 2697,
+      "nonWhitespaceCharacterCount": 2231,
+      "linkCount": 0,
+      "embedCount": 2,
+      "aliases": null,
+      "createdDate": 1694406726013,
+      "modifiedDate": 1694490225413,
+      "sizeInBytes": 2788
+    },
     "notes/imaginary numbers.md": {
       "isDirectory": false,
       "noteCount": 1,
@@ -562,7 +594,7 @@
       "modifiedDate": 1694087205487,
       "sizeInBytes": 628
     },
-    "notes/images/Screen Shot 2023-09-12 at 11.17.22 am.png": {
+    "notes/images/Screen Shot 2023-09-15 at 11.57.04 am.png": {
       "isDirectory": false,
       "noteCount": 1,
       "wordCount": 0,
@@ -574,9 +606,41 @@
       "linkCount": 0,
       "embedCount": 0,
       "aliases": [],
-      "createdDate": 1694488646087,
-      "modifiedDate": 1694488646087,
-      "sizeInBytes": 377895
+      "createdDate": 1694750226616,
+      "modifiedDate": 1694750226617,
+      "sizeInBytes": 23604
+    },
+    "notes/images/Screen Shot 2023-09-14 at 2.53.47 pm.png": {
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 0,
+      "wordCountTowardGoal": 0,
+      "wordGoal": 0,
+      "pageCount": 0,
+      "characterCount": 0,
+      "nonWhitespaceCharacterCount": 0,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": [],
+      "createdDate": 1694674429301,
+      "modifiedDate": 1694674429302,
+      "sizeInBytes": 75840
+    },
+    "notes/images/Screen Shot 2023-09-14 at 2.51.34 pm.png": {
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 0,
+      "wordCountTowardGoal": 0,
+      "wordGoal": 0,
+      "pageCount": 0,
+      "characterCount": 0,
+      "nonWhitespaceCharacterCount": 0,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": [],
+      "createdDate": 1694674296491,
+      "modifiedDate": 1694674296491,
+      "sizeInBytes": 177827
     },
     "notes/images/testok.png": {
       "isDirectory": false,
@@ -641,6 +705,22 @@
       "createdDate": 1694087203073,
       "modifiedDate": 1694087203091,
       "sizeInBytes": 461784
+    },
+    "notes/images/Screen Shot 2023-09-12 at 11.17.22 am.png": {
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 0,
+      "wordCountTowardGoal": 0,
+      "wordGoal": 0,
+      "pageCount": 0,
+      "characterCount": 0,
+      "nonWhitespaceCharacterCount": 0,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": [],
+      "createdDate": 1694488646087,
+      "modifiedDate": 1694488646087,
+      "sizeInBytes": 377895
     },
     "notes/images/Screen Shot 2023-09-11 at 12.56.36 pm.png": {
       "isDirectory": false,
@@ -1666,6 +1746,22 @@
       "modifiedDate": 1694087202823,
       "sizeInBytes": 794314
     },
+    "notes/images/Pasted image 20230427092439.png": {
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 0,
+      "wordCountTowardGoal": 0,
+      "wordGoal": 0,
+      "pageCount": 0,
+      "characterCount": 0,
+      "nonWhitespaceCharacterCount": 0,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": [],
+      "createdDate": 1694087202817,
+      "modifiedDate": 1694087202817,
+      "sizeInBytes": 53420
+    },
     "notes/images/Pasted image 20230509130147.png": {
       "isDirectory": false,
       "noteCount": 1,
@@ -1713,22 +1809,6 @@
       "createdDate": 1694087202817,
       "modifiedDate": 1694087202817,
       "sizeInBytes": 154589
-    },
-    "notes/images/Pasted image 20230427092439.png": {
-      "isDirectory": false,
-      "noteCount": 1,
-      "wordCount": 0,
-      "wordCountTowardGoal": 0,
-      "wordGoal": 0,
-      "pageCount": 0,
-      "characterCount": 0,
-      "nonWhitespaceCharacterCount": 0,
-      "linkCount": 0,
-      "embedCount": 0,
-      "aliases": [],
-      "createdDate": 1694087202817,
-      "modifiedDate": 1694087202817,
-      "sizeInBytes": 53420
     },
     "notes/images/Pasted image 20230314123757.png": {
       "isDirectory": false,
@@ -1826,6 +1906,22 @@
       "modifiedDate": 1694087202813,
       "sizeInBytes": 23464
     },
+    "notes/images/Pasted Image 20230913184250_004.jpg": {
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 0,
+      "wordCountTowardGoal": 0,
+      "wordGoal": 0,
+      "pageCount": 0,
+      "characterCount": 0,
+      "nonWhitespaceCharacterCount": 0,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": [],
+      "createdDate": 1694601770041,
+      "modifiedDate": 1694601770042,
+      "sizeInBytes": 91145
+    },
     "notes/helloWorld.md": {
       "isDirectory": false,
       "noteCount": 1,
@@ -1890,6 +1986,38 @@
       "modifiedDate": 1694087205292,
       "sizeInBytes": 378
     },
+    "notes/daily/2023-09-15.md": {
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 17,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.056666666666666664,
+      "characterCount": 112,
+      "nonWhitespaceCharacterCount": 93,
+      "linkCount": 0,
+      "embedCount": 1,
+      "aliases": null,
+      "createdDate": 1694744103088,
+      "modifiedDate": 1694750240349,
+      "sizeInBytes": 170
+    },
+    "notes/daily/2023-09-14.md": {
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 104,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.3466666666666667,
+      "characterCount": 505,
+      "nonWhitespaceCharacterCount": 399,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1694664910290,
+      "modifiedDate": 1694742942085,
+      "sizeInBytes": 563
+    },
     "notes/daily/daily.md": {
       "isDirectory": false,
       "noteCount": 1,
@@ -1905,6 +2033,22 @@
       "createdDate": 1694087202812,
       "modifiedDate": 1694087202812,
       "sizeInBytes": 911
+    },
+    "notes/daily/2023-09-13.md": {
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 62,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.20666666666666667,
+      "characterCount": 380,
+      "nonWhitespaceCharacterCount": 300,
+      "linkCount": 3,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1694601818939,
+      "modifiedDate": 1694601883752,
+      "sizeInBytes": 438
     },
     "notes/daily/UCAT.md": {
       "isDirectory": false,
@@ -3314,22 +3458,6 @@
       "modifiedDate": 1694087204481,
       "sizeInBytes": 420
     },
-    "notes/archive/AEold/english/lessonnotes/T2W3L1.md": {
-      "isDirectory": false,
-      "noteCount": 1,
-      "wordCount": 394,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 1.3133333333333332,
-      "characterCount": 3084,
-      "nonWhitespaceCharacterCount": 2334,
-      "linkCount": 0,
-      "embedCount": 0,
-      "aliases": null,
-      "createdDate": 1694087202805,
-      "modifiedDate": 1694087204477,
-      "sizeInBytes": 3130
-    },
     "notes/archive/AEold/english/lessonnotes/T2W3L2.md": {
       "isDirectory": false,
       "noteCount": 1,
@@ -3345,6 +3473,22 @@
       "createdDate": 1694087202805,
       "modifiedDate": 1694087204481,
       "sizeInBytes": 371
+    },
+    "notes/archive/AEold/english/lessonnotes/T2W3L1.md": {
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 394,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 1.3133333333333332,
+      "characterCount": 3084,
+      "nonWhitespaceCharacterCount": 2334,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1694087202805,
+      "modifiedDate": 1694087204477,
+      "sizeInBytes": 3130
     },
     "notes/archive/AEold/english/lessonnotes/T2W1L4.md": {
       "isDirectory": false,
@@ -4018,38 +4162,6 @@
       "modifiedDate": 1694087204216,
       "sizeInBytes": 14719
     },
-    "notes/archive/10/nuclearphysicsidk.md": {
-      "isDirectory": false,
-      "noteCount": 1,
-      "wordCount": 1089,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 3.63,
-      "characterCount": 6693,
-      "nonWhitespaceCharacterCount": 5464,
-      "linkCount": 0,
-      "embedCount": 0,
-      "aliases": null,
-      "createdDate": 1694087202797,
-      "modifiedDate": 1694087203494,
-      "sizeInBytes": 6787
-    },
-    "notes/archive/10/ORGANIC-CHEMISTRY.md": {
-      "isDirectory": false,
-      "noteCount": 1,
-      "wordCount": 2069,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 6.8966666666666665,
-      "characterCount": 13616,
-      "nonWhitespaceCharacterCount": 11219,
-      "linkCount": 1,
-      "embedCount": 1,
-      "aliases": null,
-      "createdDate": 1694087202797,
-      "modifiedDate": 1694087203474,
-      "sizeInBytes": 13753
-    },
     "notes/archive/AE/notes.md": {
       "isDirectory": false,
       "noteCount": 1,
@@ -4633,14 +4745,14 @@
       "wordCountTowardGoal": 0,
       "wordGoal": null,
       "pageCount": 0.6833333333333333,
-      "characterCount": 1406,
+      "characterCount": 1407,
       "nonWhitespaceCharacterCount": 1156,
       "linkCount": 1,
       "embedCount": 2,
       "aliases": null,
       "createdDate": 1694087202798,
-      "modifiedDate": 1694087202798,
-      "sizeInBytes": 1528
+      "modifiedDate": 1694649189933,
+      "sizeInBytes": 1529
     },
     "notes/archive/AE/CHEMISTRY/organicChem.md": {
       "isDirectory": false,
@@ -4671,8 +4783,8 @@
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1694087202798,
-      "modifiedDate": 1694087203573,
-      "sizeInBytes": 1695
+      "modifiedDate": 1694649153286,
+      "sizeInBytes": 1727
     },
     "notes/archive/AE/CHEMISTRY/kineticEnergy.md": {
       "isDirectory": false,
@@ -4802,6 +4914,54 @@
       "modifiedDate": 1694087203497,
       "sizeInBytes": 4949
     },
+    "notes/archive/10/nuclearphysicsidk.md": {
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 1089,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 3.63,
+      "characterCount": 6693,
+      "nonWhitespaceCharacterCount": 5464,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1694087202797,
+      "modifiedDate": 1694087203494,
+      "sizeInBytes": 6787
+    },
+    "notes/archive/10/ORGANIC-CHEMISTRY.md": {
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 2069,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 6.8966666666666665,
+      "characterCount": 13616,
+      "nonWhitespaceCharacterCount": 11219,
+      "linkCount": 1,
+      "embedCount": 1,
+      "aliases": null,
+      "createdDate": 1694087202797,
+      "modifiedDate": 1694087203474,
+      "sizeInBytes": 13753
+    },
+    "notes/addition reactions.md": {
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 76,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.25333333333333335,
+      "characterCount": 447,
+      "nonWhitespaceCharacterCount": 353,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1694492970810,
+      "modifiedDate": 1694516777997,
+      "sizeInBytes": 553
+    },
     "notes/SIS Hazard Risk and Minimising Risk.md": {
       "isDirectory": false,
       "noteCount": 1,
@@ -4821,18 +4981,18 @@
     "notes/CAP4.md": {
       "isDirectory": false,
       "noteCount": 1,
-      "wordCount": 4033,
+      "wordCount": 4049,
       "wordCountTowardGoal": 0,
       "wordGoal": null,
-      "pageCount": 13.443333333333333,
-      "characterCount": 26096,
-      "nonWhitespaceCharacterCount": 21536,
+      "pageCount": 13.496666666666666,
+      "characterCount": 26186,
+      "nonWhitespaceCharacterCount": 21605,
       "linkCount": 7,
       "embedCount": 8,
       "aliases": null,
       "createdDate": 1694087202797,
-      "modifiedDate": 1694519701577,
-      "sizeInBytes": 26354
+      "modifiedDate": 1694649481125,
+      "sizeInBytes": 26444
     },
     "notes/1.2specificHeatCapacity.md": {
       "isDirectory": false,
@@ -4869,18 +5029,98 @@
     "_index.md": {
       "isDirectory": false,
       "noteCount": 1,
-      "wordCount": 23,
+      "wordCount": 28,
       "wordCountTowardGoal": 0,
       "wordGoal": null,
-      "pageCount": 0.07666666666666666,
-      "characterCount": 497,
-      "nonWhitespaceCharacterCount": 471,
-      "linkCount": 3,
+      "pageCount": 0.09333333333333334,
+      "characterCount": 482,
+      "nonWhitespaceCharacterCount": 451,
+      "linkCount": 2,
       "embedCount": 1,
       "aliases": null,
       "createdDate": 1694087202796,
-      "modifiedDate": 1694087203417,
-      "sizeInBytes": 554
+      "modifiedDate": 1694600635064,
+      "sizeInBytes": 539
+    },
+    "Excalidraw/Drawing 2023-09-15 13.42.11.excalidraw.md": {
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 0,
+      "wordCountTowardGoal": 0,
+      "wordGoal": 0,
+      "pageCount": 0,
+      "characterCount": 0,
+      "nonWhitespaceCharacterCount": 0,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": [],
+      "createdDate": 1694756531084,
+      "modifiedDate": 1694756592158,
+      "sizeInBytes": 80704
+    },
+    "Excalidraw/Drawing 2023-09-15 10.02.58.excalidraw.md": {
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 0,
+      "wordCountTowardGoal": 0,
+      "wordGoal": 0,
+      "pageCount": 0,
+      "characterCount": 0,
+      "nonWhitespaceCharacterCount": 0,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": [],
+      "createdDate": 1694743378207,
+      "modifiedDate": 1694743774772,
+      "sizeInBytes": 51463
+    },
+    "Excalidraw/Drawing 2023-09-14 14.47.09.excalidraw.md": {
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 0,
+      "wordCountTowardGoal": 0,
+      "wordGoal": 0,
+      "pageCount": 0,
+      "characterCount": 0,
+      "nonWhitespaceCharacterCount": 0,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": [],
+      "createdDate": 1694674029556,
+      "modifiedDate": 1694676429031,
+      "sizeInBytes": 176587
+    },
+    "Excalidraw/Drawing 2023-09-13 20.56.27.excalidraw.md": {
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 0,
+      "wordCountTowardGoal": 0,
+      "wordGoal": 0,
+      "pageCount": 0,
+      "characterCount": 0,
+      "nonWhitespaceCharacterCount": 0,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": [],
+      "createdDate": 1694609787692,
+      "modifiedDate": 1694609818219,
+      "sizeInBytes": 35899
+    },
+    "Excalidraw/Drawing 2023-09-13 18.38.50.excalidraw.md": {
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 0,
+      "wordCountTowardGoal": 0,
+      "wordGoal": 0,
+      "pageCount": 0,
+      "characterCount": 0,
+      "nonWhitespaceCharacterCount": 0,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": [],
+      "createdDate": 1694601530590,
+      "modifiedDate": 1694601780578,
+      "sizeInBytes": 17957
     }
   }
 }

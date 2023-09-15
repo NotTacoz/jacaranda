@@ -13,6 +13,7 @@ date: 2023-09-01
 - e.g.
 	- iupac revision
 	- empirical formulae revision
+- MAKE SURE YOU KNOW THE METHOD FOR THE TWO EXPERIMENTS YOU DID IN CLASS!!!!
 
 ## **Topic 4: CARBON CHEMISTRY & ENERGY**
 
@@ -47,7 +48,7 @@ date: 2023-09-01
 - ✅ 140.  Describe hydrocarbons as saturated or unsaturated, and explain the difference between these terms. 
 	- saturated hydrocarbons are hydrocarbons which only contains singular bonds. 
 	- ie all cycloalkanes and alkanes are saturated, cycloalkenes, alkene and alkyne are not saturated, and hence called unsaturated
-- iupac practice, no notes, just get better at naming and recognising through practice
+- REVISED iupac practice, no notes, just get better at naming and recognising through practice
 	- 141.  Use IUPAC nomenclature to name straight and simple branched chain alkanes and alkenes (C1 – C8, one double bond per molecule).
 	- 142.  Use IUPAC nomenclature to name straight chained haloalkanes (C1 – C8).
 	- 143.  Draw and name structural isomers of alkanes and alkenes, specifically chain isomers and position isomers.
@@ -154,11 +155,11 @@ date: 2023-09-01
 		- combustion of sulphur creates emission of sulphur dioxide; which is a respiratory irritant and leads to acid rain.
 - calculations stuff
 	- 159.  Calculate percentage composition of a hydrocarbon from the relative atomic masses of the constituent species.
-	- you will be given a table, with isotopes and their relative abundance.
-	- relative atomic mass = $\frac{\text{{neutron}} \times \text{\% composition (do this for all of em)} }{100}$
-	- if you want to calculate the percentage composition, percentage composition (in %) $=\frac{\text{mass}}{\text{total mass}} \times 100$ 
-		- [source](https://youtu.be/bGmbyztdCHE?si=pzcGMGuyJg097get)
-	- **idk if this is correct, I dont remember revising this in class so i am lost :(**
+		- you will be given a table, with isotopes and their relative abundance.
+		- relative atomic mass = $\frac{\text{{neutron}} \times \text{\% composition (do this for all of em)} }{100}$
+		- if you want to calculate the percentage composition, percentage composition (in %) $=\frac{\text{mass}}{\text{total mass}} \times 100$ 
+			- [source](https://youtu.be/bGmbyztdCHE?si=pzcGMGuyJg097get)
+		- **idk if this is correct, I dont remember revising this in class so i am lost :(**
 	- 160.  Use the mole concept and the law of conservation of mass to calculate quantities of reactants and products in a chemical reaction.
 	- 161.  Identify and calculate empirical formulae for hydrocarbons using percentage composition data and combustion analysis data, and relate this to the molecular formulae.
 	- 162.  Use molecular mass and empirical formulae calculations to establish molecular structure.

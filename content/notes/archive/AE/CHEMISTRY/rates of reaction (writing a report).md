@@ -36,6 +36,6 @@ this is for writing a report
 	- systematic
 		- loss of gas - gas is lost immediately, human reaction time is not fast enough to put it on immediately ;-; (not me my valorant 2ms reaction time is fast enough to do it)
 			- this reduces volume of carbon dioxide collected
-		- use gas syringe :)
+			- use gas syringe :)
 	- random
 		- surface area of marble chips
