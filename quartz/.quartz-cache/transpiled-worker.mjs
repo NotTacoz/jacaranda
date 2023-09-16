@@ -1651,7 +1651,7 @@ var Footer_default = /* @__PURE__ */ __name((opts) => {
         year
       ] }),
       /* @__PURE__ */ jsx24("ul", { children: Object.entries(links).map(([text, link]) => /* @__PURE__ */ jsx24("li", { children: /* @__PURE__ */ jsx24("a", { href: link, children: text }) })) }),
-      /* @__PURE__ */ jsx24("img", { src: "https://visitor-badge.laobi.icu/badge?page_id=NotTacoz.NotTacoz" })
+      /* @__PURE__ */ jsx24("img", { src: "https://moe-counter.glitch.me/get/@NotTacoz" })
     ] });
   }
   __name(Footer, "Footer");

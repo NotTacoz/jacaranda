@@ -23,7 +23,7 @@ export default ((opts?: Options) => {
             </li>
           ))}
         </ul>
-        <img src="https://visitor-badge.laobi.icu/badge?page_id=NotTacoz.NotTacoz" />
+        <img src="https://moe-counter.glitch.me/get/@NotTacoz" />
       </footer>
     )
   }

@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "88105af50bda5634",
+        "id": "9ff2b9d5559da410",
         "type": "tabs",
         "children": [
           {
-            "id": "2eef60c1287dc3fa",
+            "id": "3a509a298ce5cda9",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notes/catalyst.md",
+                "file": "notes/beetlejuice.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -21,12 +21,12 @@
             }
           },
           {
-            "id": "375e6e8521e67ad4",
+            "id": "3ee193891deee42f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notes/daily/2023-09-15.md",
+                "file": "notes/spec todo 1.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -168,7 +168,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "notes/daily/2023-09-15.md"
+                "file": "notes/spec todo 1.md"
               }
             }
           }
@@ -184,7 +184,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "notes/daily/2023-09-15.md",
+                "file": "notes/spec todo 1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -209,12 +209,16 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "375e6e8521e67ad4",
+  "active": "3ee193891deee42f",
   "lastOpenFiles": [
-    "Excalidraw/Drawing 2023-09-15 13.42.11.excalidraw.md",
-    "notes/daily/2023-09-15.md",
+    "notes/beetlejuice.md",
+    "notes/spec todo 1.md",
+    "_index.md",
     "notes/15-09-23 practice questions.md",
+    "notes/archive/AE/METHODS/indexLaws.md",
     "notes/catalyst.md",
+    "notes/daily/2023-09-15.md",
+    "Excalidraw/Drawing 2023-09-15 13.42.11.excalidraw.md",
     "notes/images/Screen Shot 2023-09-15 at 11.57.04 am.png",
     "notes/CAP4.md",
     "Excalidraw/Drawing 2023-09-15 10.02.58.excalidraw.md",
@@ -236,10 +240,6 @@
     "notes/daily/2023-09-06.md",
     "notes/archive/AE/CHEMISTRY/rates of reaction (writing a report).md",
     "notes/rate of reaction.md",
-    "notes/rate of reaction report actual.md",
-    "Excalidraw/Drawing 2023-09-13 20.56.27.excalidraw.md",
-    "Excalidraw/Drawing 2023-09-13 18.38.50.excalidraw.md",
-    "notes/archive/AE/CHEMISTRY/reactionsParticlesAndCollisions.md",
     "notes/images/Pasted Image 20230913184250_004.jpg",
     "Excalidraw",
     "notes/images/Screen Shot 2023-09-12 at 11.17.22 am.png",

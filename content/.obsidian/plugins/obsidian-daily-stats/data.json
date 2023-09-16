@@ -87,36 +87,21 @@
     "2023/8/12": 1495,
     "2023/8/13": 50,
     "2023/8/14": 173,
-    "2023/8/15": 97
+    "2023/8/15": 97,
+    "2023/8/16": 72
   },
   "todaysWordCount": {
-    "notes/daily/2023-09-14.md": {
-      "initial": 99,
-      "current": 99
+    "_index.md": {
+      "initial": 74,
+      "current": 74
     },
-    "notes/archive/AEold/english/feedback.md": {
-      "initial": 134,
-      "current": 133
-    },
-    "notes/Untitled.md": {
+    "notes/spec todo.md": {
       "initial": 9,
-      "current": 40
+      "current": 10
     },
-    "notes/nacl dissolvei n water.md": {
-      "initial": 43,
-      "current": 45
-    },
-    "notes/nacl dissolve in water.md": {
-      "initial": 45,
-      "current": 76
-    },
-    "notes/15-09-23 practice questions.md": {
-      "initial": 78,
-      "current": 104
-    },
-    "notes/daily/2023-09-15.md": {
-      "initial": 24,
-      "current": 31
+    "notes/spec todo 1.md": {
+      "initial": 11,
+      "current": 82
     }
   }
 }

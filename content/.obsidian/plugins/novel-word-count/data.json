@@ -290,6 +290,22 @@
       "modifiedDate": 1694087205642,
       "sizeInBytes": 81
     },
+    "notes/spec todo 1.md": {
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 88,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.29333333333333333,
+      "characterCount": 486,
+      "nonWhitespaceCharacterCount": 393,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1694868182205,
+      "modifiedDate": 1694868328401,
+      "sizeInBytes": 555
+    },
     "notes/15-09-23 practice questions.md": {
       "isDirectory": false,
       "noteCount": 1,
@@ -5029,18 +5045,18 @@
     "_index.md": {
       "isDirectory": false,
       "noteCount": 1,
-      "wordCount": 28,
+      "wordCount": 22,
       "wordCountTowardGoal": 0,
       "wordGoal": null,
-      "pageCount": 0.09333333333333334,
-      "characterCount": 482,
-      "nonWhitespaceCharacterCount": 451,
+      "pageCount": 0.07333333333333333,
+      "characterCount": 457,
+      "nonWhitespaceCharacterCount": 434,
       "linkCount": 2,
       "embedCount": 1,
       "aliases": null,
       "createdDate": 1694087202796,
-      "modifiedDate": 1694600635064,
-      "sizeInBytes": 539
+      "modifiedDate": 1694834306623,
+      "sizeInBytes": 514
     },
     "Excalidraw/Drawing 2023-09-15 13.42.11.excalidraw.md": {
       "isDirectory": false,
