@@ -290,21 +290,53 @@
       "modifiedDate": 1694087205642,
       "sizeInBytes": 81
     },
+    "notes/english composing plan.md": {
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 193,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.6433333333333333,
+      "characterCount": 1747,
+      "nonWhitespaceCharacterCount": 1216,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1695003321084,
+      "modifiedDate": 1695003744874,
+      "sizeInBytes": 1840
+    },
+    "notes/mandelbrot set.md": {
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 162,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.54,
+      "characterCount": 960,
+      "nonWhitespaceCharacterCount": 789,
+      "linkCount": 2,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1694998762858,
+      "modifiedDate": 1695002215994,
+      "sizeInBytes": 1053
+    },
     "notes/spec todo 1.md": {
       "isDirectory": false,
       "noteCount": 1,
-      "wordCount": 88,
+      "wordCount": 141,
       "wordCountTowardGoal": 0,
       "wordGoal": null,
-      "pageCount": 0.29333333333333333,
-      "characterCount": 486,
-      "nonWhitespaceCharacterCount": 393,
+      "pageCount": 0.47,
+      "characterCount": 724,
+      "nonWhitespaceCharacterCount": 577,
       "linkCount": 0,
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1694868182205,
-      "modifiedDate": 1694868328401,
-      "sizeInBytes": 555
+      "modifiedDate": 1694923902996,
+      "sizeInBytes": 793
     },
     "notes/15-09-23 practice questions.md": {
       "isDirectory": false,
@@ -2431,7 +2463,7 @@
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1694087202811,
-      "modifiedDate": 1694485836676,
+      "modifiedDate": 1695002198102,
       "sizeInBytes": 1359
     },
     "notes/beetlejuice.md": {
@@ -5057,6 +5089,22 @@
       "createdDate": 1694087202796,
       "modifiedDate": 1694834306623,
       "sizeInBytes": 514
+    },
+    "Excalidraw/Drawing 2023-09-18 09.58.07.excalidraw.md": {
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 0,
+      "wordCountTowardGoal": 0,
+      "wordGoal": 0,
+      "pageCount": 0,
+      "characterCount": 0,
+      "nonWhitespaceCharacterCount": 0,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": [],
+      "createdDate": 1695002287272,
+      "modifiedDate": 1695002293191,
+      "sizeInBytes": 5016
     },
     "Excalidraw/Drawing 2023-09-15 13.42.11.excalidraw.md": {
       "isDirectory": false,

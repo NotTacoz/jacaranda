@@ -88,20 +88,26 @@
     "2023/8/13": 50,
     "2023/8/14": 173,
     "2023/8/15": 97,
-    "2023/8/16": 72
+    "2023/8/16": 86,
+    "2023/8/17": 25,
+    "2023/8/18": 334
   },
   "todaysWordCount": {
-    "_index.md": {
-      "initial": 74,
-      "current": 74
+    "notes/Untitled.md": {
+      "initial": 7,
+      "current": 172
     },
-    "notes/spec todo.md": {
-      "initial": 9,
-      "current": 10
+    "notes/mandelbrot set.md": {
+      "initial": 174,
+      "current": 181
     },
-    "notes/spec todo 1.md": {
-      "initial": 11,
-      "current": 82
+    "notes/complex numbers.md": {
+      "initial": 230,
+      "current": 230
+    },
+    "notes/english composing plan.md": {
+      "initial": 10,
+      "current": 172
     }
   }
 }

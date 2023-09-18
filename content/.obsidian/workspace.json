@@ -4,16 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "9ff2b9d5559da410",
+        "id": "d0113625c1bfec72",
         "type": "tabs",
         "children": [
           {
-            "id": "3a509a298ce5cda9",
+            "id": "57578ab91bf8c4a6",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "0fc928e6109a6a55",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notes/beetlejuice.md",
+                "file": "notes/argand diagrams.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -21,12 +29,12 @@
             }
           },
           {
-            "id": "3ee193891deee42f",
+            "id": "cbee7c75377e1b2b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notes/spec todo 1.md",
+                "file": "notes/english composing plan.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -34,7 +42,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -167,9 +175,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "notes/spec todo 1.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -184,7 +190,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "notes/spec todo 1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -209,10 +214,15 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "3ee193891deee42f",
+  "active": "2ff833ea4b32786a",
   "lastOpenFiles": [
-    "notes/beetlejuice.md",
+    "notes/english composing plan.md",
+    "notes/argand diagrams.md",
+    "Excalidraw/Drawing 2023-09-18 09.58.07.excalidraw.md",
+    "notes/mandelbrot set.md",
+    "notes/complex numbers.md",
     "notes/spec todo 1.md",
+    "notes/beetlejuice.md",
     "_index.md",
     "notes/15-09-23 practice questions.md",
     "notes/archive/AE/METHODS/indexLaws.md",
@@ -235,11 +245,6 @@
     "notes/daily/2023-09-11.md",
     "notes/daily/2023-09-10.md",
     "notes/daily/2023-09-09.md",
-    "notes/daily/2023-09-08.md",
-    "notes/daily/2023-09-07.md",
-    "notes/daily/2023-09-06.md",
-    "notes/archive/AE/CHEMISTRY/rates of reaction (writing a report).md",
-    "notes/rate of reaction.md",
     "notes/images/Pasted Image 20230913184250_004.jpg",
     "Excalidraw",
     "notes/images/Screen Shot 2023-09-12 at 11.17.22 am.png",
