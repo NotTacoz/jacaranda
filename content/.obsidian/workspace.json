@@ -40,9 +40,22 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "32394f9a8d2d573a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "notes/mandelbrot set.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -175,7 +188,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "notes/mandelbrot set.md"
+              }
             }
           }
         ]
@@ -190,6 +205,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "notes/mandelbrot set.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -214,17 +230,20 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "2ff833ea4b32786a",
+  "active": "32394f9a8d2d573a",
   "lastOpenFiles": [
+    "notes/chemistry cap4 feedback.md",
+    "notes/spec todo 1.md",
+    "notes/images/Screen Shot 2023-09-18 at 7.18.45 pm.png",
+    "notes/images/Screen Shot 2023-09-18 at 7.17.37 pm.png",
     "notes/english composing plan.md",
+    "notes/15-09-23 practice questions.md",
+    "notes/complex numbers.md",
     "notes/argand diagrams.md",
     "Excalidraw/Drawing 2023-09-18 09.58.07.excalidraw.md",
     "notes/mandelbrot set.md",
-    "notes/complex numbers.md",
-    "notes/spec todo 1.md",
     "notes/beetlejuice.md",
     "_index.md",
-    "notes/15-09-23 practice questions.md",
     "notes/archive/AE/METHODS/indexLaws.md",
     "notes/catalyst.md",
     "notes/daily/2023-09-15.md",
@@ -243,16 +262,12 @@
     "notes/daily/2023-09-13.md",
     "notes/daily/2023-09-12.md",
     "notes/daily/2023-09-11.md",
-    "notes/daily/2023-09-10.md",
-    "notes/daily/2023-09-09.md",
     "notes/images/Pasted Image 20230913184250_004.jpg",
     "Excalidraw",
     "notes/images/Screen Shot 2023-09-12 at 11.17.22 am.png",
     "notes/images/Pasted image 20230912095941.png",
     "notes/images/Pasted image 20230912095914.png",
     "notes/images/Screen Shot 2023-09-11 at 12.56.36 pm.png",
-    "notes/images/Screen Shot 2023-09-11 at 12.42.50 pm.png",
-    "notes/images/Screen Shot 2023-09-11 at 12.38.12 pm.png",
     "templates",
     "tags",
     "private/val/split",

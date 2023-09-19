@@ -90,7 +90,7 @@
     "2023/8/15": 97,
     "2023/8/16": 86,
     "2023/8/17": 25,
-    "2023/8/18": 334
+    "2023/8/18": 535
   },
   "todaysWordCount": {
     "notes/Untitled.md": {
@@ -108,6 +108,14 @@
     "notes/english composing plan.md": {
       "initial": 10,
       "current": 172
+    },
+    "notes/chemistry cap4 feedback.md": {
+      "initial": 10,
+      "current": 127
+    },
+    "notes/spec todo 1.md": {
+      "initial": 121,
+      "current": 205
     }
   }
 }

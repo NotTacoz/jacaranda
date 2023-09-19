@@ -290,6 +290,22 @@
       "modifiedDate": 1694087205642,
       "sizeInBytes": 81
     },
+    "notes/chemistry cap4 feedback.md": {
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 126,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.42,
+      "characterCount": 694,
+      "nonWhitespaceCharacterCount": 567,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1695015656242,
+      "modifiedDate": 1695017018213,
+      "sizeInBytes": 798
+    },
     "notes/english composing plan.md": {
       "isDirectory": false,
       "noteCount": 1,
@@ -325,18 +341,18 @@
     "notes/spec todo 1.md": {
       "isDirectory": false,
       "noteCount": 1,
-      "wordCount": 141,
+      "wordCount": 216,
       "wordCountTowardGoal": 0,
       "wordGoal": null,
-      "pageCount": 0.47,
-      "characterCount": 724,
-      "nonWhitespaceCharacterCount": 577,
+      "pageCount": 0.72,
+      "characterCount": 1151,
+      "nonWhitespaceCharacterCount": 923,
       "linkCount": 0,
-      "embedCount": 0,
+      "embedCount": 1,
       "aliases": null,
       "createdDate": 1694868182205,
-      "modifiedDate": 1694923902996,
-      "sizeInBytes": 793
+      "modifiedDate": 1695036086140,
+      "sizeInBytes": 1221
     },
     "notes/15-09-23 practice questions.md": {
       "isDirectory": false,
@@ -641,6 +657,38 @@
       "createdDate": 1694087203134,
       "modifiedDate": 1694087205487,
       "sizeInBytes": 628
+    },
+    "notes/images/Screen Shot 2023-09-18 at 7.18.45 pm.png": {
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 0,
+      "wordCountTowardGoal": 0,
+      "wordGoal": 0,
+      "pageCount": 0,
+      "characterCount": 0,
+      "nonWhitespaceCharacterCount": 0,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": [],
+      "createdDate": 1695035928201,
+      "modifiedDate": 1695035928201,
+      "sizeInBytes": 130748
+    },
+    "notes/images/Screen Shot 2023-09-18 at 7.17.37 pm.png": {
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 0,
+      "wordCountTowardGoal": 0,
+      "wordGoal": 0,
+      "pageCount": 0,
+      "characterCount": 0,
+      "nonWhitespaceCharacterCount": 0,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": [],
+      "createdDate": 1695035860170,
+      "modifiedDate": 1695035860170,
+      "sizeInBytes": 518493
     },
     "notes/images/Screen Shot 2023-09-15 at 11.57.04 am.png": {
       "isDirectory": false,
