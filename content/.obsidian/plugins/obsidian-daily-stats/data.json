@@ -90,32 +90,14 @@
     "2023/8/15": 97,
     "2023/8/16": 86,
     "2023/8/17": 25,
-    "2023/8/18": 535
+    "2023/8/18": 535,
+    "2023/8/19": 0,
+    "2023/8/20": 0
   },
   "todaysWordCount": {
-    "notes/Untitled.md": {
-      "initial": 7,
-      "current": 172
-    },
-    "notes/mandelbrot set.md": {
-      "initial": 174,
-      "current": 181
-    },
-    "notes/complex numbers.md": {
-      "initial": 230,
-      "current": 230
-    },
     "notes/english composing plan.md": {
-      "initial": 10,
+      "initial": 173,
       "current": 172
-    },
-    "notes/chemistry cap4 feedback.md": {
-      "initial": 10,
-      "current": 127
-    },
-    "notes/spec todo 1.md": {
-      "initial": 121,
-      "current": 205
     }
   }
 }
