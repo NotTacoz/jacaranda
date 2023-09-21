@@ -92,12 +92,13 @@
     "2023/8/17": 25,
     "2023/8/18": 535,
     "2023/8/19": 0,
-    "2023/8/20": 0
+    "2023/8/20": 173,
+    "2023/8/21": 4
   },
   "todaysWordCount": {
-    "notes/english composing plan.md": {
-      "initial": 173,
-      "current": 172
+    "notes/spec todo 1.md": {
+      "initial": 278,
+      "current": 282
     }
   }
 }

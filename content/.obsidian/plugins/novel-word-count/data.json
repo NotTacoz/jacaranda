@@ -290,6 +290,22 @@
       "modifiedDate": 1694087205642,
       "sizeInBytes": 81
     },
+    "notes/(spec) trig revision.md": {
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 93,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.31,
+      "characterCount": 573,
+      "nonWhitespaceCharacterCount": 473,
+      "linkCount": 0,
+      "embedCount": 1,
+      "aliases": null,
+      "createdDate": 1695188435571,
+      "modifiedDate": 1695189102538,
+      "sizeInBytes": 670
+    },
     "notes/chemistry cap4 feedback.md": {
       "isDirectory": false,
       "noteCount": 1,
@@ -341,18 +357,18 @@
     "notes/spec todo 1.md": {
       "isDirectory": false,
       "noteCount": 1,
-      "wordCount": 216,
+      "wordCount": 271,
       "wordCountTowardGoal": 0,
       "wordGoal": null,
-      "pageCount": 0.72,
-      "characterCount": 1151,
-      "nonWhitespaceCharacterCount": 923,
-      "linkCount": 0,
-      "embedCount": 1,
+      "pageCount": 0.9033333333333333,
+      "characterCount": 1647,
+      "nonWhitespaceCharacterCount": 1365,
+      "linkCount": 4,
+      "embedCount": 2,
       "aliases": null,
       "createdDate": 1694868182205,
-      "modifiedDate": 1695036086140,
-      "sizeInBytes": 1221
+      "modifiedDate": 1695269578405,
+      "sizeInBytes": 1767
     },
     "notes/15-09-23 practice questions.md": {
       "isDirectory": false,
@@ -657,6 +673,38 @@
       "createdDate": 1694087203134,
       "modifiedDate": 1694087205487,
       "sizeInBytes": 628
+    },
+    "notes/images/Screen Shot 2023-09-20 at 7.55.40 pm.png": {
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 0,
+      "wordCountTowardGoal": 0,
+      "wordGoal": 0,
+      "pageCount": 0,
+      "characterCount": 0,
+      "nonWhitespaceCharacterCount": 0,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": [],
+      "createdDate": 1695210944467,
+      "modifiedDate": 1695210944467,
+      "sizeInBytes": 283888
+    },
+    "notes/images/Screen Shot 2023-09-20 at 1.43.00 pm.png": {
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 0,
+      "wordCountTowardGoal": 0,
+      "wordGoal": 0,
+      "pageCount": 0,
+      "characterCount": 0,
+      "nonWhitespaceCharacterCount": 0,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": [],
+      "createdDate": 1695188582587,
+      "modifiedDate": 1695188582587,
+      "sizeInBytes": 258812
     },
     "notes/images/Screen Shot 2023-09-18 at 7.18.45 pm.png": {
       "isDirectory": false,
@@ -5137,6 +5185,22 @@
       "createdDate": 1694087202796,
       "modifiedDate": 1694834306623,
       "sizeInBytes": 514
+    },
+    "Excalidraw/Drawing 2023-09-20 13.41.44.excalidraw.md": {
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 0,
+      "wordCountTowardGoal": 0,
+      "wordGoal": 0,
+      "pageCount": 0,
+      "characterCount": 0,
+      "nonWhitespaceCharacterCount": 0,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": [],
+      "createdDate": 1695188504808,
+      "modifiedDate": 1695188581195,
+      "sizeInBytes": 95125
     },
     "Excalidraw/Drawing 2023-09-18 09.58.07.excalidraw.md": {
       "isDirectory": false,

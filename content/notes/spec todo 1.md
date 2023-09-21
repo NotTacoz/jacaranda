@@ -3,11 +3,20 @@ title: spec todo
 tags:
   - AE
   - specialist
+  - trigonometry
+  - matrices
+  - inductionProofs
 date: 2023-09-16
 ---
-- things i need to revise for before friday's trig, matrices, proof by inductrion test
-
+- things i need to revise for before friday's [[notes/archive/AE/SPECIALIST/trigonometry|trigonometry]], [[notes/archive/AE/SPECIALIST/matrices|matrices]], [[notes/archive/AE/SPECIALIST/inductionProof|proof by induction]] test
+the revising lesson for [[notes/(spec) trig revision|(spec) trig revision]]
 ## review:
+### pmod 2022 test 4 matrices and trig
+- [x] get this checked![[notes/images/Screen Shot 2023-09-20 at 7.55.40 pm.png|500]]
+### onenote revision stuff:
+- [x] from doing the practice revision stuff on onenote
+- [x] remember +- when squaring!!!
+- [x] ask about question 4a chapter 9
 ### pmod 2020 test 3 matrices and trig
 - [x] 2.2.3 matrices,  
 - [x] 2.1.7 general solution, 

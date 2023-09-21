@@ -47,7 +47,20 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notes/english composing plan.md",
+                "file": "notes/spec todo 1.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "70ccb9ac9fa739f1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "notes/spec todo 1.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -55,7 +68,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -189,7 +202,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "notes/english composing plan.md"
+                "file": "notes/spec todo 1.md"
               }
             }
           }
@@ -205,7 +218,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "notes/english composing plan.md",
+                "file": "notes/spec todo 1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -230,9 +243,14 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "32394f9a8d2d573a",
+  "active": "70ccb9ac9fa739f1",
   "lastOpenFiles": [
+    "notes/images/Screen Shot 2023-09-20 at 7.55.40 pm.png",
+    "notes/(spec) trig revision.md",
     "notes/spec todo 1.md",
+    "notes/images/Screen Shot 2023-09-20 at 1.43.00 pm.png",
+    "notes/archive/AEold/subsections/spec.md",
+    "Excalidraw/Drawing 2023-09-20 13.41.44.excalidraw.md",
     "notes/english composing plan.md",
     "Excalidraw/Drawing 2023-09-13 18.38.50.excalidraw.md",
     "notes/CAP4.md",
@@ -259,16 +277,11 @@
     "notes/images/Screen Shot 2023-09-14 at 2.51.34 pm.png",
     "notes/arithemeticSeries.md",
     "templates/daily.md",
-    "notes/daily/2023-09-01.md",
-    "notes/daily/2023-09-13.md",
-    "notes/daily/2023-09-12.md",
-    "notes/daily/2023-09-11.md",
     "notes/images/Pasted Image 20230913184250_004.jpg",
     "Excalidraw",
     "notes/images/Screen Shot 2023-09-12 at 11.17.22 am.png",
     "notes/images/Pasted image 20230912095941.png",
     "notes/images/Pasted image 20230912095914.png",
-    "notes/images/Screen Shot 2023-09-11 at 12.56.36 pm.png",
     "templates",
     "tags",
     "private/val/split",
