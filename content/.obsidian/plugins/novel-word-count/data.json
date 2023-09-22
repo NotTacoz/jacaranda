@@ -290,6 +290,22 @@
       "modifiedDate": 1694087205642,
       "sizeInBytes": 81
     },
+    "notes/CAP5.md": {
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 4590,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 15.3,
+      "characterCount": 29418,
+      "nonWhitespaceCharacterCount": 24239,
+      "linkCount": 9,
+      "embedCount": 8,
+      "aliases": null,
+      "createdDate": 1695278348727,
+      "modifiedDate": 1695350198630,
+      "sizeInBytes": 29695
+    },
     "notes/(spec) trig revision.md": {
       "isDirectory": false,
       "noteCount": 1,
@@ -673,6 +689,22 @@
       "createdDate": 1694087203134,
       "modifiedDate": 1694087205487,
       "sizeInBytes": 628
+    },
+    "notes/images/Pasted Image 20230921185420_822.png": {
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 0,
+      "wordCountTowardGoal": 0,
+      "wordGoal": 0,
+      "pageCount": 0,
+      "characterCount": 0,
+      "nonWhitespaceCharacterCount": 0,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": [],
+      "createdDate": 1695293660913,
+      "modifiedDate": 1695293660915,
+      "sizeInBytes": 1153575
     },
     "notes/images/Screen Shot 2023-09-20 at 7.55.40 pm.png": {
       "isDirectory": false,
@@ -3705,14 +3737,14 @@
       "wordCountTowardGoal": 0,
       "wordGoal": null,
       "pageCount": 0.43,
-      "characterCount": 761,
+      "characterCount": 760,
       "nonWhitespaceCharacterCount": 630,
       "linkCount": 0,
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1694087202805,
-      "modifiedDate": 1694087204052,
-      "sizeInBytes": 822
+      "modifiedDate": 1695353120379,
+      "sizeInBytes": 821
     },
     "notes/archive/AEold/english/WTCS-VALUES-ATTITUDES.md": {
       "isDirectory": false,
@@ -5045,18 +5077,18 @@
     "notes/archive/AE/CHEMISTRY/CAP3.md": {
       "isDirectory": false,
       "noteCount": 1,
-      "wordCount": 795,
+      "wordCount": 792,
       "wordCountTowardGoal": 0,
       "wordGoal": null,
-      "pageCount": 2.65,
-      "characterCount": 4927,
-      "nonWhitespaceCharacterCount": 4092,
+      "pageCount": 2.64,
+      "characterCount": 4897,
+      "nonWhitespaceCharacterCount": 4067,
       "linkCount": 0,
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1694087202797,
-      "modifiedDate": 1694087203497,
-      "sizeInBytes": 4949
+      "modifiedDate": 1695281274530,
+      "sizeInBytes": 4953
     },
     "notes/archive/10/nuclearphysicsidk.md": {
       "isDirectory": false,
@@ -5185,6 +5217,22 @@
       "createdDate": 1694087202796,
       "modifiedDate": 1694834306623,
       "sizeInBytes": 514
+    },
+    "Excalidraw/Drawing 2023-09-21 18.54.05.excalidraw.md": {
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 0,
+      "wordCountTowardGoal": 0,
+      "wordGoal": 0,
+      "pageCount": 0,
+      "characterCount": 0,
+      "nonWhitespaceCharacterCount": 0,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": [],
+      "createdDate": 1695293645757,
+      "modifiedDate": 1695294080075,
+      "sizeInBytes": 26656
     },
     "Excalidraw/Drawing 2023-09-20 13.41.44.excalidraw.md": {
       "isDirectory": false,

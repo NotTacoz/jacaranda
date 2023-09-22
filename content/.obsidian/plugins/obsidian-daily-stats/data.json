@@ -93,12 +93,17 @@
     "2023/8/18": 535,
     "2023/8/19": 0,
     "2023/8/20": 173,
-    "2023/8/21": 4
+    "2023/8/21": 18,
+    "2023/8/22": 4419
   },
   "todaysWordCount": {
-    "notes/spec todo 1.md": {
-      "initial": 278,
-      "current": 282
+    "notes/CAP5.md": {
+      "initial": 22,
+      "current": 4441
+    },
+    "notes/archive/AEold/english/feedback.md": {
+      "initial": 133,
+      "current": 133
     }
   }
 }

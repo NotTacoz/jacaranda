@@ -4,71 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "d0113625c1bfec72",
+        "id": "96e106847da0a49b",
         "type": "tabs",
         "children": [
           {
-            "id": "57578ab91bf8c4a6",
+            "id": "13cc4fe94281e170",
             "type": "leaf",
             "state": {
               "type": "empty",
               "state": {}
             }
-          },
-          {
-            "id": "0fc928e6109a6a55",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "notes/argand diagrams.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "cbee7c75377e1b2b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "notes/english composing plan.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "32394f9a8d2d573a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "notes/spec todo 1.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "70ccb9ac9fa739f1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "notes/spec todo 1.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,12 +45,12 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:heat",
+                "query": "tag:#english",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
                 "extraContext": false,
-                "sortOrder": "alphabetical"
+                "sortOrder": "byCreatedTime"
               }
             }
           },
@@ -123,7 +70,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "57f26b66d7acceda",
@@ -201,9 +149,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "notes/spec todo 1.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -218,7 +164,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "notes/spec todo 1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -243,45 +188,45 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "70ccb9ac9fa739f1",
+  "active": "13cc4fe94281e170",
   "lastOpenFiles": [
-    "notes/images/Screen Shot 2023-09-20 at 7.55.40 pm.png",
-    "notes/(spec) trig revision.md",
-    "notes/spec todo 1.md",
-    "notes/images/Screen Shot 2023-09-20 at 1.43.00 pm.png",
-    "notes/archive/AEold/subsections/spec.md",
-    "Excalidraw/Drawing 2023-09-20 13.41.44.excalidraw.md",
     "notes/english composing plan.md",
-    "Excalidraw/Drawing 2023-09-13 18.38.50.excalidraw.md",
-    "notes/CAP4.md",
-    "notes/mandelbrot set.md",
+    "notes/beetlejuice.md",
+    "notes/archive/AEold/english/feedback.md",
+    "notes/archive/AEold/subsections/eng.md",
+    "notes/archive/AEold/english/lessonnotes/T2W3L1.md",
+    "notes/archive/AEold/english/lessonnotes/T2W3L2.md",
+    "notes/random english analysis.md",
+    "notes/english draft feedback.md",
     "notes/chemistry cap4 feedback.md",
+    "notes/archive/AEold/specialist/feedback/CAP1-FEEDBACK.md",
+    "notes/archive/AE/JAPANESE/japaneseExamReview.md",
+    "notes/physics electricity test feedback.md",
+    "notes/archive/AE/JAPANESE/reading2Review.md",
+    "notes/stuff needed to review chem cap4.md",
+    "notes/CAP5.md",
+    "notes/archive/AE/CHEMISTRY/courseOutline.md",
+    "notes/archive/AE/CHEMISTRY/acidsAndBases.md",
+    "notes/archive/AE/CHEMISTRY/aboriginalCaseStudy.md",
+    "notes/archive/AE/CHEMISTRY/kineticEnergy.md",
+    "notes/archive/AE/CHEMISTRY/CAP3.md",
+    "notes/archive/AE/CHEMISTRY/rates of reaction (writing a report).md",
+    "notes/archive/AE/CHEMISTRY/lucarelli.md",
+    "notes/archive/AE/CHEMISTRY/gases.md",
+    "notes/archive/AE/CHEMISTRY/empirical formula calcs.md",
+    "notes/archive/AE/CHEMISTRY/chemistry.md",
+    "notes/archive/AE/CHEMISTRY/thermodynamics.md",
+    "notes/images/Pasted Image 20230921185420_822.png",
+    "notes/images/Screen Shot 2023-09-20 at 7.55.40 pm.png",
+    "notes/images/Screen Shot 2023-09-20 at 1.43.00 pm.png",
     "notes/images/Screen Shot 2023-09-18 at 7.18.45 pm.png",
     "notes/images/Screen Shot 2023-09-18 at 7.17.37 pm.png",
-    "notes/15-09-23 practice questions.md",
-    "notes/complex numbers.md",
-    "notes/argand diagrams.md",
-    "Excalidraw/Drawing 2023-09-18 09.58.07.excalidraw.md",
-    "notes/beetlejuice.md",
-    "_index.md",
-    "notes/archive/AE/METHODS/indexLaws.md",
-    "notes/catalyst.md",
-    "notes/daily/2023-09-15.md",
-    "Excalidraw/Drawing 2023-09-15 13.42.11.excalidraw.md",
     "notes/images/Screen Shot 2023-09-15 at 11.57.04 am.png",
-    "Excalidraw/Drawing 2023-09-15 10.02.58.excalidraw.md",
-    "notes/archive/AEold/english/feedback.md",
-    "notes/daily/2023-09-14.md",
-    "Excalidraw/Drawing 2023-09-14 14.47.09.excalidraw.md",
     "notes/images/Screen Shot 2023-09-14 at 2.53.47 pm.png",
     "notes/images/Screen Shot 2023-09-14 at 2.51.34 pm.png",
-    "notes/arithemeticSeries.md",
-    "templates/daily.md",
     "notes/images/Pasted Image 20230913184250_004.jpg",
     "Excalidraw",
     "notes/images/Screen Shot 2023-09-12 at 11.17.22 am.png",
-    "notes/images/Pasted image 20230912095941.png",
-    "notes/images/Pasted image 20230912095914.png",
     "templates",
     "tags",
     "private/val/split",
