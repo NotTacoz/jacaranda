@@ -7,10 +7,13 @@ tags:
 date: 2023-09-21
 ---
 [[notes/archive/AE/CHEMISTRY/CAP3|CAP3]] and [[notes/CAP4|CAP4]] chem revision
+based off the [[notes/archive/AE/CHEMISTRY/course outline|course outline]]
 
 ## **Topic 3: ACIDS & STOICHIOMETRY**
 ### Acids & Bases
 - 109.  Use the Arrhenius model to define and describe acids and bases in aqueous solution.
+	- Arrhenius proposed that an acid is a substance that will produce hydrogen ions in solution.
+		- for example: $HCl (aq)\to H+$
 - 110.  Describe the common chemical and physical properties of acids and bases.
 - 111.  State that indicators can be used to identify acids and bases in solution and use observations of indicator colour to classify solutions as acidic, basic or neutral.
 - 112.  Write equations to show how acids form H+ ions and bases form OH- ions in solution.

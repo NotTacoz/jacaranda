@@ -62,7 +62,7 @@ title: "Course Outline"
 36.     Describe and explain the relationship between electronic structure and chemical properties and reactivity, for elements in groups 1, 2, 13 – 18.
 37.     Explain the trends in reactivity for groups 1, 2, 16 & 17.
 38.     Define the terms ionisation energy and electronegativity.
-39.     Describe and explain the trends in first ionisation energy, atomic radius, valency & electronegativity in the periodic table, with reference to groups 1, 2, 13 – 18 and periods 1 – 3.|
+39.     Describe and explain the trends in first ionisation energy, atomic radius, valency & electronegativity in the periodic table, with reference to groups 1, 2, 13 – 18 and periods 1 – 3.
 
 ## **Topic 2: BONDING, INTERMOLECULAR FORCES & PROPERTIES**
 

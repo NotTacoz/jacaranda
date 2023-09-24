@@ -9,7 +9,7 @@ tags:
 ---
 
 > [!info]
-> This is a Table of Contents page for all the work I've done for Chemistry (Semester 2), including notes I've taken in class and stuff, you can view what is covered in the [Course Outline](notes/archive/AE/CHEMISTRY/courseOutline.md)
+> This is a Table of Contents page for all the work I've done for Chemistry (Semester 2), including notes I've taken in class and stuff, you can view what is covered in the [Course Outline](notes/archive/AE/CHEMISTRY/course%20outline.md)
 ## Useful
 - [lucarelli chapter nav](notes/archive/AE/CHEMISTRY/lucarelli.md)
 ## Content

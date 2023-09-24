@@ -11,8 +11,26 @@
             "id": "13cc4fe94281e170",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "notes/archive/AE/CHEMISTRY/course outline.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "08075abb30903df9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "notes/archive/AE/CHEMISTRY/lucarelli.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
             }
           }
         ]
@@ -70,8 +88,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "57f26b66d7acceda",
@@ -107,7 +124,7 @@
               "type": "tag",
               "state": {
                 "sortOrder": "frequency",
-                "useHierarchy": false
+                "useHierarchy": true
               }
             }
           },
@@ -149,7 +166,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "notes/archive/AE/CHEMISTRY/course outline.md"
+              }
             }
           }
         ]
@@ -164,6 +183,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "notes/archive/AE/CHEMISTRY/course outline.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -190,6 +210,17 @@
   },
   "active": "13cc4fe94281e170",
   "lastOpenFiles": [
+    "notes/CAP5.md",
+    "notes/archive/AE/CHEMISTRY/lucarelli.md",
+    "notes/archive/AE/CHEMISTRY/CAP3.md",
+    "notes/CAP4.md",
+    "notes/chemistry practice exams feedback.md",
+    "notes/images/Screen Shot 2023-09-24 at 11.37.31 am.png",
+    "notes/archive/AE/CHEMISTRY/course outline.md",
+    "_index.md",
+    "notes/chem Rossmoyne 2020 review.md",
+    "notes/images/Screen Shot 2023-09-22 at 9.03.44 pm.png",
+    "notes/archive/AE/notes.md",
     "notes/english composing plan.md",
     "notes/beetlejuice.md",
     "notes/archive/AEold/english/feedback.md",
@@ -204,18 +235,9 @@
     "notes/physics electricity test feedback.md",
     "notes/archive/AE/JAPANESE/reading2Review.md",
     "notes/stuff needed to review chem cap4.md",
-    "notes/CAP5.md",
-    "notes/archive/AE/CHEMISTRY/courseOutline.md",
     "notes/archive/AE/CHEMISTRY/acidsAndBases.md",
     "notes/archive/AE/CHEMISTRY/aboriginalCaseStudy.md",
     "notes/archive/AE/CHEMISTRY/kineticEnergy.md",
-    "notes/archive/AE/CHEMISTRY/CAP3.md",
-    "notes/archive/AE/CHEMISTRY/rates of reaction (writing a report).md",
-    "notes/archive/AE/CHEMISTRY/lucarelli.md",
-    "notes/archive/AE/CHEMISTRY/gases.md",
-    "notes/archive/AE/CHEMISTRY/empirical formula calcs.md",
-    "notes/archive/AE/CHEMISTRY/chemistry.md",
-    "notes/archive/AE/CHEMISTRY/thermodynamics.md",
     "notes/images/Pasted Image 20230921185420_822.png",
     "notes/images/Screen Shot 2023-09-20 at 7.55.40 pm.png",
     "notes/images/Screen Shot 2023-09-20 at 1.43.00 pm.png",
@@ -224,9 +246,7 @@
     "notes/images/Screen Shot 2023-09-15 at 11.57.04 am.png",
     "notes/images/Screen Shot 2023-09-14 at 2.53.47 pm.png",
     "notes/images/Screen Shot 2023-09-14 at 2.51.34 pm.png",
-    "notes/images/Pasted Image 20230913184250_004.jpg",
     "Excalidraw",
-    "notes/images/Screen Shot 2023-09-12 at 11.17.22 am.png",
     "templates",
     "tags",
     "private/val/split",
