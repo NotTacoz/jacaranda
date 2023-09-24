@@ -8,25 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "13cc4fe94281e170",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "_index.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
             "id": "08075abb30903df9",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notes/archive/AE/CHEMISTRY/lucarelli.md",
+                "file": "notes/daily/2023-09-24.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -167,7 +154,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_index.md"
+                "file": "notes/daily/2023-09-24.md"
               }
             }
           }
@@ -183,7 +170,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_index.md",
+                "file": "notes/daily/2023-09-24.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -208,16 +195,18 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "13cc4fe94281e170",
+  "active": "08075abb30903df9",
   "lastOpenFiles": [
+    "_index.md",
+    "notes/daily/2023-09-24.md",
+    "notes/Untitled.md",
+    "notes/chemistry practice exams feedback.md",
+    "notes/archive/AE/CHEMISTRY/lucarelli.md",
     "notes/archive/AE/CHEMISTRY/course outline.md",
     "notes/CAP5.md",
-    "notes/archive/AE/CHEMISTRY/lucarelli.md",
     "notes/archive/AE/CHEMISTRY/CAP3.md",
     "notes/CAP4.md",
-    "notes/chemistry practice exams feedback.md",
     "notes/images/Screen Shot 2023-09-24 at 11.37.31 am.png",
-    "_index.md",
     "notes/chem Rossmoyne 2020 review.md",
     "notes/images/Screen Shot 2023-09-22 at 9.03.44 pm.png",
     "notes/archive/AE/notes.md",
@@ -236,8 +225,6 @@
     "notes/archive/AE/JAPANESE/reading2Review.md",
     "notes/stuff needed to review chem cap4.md",
     "notes/archive/AE/CHEMISTRY/acidsAndBases.md",
-    "notes/archive/AE/CHEMISTRY/aboriginalCaseStudy.md",
-    "notes/archive/AE/CHEMISTRY/kineticEnergy.md",
     "notes/images/Pasted Image 20230921185420_822.png",
     "notes/images/Screen Shot 2023-09-20 at 7.55.40 pm.png",
     "notes/images/Screen Shot 2023-09-20 at 1.43.00 pm.png",
