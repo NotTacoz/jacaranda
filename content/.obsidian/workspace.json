@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notes/archive/AE/CHEMISTRY/course outline.md",
+                "file": "_index.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -167,7 +167,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "notes/archive/AE/CHEMISTRY/course outline.md"
+                "file": "_index.md"
               }
             }
           }
@@ -183,7 +183,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "notes/archive/AE/CHEMISTRY/course outline.md",
+                "file": "_index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -210,13 +210,13 @@
   },
   "active": "13cc4fe94281e170",
   "lastOpenFiles": [
+    "notes/archive/AE/CHEMISTRY/course outline.md",
     "notes/CAP5.md",
     "notes/archive/AE/CHEMISTRY/lucarelli.md",
     "notes/archive/AE/CHEMISTRY/CAP3.md",
     "notes/CAP4.md",
     "notes/chemistry practice exams feedback.md",
     "notes/images/Screen Shot 2023-09-24 at 11.37.31 am.png",
-    "notes/archive/AE/CHEMISTRY/course outline.md",
     "_index.md",
     "notes/chem Rossmoyne 2020 review.md",
     "notes/images/Screen Shot 2023-09-22 at 9.03.44 pm.png",

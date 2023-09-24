@@ -5257,14 +5257,14 @@
       "wordCountTowardGoal": 0,
       "wordGoal": null,
       "pageCount": 0.14333333333333334,
-      "characterCount": 685,
-      "nonWhitespaceCharacterCount": 640,
+      "characterCount": 553,
+      "nonWhitespaceCharacterCount": 507,
       "linkCount": 8,
       "embedCount": 1,
       "aliases": null,
       "createdDate": 1694087202796,
-      "modifiedDate": 1695386996348,
-      "sizeInBytes": 742
+      "modifiedDate": 1695549192819,
+      "sizeInBytes": 610
     },
     "Excalidraw/Drawing 2023-09-21 18.54.05.excalidraw.md": {
       "isDirectory": false,
