@@ -21,6 +21,14 @@ based off the [[notes/archive/AE/CHEMISTRY/course outline|course outline]]
 - 114.  Describe and explain the difference between strong and weak acids and bases, using discussion of the degree of ionisation or dissociation.
 - 115.  Write equations to show the difference between strong and weak acids and bases.
 - 116.  Identify some common strong acids, including HCl, HNO3, and H2SO4, and some common weak acids, including CH3COOH, H3PO4 and other organic acids.
+	- Strong Acids:
+		- HCl
+		- HNO3
+		- H2SO4
+	- Weak Acids:
+		- CH3COOH
+		- H3PO4
+		- Other organic acids
 - 117.  Identify some common strong bases, including group 1 and 2 oxides and hydroxides, and some common weak bases, including NH3 and Na2CO3.
 - 118.  Differentiate between the terms strong and concentrated when used in reference to acids and bases.
 - 119.  Describe and give observations for the reactions of acids and bases, including the reactions between:

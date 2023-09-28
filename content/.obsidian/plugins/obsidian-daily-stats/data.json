@@ -96,32 +96,15 @@
     "2023/8/21": 18,
     "2023/8/22": 4462,
     "2023/8/23": 21,
-    "2023/8/24": 407
+    "2023/8/24": 407,
+    "2023/8/25": 28,
+    "2023/8/26": 860,
+    "2023/8/28": 32
   },
   "todaysWordCount": {
-    "notes/CAP5.md": {
-      "initial": 4463,
-      "current": 4471
-    },
-    "notes/Untitled.md": {
-      "initial": 8,
-      "current": 9
-    },
-    "notes/chemistry practice exams feedback.md": {
-      "initial": 8,
-      "current": 79
-    },
-    "notes/archive/AE/CHEMISTRY/course outline.md": {
-      "initial": 3989,
-      "current": 3989
-    },
-    "_index.md": {
-      "initial": 101,
-      "current": 80
-    },
-    "notes/daily/2023-09-24.md": {
-      "initial": 11,
-      "current": 338
+    "notes/RV specialist.md": {
+      "initial": 49,
+      "current": 81
     }
   }
 }

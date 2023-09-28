@@ -4,23 +4,50 @@
     "type": "split",
     "children": [
       {
-        "id": "96e106847da0a49b",
+        "id": "00ace945583e928f",
         "type": "tabs",
         "children": [
           {
-            "id": "08075abb30903df9",
+            "id": "ba3dc397785ec4ad",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notes/daily/2023-09-24.md",
+                "file": "notes/CAP5.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "591aa1f35d685fd5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "notes/RV chemistry.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "10e325d0c3467266",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "notes/RV specialist.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -94,12 +121,27 @@
       }
     ],
     "direction": "horizontal",
-    "width": 271.50390243530273
+    "width": 271.50390243530273,
+    "collapsed": true
   },
   "right": {
     "id": "8bc85ecb066bcf9c",
     "type": "split",
     "children": [
+      {
+        "id": "92ba02c4bf8925c0",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2ff833ea4b32786a",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          }
+        ]
+      },
       {
         "id": "f843a14175e799e0",
         "type": "tabs",
@@ -124,14 +166,6 @@
             }
           },
           {
-            "id": "2ff833ea4b32786a",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {}
-            }
-          },
-          {
             "id": "c276a164fe7e234c",
             "type": "leaf",
             "state": {
@@ -142,7 +176,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       },
       {
         "id": "b744d65389e1a7c0",
@@ -154,7 +188,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "notes/daily/2023-09-24.md"
+                "file": "notes/RV specialist.md"
               }
             }
           }
@@ -170,7 +204,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "notes/daily/2023-09-24.md",
+                "file": "notes/RV specialist.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -180,7 +214,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 270.5
+    "width": 270.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -192,18 +227,33 @@
       "command-palette:Open command palette": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
       "templater-obsidian:Templater": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "obsidian-statusbar-pomo:Start pomodoro": false
     }
   },
-  "active": "08075abb30903df9",
+  "active": "10e325d0c3467266",
   "lastOpenFiles": [
-    "_index.md",
-    "notes/daily/2023-09-24.md",
-    "notes/Untitled.md",
-    "notes/chemistry practice exams feedback.md",
-    "notes/archive/AE/CHEMISTRY/lucarelli.md",
-    "notes/archive/AE/CHEMISTRY/course outline.md",
+    "notes/images/Screen Shot 2023-09-28 at 9.53.44 am.png",
+    "notes/daily/2023-09-26.md",
+    "notes/RV physics.md",
+    "notes/kinetic particle model.md",
+    "notes/absolute zero.md",
+    "notes/RV specialist.md",
+    "notes/RV english.md",
+    "notes/RV japanese.md",
+    "notes/RV methods.md",
+    "notes/RV chemistry.md",
+    "notes/images/Screen Shot 2023-09-26 at 1.15.38 pm.png",
+    "notes/images/Screen Shot 2023-09-26 at 1.15.04 pm.png",
     "notes/CAP5.md",
+    "notes/archive/AEold/specialist/lessonnotes/T1W6L2.md",
+    "notes/archive/AE/CHEMISTRY/lucarelli.md",
+    "notes/daily/2023-09-24.md",
+    "notes/structural isomers dispersion force and boiling points.md",
+    "notes/chemistry practice exams feedback.md",
+    "notes/daily/2023-09-25.md",
+    "_index.md",
+    "notes/archive/AE/CHEMISTRY/course outline.md",
     "notes/archive/AE/CHEMISTRY/CAP3.md",
     "notes/CAP4.md",
     "notes/images/Screen Shot 2023-09-24 at 11.37.31 am.png",
@@ -213,26 +263,12 @@
     "notes/english composing plan.md",
     "notes/beetlejuice.md",
     "notes/archive/AEold/english/feedback.md",
-    "notes/archive/AEold/subsections/eng.md",
-    "notes/archive/AEold/english/lessonnotes/T2W3L1.md",
-    "notes/archive/AEold/english/lessonnotes/T2W3L2.md",
-    "notes/random english analysis.md",
-    "notes/english draft feedback.md",
-    "notes/chemistry cap4 feedback.md",
-    "notes/archive/AEold/specialist/feedback/CAP1-FEEDBACK.md",
-    "notes/archive/AE/JAPANESE/japaneseExamReview.md",
-    "notes/physics electricity test feedback.md",
-    "notes/archive/AE/JAPANESE/reading2Review.md",
-    "notes/stuff needed to review chem cap4.md",
-    "notes/archive/AE/CHEMISTRY/acidsAndBases.md",
     "notes/images/Pasted Image 20230921185420_822.png",
     "notes/images/Screen Shot 2023-09-20 at 7.55.40 pm.png",
     "notes/images/Screen Shot 2023-09-20 at 1.43.00 pm.png",
     "notes/images/Screen Shot 2023-09-18 at 7.18.45 pm.png",
     "notes/images/Screen Shot 2023-09-18 at 7.17.37 pm.png",
     "notes/images/Screen Shot 2023-09-15 at 11.57.04 am.png",
-    "notes/images/Screen Shot 2023-09-14 at 2.53.47 pm.png",
-    "notes/images/Screen Shot 2023-09-14 at 2.51.34 pm.png",
     "Excalidraw",
     "templates",
     "tags",

@@ -11,5 +11,6 @@ date: 2023-09-12
 - -> there is less area of contact between temporary/induced dipoles, and/or molecules
 - -> dispersion force strength decreases
 - -> boiling point decreases
+- functional groups also increase the boiling point (eg dichloroethane has higher boiling boiling point than ethane)
 
 cis and trans has same physical properties pretty much
