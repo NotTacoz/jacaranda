@@ -31,6 +31,21 @@ date: 2023-09-26
 	- the distance particles in a gas are large compared with the size of the particles
 - particle velocity/movement is dependent on temperature, as temperature increases, average velocity of particles increase and vice versa. the coldest possible temperature, where particles stop moving is called [[notes/absolute zero|absolute zero]]
 #### all substances have internal energy due to the motion and separation of their particles
+- all substances have internal energy due to the motion and separation of their particles
+- **kinetic energy** is the energy of movement.
+- **potential energy** is the energy stored in the bonds between particles.
+- kinetic particle model explain idea of heat as a transfer of energy.
+- **heat** is the transfer of **thermal energy** from a hotter body to a cold one.
+- **thermal energy** refers to the energy contained within a system responsible for its temperature.
+- internal energy is the **total kinetic energy** and **potential energy** within a substance.
+- heating is the process of transferring thermal energy.
+- heating changes the internal energy of a substance by affecting the kinetic energy and/or potential energy of particles within the substance.
+- energy is a measure of an object's ability to do **work**
+	- e.g. raising an objects temperature is doing work.
+	- measured in joules (J)
+- the internal energy of a system is defined as the kinetic and potential energy of the system.
+- if heating results only in the change of state or expansion of object, and not a change in temperature, does the total internal energy increase?
+	- yes. potential energy increases, not the kinetic energy!
 #### temperature is a measure of the average kinetic energy of particles in a system
 #### two systems in contact transfer energy between particles so that eventually the systems reach the same temperature; that is, they are in thermal equilibrium. This may involve changes of state as well as changes in temperature
 #### a system with thermal energy has the capacity to do mechanical work (to apply a force over a distance); when work is done, the internal energy of the system changes

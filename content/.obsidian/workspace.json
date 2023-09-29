@@ -4,42 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "00ace945583e928f",
+        "id": "65e5bb76c768da89",
         "type": "tabs",
         "children": [
           {
-            "id": "ba3dc397785ec4ad",
+            "id": "abae22cc31578e15",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "notes/daily/2023-09-28.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           },
           {
-            "id": "591aa1f35d685fd5",
+            "id": "b3074e63b1ed148d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notes/RV chemistry.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "10e325d0c3467266",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "notes/RV specialist.md",
+                "file": "notes/beetlejuice essay.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -47,7 +29,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -121,8 +103,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 271.50390243530273,
-    "collapsed": true
+    "width": 271.50390243530273
   },
   "right": {
     "id": "8bc85ecb066bcf9c",
@@ -188,7 +169,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "notes/RV specialist.md"
+                "file": "notes/beetlejuice essay.md"
               }
             }
           }
@@ -204,7 +185,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "notes/RV specialist.md",
+                "file": "notes/beetlejuice essay.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -231,54 +212,92 @@
       "obsidian-statusbar-pomo:Start pomodoro": false
     }
   },
-  "active": "10e325d0c3467266",
+  "floating": {
+    "id": "db5f312bf0668432",
+    "type": "floating",
+    "children": [
+      {
+        "id": "8307a84fb631e580",
+        "type": "window",
+        "children": [
+          {
+            "id": "34cb8190b661f064",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "cabafbdbfc9e9dd5",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "notes/archive/AE/CHEMISTRY/lucarelli.md",
+                    "mode": "source",
+                    "backlinks": false,
+                    "source": false
+                  }
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical",
+        "x": 585,
+        "y": 69,
+        "width": 600,
+        "height": 822.6678466796875,
+        "maximize": false,
+        "zoom": 0.5
+      }
+    ]
+  },
+  "active": "b3074e63b1ed148d",
   "lastOpenFiles": [
-    "notes/images/Screen Shot 2023-09-28 at 11.16.17 am.png",
-    "notes/images/Screen Shot 2023-09-28 at 11.15.53 am.png",
-    "notes/images/Screen Shot 2023-09-28 at 11.15.46 am.png",
-    "notes/daily/2023-09-28.md",
     "notes/CAP5.md",
+    "notes/beetlejuice essay.md",
+    "notes/electrolytes.md",
     "notes/RV specialist.md",
-    "notes/images/Screen Shot 2023-09-28 at 9.53.44 am.png",
-    "notes/daily/2023-09-26.md",
-    "notes/RV physics.md",
-    "notes/kinetic particle model.md",
-    "notes/absolute zero.md",
-    "notes/RV english.md",
-    "notes/RV japanese.md",
-    "notes/RV methods.md",
-    "notes/RV chemistry.md",
-    "notes/images/Screen Shot 2023-09-26 at 1.15.38 pm.png",
-    "notes/images/Screen Shot 2023-09-26 at 1.15.04 pm.png",
-    "notes/archive/AEold/specialist/lessonnotes/T1W6L2.md",
+    "notes/daily/2023-09-29.md",
+    "notes/images/Screen Shot 2023-09-29 at 10.58.17 am.png",
+    "notes/images/Screen Shot 2023-09-29 at 10.58.11 am.png",
     "notes/archive/AE/CHEMISTRY/lucarelli.md",
-    "notes/daily/2023-09-24.md",
-    "notes/structural isomers dispersion force and boiling points.md",
-    "notes/chemistry practice exams feedback.md",
-    "notes/daily/2023-09-25.md",
-    "_index.md",
-    "notes/archive/AE/CHEMISTRY/course outline.md",
-    "notes/archive/AE/CHEMISTRY/CAP3.md",
-    "notes/CAP4.md",
-    "notes/images/Screen Shot 2023-09-24 at 11.37.31 am.png",
-    "notes/chem Rossmoyne 2020 review.md",
-    "notes/images/Screen Shot 2023-09-22 at 9.03.44 pm.png",
-    "notes/archive/AE/notes.md",
-    "notes/english composing plan.md",
-    "notes/beetlejuice.md",
-    "notes/images/Pasted Image 20230921185420_822.png",
-    "notes/images/Screen Shot 2023-09-20 at 7.55.40 pm.png",
-    "notes/images/Screen Shot 2023-09-20 at 1.43.00 pm.png",
-    "Excalidraw",
+    "notes/RV physics.md",
+    "notes/daily/2023-09-28.md",
+    "notes/七五三.md",
+    "notes/trighardquestions.md",
+    "notes/(spec) trig revision.md",
+    "templates/tags.md",
+    "templates/post.md",
+    "templates/daily.md",
     "templates",
+    "tags/specialist.md",
+    "tags/physics.md",
+    "tags/methods.md",
+    "tags/japanese.md",
+    "tags/english.md",
+    "tags/daily.md",
+    "tags/chemistry.md",
+    "tags/ae.md",
     "tags",
+    "private/val/split/tenzJett.md",
+    "private/val/lotus/asunaJett.md",
+    "private/val/haven/selfJett.md",
+    "private/val/haven/foxy9Jett.md",
     "private/val/split",
     "private/val/lotus",
     "private/val/haven",
     "private/val",
     "private",
-    "notes/archive/daily",
+    "notes/images/testok.png",
+    "notes/images/kfc keqing burger.png",
+    "notes/images/keqingactually.png",
+    "notes/images/keqing judges.png",
+    "notes/images/Screen Shot 2023-09-28 at 9.53.44 am.png",
+    "notes/images/Screen Shot 2023-09-28 at 11.16.17 am.png",
+    "notes/images/Screen Shot 2023-09-28 at 11.15.53 am.png",
+    "notes/images/Screen Shot 2023-09-28 at 11.15.46 am.png",
+    "notes/archive/AEold/specialist/feedback",
     "notes/archive/AEold/specialist/lessonnotes",
+    "notes/archive/AEold/physics/testnotes",
     "Untitled.canvas",
     "Untitled 2.canvas",
     "Untitled 1.canvas"

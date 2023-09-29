@@ -2,7 +2,7 @@
 title: "[YEAR 11 REVISION] Specialist"
 tags:
   - AE
-  - split
+  - specialist
 date: 2023-09-26
 ---
 - essentially a compilation of cambridge chapter summaries

@@ -14,13 +14,28 @@ based off the [[notes/archive/AE/CHEMISTRY/course outline|course outline]]
 - 109.  Use the Arrhenius model to define and describe acids and bases in aqueous solution.
 	- Arrhenius proposed that an acid is a substance that will produce hydrogen ions in solution.
 		- for example: $HCl (aq)\to H+$
-- 110.  Describe the common chemical and physical properties of acids and bases.
+- ✅ 110.  Describe the common chemical and physical properties of acids and bases.
+	- physical properties
+		- acids:
+			- sour taste
+			- corrosive
+			- turn blue litmus red
+			- pH < 7
+			- can form [[notes/electrolytes|electrolytes]] in solution (and conduct electricity)
+		- basic:
+			- conduct electric current
+			- turn red litmus blue
+			- bitter taste
+			- slippery soapy feel
+	- chemical properties
+		- ![[notes/images/Screen Shot 2023-09-29 at 10.58.11 am.png]]![[notes/images/Screen Shot 2023-09-29 at 10.58.17 am.png]]
+
 - 111.  State that indicators can be used to identify acids and bases in solution and use observations of indicator colour to classify solutions as acidic, basic or neutral.
 - 112.  Write equations to show how acids form H+ ions and bases form OH- ions in solution.
 - 113.  Distinguish between the processes of ionisation, where a covalent molecule splits into ions, and dissociation, where an ionic compound dissolves in water.
 - 114.  Describe and explain the difference between strong and weak acids and bases, using discussion of the degree of ionisation or dissociation.
 - 115.  Write equations to show the difference between strong and weak acids and bases.
-- 116.  Identify some common strong acids, including HCl, HNO3, and H2SO4, and some common weak acids, including CH3COOH, H3PO4 and other organic acids.
+- ✅ 116.  Identify some common strong acids, including HCl, HNO3, and H2SO4, and some common weak acids, including CH3COOH, H3PO4 and other organic acids.
 	- Strong Acids:
 		- HCl
 		- HNO3
@@ -29,13 +44,13 @@ based off the [[notes/archive/AE/CHEMISTRY/course outline|course outline]]
 		- CH3COOH
 		- H3PO4
 		- Other organic acids
-- 117.  Identify some common strong bases, including group 1 and 2 oxides and hydroxides, and some common weak bases, including NH3 and Na2CO3.
+- ✅ 117.  Identify some common strong bases, including group 1 and 2 oxides and hydroxides, and some common weak bases, including NH3 and Na2CO3.
 - 118.  Differentiate between the terms strong and concentrated when used in reference to acids and bases.
 - 119.  Describe and give observations for the reactions of acids and bases, including the reactions between:
 	- a.     acids and metals
 	- b.     acids and metal oxides
 	- c.     acids and metal hydroxides
-	- d.     acids and metal carbonates and metal hydrogencarbonates
+	- d.     acids and metal carbonates and metal hydrogen carbonates
 	- e.     bases and ammonium salts
 	- f.      bases and non-metal oxides
 - 120.  Write word equations, molecular equations and ionic equations for the reactions listed above.
