@@ -12,5 +12,7 @@
   "templater-obsidian",
   "obsidian-excalidraw-plugin",
   "obsidian-hider",
-  "obsidian-statusbar-pomo"
+  "obsidian-statusbar-pomo",
+  "highlightr-plugin",
+  "obsidian-underline"
 ]

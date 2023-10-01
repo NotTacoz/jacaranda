@@ -100,7 +100,7 @@
     "2023/8/25": 28,
     "2023/8/26": 860,
     "2023/8/28": 265,
-    "2023/8/29": 1167
+    "2023/8/29": 1415
   },
   "todaysWordCount": {
     "notes/CAP5.md": {
@@ -117,7 +117,11 @@
     },
     "notes/beetlejuice essay.md": {
       "initial": 9,
-      "current": 1055
+      "current": 1120
+    },
+    "notes/RV methods.md": {
+      "initial": 83,
+      "current": 266
     }
   }
 }

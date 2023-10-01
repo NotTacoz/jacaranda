@@ -293,18 +293,18 @@
     "notes/beetlejuice essay.md": {
       "isDirectory": false,
       "noteCount": 1,
-      "wordCount": 1020,
+      "wordCount": 1102,
       "wordCountTowardGoal": 0,
       "wordGoal": null,
-      "pageCount": 3.4,
-      "characterCount": 7024,
-      "nonWhitespaceCharacterCount": 5998,
+      "pageCount": 3.6733333333333333,
+      "characterCount": 7610,
+      "nonWhitespaceCharacterCount": 6478,
       "linkCount": 0,
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1695982918185,
-      "modifiedDate": 1695982926955,
-      "sizeInBytes": 7134
+      "modifiedDate": 1695985279335,
+      "sizeInBytes": 7718
     },
     "notes/electrolytes.md": {
       "isDirectory": false,
@@ -5461,18 +5461,18 @@
     "notes/RV methods.md": {
       "isDirectory": false,
       "noteCount": 1,
-      "wordCount": 0,
+      "wordCount": 165,
       "wordCountTowardGoal": 0,
       "wordGoal": null,
-      "pageCount": 0,
-      "characterCount": 1,
-      "nonWhitespaceCharacterCount": 0,
+      "pageCount": 0.55,
+      "characterCount": 1241,
+      "nonWhitespaceCharacterCount": 1075,
       "linkCount": 0,
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1695871276545,
-      "modifiedDate": 1695871277621,
-      "sizeInBytes": 86
+      "modifiedDate": 1695992430268,
+      "sizeInBytes": 1326
     },
     "notes/RV chemistry.md": {
       "isDirectory": false,

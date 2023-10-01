@@ -21,7 +21,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notes/beetlejuice essay.md",
+                "file": "notes/RV methods.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -84,7 +84,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 2
       },
       {
         "id": "57f26b66d7acceda",
@@ -169,7 +170,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "notes/beetlejuice essay.md"
+                "file": "notes/RV methods.md"
               }
             }
           }
@@ -185,7 +186,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "notes/beetlejuice essay.md",
+                "file": "notes/RV methods.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -252,15 +253,16 @@
   },
   "active": "b3074e63b1ed148d",
   "lastOpenFiles": [
-    "notes/CAP5.md",
-    "notes/beetlejuice essay.md",
-    "notes/electrolytes.md",
+    "notes/RV chemistry.md",
     "notes/RV specialist.md",
+    "notes/RV physics.md",
+    "notes/electrolytes.md",
+    "notes/beetlejuice essay.md",
+    "notes/CAP5.md",
     "notes/daily/2023-09-29.md",
     "notes/images/Screen Shot 2023-09-29 at 10.58.17 am.png",
     "notes/images/Screen Shot 2023-09-29 at 10.58.11 am.png",
     "notes/archive/AE/CHEMISTRY/lucarelli.md",
-    "notes/RV physics.md",
     "notes/daily/2023-09-28.md",
     "notes/七五三.md",
     "notes/trighardquestions.md",
@@ -281,7 +283,6 @@
     "private/val/split/tenzJett.md",
     "private/val/lotus/asunaJett.md",
     "private/val/haven/selfJett.md",
-    "private/val/haven/foxy9Jett.md",
     "private/val/split",
     "private/val/lotus",
     "private/val/haven",
