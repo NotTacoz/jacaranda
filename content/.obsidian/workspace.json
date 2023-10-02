@@ -21,7 +21,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notes/RV methods.md",
+                "file": "notes/daily/2023-10-02.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -84,8 +84,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 2
+        ]
       },
       {
         "id": "57f26b66d7acceda",
@@ -170,7 +169,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "notes/RV methods.md"
+                "file": "notes/daily/2023-10-02.md"
               }
             }
           }
@@ -186,7 +185,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "notes/RV methods.md",
+                "file": "notes/daily/2023-10-02.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -253,6 +252,8 @@
   },
   "active": "b3074e63b1ed148d",
   "lastOpenFiles": [
+    "notes/RV methods.md",
+    "notes/daily/2023-10-02.md",
     "notes/RV chemistry.md",
     "notes/RV specialist.md",
     "notes/RV physics.md",
@@ -281,8 +282,6 @@
     "tags/ae.md",
     "tags",
     "private/val/split/tenzJett.md",
-    "private/val/lotus/asunaJett.md",
-    "private/val/haven/selfJett.md",
     "private/val/split",
     "private/val/lotus",
     "private/val/haven",
