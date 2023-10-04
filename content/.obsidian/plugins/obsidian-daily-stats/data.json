@@ -101,12 +101,18 @@
     "2023/8/26": 860,
     "2023/8/28": 265,
     "2023/8/29": 1415,
-    "2023/9/2": 53
+    "2023/9/2": 53,
+    "2023/9/3": 52,
+    "2023/9/4": 541
   },
   "todaysWordCount": {
-    "notes/daily/2023-10-02.md": {
-      "initial": 41,
-      "current": 94
+    "notes/CAP5.md": {
+      "initial": 4546,
+      "current": 4633
+    },
+    "notes/archive/AE/PHYSICS/heat.md": {
+      "initial": 351,
+      "current": 805
     }
   }
 }

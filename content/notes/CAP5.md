@@ -31,6 +31,16 @@ based off the [[notes/archive/AE/CHEMISTRY/course outline|course outline]]
 		- ![[notes/images/Screen Shot 2023-09-29 at 10.58.11 am.png]]![[notes/images/Screen Shot 2023-09-29 at 10.58.17 am.png]]
 
 - 111.  State that indicators can be used to identify acids and bases in solution and use observations of indicator colour to classify solutions as acidic, basic or neutral.
+	- measure the pH value of acids and bases
+	- acids have low pH and bases have high pH
+	- universal indicator is widely used to estimate the pH
+		- mixture of several indicators
+		- change through a range of colours
+		- red is low pH, purple is high pH, green is neutral.
+	- litmus paper also exist.
+		- blue litmus turns red in acid, red litmus remains red in acid
+		- blue litmus remains blue in base, red litmus turns blue in base
+		-  blue litmus remains blue in neutral, red litmus remains red in neutral
 - 112.  Write equations to show how acids form H+ ions and bases form OH- ions in solution.
 - 113.  Distinguish between the processes of ionisation, where a covalent molecule splits into ions, and dissociation, where an ionic compound dissolves in water.
 - 114.  Describe and explain the difference between strong and weak acids and bases, using discussion of the degree of ionisation or dissociation.
@@ -223,7 +233,7 @@ based off the [[notes/archive/AE/CHEMISTRY/course outline|course outline]]
 ## **Topic 5: ENERGY & RATE**
 [[notes/archive/AE/CHEMISTRY/rates of reaction (writing a report)|rates of reaction report notes in class :/]]
 
-### Energy & Enthalpy (NOT IN CAP)
+### Energy & Enthalpy
 
 - 163.  State that kinetic theory is used to explain the macroscopic behaviour of gases using understanding of the molecular behaviour of particles.
 	- all gases exert pressure and take the space of the container they exist in.

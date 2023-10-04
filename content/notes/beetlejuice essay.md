@@ -19,7 +19,8 @@ Tim Burton describes his filmography as having “elements of horror, but they�
 
 ### body paragraph 1
 Through <u>Beetlejuice's</u> unconventional narrative, creating a melancholic film soon after introducing its happy protagonists, <u>Beetlejuice</u> serves as a reminder of our insignificance.
-- 
+- Barbara states at the start of the film, before her untimely death, she "wish \[Jane] leave \[them] alone." and that she is "so glad \[they're] spending \[their] vacation at home".
+- comments on the afterlife "Where are all the other dead people in the world?  Why is it just you and me?", 
 
 Burton creates a <mark style="background: #FFF3A3A6;">captivating visual style</mark> through his <mark style="background: #FFF3A3A6;">whimsical portrayal</mark> **avoid using vague words like "captivating visual style" and "portrayal"... visual style of what? portrayal of what? not necessary** of Betelgeuse’s characterisation through costume designs <mark style="background: #FF5582A6;">and</mark> setting, ~~which~~ blends traditional haunting elements <mark style="background: #FFB86CA6;">but adds its own comedic charm</mark> **too informal and not succinct**, subverting the contemporary audience that expected a classic horror story with scary characters. 
 - The costume design in Beetlejuice blends the eerie and the whimsical, creating a world that is simultaneously haunting and comical. Betelgeuse wears a black and white striped suit, the contrasting colours are striking, and combined with his pale face and black liner, parts of Betelgeuse’s costumes are effective in accentuating the film’s status as a horror story. 
