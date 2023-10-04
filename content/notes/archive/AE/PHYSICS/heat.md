@@ -4,6 +4,7 @@ tags:
   - AE
   - heat
   - physics
+date: 2023-10-04
 ---
 ## Science Understanding Heating processes
 ### the kinetic particle model describes matter as consisting of particles in constant motion, except at absolute zero
@@ -51,10 +52,12 @@ tags:
 	- thermal power stations use thermal energy to do work. uses fuel to heat water to steam under high pressure, performing mechanical work on steam turbines, driving electrical generators.
 		- through this process, power station convert heat energy into electrical energy by doing work using thermal energy!.
 ### because energy is conserved, the change in internal energy of a system is equal to the energy added by heating, or removed by cooling, plus the work done on or by the system
+- because energy is conserved, the change in internal energy of a system is equal to the energy added by heating, or removed by cooling, plus the work done on or by the system
 ### heat transfer occurs between and within systems by conduction, convection and/or radiation
-### energy transfers and transformations in mechanical systems always result in some heat loss to the environment, so that the usable energy is reduced and the system cannot be 100 percent efficient This includes applying the relationship efficiency $\eta=\frac{energy.output}{energy.input}\times \frac{100}{1}\%$
-- $\eta=\frac{energy.output}{energy.input}\times \frac{100}{1}\%$
-- energy transformations are never perfect - theres always some energy lost. sajj ![[notes/images/Pasted image 20231004212521.png]]
-- 
+- heat transfer occurs between and within systems by conduction, convection and/or radiation
+### energy transfers and transformations in mechanical systems always result in some heat loss to the environment, so that the usable energy is reduced and the system cannot be 100 percent efficient This includes applying the relationship efficiency $\text{efficiency (}\eta \text{)}=\frac{\text{energy output}}{\text{energy input}}\times 100\%$
+- energy transformations are never perfect - theres always some energy lost.  ![[notes/images/Pasted image 20231004212521.png]]
+- **efficiency** is percentage of energy that is effectively transformed by a system.
+- the formula $\text{efficiency (}\eta \text{)}=\frac{\text{energy output}}{\text{energy input}}\times 100\%$ ![[notes/images/Pasted image 20231004213149.png]]
 
 sources: Pearson and [littleroot](https://nottaro.github.io/littleroot/11Physics/Heat)
