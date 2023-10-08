@@ -4,11 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "9ade5ee8faa4f949",
+        "id": "42d65cc54bd56177",
         "type": "tabs",
         "children": [
           {
-            "id": "5c6cf23a4df516eb",
+            "id": "5441bfc8d7282df7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "notes/CAP5.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "9f12e52beeaabc8a",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -19,22 +32,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "e2b9623aadfa1302",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "notes/archive/AE/PHYSICS/heat.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -175,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "notes/archive/AE/PHYSICS/heat.md"
+                "file": "notes/CAP5.md"
               }
             }
           }
@@ -191,7 +190,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "notes/archive/AE/PHYSICS/heat.md",
+                "file": "notes/CAP5.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -218,62 +217,32 @@
       "obsidian-statusbar-pomo:Start pomodoro": false
     }
   },
-  "floating": {
-    "id": "db5f312bf0668432",
-    "type": "floating",
-    "children": [
-      {
-        "id": "8307a84fb631e580",
-        "type": "window",
-        "children": [
-          {
-            "id": "34cb8190b661f064",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "cabafbdbfc9e9dd5",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "notes/archive/AE/CHEMISTRY/lucarelli.md",
-                    "mode": "source",
-                    "backlinks": false,
-                    "source": false
-                  }
-                }
-              }
-            ]
-          }
-        ],
-        "direction": "vertical",
-        "x": 585,
-        "y": 69,
-        "width": 600,
-        "height": 822.6678466796875,
-        "maximize": false,
-        "zoom": 0.5
-      }
-    ]
-  },
-  "active": "e2b9623aadfa1302",
+  "active": "5441bfc8d7282df7",
   "lastOpenFiles": [
+    "notes/images/Screen Shot 2023-10-08 at 6.23.23 pm.png",
+    "notes/images/Screen Shot 2023-10-08 at 6.18.43 pm.png",
+    "notes/archive/AE/CHEMISTRY/lucarelli.md",
+    "notes/CAP5.md",
+    "private/2023-10-06 birthday wishlist.md",
+    "notes/beetlejuice essay.md",
+    "notes/archive/AE/PHYSICS/heat.md",
+    "notes/RV physics.md",
+    "notes/RV chemistry.md",
+    "notes/RV methods.md",
+    "notes/daily/2023-10-06.md",
+    "private/private-note.md",
+    "notes/temporary delete later.md",
+    "notes/1.2specificHeatCapacity.md",
+    "notes/specificHeatCapacity.md",
     "notes/images/Pasted image 20231004213149.png",
     "notes/images/Pasted image 20231004213101.png",
     "notes/images/Pasted image 20231004212521.png",
     "notes/images/Pasted image 20231004212513.png",
-    "notes/CAP5.md",
-    "notes/archive/AE/CHEMISTRY/lucarelli.md",
-    "notes/specificHeatCapacity.md",
     "notes/structural isomers dispersion force and boiling points.md",
     "notes/stuff needed to review chem cap4.md",
     "notes/thermal equilibrium.md",
-    "notes/beetlejuice essay.md",
     "notes/daily/2023-10-02.md",
-    "notes/RV methods.md",
-    "notes/RV chemistry.md",
     "notes/RV specialist.md",
-    "notes/RV physics.md",
     "notes/electrolytes.md",
     "notes/daily/2023-09-29.md",
     "notes/images/Screen Shot 2023-09-29 at 10.58.17 am.png",
@@ -283,13 +252,7 @@
     "notes/trighardquestions.md",
     "notes/(spec) trig revision.md",
     "templates/tags.md",
-    "templates/post.md",
-    "templates/daily.md",
     "templates",
-    "tags/specialist.md",
-    "tags/physics.md",
-    "tags/methods.md",
-    "tags/japanese.md",
     "tags",
     "private/val/split",
     "private/val/lotus",
@@ -299,8 +262,6 @@
     "notes/images/testok.png",
     "notes/images/kfc keqing burger.png",
     "notes/images/keqingactually.png",
-    "notes/images/keqing judges.png",
-    "notes/images/Screen Shot 2023-09-28 at 9.53.44 am.png",
     "notes/archive/AEold/specialist/feedback",
     "notes/archive/AEold/specialist/lessonnotes",
     "notes/archive/AEold/physics/testnotes",

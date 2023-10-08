@@ -10,7 +10,10 @@ date: 2023-09-29
 - 
 ### movie
 - lydia deetz - "My whole life is a dark room"
-- 
+
+## new essay
+https://justdreadfull.com/2020/11/22/what-is-beetlejuice-without-beetlejuice-thoughts-on-death-patriarchy-and-capitalism/
+
 ## essay
 ### beetlejuice
 
@@ -18,9 +21,15 @@ date: 2023-09-29
 Tim Burton describes his filmography as having “elements of horror, but they’re not really scary and can be funny not really a comedy.” This is evidenced in the 1988 film directed by the visionary Burton, titled Beetlejuice. The film has cemented its place as a beloved and timeless classic that effortlessly merges macabre humour and imaginative storytelling. This darkly comedic film offers a satirical exploration of the afterlife, weaving together the worlds of the living and the dead in a visually stunning and emotionally resonant manner. Through its well-crafted visual style through generic and narrative conventions, Beetlejuice presents a captivating examination of a film which intends to subvert the audience expectation of what a traditional horror film is by instilling elements of comedy.
 
 ### body paragraph 1
-Through <u>Beetlejuice's</u> unconventional narrative, creating a melancholic film soon after introducing its happy protagonists, <u>Beetlejuice</u> serves as a reminder of our insignificance.
-- Barbara states at the start of the film, before her untimely death, she "wish \[Jane] leave \[them] alone." and that she is "so glad \[they're] spending \[their] vacation at home".
+<u>Beetlejuice</u> employs <mark class="hltr-green">dialogue</mark> to highlight the Maitland's attitude towards the outside world, and their values of spending time with only each other, but isolating everyone else. 
+- Barbara Maitland's statement towards Jane to "leave \[them] alone \[at home]" establishes the Maitland's desire for isolation from other people,
+- Later, when Adam parks the car and runs into his hardware store, as an old man sitting outside a stereotypical small-town barbershop tries talking to Adam, he cuts him off with a quick “hello” and runs into the store, leaving the old man outside to talk to himself.
+- These two 
+- and they are "so glad \[they're] spending \[their] vacation at home". is expressed 
 - comments on the afterlife "Where are all the other dead people in the world?  Why is it just you and me?", 
+- "Two weeks at home - the perfect vacation"
+
+Through <u>Beetlejuice's</u> <mark class="hltr-green">unconventional narrative</mark>, creating a melancholic film soon after introducing its happy protagonists, <u>Beetlejuice</u> serves as a reminder of our insignificance.
 
 Burton creates a <mark style="background: #FFF3A3A6;">captivating visual style</mark> through his <mark style="background: #FFF3A3A6;">whimsical portrayal</mark> **avoid using vague words like "captivating visual style" and "portrayal"... visual style of what? portrayal of what? not necessary** of Betelgeuse’s characterisation through costume designs <mark style="background: #FF5582A6;">and</mark> setting, ~~which~~ blends traditional haunting elements <mark style="background: #FFB86CA6;">but adds its own comedic charm</mark> **too informal and not succinct**, subverting the contemporary audience that expected a classic horror story with scary characters. 
 - The costume design in Beetlejuice blends the eerie and the whimsical, creating a world that is simultaneously haunting and comical. Betelgeuse wears a black and white striped suit, the contrasting colours are striking, and combined with his pale face and black liner, parts of Betelgeuse’s costumes are effective in accentuating the film’s status as a horror story. 

@@ -99,15 +99,15 @@
     }
   ],
   "editor:insert-link": [],
-  "editor:toggle-highlight": [
+  "obsidian-excalidraw-plugin:insert-link-to-element": [],
+  "obsidian-excalidraw-plugin:insert-link": [],
+  "obsidian-excalidraw-plugin:toggle-lock": [],
+  "highlightr-plugin:highlighter-plugin-menu": [
     {
       "modifiers": [
         "Mod"
       ],
       "key": "H"
     }
-  ],
-  "obsidian-excalidraw-plugin:insert-link-to-element": [],
-  "obsidian-excalidraw-plugin:insert-link": [],
-  "obsidian-excalidraw-plugin:toggle-lock": []
+  ]
 }

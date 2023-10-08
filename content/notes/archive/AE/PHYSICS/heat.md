@@ -61,3 +61,11 @@ date: 2023-10-04
 - the formula $\text{efficiency (}\eta \text{)}=\frac{\text{energy output}}{\text{energy input}}\times 100\%$ ![[notes/images/Pasted image 20231004213149.png]]
 
 sources: Pearson and [littleroot](https://nottaro.github.io/littleroot/11Physics/Heat)
+
+## additional: work, power and efficiency notes
+- **open system** allows matter and energy in and out of the system.
+- **closed system** allows energy but not matter.
+- **isolated system** does not allow either energy nor matter.
+- the difference between **heat** and **work** is that heat is the transfer of energy because of a difference in temperature and that work is change in energy when a force is applied over a distance
+- a car's mechanical system would not be 100% efficient because the burning of the fuels produces heat leaving system and enters surroundings.
+- when a system does work on some thing, the system loses energy to surroundings on the thing.

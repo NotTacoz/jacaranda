@@ -3,6 +3,7 @@
   "accentColor": "#bd93f9",
   "cssTheme": "Dracula Official",
   "enabledCssSnippets": [
-    "bold"
+    "bold",
+    "highlightr"
   ]
 }
