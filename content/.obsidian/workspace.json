@@ -21,6 +21,19 @@
             }
           },
           {
+            "id": "f6643352c83fd369",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "notes/english exam notes.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
             "id": "9f12e52beeaabc8a",
             "type": "leaf",
             "state": {
@@ -33,7 +46,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -107,30 +121,16 @@
       }
     ],
     "direction": "horizontal",
-    "width": 271.50390243530273,
-    "collapsed": true
+    "width": 271.50390243530273
   },
   "right": {
     "id": "8bc85ecb066bcf9c",
     "type": "split",
     "children": [
       {
-        "id": "92ba02c4bf8925c0",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "2ff833ea4b32786a",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {}
-            }
-          }
-        ]
-      },
-      {
         "id": "f843a14175e799e0",
         "type": "tabs",
+        "dimension": 33.333333333333336,
         "children": [
           {
             "id": "dc698def70c76caa",
@@ -160,13 +160,22 @@
                 "sortOrder": "frequency"
               }
             }
+          },
+          {
+            "id": "2ff833ea4b32786a",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       },
       {
         "id": "b744d65389e1a7c0",
         "type": "tabs",
+        "dimension": 33.333333333333336,
         "children": [
           {
             "id": "ea5551fd57fee0e7",
@@ -174,7 +183,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "notes/CAP5.md"
+                "file": "notes/english exam notes.md"
               }
             }
           }
@@ -183,6 +192,7 @@
       {
         "id": "84ace3b4dc2574cb",
         "type": "tabs",
+        "dimension": 33.333333333333336,
         "children": [
           {
             "id": "ccb65a9d592ab7ad",
@@ -190,7 +200,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "notes/CAP5.md",
+                "file": "notes/english exam notes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -200,8 +210,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 270.5,
-    "collapsed": true
+    "width": 270.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -217,21 +226,25 @@
       "obsidian-statusbar-pomo:Start pomodoro": false
     }
   },
-  "active": "5441bfc8d7282df7",
+  "active": "f6643352c83fd369",
   "lastOpenFiles": [
+    "notes/archive/AE/CHEMISTRY/lucarelli.md",
+    "notes/english exam notes.md",
+    "notes/CAP5.md",
+    "notes/beetlejuice essay.md",
+    "notes/RV methods.md",
+    "notes/temporary delete later.md",
+    "notes/七五三.md",
+    "notes/RV physics.md",
+    "notes/archive/AE/PHYSICS/heat.md",
+    "notes/images/Screen Shot 2023-10-08 at 6.28.32 pm.png",
+    "notes/images/Screen Shot 2023-10-08 at 6.28.11 pm.png",
     "notes/images/Screen Shot 2023-10-08 at 6.23.23 pm.png",
     "notes/images/Screen Shot 2023-10-08 at 6.18.43 pm.png",
-    "notes/archive/AE/CHEMISTRY/lucarelli.md",
-    "notes/CAP5.md",
     "private/2023-10-06 birthday wishlist.md",
-    "notes/beetlejuice essay.md",
-    "notes/archive/AE/PHYSICS/heat.md",
-    "notes/RV physics.md",
     "notes/RV chemistry.md",
-    "notes/RV methods.md",
     "notes/daily/2023-10-06.md",
     "private/private-note.md",
-    "notes/temporary delete later.md",
     "notes/1.2specificHeatCapacity.md",
     "notes/specificHeatCapacity.md",
     "notes/images/Pasted image 20231004213149.png",
@@ -248,7 +261,6 @@
     "notes/images/Screen Shot 2023-09-29 at 10.58.17 am.png",
     "notes/images/Screen Shot 2023-09-29 at 10.58.11 am.png",
     "notes/daily/2023-09-28.md",
-    "notes/七五三.md",
     "notes/trighardquestions.md",
     "notes/(spec) trig revision.md",
     "templates/tags.md",
@@ -259,9 +271,6 @@
     "private/val/haven",
     "private/val",
     "private",
-    "notes/images/testok.png",
-    "notes/images/kfc keqing burger.png",
-    "notes/images/keqingactually.png",
     "notes/archive/AEold/specialist/feedback",
     "notes/archive/AEold/specialist/lessonnotes",
     "notes/archive/AEold/physics/testnotes",

@@ -10,7 +10,7 @@ date: 2023-09-21
 based off the [[notes/archive/AE/CHEMISTRY/course outline|course outline]]
 
 ## SYMBOLS MEANING
-- + prefix means this is REVISED notes meaning I have rewritten it and it is certified lucarelli and pearson information. if this + is NOT there read the notes with a grain of salt!
+- \+ prefix means this is REVISED notes meaning I have rewritten it and it is certified lucarelli and pearson information. if this + is NOT there read the notes with a grain of salt!
 - @ means the following has been transformed into an ANKI FLASHCARD
 - ! means notes that need more work in addition to memorising (e.g. calculations)
 - $ means extra information (not in course content as far as I know, but it is generally good to study once you are done with the main material)
@@ -78,14 +78,17 @@ based off the [[notes/archive/AE/CHEMISTRY/course outline|course outline]]
 - +117.  Identify some common strong bases, including group 1 and 2 oxides and hydroxides, and some common weak bases, including NH3 and Na2CO3.
 	- ![[notes/images/Screen Shot 2023-10-08 at 6.23.23 pm.png]]
 - 118.  Differentiate between the terms strong and concentrated when used in reference to acids and bases.
-- 119.  Describe and give observations for the reactions of acids and bases, including the reactions between:
+	- strong acid fully disassociates, concentrated just means more particles per unit volume (?)
+- +119.  Describe and give observations for the reactions of acids and bases, including the reactions between:
 	- a.     acids and metals
 	- b.     acids and metal oxides
 	- c.     acids and metal hydroxides
 	- d.     acids and metal carbonates and metal hydrogen carbonates
 	- e.     bases and ammonium salts
 	- f.      bases and non-metal oxides
-- 120.  Write word equations, molecular equations and ionic equations for the reactions listed above.
+- +120.  Write word equations, molecular equations and ionic equations for the reactions listed above.
+	- ![[notes/images/Screen Shot 2023-10-08 at 6.28.11 pm.png]]
+	- ![[notes/images/Screen Shot 2023-10-08 at 6.28.32 pm.png]]
 - 121.  Predict observations for the reactions listed above, clearly describing the reactants and products, any colours involved (see Data Booklet) and any changes observed.
 - 122.  Define the pH scale as a measure of hydrogen ion concentration, and state that it is an inverse logarithmic scale.
 - 123.  Use pH values to classify a solution as acidic, basic or neutral.
@@ -99,9 +102,9 @@ based off the [[notes/archive/AE/CHEMISTRY/course outline|course outline]]
 - 131.  Calculate the pH of a solution formed by mixing solutions of acids and / or bases.
 
 ### Stoichiometry
-- 132.  State that the molar volume of all gases is 22.71 L at STP (0oC and 100 kPa), and use this to calculate the volumes or amount in moles of gases at STP.
-- 133.  Use the mole concept and the molar volume to calculate quantities of gases as reactants of products in a chemical reaction at STP.
-- 134.  Perform stoichiometric calculations in a range of contexts from across year 11, including limiting reagent calculations.
+- !132.  State that the molar volume of all gases is 22.71 L at STP (0oC and 100 kPa), and use this to calculate the volumes or amount in moles of gases at STP.
+- !133.  Use the mole concept and the molar volume to calculate quantities of gases as reactants of products in a chemical reaction at STP.
+- !134.  Perform stoichiometric calculations in a range of contexts from across year 11, including limiting reagent calculations.
 
 ## **Topic 4: CARBON CHEMISTRY & ENERGY**
 

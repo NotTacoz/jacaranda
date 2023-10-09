@@ -306,6 +306,22 @@
       "modifiedDate": 1695871283555,
       "sizeInBytes": 74
     },
+    "notes/english exam notes.md": {
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 90,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.3,
+      "characterCount": 519,
+      "nonWhitespaceCharacterCount": 425,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1696816834107,
+      "modifiedDate": 1696817219215,
+      "sizeInBytes": 641
+    },
     "notes/七五三.md": {
       "isDirectory": false,
       "noteCount": 1,
@@ -353,22 +369,6 @@
       "createdDate": 1695871279266,
       "modifiedDate": 1695871283480,
       "sizeInBytes": 737
-    },
-    "notes/temporary delete later.md": {
-      "isDirectory": false,
-      "noteCount": 1,
-      "wordCount": 1190,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 3.966666666666667,
-      "characterCount": 7475,
-      "nonWhitespaceCharacterCount": 5966,
-      "linkCount": 1,
-      "embedCount": 2,
-      "aliases": null,
-      "createdDate": 1696474463312,
-      "modifiedDate": 1696474468992,
-      "sizeInBytes": 7668
     },
     "notes/stuff needed to review chem cap4.md": {
       "isDirectory": false,
@@ -641,6 +641,38 @@
       "createdDate": 1695871279121,
       "modifiedDate": 1695871283342,
       "sizeInBytes": 628
+    },
+    "notes/images/Screen Shot 2023-10-08 at 6.28.32 pm.png": {
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 0,
+      "wordCountTowardGoal": 0,
+      "wordGoal": 0,
+      "pageCount": 0,
+      "characterCount": 0,
+      "nonWhitespaceCharacterCount": 0,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": [],
+      "createdDate": 1696760914397,
+      "modifiedDate": 1696760914397,
+      "sizeInBytes": 160391
+    },
+    "notes/images/Screen Shot 2023-10-08 at 6.28.11 pm.png": {
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 0,
+      "wordCountTowardGoal": 0,
+      "wordGoal": 0,
+      "pageCount": 0,
+      "characterCount": 0,
+      "nonWhitespaceCharacterCount": 0,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": [],
+      "createdDate": 1696760893054,
+      "modifiedDate": 1696760893054,
+      "sizeInBytes": 515600
     },
     "notes/images/Screen Shot 2023-10-08 at 6.23.23 pm.png": {
       "isDirectory": false,
@@ -3013,18 +3045,18 @@
     "notes/beetlejuice essay.md": {
       "isDirectory": false,
       "noteCount": 1,
-      "wordCount": 1250,
+      "wordCount": 1260,
       "wordCountTowardGoal": 0,
       "wordGoal": null,
-      "pageCount": 4.166666666666667,
-      "characterCount": 8661,
-      "nonWhitespaceCharacterCount": 7375,
+      "pageCount": 4.2,
+      "characterCount": 8719,
+      "nonWhitespaceCharacterCount": 7422,
       "linkCount": 0,
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1695982918185,
-      "modifiedDate": 1696647305864,
-      "sizeInBytes": 8773
+      "modifiedDate": 1696761424231,
+      "sizeInBytes": 8831
     },
     "notes/arithemeticSeries.md": {
       "isDirectory": false,
@@ -5653,18 +5685,18 @@
     "notes/CAP5.md": {
       "isDirectory": false,
       "noteCount": 1,
-      "wordCount": 5034,
+      "wordCount": 5062,
       "wordCountTowardGoal": 0,
       "wordGoal": null,
-      "pageCount": 16.78,
-      "characterCount": 32441,
-      "nonWhitespaceCharacterCount": 26726,
+      "pageCount": 16.873333333333335,
+      "characterCount": 32666,
+      "nonWhitespaceCharacterCount": 26920,
       "linkCount": 11,
-      "embedCount": 12,
+      "embedCount": 14,
       "aliases": null,
       "createdDate": 1695871276545,
-      "modifiedDate": 1696760747625,
-      "sizeInBytes": 32662
+      "modifiedDate": 1696761072587,
+      "sizeInBytes": 32887
     },
     "notes/15-09-23 practice questions.md": {
       "isDirectory": false,

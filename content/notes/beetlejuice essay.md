@@ -11,6 +11,8 @@ date: 2023-09-29
 ### movie
 - lydia deetz - "My whole life is a dark room"
 
+idk talk about family? everyone didnt have a full family
+
 ## new essay
 https://justdreadfull.com/2020/11/22/what-is-beetlejuice-without-beetlejuice-thoughts-on-death-patriarchy-and-capitalism/
 

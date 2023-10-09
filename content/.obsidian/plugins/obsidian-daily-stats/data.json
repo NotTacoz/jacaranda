@@ -107,16 +107,13 @@
     "2023/9/5": 194,
     "2023/9/6": 251,
     "2023/9/7": 137,
-    "2023/9/8": 120
+    "2023/9/8": 168,
+    "2023/9/9": 73
   },
   "todaysWordCount": {
-    "private/2023-10-06 birthday wishlist.md": {
-      "initial": 192,
-      "current": 195
-    },
-    "notes/CAP5.md": {
-      "initial": 4800,
-      "current": 4917
+    "notes/english exam notes.md": {
+      "initial": 10,
+      "current": 83
     }
   }
 }
