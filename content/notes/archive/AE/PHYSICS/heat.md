@@ -1,12 +1,26 @@
 ---
-title: heat
+title: heating processes
 tags:
   - AE
   - heat
   - physics
 date: 2023-10-04
 ---
-## Science Understanding Heating processes
+ ## Science as a Human Endeavour:
+- The development of heating technologies that use conduction, convection, radiation and latent heat have had, and continue to have, significant social, economic and environmental impacts. These technologies include:
+### passive solar design for heating and cooling of buildings
+- passive heating reduces overall energy consumed within the building by taking advantage of natural climate to maintain a comfortable temperature indoors.
+- **insulation** prevents loss by conduction 
+### the development of the refrigerator over time
+- refrigerators make things cold by removing energy from them.
+- modern refrigeration systems are called 'heat pumps' because heat energy is pumped from space being cooled to outside air.
+- ![[notes/images/Screen Shot 2023-10-10 at 10.05.03 am.png|400]]
+- refrigerant circulated around a closed system of pipes by pump.
+- 
+### the use of the sun for heating water
+### engine cooling systems in cars
+
+## Science Understanding:
 ### the kinetic particle model describes matter as consisting of particles in constant motion, except at absolute zero
 - all matter are made up of small particles, particles which are in constant motion, sometimes forming elastic collisions.
 - always in motion, except in absolute zero.
@@ -53,12 +67,64 @@ date: 2023-10-04
 		- through this process, power station convert heat energy into electrical energy by doing work using thermal energy!.
 ### because energy is conserved, the change in internal energy of a system is equal to the energy added by heating, or removed by cooling, plus the work done on or by the system
 - because energy is conserved, the change in internal energy of a system is equal to the energy added by heating, or removed by cooling, plus the work done on or by the system
-### heat transfer occurs between and within systems by conduction, convection and/or radiation
-- heat transfer occurs between and within systems by conduction, convection and/or radiation
 ### energy transfers and transformations in mechanical systems always result in some heat loss to the environment, so that the usable energy is reduced and the system cannot be 100 percent efficient This includes applying the relationship efficiency $\text{efficiency (}\eta \text{)}=\frac{\text{energy output}}{\text{energy input}}\times 100\%$
 - energy transformations are never perfect - theres always some energy lost.  ![[notes/images/Pasted image 20231004212521.png]]
 - **efficiency** is percentage of energy that is effectively transformed by a system.
 - the formula $\text{efficiency (}\eta \text{)}=\frac{\text{energy output}}{\text{energy input}}\times 100\%$ ![[notes/images/Pasted image 20231004213149.png]]
+### heat transfer occurs between and within systems by conduction, convection and/or radiation
+- heat transfer occurs between and within systems by conduction, convection and/or radiation
+- conduction is the process where heat is transferred from one place to another without the net movement of particles.
+- conduction takes place between materials that are in thermal contact.
+- a person holding ice cube, where heat travels from hand to the ice is an example of conduction.
+- all materials conduct heat to some extent, conduction is most significant in solids than liquids, but less significant for gasses
+- a good heat conductor is not necessarily always a good electricity conductor.
+- conduction happens in two ways: energy transfer through molecular or atomic collisions, energy transfer by free electron.
+- **energy transfer through molecular or atomic collision**: since particles in a solid substance are constantly vibrating (kinetic particle model), and interacting with neighbouring particles, if one part of the material is heated, the particles in that region will vibrate more rapidly, and interactions with neighbouring particles pass kinetic energy throughout the system via bonds between particles
+	- ![[notes/images/Screen Shot 2023-10-10 at 9.15.02 am.png|300]]
+	- slow process, since mass of particles is relatively large and vibrational velocities are fairly low.
+	- materials where this method is only method of heat transfer are poor conductors of heat or even thermal insulators
+	- e.g. glass, wood, and paper
+- **energy transfer by free electron**: some materials, particularly metals have electrons not directly involved in one particular chemical bond, thus is able to free to move throughout lattice of positive ions.
+	- if metal is heated, positive ions and free electrons within metal gain extra energy, where even a small gain in energy result in a large gain in velocity.
+	- free electron provides means heat can be transferred through whole material, making this method good thermal conductors.
+- factors affecting it:
+	- nature of materials -> larger a materials thermal conductivity, more rapidly heat energy conducts
+	- temperature difference; greater -> faster rate of energy transfer
+	- thickness -> thicker materials require more collisions
+	- surface area -> surface area (relative to volume of system) increase number of particles involved in transfer process, increasing rate of conduction.
+- =======================================
+- convection is transfer of thermal energy within fluid from movement of hot areas from one place to another.
+- convection involves mass movement of particles unlike conduction and radiation.
+- as fluid is heated, particles within gain kinetic energy and push apart due to increase vibrations, causing density of heated fluid to decrease and heated fluid rises. 
+	- colder fluid, slower moving particles (denser and heavier) falls movingj in taking place of warmer fluid
+	- forming a **convection current**
+	- ![[notes/images/Screen Shot 2023-10-10 at 9.25.44 am.png|300]]
+	- rate of convection is affected by:
+		- temperature difference between heat source and convective fluid.
+		- the surface area exposed to the convective fluid
+		- in a container, placement is important in affecting effectiveness.
+	- forced convection: ducted heating air is heated and then blown into a room
+	- natural convection: fluid rises as it is heated
+- =======================================
+- radiation is a means of transfer of heat without movement of matter.
+	- short for electromagnetic radiation, includes visible, ultraviolet and infrared light.
+	- make up electromagnetic spectrum with other forms of light
+	- radiation travels at speed of light
+	- radiation upon hitting an object, will be partially reflected, partially transmitted and partially **absorbed**.
+	- absorbing radiation transfers thermal energy to the absorbing object and causes rise in temperature.
+	- holding a marshmallow by an open fire, you are using radiation to toast the marshmallow.
+	- radiation is emitted by all objects of temperature above absolute zero. 
+	- wavelength and frequency of radiation depends on internal energy of the object.
+	- higher temperature of the object, higher frequency and shorter wavelength of radiation is emitted.
+	- all objects absorb and emit thermal energy by radiation.
+	- if object absorbs more thermal energy than it emits, its temperature will increase. if object emits more energy than it absorbs, temperature will decrease, no temperature change occurs, the object and its surroundings are in thermal equilibrium.
+	- factors affecting rate of emission and rate of absorption:
+		- surface area - larger surface area, higher rate of radiant transfer.
+		- temperature - greater difference between the temperature of emitting surface and surrounding objects temperature, greater rate of energy transfer.
+		- wavelength of incident radiation - matte black surfaces perfect absorbers of radiant energy at all wavelengths, reflective surfaces are good reflectors of all wavelengths.
+			- silvered surface of an emergency blanket reflects thermal energy back to the body, and retains radiant energy normally lost, good thermal insulation.
+		- surface colour and texture; matte black for cooling down faster since radiate energy as efficient as energy absorption.
+	- thermal imaging device detects radiation emitted by heat.
 
 sources: Pearson and [littleroot](https://nottaro.github.io/littleroot/11Physics/Heat)
 

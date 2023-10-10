@@ -71,6 +71,8 @@ based off the [[notes/archive/AE/CHEMISTRY/course outline|course outline]]
 		- HCl
 		- HNO3
 		- H2SO4
+		- HI
+		- HBr
 	- Weak Acids:
 		- CH3COOH
 		- H3PO4
@@ -89,14 +91,21 @@ based off the [[notes/archive/AE/CHEMISTRY/course outline|course outline]]
 - +120.  Write word equations, molecular equations and ionic equations for the reactions listed above.
 	- ![[notes/images/Screen Shot 2023-10-08 at 6.28.11 pm.png]]
 	- ![[notes/images/Screen Shot 2023-10-08 at 6.28.32 pm.png]]
-- 121.  Predict observations for the reactions listed above, clearly describing the reactants and products, any colours involved (see Data Booklet) and any changes observed.
-- 122.  Define the pH scale as a measure of hydrogen ion concentration, and state that it is an inverse logarithmic scale.
-- 123.  Use pH values to classify a solution as acidic, basic or neutral.
+- !121.  Predict observations for the reactions listed above, clearly describing the reactants and products, any colours involved (see Data Booklet) and any changes observed.
+- +122.  Define the pH scale as a measure of hydrogen ion concentration, and state that it is an inverse logarithmic scale.
+	- pH scale is an inverse logarithmic scale to measure the concentration of hydrogen ions, and thus acid-base characteristics.
+	- higher hydrogen concentration, ie acidic solution, corresponds to a low pH, base solutions have a high pH, pure water is neutral and has a pH of 7
+- +123.  Use pH values to classify a solution as acidic, basic or neutral.
+	- < 7 more acidic
+	- > 7 more basic
+	- ![[notes/images/Screen Shot 2023-10-09 at 5.50.37 pm.png]]
 - 124.  Describe the relationship between pH, acidity and alkalinity of a solution.
 - 125.  Define pH as –log10[H+(aq)], and use this relationship to calculate pH from hydrogen ion concentration, and vice versa.
 - 126.  Define the ionic product of water, Kw, as the product of the hydrogen ion and hydroxide ion concentrations, and state that Kw = 1 x 10-14 at 298 K.
 - 127.  State that a neutral solution is one where H+ ion and OH- ion concentration are equal.
-- 128.  State that the concentrations of H+ and OH- are both 1 x 10-7 mol L-1 at 25 oC.
+	- a neutral solution is one where H+ ion and OH- ion concentration are equal.
+- 128.  State that the concentrations of H+ and OH- are both $1 \times 10^{-7} \text{ molL}^{-1}$ at $25\degree C$.
+	- concentrations of H+ and OH- are both $1 \times 10^{-7} \text{ molL}^{-1}$ at $25\degree C$
 - 129.  Use Kw and the pH expression to calculate the pH of a solution of a strong base.
 - 130.  Use the pH of a strong base to calculate the OH- concentration, H+ concentration and pH of the solution.
 - 131.  Calculate the pH of a solution formed by mixing solutions of acids and / or bases.
@@ -256,10 +265,8 @@ based off the [[notes/archive/AE/CHEMISTRY/course outline|course outline]]
 	- 162.  Use molecular mass and empirical formulae calculations to establish molecular structure.
 		- [[notes/archive/AE/CHEMISTRY/empirical formula calcs|empirical formula calculations]]
 ## **Topic 5: ENERGY & RATE**
-[[notes/archive/AE/CHEMISTRY/rates of reaction (writing a report)|rates of reaction report notes in class :/]]
 
 ### Energy & Enthalpy
-
 - 163.  State that kinetic theory is used to explain the macroscopic behaviour of gases using understanding of the molecular behaviour of particles.
 	- all gases exert pressure and take the space of the container they exist in.
 	- the kinetic theory (current model) states that: 
@@ -288,6 +295,7 @@ based off the [[notes/archive/AE/CHEMISTRY/course outline|course outline]]
 	- Diffusion - gases rapidly diffuse as the particles are moving rapidly and continue to move until they hit something
 	- Compressibility - gases are compressible as there is a large amount of space between the particles
 - 167.  Explain the origin of the Kelvin temperature scale, and state the meaning of the term absolute zero.
+	- (?) absolute zero is the temperature where all movement of particles has stopped.
 - 168.  Convert temperatures between Celsius and Kelvin.
 	- temperature is measure of average kinetic energy of the particles.
 	- temperature of gases is measured in Kelvin (K)

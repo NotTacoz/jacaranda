@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notes/CAP5.md",
+                "file": "notes/english exam notes.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -26,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notes/english exam notes.md",
+                "file": "notes/CAP5.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -34,20 +34,28 @@
             }
           },
           {
-            "id": "9f12e52beeaabc8a",
+            "id": "6d266f81ef4b75a8",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notes/archive/AE/CHEMISTRY/lucarelli.md",
+                "file": "notes/archive/AE/PHYSICS/heat.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
               }
             }
+          },
+          {
+            "id": "62d75e5762499c54",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -77,7 +85,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#english",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -121,7 +129,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 271.50390243530273
+    "width": 271.50390243530273,
+    "collapsed": true
   },
   "right": {
     "id": "8bc85ecb066bcf9c",
@@ -183,7 +192,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "notes/english exam notes.md"
+                "file": "notes/archive/AE/PHYSICS/heat.md"
               }
             }
           }
@@ -200,7 +209,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "notes/english exam notes.md",
+                "file": "notes/archive/AE/PHYSICS/heat.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -210,7 +219,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 270.5
+    "width": 270.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -226,44 +236,43 @@
       "obsidian-statusbar-pomo:Start pomodoro": false
     }
   },
-  "active": "f6643352c83fd369",
+  "active": "6d266f81ef4b75a8",
   "lastOpenFiles": [
-    "notes/archive/AE/CHEMISTRY/lucarelli.md",
-    "notes/english exam notes.md",
     "notes/CAP5.md",
+    "notes/archive/AE/PHYSICS/heat.md",
+    "notes/images/Screen Shot 2023-10-10 at 10.05.03 am.png",
+    "notes/images/Screen Shot 2023-10-10 at 9.25.44 am.png",
+    "notes/images/Screen Shot 2023-10-10 at 9.15.02 am.png",
+    "notes/english exam notes.md",
+    "notes/term 4 responding english exam practices.md",
     "notes/beetlejuice essay.md",
+    "notes/archive/AE/CHEMISTRY/lucarelli.md",
+    "notes/images/Screen Shot 2023-10-09 at 5.50.37 pm.png",
+    "notes/daily/2023-10-06.md",
+    "notes/daily/2023-10-09.md",
+    "notes/archive/AEold/chemistry/notes/chromatography.md",
+    "notes/archive/10/nuclearphysicsidk.md",
+    "notes/beetlejuice.md",
     "notes/RV methods.md",
     "notes/temporary delete later.md",
     "notes/七五三.md",
     "notes/RV physics.md",
-    "notes/archive/AE/PHYSICS/heat.md",
     "notes/images/Screen Shot 2023-10-08 at 6.28.32 pm.png",
     "notes/images/Screen Shot 2023-10-08 at 6.28.11 pm.png",
     "notes/images/Screen Shot 2023-10-08 at 6.23.23 pm.png",
     "notes/images/Screen Shot 2023-10-08 at 6.18.43 pm.png",
     "private/2023-10-06 birthday wishlist.md",
     "notes/RV chemistry.md",
-    "notes/daily/2023-10-06.md",
     "private/private-note.md",
     "notes/1.2specificHeatCapacity.md",
     "notes/specificHeatCapacity.md",
     "notes/images/Pasted image 20231004213149.png",
     "notes/images/Pasted image 20231004213101.png",
-    "notes/images/Pasted image 20231004212521.png",
-    "notes/images/Pasted image 20231004212513.png",
     "notes/structural isomers dispersion force and boiling points.md",
     "notes/stuff needed to review chem cap4.md",
     "notes/thermal equilibrium.md",
     "notes/daily/2023-10-02.md",
     "notes/RV specialist.md",
-    "notes/electrolytes.md",
-    "notes/daily/2023-09-29.md",
-    "notes/images/Screen Shot 2023-09-29 at 10.58.17 am.png",
-    "notes/images/Screen Shot 2023-09-29 at 10.58.11 am.png",
-    "notes/daily/2023-09-28.md",
-    "notes/trighardquestions.md",
-    "notes/(spec) trig revision.md",
-    "templates/tags.md",
     "templates",
     "tags",
     "private/val/split",

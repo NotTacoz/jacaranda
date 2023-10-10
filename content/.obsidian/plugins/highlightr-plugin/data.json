@@ -1,6 +1,6 @@
 {
   "highlighterStyle": "floating",
-  "highlighterMethods": "css-classes",
+  "highlighterMethods": "inline-styles",
   "highlighters": {
     "Pink": "#FFB8EBA6",
     "Red": "#FF5582A6",

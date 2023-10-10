@@ -5,6 +5,7 @@ tags:
   - english
 date: 2023-09-29
 ---
+an essay on [[notes/beetlejuice|beetlejuice]]
 ## quotes
 ### tim burton
 - 
@@ -14,7 +15,7 @@ date: 2023-09-29
 idk talk about family? everyone didnt have a full family
 
 ## new essay
-https://justdreadfull.com/2020/11/22/what-is-beetlejuice-without-beetlejuice-thoughts-on-death-patriarchy-and-capitalism/
+[WHAT IS BEETLEJUICE WITHOUT BEETLEJUICE?: THOUGHTS ON DEATH, PATRIARCHY, AND CAPITALISM.](https://justdreadfull.com/2020/11/22/what-is-beetlejuice-without-beetlejuice-thoughts-on-death-patriarchy-and-capitalism/)
 
 ## essay
 ### beetlejuice
