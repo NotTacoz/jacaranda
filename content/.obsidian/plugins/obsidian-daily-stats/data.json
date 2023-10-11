@@ -109,20 +109,13 @@
     "2023/9/7": 137,
     "2023/9/8": 168,
     "2023/9/9": 506,
-    "2023/9/10": 961
+    "2023/9/10": 961,
+    "2023/9/11": 364
   },
   "todaysWordCount": {
-    "notes/english exam notes.md": {
-      "initial": 322,
-      "current": 397
-    },
     "notes/archive/AE/PHYSICS/heat.md": {
-      "initial": 989,
-      "current": 1873
-    },
-    "notes/CAP5.md": {
-      "initial": 5048,
-      "current": 5050
+      "initial": 1873,
+      "current": 2237
     }
   }
 }

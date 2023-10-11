@@ -21,19 +21,6 @@
             }
           },
           {
-            "id": "f6643352c83fd369",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "notes/CAP5.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
             "id": "6d266f81ef4b75a8",
             "type": "leaf",
             "state": {
@@ -55,7 +42,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -238,12 +225,12 @@
   },
   "active": "6d266f81ef4b75a8",
   "lastOpenFiles": [
+    "notes/english exam notes.md",
     "notes/CAP5.md",
     "notes/archive/AE/PHYSICS/heat.md",
     "notes/images/Screen Shot 2023-10-10 at 10.05.03 am.png",
     "notes/images/Screen Shot 2023-10-10 at 9.25.44 am.png",
     "notes/images/Screen Shot 2023-10-10 at 9.15.02 am.png",
-    "notes/english exam notes.md",
     "notes/term 4 responding english exam practices.md",
     "notes/beetlejuice essay.md",
     "notes/archive/AE/CHEMISTRY/lucarelli.md",

@@ -10,15 +10,37 @@ date: 2023-10-04
 - The development of heating technologies that use conduction, convection, radiation and latent heat have had, and continue to have, significant social, economic and environmental impacts. These technologies include:
 ### passive solar design for heating and cooling of buildings
 - passive heating reduces overall energy consumed within the building by taking advantage of natural climate to maintain a comfortable temperature indoors.
-- **insulation** prevents loss by conduction 
+- **insulation** prevents loss by **conduction** in summer
+	- solid brick walls and concrete slab floors provide large thermal mass, which takes longer to heat up on hot days, and cool down on cold nights.
+- large windows positioned on the northern sides
+	- allows solar energy to warm interior in winter.
+- overhanging eaves/trees provide shade in summer.
+- small windows to the south provide ventilation but reduce heat loss on the shady side of the house.
 ### the development of the refrigerator over time
 - refrigerators make things cold by removing energy from them.
 - modern refrigeration systems are called 'heat pumps' because heat energy is pumped from space being cooled to outside air.
 - ![[notes/images/Screen Shot 2023-10-10 at 10.05.03 am.png|400]]
 - refrigerant circulated around a closed system of pipes by pump.
-- 
+- refrigerators act as heat pumps transferring heat energy from target environment to the "exhaust" - eternal environment
+- coolant (low boiling point liquid) circulated around a closed system of pipes by a pump.
+- pressure inside evaporator pipes is reduced by an expansion valve, causing coolant to evaporate.
+	- evaporation requires energy for change of state, so system will absorb energy from the surrounding air, making the air cooler.
+- in condenser pipes, the process is reversed, where the coolant/refrigerant gas is compressed and condenses to a liquid, which releases energy into surrounding air, so the air gets warmer.
 ### the use of the sun for heating water
+- solar cells make use of free sun energy, transforming radiant energy from sun into electrical energy.
+- or you can use it to heat water.
+- solar camp shower is black plastic container filled with water hung out in sunshine, as dark surfaces absorb more radiant energy than lighter surfaces, black plastic absorbs radiant energy from sun and is converted to thermal energy, which heats the water inside.
+- solar collector panel is place on sunniest side of roof, and connected to water tank.
+- active solar water heater use electrical pumps to move hot water around the system.
+- passive rely on convection currents to move hot water
 ### engine cooling systems in cars
+- car is not efficient, and a lot of energy is released as thermal energy.
+- to avoid overheating, cooling system exist.
+- car has coolant circulating pipes around the engine, absorbing thermal energy generated.
+- hot coolant is pumped away from engine, it removes thermal energy.
+- hot coolant passes through heat exchanger called radiator, which is a series of narrow tubes with high surface area meaning more energy can be radiated.
+- air from outside the car is moved across radiator by fan or airflow from moving car.
+- air is blown across radiator, thermal energy is transferred from coolant to air.
 
 ## Science Understanding:
 ### the kinetic particle model describes matter as consisting of particles in constant motion, except at absolute zero

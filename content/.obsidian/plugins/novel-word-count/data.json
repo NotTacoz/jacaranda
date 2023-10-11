@@ -5029,18 +5029,18 @@
     "notes/archive/AE/PHYSICS/heat.md": {
       "isDirectory": false,
       "noteCount": 1,
-      "wordCount": 1934,
+      "wordCount": 2319,
       "wordCountTowardGoal": 0,
       "wordGoal": null,
-      "pageCount": 6.446666666666666,
-      "characterCount": 12528,
-      "nonWhitespaceCharacterCount": 10512,
+      "pageCount": 7.73,
+      "characterCount": 14811,
+      "nonWhitespaceCharacterCount": 12409,
       "linkCount": 2,
       "embedCount": 5,
       "aliases": null,
       "createdDate": 1695871276548,
-      "modifiedDate": 1696933875790,
-      "sizeInBytes": 12622
+      "modifiedDate": 1696987121253,
+      "sizeInBytes": 14905
     },
     "notes/archive/AE/PHYSICS/electricalPhysics.md": {
       "isDirectory": false,
