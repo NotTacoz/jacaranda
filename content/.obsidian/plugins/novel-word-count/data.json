@@ -165,18 +165,18 @@
     "tags/chemistry.md": {
       "isDirectory": false,
       "noteCount": 1,
-      "wordCount": 0,
+      "wordCount": 21,
       "wordCountTowardGoal": 0,
       "wordGoal": null,
-      "pageCount": 0,
-      "characterCount": 1,
-      "nonWhitespaceCharacterCount": 0,
+      "pageCount": 0.07,
+      "characterCount": 101,
+      "nonWhitespaceCharacterCount": 80,
       "linkCount": 0,
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1695871279309,
-      "modifiedDate": 1695871283572,
-      "sizeInBytes": 74
+      "modifiedDate": 1697095139515,
+      "sizeInBytes": 174
     },
     "tags/ae.md": {
       "isDirectory": false,
@@ -5029,18 +5029,18 @@
     "notes/archive/AE/PHYSICS/heat.md": {
       "isDirectory": false,
       "noteCount": 1,
-      "wordCount": 2319,
+      "wordCount": 2355,
       "wordCountTowardGoal": 0,
       "wordGoal": null,
-      "pageCount": 7.73,
-      "characterCount": 14811,
-      "nonWhitespaceCharacterCount": 12409,
+      "pageCount": 7.85,
+      "characterCount": 15023,
+      "nonWhitespaceCharacterCount": 12585,
       "linkCount": 2,
       "embedCount": 5,
       "aliases": null,
       "createdDate": 1695871276548,
-      "modifiedDate": 1696987121253,
-      "sizeInBytes": 14905
+      "modifiedDate": 1696995437445,
+      "sizeInBytes": 15117
     },
     "notes/archive/AE/PHYSICS/electricalPhysics.md": {
       "isDirectory": false,
@@ -5461,18 +5461,18 @@
     "notes/archive/AE/CHEMISTRY/lucarelli.md": {
       "isDirectory": false,
       "noteCount": 1,
-      "wordCount": 302,
+      "wordCount": 300,
       "wordCountTowardGoal": 0,
       "wordGoal": null,
-      "pageCount": 1.0066666666666666,
-      "characterCount": 1670,
-      "nonWhitespaceCharacterCount": 1365,
+      "pageCount": 1,
+      "characterCount": 1653,
+      "nonWhitespaceCharacterCount": 1352,
       "linkCount": 0,
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1695871276546,
-      "modifiedDate": 1696845601674,
-      "sizeInBytes": 1728
+      "modifiedDate": 1697018873991,
+      "sizeInBytes": 1704
     },
     "notes/archive/AE/CHEMISTRY/kineticEnergy.md": {
       "isDirectory": false,
@@ -5753,14 +5753,14 @@
       "wordCountTowardGoal": 0,
       "wordGoal": null,
       "pageCount": 17.206666666666667,
-      "characterCount": 33235,
-      "nonWhitespaceCharacterCount": 27378,
+      "characterCount": 33245,
+      "nonWhitespaceCharacterCount": 27388,
       "linkCount": 10,
       "embedCount": 15,
       "aliases": null,
       "createdDate": 1695871276545,
-      "modifiedDate": 1696911766688,
-      "sizeInBytes": 33456
+      "modifiedDate": 1697068237215,
+      "sizeInBytes": 33466
     },
     "notes/CAP4.md": {
       "isDirectory": false,

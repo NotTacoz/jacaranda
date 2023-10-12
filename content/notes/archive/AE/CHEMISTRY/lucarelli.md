@@ -3,9 +3,7 @@ title: lucarelli
 tags:
   - AE
   - chemistry
-  - AT
 ---
-	#AE #chemistry 
 ## table of contents for lucarelli
 - chapter 1: a particle view of matter pdf 1, actual 2
 - chapter 2: discovering the atom's structure pdf 11, actual 12

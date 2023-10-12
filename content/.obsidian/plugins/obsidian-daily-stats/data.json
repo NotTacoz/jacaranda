@@ -110,12 +110,17 @@
     "2023/9/8": 168,
     "2023/9/9": 506,
     "2023/9/10": 961,
-    "2023/9/11": 364
+    "2023/9/11": 398,
+    "2023/9/12": 20
   },
   "todaysWordCount": {
-    "notes/archive/AE/PHYSICS/heat.md": {
-      "initial": 1873,
-      "current": 2237
+    "notes/CAP5.md": {
+      "initial": 5050,
+      "current": 5050
+    },
+    "tags/chemistry.md": {
+      "initial": 9,
+      "current": 29
     }
   }
 }

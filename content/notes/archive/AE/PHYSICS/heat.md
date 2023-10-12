@@ -16,6 +16,8 @@ date: 2023-10-04
 	- allows solar energy to warm interior in winter.
 - overhanging eaves/trees provide shade in summer.
 - small windows to the south provide ventilation but reduce heat loss on the shady side of the house.
+- double glazing with air trapped between two windows; air acts as insulator and prevents some heat from being conducted and also stops heat loss from the house.
+- shading reduces amount of sunlight you receive.
 ### the development of the refrigerator over time
 - refrigerators make things cold by removing energy from them.
 - modern refrigeration systems are called 'heat pumps' because heat energy is pumped from space being cooled to outside air.

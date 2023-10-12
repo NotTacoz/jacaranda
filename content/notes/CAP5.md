@@ -301,21 +301,21 @@ based off the [[notes/archive/AE/CHEMISTRY/course outline|course outline]]
 	- temperature of gases is measured in Kelvin (K)
 	- $0\degree C=273.15K$, Degrees Celsius + 273.15 = Kelvin, Kelvin - 273.15 = Degrees Celsius
 - 169.  Use kinetic theory to describe and explain the relationships between pressure, temperature and volume of an ideal gas in a qualitative fashion, (Boyle’s Law, Charles’ Law, and Pressure Law).
-- 170.  Draw and interpret graphs that represent the relationship between pressure, temperature and volume.
-- 171.  State that the relationships between pressure, temperature, volume and number of moles can be combined to give the ideal gas equation, PV = nRT (Use of equation not required).
-- 172.  Describe the internal energy of a system as the sum of the kinetic energy and the potential energy of the particles.
-- 173.  Describe the enthalpy of a system as a measure of the energy stored within a system, and state that it cannot be measured directly.
-- 174.  Describe the enthalpy change of a system as the heat energy exchange with the surroundings.
-- 175.  State that enthalpy and enthalpy change values are given at STP conditions.
+- !170.  Draw and interpret graphs that represent the relationship between pressure, temperature and volume.
+- !171.  State that the relationships between pressure, temperature, volume and number of moles can be combined to give the ideal gas equation, PV = nRT (Use of equation not required).
+- !172.  Describe the internal energy of a system as the sum of the kinetic energy and the potential energy of the particles.
+- !173.  Describe the enthalpy of a system as a measure of the energy stored within a system, and state that it cannot be measured directly.
+- 1174.  Describe the enthalpy change of a system as the heat energy exchange with the surroundings.
+- !175.  State that enthalpy and enthalpy change values are given at STP conditions.
 - 176.  Describe and explain the enthalpy changes in a system in terms of stored (chemical potential) energy of reactants and products, and energy transfer in the form of heat, using the Law of Conservation of Energy.
-- 177.  Describe observable changes in temperature, and use this evidence to establish whether a process is exothermic or endothermic.
+- !177.  Describe observable changes in temperature, and use this evidence to establish whether a process is exothermic or endothermic.
 - 178.  Explain the enthalpy changes in exothermic and endothermic processes in terms of energy input for breaking of existing bonds, and energy output from the formation of new bonds.
 - 179.  Use thermochemical equations to represent the enthalpy changes in chemical reactions.
 - 180.  Draw and interpret enthalpy profile diagrams for exothermic and endothermic reactions using a quantitative scale for enthalpy, including accurate labels for reactants and products, activation energy, enthalpy change and transition state / activated complex.
-- 181.  _Generate experimental temperature data from a reaction, to calculate the enthalpy change per mole of reaction (as stated in the chemical equation), given ∆H = mc∆T, (c = specific heat capacity of solution, assumed to be 4.18 JK-1mol-1). (SIS)_
-- 182.  _Evaluate outcomes from experiments involving enthalpy changes, identify sources of experimental error, and discuss the effect on enthalpy change values calculated. (SIS)_
+- !181.  _Generate experimental temperature data from a reaction, to calculate the enthalpy change per mole of reaction (as stated in the chemical equation), given ∆H = mc∆T, (c = specific heat capacity of solution, assumed to be 4.18 JK-1mol-1). (SIS)_
+- !182.  _Evaluate outcomes from experiments involving enthalpy changes, identify sources of experimental error, and discuss the effect on enthalpy change values calculated. (SIS)_
 - 183.  _Conduct an investigation into choice of fuels for a purpose; propose hypotheses, predict outcomes, collect reliable and valid data, from which conclusions can be drawn. (SIS)_
-- 184.  Use enthalpy change data to compare the energy content or density of fuels, including biofuels.
+- !184.  Use enthalpy change data to compare the energy content or density of fuels, including biofuels.
 
 ### Rate of Reaction
 
@@ -416,7 +416,7 @@ based off the [[notes/archive/AE/CHEMISTRY/course outline|course outline]]
 			- so this means 1. there is a higher rate of reaction or 2. there is a lower temperature (avg kinetic energy of particles in solution)
 			- temperature requires energy, so 2. would reduce the cost of energy.
 - 200.  _Describe how catalysts can be used to reduce negative impact on the environment, for example in catalytic converters. (SHE)_
-	- new cards sold in australia have a catalyst fitted between engine and exhaust pipe
+	- new cars sold in australia have a catalyst fitted between engine and exhaust pipe.
 	- catalysts in cars convert carbon monoxide and nitrogen oxide, formed in the engine, to non-toxic gases carbon dioxide and nitrogen.
 		- $2NO(g)\to N_{2}(g)+O_{2}(g)$
 		- $2CO(g)+O_{2}(g)\to 2CO_{2}(g)$
