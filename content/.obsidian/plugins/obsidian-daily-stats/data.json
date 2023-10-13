@@ -111,16 +111,33 @@
     "2023/9/9": 506,
     "2023/9/10": 961,
     "2023/9/11": 398,
-    "2023/9/12": 20
+    "2023/9/12": 18,
+    "2023/9/13": 296
   },
   "todaysWordCount": {
-    "notes/CAP5.md": {
-      "initial": 5050,
-      "current": 5050
+    "notes/term 4 responding english exam practices.md": {
+      "initial": 97,
+      "current": 353
     },
-    "tags/chemistry.md": {
-      "initial": 9,
-      "current": 29
+    "notes/Untitled.md": {
+      "initial": 7118,
+      "current": 7118
+    },
+    "notes/beetlejuice script.md": {
+      "initial": 7119,
+      "current": 7137
+    },
+    "tags/ae.md": {
+      "initial": 29,
+      "current": 33
+    },
+    "notes/english exam notes.md": {
+      "initial": 394,
+      "current": 395
+    },
+    "notes/daily/2023-10-13.md": {
+      "initial": 10,
+      "current": 27
     }
   }
 }

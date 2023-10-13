@@ -8,33 +8,19 @@
         "type": "tabs",
         "children": [
           {
-            "id": "62d75e5762499c54",
+            "id": "82338835242b741e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notes/CAP5.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "1f0466b2bb50e0e0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "tags/chemistry.md",
+                "file": "notes/beetlejuice script.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -64,7 +50,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#WTCS",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -170,7 +156,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "tags/chemistry.md"
+                "file": "notes/beetlejuice script.md"
               }
             }
           }
@@ -187,7 +173,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "tags/chemistry.md",
+                "file": "notes/beetlejuice script.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -214,8 +200,19 @@
       "obsidian-statusbar-pomo:Start pomodoro": false
     }
   },
-  "active": "1f0466b2bb50e0e0",
+  "active": "82338835242b741e",
   "lastOpenFiles": [
+    "notes/daily/2023-10-13.md",
+    "notes/english exam notes.md",
+    "notes/term 4 responding english exam practices.md",
+    "notes/beetlejuice script.md",
+    "tags/ae.md",
+    "tags/chemistry.md",
+    "notes/beetlejuice essay.md",
+    "notes/CAP5.md",
+    "notes/RV physics.md",
+    "notes/archive/AE/PHYSICS/heat.md",
+    "notes/latent heat.md",
     "tags/specialist.md",
     "tags/methods.md",
     "notes/SIS Hazard Risk and Minimising Risk.md",
@@ -223,29 +220,18 @@
     "notes/15-09-23 practice questions.md",
     "notes/1.2specificHeatCapacity.md",
     "notes/(spec) trig revision.md",
-    "notes/CAP5.md",
     "notes/electrolytes.md",
-    "notes/english exam notes.md",
     "notes/archive/AE/CHEMISTRY/lucarelli.md",
     "notes/RV methods.md",
     "notes/arithemeticSeries.md",
     "notes/linear factors of quadratic polynomials.md",
     "notes/七五三.md",
-    "notes/RV physics.md",
-    "notes/beetlejuice essay.md",
     "notes/RV specialist.md",
     "notes/RV chemistry.md",
-    "notes/archive/AE/PHYSICS/heat.md",
     "notes/images/Screen Shot 2023-10-10 at 10.05.03 am.png",
     "notes/images/Screen Shot 2023-10-10 at 9.25.44 am.png",
     "notes/images/Screen Shot 2023-10-10 at 9.15.02 am.png",
-    "notes/term 4 responding english exam practices.md",
     "notes/images/Screen Shot 2023-10-09 at 5.50.37 pm.png",
-    "notes/daily/2023-10-06.md",
-    "notes/daily/2023-10-09.md",
-    "notes/archive/AEold/chemistry/notes/chromatography.md",
-    "notes/archive/10/nuclearphysicsidk.md",
-    "notes/beetlejuice.md",
     "notes/images/Screen Shot 2023-10-08 at 6.28.32 pm.png",
     "notes/images/Screen Shot 2023-10-08 at 6.28.11 pm.png",
     "notes/images/Screen Shot 2023-10-08 at 6.23.23 pm.png",

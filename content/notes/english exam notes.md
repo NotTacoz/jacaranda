@@ -3,9 +3,7 @@ title: english exam notes
 tags:
   - AE
   - english
-  - comprehension
-  - responding
-  - composing
+  - exam
 date: 2023-10-09
 ---
 ## exam structure notes:
