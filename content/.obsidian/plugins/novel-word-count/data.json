@@ -389,18 +389,18 @@
     "notes/term 4 responding english exam practices.md": {
       "isDirectory": false,
       "noteCount": 1,
-      "wordCount": 321,
+      "wordCount": 888,
       "wordCountTowardGoal": 0,
       "wordGoal": null,
-      "pageCount": 1.07,
-      "characterCount": 2254,
-      "nonWhitespaceCharacterCount": 1930,
+      "pageCount": 2.96,
+      "characterCount": 5657,
+      "nonWhitespaceCharacterCount": 4763,
       "linkCount": 3,
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1696818647584,
-      "modifiedDate": 1697168553212,
-      "sizeInBytes": 2355
+      "modifiedDate": 1697175572552,
+      "sizeInBytes": 5769
     },
     "notes/stuff needed to review chem cap4.md": {
       "isDirectory": false,
@@ -2545,6 +2545,22 @@
       "createdDate": 1695871276560,
       "modifiedDate": 1695871277774,
       "sizeInBytes": 378
+    },
+    "notes/daily/2023-10-14.md": {
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 47,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.15666666666666668,
+      "characterCount": 231,
+      "nonWhitespaceCharacterCount": 184,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1697253886071,
+      "modifiedDate": 1697253922072,
+      "sizeInBytes": 289
     },
     "notes/daily/2023-10-13.md": {
       "isDirectory": false,
@@ -5109,18 +5125,18 @@
     "notes/archive/AE/PHYSICS/heat.md": {
       "isDirectory": false,
       "noteCount": 1,
-      "wordCount": 2355,
+      "wordCount": 2747,
       "wordCountTowardGoal": 0,
       "wordGoal": null,
-      "pageCount": 7.85,
-      "characterCount": 15023,
-      "nonWhitespaceCharacterCount": 12585,
+      "pageCount": 9.156666666666666,
+      "characterCount": 17400,
+      "nonWhitespaceCharacterCount": 14567,
       "linkCount": 2,
       "embedCount": 5,
       "aliases": null,
       "createdDate": 1695871276548,
-      "modifiedDate": 1696995437445,
-      "sizeInBytes": 15117
+      "modifiedDate": 1697283273248,
+      "sizeInBytes": 17494
     },
     "notes/archive/AE/PHYSICS/electricalPhysics.md": {
       "isDirectory": false,
@@ -5749,18 +5765,18 @@
     "notes/RV physics.md": {
       "isDirectory": false,
       "noteCount": 1,
-      "wordCount": 868,
+      "wordCount": 1974,
       "wordCountTowardGoal": 0,
       "wordGoal": null,
-      "pageCount": 2.8933333333333335,
-      "characterCount": 5486,
-      "nonWhitespaceCharacterCount": 4609,
-      "linkCount": 3,
+      "pageCount": 6.58,
+      "characterCount": 12038,
+      "nonWhitespaceCharacterCount": 10012,
+      "linkCount": 0,
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1695871276545,
-      "modifiedDate": 1695907144500,
-      "sizeInBytes": 5571
+      "modifiedDate": 1697284263825,
+      "sizeInBytes": 12231
     },
     "notes/RV methods.md": {
       "isDirectory": false,

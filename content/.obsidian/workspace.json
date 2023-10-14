@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "42d65cc54bd56177",
+        "id": "fe1ab5815b6f700a",
         "type": "tabs",
         "children": [
           {
-            "id": "82338835242b741e",
+            "id": "21c0d8d8c640273a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notes/beetlejuice script.md",
+                "file": "notes/RV physics.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -75,7 +75,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 2
       },
       {
         "id": "57f26b66d7acceda",
@@ -94,7 +95,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 271.50390243530273
+    "width": 271.50390243530273,
+    "collapsed": true
   },
   "right": {
     "id": "8bc85ecb066bcf9c",
@@ -155,9 +157,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "notes/beetlejuice script.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -173,7 +173,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "notes/beetlejuice script.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -196,22 +195,24 @@
       "command-palette:Open command palette": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
       "templater-obsidian:Templater": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false,
-      "obsidian-statusbar-pomo:Start pomodoro": false
+      "obsidian-statusbar-pomo:Start pomodoro": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "82338835242b741e",
+  "active": "2ff833ea4b32786a",
   "lastOpenFiles": [
-    "notes/daily/2023-10-13.md",
-    "notes/english exam notes.md",
-    "notes/term 4 responding english exam practices.md",
+    "notes/RV physics.md",
+    "notes/archive/AEold/physics/testnotes/CAP1.md",
+    "notes/archive/AE/PHYSICS/heat.md",
     "notes/beetlejuice script.md",
+    "notes/daily/2023-10-14.md",
+    "notes/term 4 responding english exam practices.md",
+    "notes/english exam notes.md",
+    "notes/daily/2023-10-13.md",
     "tags/ae.md",
     "tags/chemistry.md",
     "notes/beetlejuice essay.md",
     "notes/CAP5.md",
-    "notes/RV physics.md",
-    "notes/archive/AE/PHYSICS/heat.md",
     "notes/latent heat.md",
     "tags/specialist.md",
     "tags/methods.md",
@@ -226,8 +227,6 @@
     "notes/arithemeticSeries.md",
     "notes/linear factors of quadratic polynomials.md",
     "notes/七五三.md",
-    "notes/RV specialist.md",
-    "notes/RV chemistry.md",
     "notes/images/Screen Shot 2023-10-10 at 10.05.03 am.png",
     "notes/images/Screen Shot 2023-10-10 at 9.25.44 am.png",
     "notes/images/Screen Shot 2023-10-10 at 9.15.02 am.png",
