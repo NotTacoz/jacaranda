@@ -5765,18 +5765,18 @@
     "notes/RV physics.md": {
       "isDirectory": false,
       "noteCount": 1,
-      "wordCount": 1974,
+      "wordCount": 2010,
       "wordCountTowardGoal": 0,
       "wordGoal": null,
-      "pageCount": 6.58,
-      "characterCount": 12038,
-      "nonWhitespaceCharacterCount": 10012,
+      "pageCount": 6.7,
+      "characterCount": 12240,
+      "nonWhitespaceCharacterCount": 10178,
       "linkCount": 0,
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1695871276545,
-      "modifiedDate": 1697284263825,
-      "sizeInBytes": 12231
+      "modifiedDate": 1697285296142,
+      "sizeInBytes": 12355
     },
     "notes/RV methods.md": {
       "isDirectory": false,
