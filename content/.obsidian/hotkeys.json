@@ -109,5 +109,14 @@
       ],
       "key": "H"
     }
+  ],
+  "auto-note-mover:Move-the-note": [
+    {
+      "modifiers": [
+        "Mod",
+        "Shift"
+      ],
+      "key": "O"
+    }
   ]
 }

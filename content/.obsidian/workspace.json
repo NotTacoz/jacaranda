@@ -4,34 +4,34 @@
     "type": "split",
     "children": [
       {
-        "id": "fe1ab5815b6f700a",
+        "id": "6d955969944598bc",
         "type": "tabs",
-        "dimension": 40.90395480225989,
         "children": [
           {
-            "id": "21c0d8d8c640273a",
+            "id": "b0f4b599886e8750",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "notes/AE/physics/INVESTIGATION1.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
             }
-          }
-        ]
-      },
-      {
-        "id": "ac3191348bf28142",
-        "type": "tabs",
-        "dimension": 59.09604519774011,
-        "children": [
+          },
           {
-            "id": "566b42eb67b17e4e",
+            "id": "4e9e39b9a3451e2e",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "kanban",
+              "state": {
+                "file": "notes/AE/chemistry/chemistry 1.md"
+              }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -79,14 +79,15 @@
             }
           },
           {
-            "id": "0771c94b4efcf1f1",
+            "id": "f6aea39b3fa77d57",
             "type": "leaf",
             "state": {
               "type": "tagfolder-view",
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 3
       },
       {
         "id": "57f26b66d7acceda",
@@ -166,7 +167,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "notes/AE/chemistry/chemistry 1.md"
+              }
             }
           }
         ]
@@ -182,6 +185,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "notes/AE/chemistry/chemistry 1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -208,41 +212,44 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "820dba45297cc020",
+  "active": "f6aea39b3fa77d57",
   "lastOpenFiles": [
-    "_index.md",
-    "empty.md",
-    "templates/tags.md",
-    "templates/post.md",
-    "templates/daily.md",
+    "notes/daily/2023-05-03.md",
+    "notes/archive/daily/DAILY.md",
+    "notes/daily/2023-04-25.md",
+    "notes/archive/notes.md",
+    "notes/archive/_indexOld.md",
+    "notes/daily/2023-03-07.md",
+    "notes/daily/2023-04-08.md",
+    "notes/AE/chemistry/lessonnotes/T2W3L2.md",
+    "notes/helloWorld.md",
+    "notes/AE/methods/indexLaws.md",
+    "notes/AE/japanese/日本の季節.md",
+    "notes/AE/specialist/feedback/CAP1-FEEDBACK.md",
+    "notes/AE/physics/INVESTIGATION1.md",
+    "notes/AE/english/ANALYSING-TEXTS.md",
+    "notes/AE/english/WTCS-PRAC1.md",
+    "notes/AE/english/WTCS-THE-OTHER.md",
+    "notes/notes.md",
+    "notes/AE/physics/circuitsInvestigation.md",
+    "notes/AE/physics/electricalPhysics.md",
+    "notes/AE/physics/nuclearPhysics.md",
+    "notes/AE/physics/physicsReview.md",
+    "notes/AE/physics/reportChecklist.md",
+    "notes/AE/physics/researchAssignment1.md",
+    "notes/AE/specialist/inductionProof.md",
+    "notes/AE/specialist/investigation.md",
+    "notes/AE/specialist/matrices.md",
+    "notes/AE",
+    "notes/AE/methods",
+    "notes/AE/specialist",
+    "notes/AE/japanese",
+    "notes/AE/english",
+    "notes/AE/chemistry",
+    "notes/AE/physics",
     "templates",
-    "private/val/split/tenzJett.md",
-    "private/val/haven/selfJett.md",
-    "private/val/haven/foxy9Jett.md",
-    "private/val/lotus/asunaJett.md",
     "private/val/split",
-    "private/val/navigation.md",
     "private/val/haven",
-    "private/val/lotus",
-    "private/val",
-    "private/private-note.md",
-    "private/2023-10-06 birthday wishlist.md",
-    "private",
-    "notes/term 4 responding english exam practices.md",
-    "notes/CAP5.md",
-    "notes/catalyst.md",
-    "notes/beetlejuice script.md",
-    "notes/random english analysis.md",
-    "notes/七五三.md",
-    "notes/english composing plan.md",
-    "notes/mandelbrot set.md",
-    "notes/structural isomers dispersion force and boiling points.md",
-    "notes/RV chemistry.md",
-    "notes/CAP4.md",
-    "notes/english draft feedback.md",
-    "notes/imaginary numbers.md",
-    "notes/1.2specificHeatCapacity.md",
-    "notes/daily",
     "notes/images/Screen Shot 2023-08-21 at 2.28.30 pm.png",
     "notes/images/Screen Shot 2023-10-15 at 7.20.32 pm.png",
     "notes/images/Pasted image 20230302120119.png",
@@ -253,9 +260,6 @@
     "notes/images/Screen Shot 2023-08-09 at 5.55.10 pm.png",
     "notes/images/Screen Shot 2023-03-14 at 1.51.10 pm.png",
     "notes/images/Screen Shot 2023-03-17 at 1.56.45 pm.png",
-    "notes/images",
-    "notes/archive/AEold/physics/testnotes",
-    "notes/archive/AEold/physics/pearson",
     "Untitled.canvas",
     "Untitled 2.canvas",
     "Untitled 1.canvas"

@@ -1,0 +1,54 @@
+{
+  "trigger_auto_manual": "Automatic",
+  "use_regex_to_check_for_tags": false,
+  "statusBar_trigger_indicator": false,
+  "folder_tag_pattern": [
+    {
+      "folder": "notes/AE/specialist",
+      "tag": "#specialist",
+      "pattern": ""
+    },
+    {
+      "folder": "notes/AE/chemistry",
+      "tag": "#chemistry",
+      "pattern": ""
+    },
+    {
+      "folder": "notes/AE/methods",
+      "tag": "#methods",
+      "pattern": ""
+    },
+    {
+      "folder": "notes/AE/physics",
+      "tag": "#physics",
+      "pattern": ""
+    },
+    {
+      "folder": "notes/AE/english",
+      "tag": "#english",
+      "pattern": ""
+    },
+    {
+      "folder": "notes/AE/japanese",
+      "tag": "#japanese",
+      "pattern": ""
+    },
+    {
+      "folder": "notes/daily",
+      "tag": "#daily",
+      "pattern": ""
+    }
+  ],
+  "use_regex_to_check_for_excluded_folder": true,
+  "excluded_folder": [
+    {
+      "folder": "notes/10"
+    },
+    {
+      "folder": "tags"
+    },
+    {
+      "folder": "notes/AE"
+    }
+  ]
+}
