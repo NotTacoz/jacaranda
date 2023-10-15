@@ -12,40 +12,11 @@
             "id": "21c0d8d8c640273a",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "notes/RV physics.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "301a94d202ff52d8",
-            "type": "leaf",
-            "state": {
-              "type": "kanban",
-              "state": {
-                "file": "notes/chemistry.md"
-              }
-            }
-          },
-          {
-            "id": "7b5fdae2ace1f80b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "notes/RV chemistry.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
-        ],
-        "currentTab": 2
+        ]
       },
       {
         "id": "ac3191348bf28142",
@@ -56,13 +27,8 @@
             "id": "566b42eb67b17e4e",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "notes/daily/2023-10-15.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -139,8 +105,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 271.50390243530273,
-    "collapsed": true
+    "width": 271.50390243530273
   },
   "right": {
     "id": "8bc85ecb066bcf9c",
@@ -201,9 +166,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "notes/daily/2023-10-15.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -219,7 +182,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "notes/daily/2023-10-15.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -246,54 +208,54 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "566b42eb67b17e4e",
+  "active": "21c0d8d8c640273a",
   "lastOpenFiles": [
-    "notes/images/Screen Shot 2023-10-15 at 8.55.42 pm.png",
-    "notes/images/Screen Shot 2023-10-15 at 7.20.32 pm.png",
-    "notes/chemistry.md",
-    "notes/daily/2023-10-15.md",
-    "notes/RV chemistry.md",
-    "notes/RV physics.md",
-    "notes/archive/AE/CHEMISTRY/course outline.md",
-    "kanban",
-    "notes/CAP5.md",
-    "notes/archive/AEold/chemistry/lessonnotes/CAP1CHECKLIST.md",
-    "notes/CAP4.md",
-    "notes/archive/AE/CHEMISTRY/CAP3.md",
-    "notes/archive/AEold/chemistry/testnotes/CAP2.md",
-    "notes/archive/AEold/physics/testnotes/CAP1.md",
-    "notes/archive/AE/PHYSICS/heat.md",
-    "notes/beetlejuice script.md",
-    "notes/daily/2023-10-14.md",
-    "notes/term 4 responding english exam practices.md",
-    "notes/english exam notes.md",
-    "notes/daily/2023-10-13.md",
-    "tags/ae.md",
-    "tags/chemistry.md",
-    "notes/beetlejuice essay.md",
-    "notes/latent heat.md",
-    "tags/specialist.md",
-    "tags/methods.md",
-    "notes/SIS Hazard Risk and Minimising Risk.md",
-    "notes/15-09-23 practice questions.md",
-    "notes/images/Screen Shot 2023-10-10 at 10.05.03 am.png",
-    "notes/images/Screen Shot 2023-10-10 at 9.25.44 am.png",
-    "notes/images/Screen Shot 2023-10-10 at 9.15.02 am.png",
-    "notes/images/Screen Shot 2023-10-09 at 5.50.37 pm.png",
-    "notes/images/Screen Shot 2023-10-08 at 6.28.32 pm.png",
-    "notes/images/Screen Shot 2023-10-08 at 6.28.11 pm.png",
-    "notes/images/Screen Shot 2023-10-08 at 6.23.23 pm.png",
-    "notes/images/Screen Shot 2023-10-08 at 6.18.43 pm.png",
-    "notes/images/Pasted image 20231004213149.png",
+    "_index.md",
+    "empty.md",
+    "templates/tags.md",
+    "templates/post.md",
+    "templates/daily.md",
     "templates",
-    "tags",
+    "kanban",
+    "private/val/split/tenzJett.md",
+    "private/val/lotus/asunaJett.md",
+    "private/val/haven/selfJett.md",
+    "private/val/haven/foxy9Jett.md",
     "private/val/split",
+    "private/val/navigation.md",
     "private/val/lotus",
     "private/val/haven",
     "private/val",
+    "private/private-note.md",
+    "private/2023-10-06 birthday wishlist.md",
     "private",
-    "notes/archive/AEold/specialist/feedback",
-    "notes/archive/AEold/specialist/lessonnotes",
+    "notes/term 4 responding english exam practices.md",
+    "notes/CAP5.md",
+    "notes/catalyst.md",
+    "notes/beetlejuice script.md",
+    "notes/random english analysis.md",
+    "notes/七五三.md",
+    "notes/english composing plan.md",
+    "notes/mandelbrot set.md",
+    "notes/structural isomers dispersion force and boiling points.md",
+    "notes/RV chemistry.md",
+    "notes/CAP4.md",
+    "notes/english draft feedback.md",
+    "notes/imaginary numbers.md",
+    "notes/1.2specificHeatCapacity.md",
+    "notes/daily",
+    "notes/images/Screen Shot 2023-08-21 at 2.28.30 pm.png",
+    "notes/images/Screen Shot 2023-10-15 at 7.20.32 pm.png",
+    "notes/images/Pasted image 20230302120119.png",
+    "notes/images/Screen Shot 2023-08-14 at 9.13.04 am.png",
+    "notes/images/Pasted image 20230509130147.png",
+    "notes/images/Pasted Image 20230913184250_004.jpg",
+    "notes/images/Screen Shot 2023-03-14 at 1.45.02 pm.png",
+    "notes/images/Screen Shot 2023-08-09 at 5.55.10 pm.png",
+    "notes/images/Screen Shot 2023-03-14 at 1.51.10 pm.png",
+    "notes/images/Screen Shot 2023-03-17 at 1.56.45 pm.png",
+    "notes/images",
+    "notes/archive/AEold/physics/testnotes",
     "Untitled.canvas",
     "Untitled 2.canvas",
     "Untitled 1.canvas"

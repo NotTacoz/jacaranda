@@ -1,0 +1,29 @@
+---
+title: term 4 english exam practices
+tags:
+  - AE
+  - english
+  - responding
+date: 2023-10-09
+---
+an [[notes/beetlejuice essay|essay]] on [[notes/beetlejuice|beetlejuice]] for the [[notes/english exam notes|english exam]]
+
+isolationists > country vs city > family
+- The Maitlands adore their home. In the beginning of the film, they are about to embark on a long stay-at-home vacation, and the prospect of holing up in their house delights them. After they die, they don't mind at all that they are required to haunt it for the next one hundred and twenty five years—after all, there is really no place they would rather be—but they _are_ very protective of it and cannot stand seeing the Deetzes move in and systematically change everything. They might be ghosts, but Barbara and Adam remain fiercely protective of their home. Thus a comic struggle arises. While viewers are used to the trope of an unfriendly ghost, rarely does one imagine that the reason for the unfriendliness might be the ghosts’ distaste for the design scheme. The film takes a generally dim view of realtors and developers in general. Indeed, the Deetzes don't see the house as a home but as an investment, and [Jane](https://www.gradesaver.com/beetlejuice/study-guide/character-list#jane), the realtor, is insensitive and grasping, badgering the Maitlands to sell a house that they clearly love. The Maitlands’ love for their home illuminates the theme of loving and caring about what really matters, rather than getting preoccupied with opportunism and appearances.
+- Part of what makes the Maitlands and the Deetzes such incompatible housemates is not simply the fact that the Maitlands are ghosts and the Deetzes are living, but also that the Maitlands have simple and pure tastes and desires reflective of their life in the country, while the Deetzes are pretentious city dwellers with trendy taste. Delia Deetz is not willing to integrate into country living, and insists on redecorating the charming farmhouse to reflect her urbane tastes. Additionally, where Adam and Barbara were happy with the slow pace of their existence in the country, Charles struggles to relax and cannot look around without seeing a business opportunity, a symptom of his urban background. The film can thus be seen as a kind of allegory for the incompatibilities between city and country, and the struggle between urban complication and rural simplicity.
+- The theme of family is a surprisingly important theme in a movie about demons and the dead. As the movie progresses, it becomes increasingly clear that the deceased Maitlands actually provide a more stable parental unit for Lydia than her own, living, parental figures. The Maitlands are concerned for her welfare, listen to her and seem to take the trouble to get to know her, which is not something that her parents seem particularly keen to do. Preoccupied with her social standing and her own art career, Delia Deetz thinks that Lydia's angst is a waste of energy and a way of getting attention, rather than a manifestation of her depression, and a cry for help. The Deetzes are a parody of the fractured family, one in which the parents and children don't understand one another, and where the appearance of harmony is more important than real love. By the end of the film, the Maitlands and the Deetzes agree to live alongside one another in harmony in the house, providing Lydia with two sets of parents. With a strong familial base in place at home, Lydia's stability has improved and she has become a happy, well-adjusted kid, showcasing the importance of a strong family base as an important theme.
+## Discuss how the resolution of a text you have studied encourages audiences to respond in a specific way
+The resolution of <u>Beetlejuice</u> encourages audience to respond in acceptance towards developing family-like relationship with people wh o are characteristically and physically different.
+
+**The dichotomy of the Maitlands and the Deetz family is highlighted through Burton's employment of .........,** 
+encouraging the audience to 
+(how audience is encouraged in a specific way)
+- The Maitland are isolationists, quiet townsfolk who enjoy spending time with only their loved ones, and not interested in social affairs.
+-  Barbara Maitland's comment on Jane, a real estate agent, to <mark style="background: #FFFD00B0;">"leave [them] alone [at home]"</mark> demonstrates the Maitland's unwelcoming attitude towards outsiders like Jane.
+- This juxtaposes with the Deetz family. When the Deetz settle into the house, they host a <mark style="background: #FFFD00B0;">"dinner party"</mark> <mark style="background: #FFFD00B0;">"for seven people."</mark>
+- This is further emphasised with how both families view style. Both the Maitland and Deetz family have an obsession with style, but it differs from who they want to present.
+- The Maitland express their style through decorating the house with wallpapers and Adam's model of the entire town.
+- This contrasts with the Deetz family, in which Delia expresses that if <mark style="background: #FFFD00B0;">"you cover the wallpaper ... this place might be liveable."</mark> The connotation of liveable if the wallpaper is covered highlights the dissatisfaction and contrasting styles.
+- The Deetz decorates and expresses their style for social status. Delia Deetz expresses her style through her sculptures. Her sculpts are not for herself, but to garner praise from people of high status in the art world, illustrated when she states <mark style="background: #FFFD00B0;">"My agent, Bernard, is bringing a woman who writes for Art in America.  "</mark>
+- Whilst the Maitland's crafts and decorations are reserved for themselves, the Deetz likes to boast (?)
+**Link Sentence**
