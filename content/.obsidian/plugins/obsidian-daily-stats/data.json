@@ -113,20 +113,21 @@
     "2023/9/11": 398,
     "2023/9/12": 18,
     "2023/9/13": 876,
-    "2023/9/14": 1437
+    "2023/9/14": 1437,
+    "2023/9/15": 36
   },
   "todaysWordCount": {
-    "notes/daily/2023-10-14.md": {
-      "initial": 10,
-      "current": 52
+    "notes/RV chemistry.md": {
+      "initial": 4097,
+      "current": 3997
     },
-    "notes/RV physics.md": {
-      "initial": 671,
-      "current": 1875
+    "notes/archive/AE/CHEMISTRY/course outline.md": {
+      "initial": 3989,
+      "current": 3990
     },
-    "notes/archive/AE/PHYSICS/heat.md": {
-      "initial": 2451,
-      "current": 2642
+    "notes/daily/2023-10-15.md": {
+      "initial": 11,
+      "current": 46
     }
   }
 }

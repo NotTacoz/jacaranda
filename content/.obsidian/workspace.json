@@ -6,6 +6,7 @@
       {
         "id": "fe1ab5815b6f700a",
         "type": "tabs",
+        "dimension": 40.90395480225989,
         "children": [
           {
             "id": "21c0d8d8c640273a",
@@ -14,6 +15,50 @@
               "type": "markdown",
               "state": {
                 "file": "notes/RV physics.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "301a94d202ff52d8",
+            "type": "leaf",
+            "state": {
+              "type": "kanban",
+              "state": {
+                "file": "notes/chemistry.md"
+              }
+            }
+          },
+          {
+            "id": "7b5fdae2ace1f80b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "notes/RV chemistry.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 2
+      },
+      {
+        "id": "ac3191348bf28142",
+        "type": "tabs",
+        "dimension": 59.09604519774011,
+        "children": [
+          {
+            "id": "566b42eb67b17e4e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "notes/daily/2023-10-15.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -75,8 +120,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 2
+        ]
       },
       {
         "id": "57f26b66d7acceda",
@@ -157,7 +201,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "notes/daily/2023-10-15.md"
+              }
             }
           }
         ]
@@ -173,6 +219,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "notes/daily/2023-10-15.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -199,9 +246,21 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "2ff833ea4b32786a",
+  "active": "566b42eb67b17e4e",
   "lastOpenFiles": [
+    "notes/images/Screen Shot 2023-10-15 at 8.55.42 pm.png",
+    "notes/images/Screen Shot 2023-10-15 at 7.20.32 pm.png",
+    "notes/chemistry.md",
+    "notes/daily/2023-10-15.md",
+    "notes/RV chemistry.md",
     "notes/RV physics.md",
+    "notes/archive/AE/CHEMISTRY/course outline.md",
+    "kanban",
+    "notes/CAP5.md",
+    "notes/archive/AEold/chemistry/lessonnotes/CAP1CHECKLIST.md",
+    "notes/CAP4.md",
+    "notes/archive/AE/CHEMISTRY/CAP3.md",
+    "notes/archive/AEold/chemistry/testnotes/CAP2.md",
     "notes/archive/AEold/physics/testnotes/CAP1.md",
     "notes/archive/AE/PHYSICS/heat.md",
     "notes/beetlejuice script.md",
@@ -212,21 +271,11 @@
     "tags/ae.md",
     "tags/chemistry.md",
     "notes/beetlejuice essay.md",
-    "notes/CAP5.md",
     "notes/latent heat.md",
     "tags/specialist.md",
     "tags/methods.md",
     "notes/SIS Hazard Risk and Minimising Risk.md",
-    "notes/CAP4.md",
     "notes/15-09-23 practice questions.md",
-    "notes/1.2specificHeatCapacity.md",
-    "notes/(spec) trig revision.md",
-    "notes/electrolytes.md",
-    "notes/archive/AE/CHEMISTRY/lucarelli.md",
-    "notes/RV methods.md",
-    "notes/arithemeticSeries.md",
-    "notes/linear factors of quadratic polynomials.md",
-    "notes/七五三.md",
     "notes/images/Screen Shot 2023-10-10 at 10.05.03 am.png",
     "notes/images/Screen Shot 2023-10-10 at 9.25.44 am.png",
     "notes/images/Screen Shot 2023-10-10 at 9.15.02 am.png",
@@ -236,7 +285,6 @@
     "notes/images/Screen Shot 2023-10-08 at 6.23.23 pm.png",
     "notes/images/Screen Shot 2023-10-08 at 6.18.43 pm.png",
     "notes/images/Pasted image 20231004213149.png",
-    "notes/images/Pasted image 20231004213101.png",
     "templates",
     "tags",
     "private/val/split",
@@ -246,7 +294,6 @@
     "private",
     "notes/archive/AEold/specialist/feedback",
     "notes/archive/AEold/specialist/lessonnotes",
-    "notes/archive/AEold/physics/testnotes",
     "Untitled.canvas",
     "Untitled 2.canvas",
     "Untitled 1.canvas"

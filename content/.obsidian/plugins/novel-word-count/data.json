@@ -322,6 +322,22 @@
       "modifiedDate": 1696729061824,
       "sizeInBytes": 1268
     },
+    "notes/chemistry.md": {
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 806,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 2.6866666666666665,
+      "characterCount": 2114,
+      "nonWhitespaceCharacterCount": 1289,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1697339245115,
+      "modifiedDate": 1697358713030,
+      "sizeInBytes": 2144
+    },
     "notes/beetlejuice script.md": {
       "isDirectory": false,
       "noteCount": 1,
@@ -673,6 +689,38 @@
       "createdDate": 1695871279121,
       "modifiedDate": 1695871283342,
       "sizeInBytes": 628
+    },
+    "notes/images/Screen Shot 2023-10-15 at 8.55.42 pm.png": {
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 0,
+      "wordCountTowardGoal": 0,
+      "wordGoal": 0,
+      "pageCount": 0,
+      "characterCount": 0,
+      "nonWhitespaceCharacterCount": 0,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": [],
+      "createdDate": 1697374544238,
+      "modifiedDate": 1697374544240,
+      "sizeInBytes": 558724
+    },
+    "notes/images/Screen Shot 2023-10-15 at 7.20.32 pm.png": {
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 0,
+      "wordCountTowardGoal": 0,
+      "wordGoal": 0,
+      "pageCount": 0,
+      "characterCount": 0,
+      "nonWhitespaceCharacterCount": 0,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": [],
+      "createdDate": 1697368834084,
+      "modifiedDate": 1697368834084,
+      "sizeInBytes": 1034838
     },
     "notes/images/testok.png": {
       "isDirectory": false,
@@ -2545,6 +2593,22 @@
       "createdDate": 1695871276560,
       "modifiedDate": 1695871277774,
       "sizeInBytes": 378
+    },
+    "notes/daily/2023-10-15.md": {
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 22,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.07333333333333333,
+      "characterCount": 197,
+      "nonWhitespaceCharacterCount": 174,
+      "linkCount": 0,
+      "embedCount": 2,
+      "aliases": null,
+      "createdDate": 1697368814742,
+      "modifiedDate": 1697374562001,
+      "sizeInBytes": 255
     },
     "notes/daily/2023-10-14.md": {
       "isDirectory": false,
@@ -5621,18 +5685,18 @@
     "notes/archive/AE/CHEMISTRY/course outline.md": {
       "isDirectory": false,
       "noteCount": 1,
-      "wordCount": 4013,
+      "wordCount": 4210,
       "wordCountTowardGoal": 0,
       "wordGoal": null,
-      "pageCount": 13.376666666666667,
-      "characterCount": 26849,
-      "nonWhitespaceCharacterCount": 22019,
+      "pageCount": 14.033333333333333,
+      "characterCount": 27138,
+      "nonWhitespaceCharacterCount": 22192,
       "linkCount": 0,
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1695871276546,
-      "modifiedDate": 1695871279424,
-      "sizeInBytes": 27580
+      "modifiedDate": 1697339975313,
+      "sizeInBytes": 27912
     },
     "notes/archive/AE/CHEMISTRY/chemistry.md": {
       "isDirectory": false,
@@ -5797,18 +5861,18 @@
     "notes/RV chemistry.md": {
       "isDirectory": false,
       "noteCount": 1,
-      "wordCount": 0,
+      "wordCount": 4217,
       "wordCountTowardGoal": 0,
       "wordGoal": null,
-      "pageCount": 0,
-      "characterCount": 1,
-      "nonWhitespaceCharacterCount": 0,
+      "pageCount": 14.056666666666667,
+      "characterCount": 27180,
+      "nonWhitespaceCharacterCount": 22217,
       "linkCount": 0,
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1695871276545,
-      "modifiedDate": 1695871277620,
-      "sizeInBytes": 90
+      "modifiedDate": 1697358713957,
+      "sizeInBytes": 27969
     },
     "notes/CAP5.md": {
       "isDirectory": false,
