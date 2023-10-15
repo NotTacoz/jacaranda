@@ -24,9 +24,12 @@
             "id": "4e9e39b9a3451e2e",
             "type": "leaf",
             "state": {
-              "type": "kanban",
+              "type": "markdown",
               "state": {
-                "file": "notes/AE/chemistry/chemistry 1.md"
+                "file": "_index.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
               }
             }
           }
@@ -86,8 +89,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 3
+        ]
       },
       {
         "id": "57f26b66d7acceda",
@@ -168,7 +170,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "notes/AE/chemistry/chemistry 1.md"
+                "file": "_index.md"
               }
             }
           }
@@ -185,7 +187,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "notes/AE/chemistry/chemistry 1.md",
+                "file": "_index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -212,8 +214,15 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "f6aea39b3fa77d57",
+  "active": "4e9e39b9a3451e2e",
   "lastOpenFiles": [
+    "notes/notes.md",
+    "_index.md",
+    "notes/AE 1/notes.md",
+    "notes/AE 1",
+    "notes/helloWorld.md",
+    "notes/AE/chemistry/Untitled.md",
+    "notes/AE/chemistry/chemistry 1.md",
     "notes/daily/2023-05-03.md",
     "notes/archive/daily/DAILY.md",
     "notes/daily/2023-04-25.md",
@@ -222,7 +231,6 @@
     "notes/daily/2023-03-07.md",
     "notes/daily/2023-04-08.md",
     "notes/AE/chemistry/lessonnotes/T2W3L2.md",
-    "notes/helloWorld.md",
     "notes/AE/methods/indexLaws.md",
     "notes/AE/japanese/日本の季節.md",
     "notes/AE/specialist/feedback/CAP1-FEEDBACK.md",
@@ -230,16 +238,11 @@
     "notes/AE/english/ANALYSING-TEXTS.md",
     "notes/AE/english/WTCS-PRAC1.md",
     "notes/AE/english/WTCS-THE-OTHER.md",
-    "notes/notes.md",
     "notes/AE/physics/circuitsInvestigation.md",
     "notes/AE/physics/electricalPhysics.md",
     "notes/AE/physics/nuclearPhysics.md",
     "notes/AE/physics/physicsReview.md",
     "notes/AE/physics/reportChecklist.md",
-    "notes/AE/physics/researchAssignment1.md",
-    "notes/AE/specialist/inductionProof.md",
-    "notes/AE/specialist/investigation.md",
-    "notes/AE/specialist/matrices.md",
     "notes/AE",
     "notes/AE/methods",
     "notes/AE/specialist",
@@ -249,7 +252,6 @@
     "notes/AE/physics",
     "templates",
     "private/val/split",
-    "private/val/haven",
     "notes/images/Screen Shot 2023-08-21 at 2.28.30 pm.png",
     "notes/images/Screen Shot 2023-10-15 at 7.20.32 pm.png",
     "notes/images/Pasted image 20230302120119.png",

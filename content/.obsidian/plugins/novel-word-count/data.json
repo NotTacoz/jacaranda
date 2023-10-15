@@ -21,18 +21,18 @@
     "_index.md": {
       "isDirectory": false,
       "noteCount": 1,
-      "wordCount": 44,
+      "wordCount": 52,
       "wordCountTowardGoal": 0,
       "wordGoal": null,
-      "pageCount": 0.14666666666666667,
-      "characterCount": 535,
-      "nonWhitespaceCharacterCount": 488,
+      "pageCount": 0.17333333333333334,
+      "characterCount": 552,
+      "nonWhitespaceCharacterCount": 497,
       "linkCount": 8,
       "embedCount": 1,
       "aliases": null,
       "createdDate": 1697374564000,
-      "modifiedDate": 1697376566663,
-      "sizeInBytes": 592
+      "modifiedDate": 1697377258213,
+      "sizeInBytes": 609
     },
     "empty.md": {
       "isDirectory": false,
