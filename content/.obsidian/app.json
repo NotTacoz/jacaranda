@@ -1,0 +1,10 @@
+{
+  "promptDelete": false,
+  "alwaysUpdateLinks": true,
+  "newLinkFormat": "absolute",
+  "useMarkdownLinks": false,
+  "showUnsupportedFiles": false,
+  "attachmentFolderPath": "notes/images",
+  "newFileLocation": "folder",
+  "newFileFolderPath": "notes"
+}

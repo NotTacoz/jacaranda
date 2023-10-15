@@ -4,12 +4,7 @@ import { toJsxRuntime } from "hast-util-to-jsx-runtime"
 
 function Content({ tree }: QuartzComponentProps) {
   // @ts-ignore (preact makes it angry)
-  const content = toJsxRuntime(tree, {
-    Fragment,
-    jsx,
-    jsxs,
-    elementAttributeNameCase: "html",
-  })
+  const content = toJsxRuntime(tree, { Fragment, jsx, jsxs, elementAttributeNameCase: "html" })
   return <article class="popover-hint">{content}</article>
 }
 

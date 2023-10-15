@@ -1,0 +1,28 @@
+.trash-modal-button {
+    float: right;
+}
+
+.trash-modal-file-links {
+    overflow-y: scroll;
+    max-height: 30vw;
+    margin: 1vw;
+}
+
+.trash-modal-link {
+    line-height: 10px;
+    color: var(--text-accent);
+    text-decoration: underline;
+    cursor: pointer;
+}
+
+.trash-modal-link:hover {
+    color: var(--text-accent-hover, var(--text-accent));
+}
+
+.nuke-orphans-pass {
+    color: lightgreen !important;
+}
+
+.nuke-orphans-fail {
+    color: red !important;
+}

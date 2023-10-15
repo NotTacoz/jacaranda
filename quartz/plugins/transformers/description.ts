@@ -1,6 +1,7 @@
 import { Root as HTMLRoot } from "hast"
 import { toString } from "hast-util-to-string"
 import { QuartzTransformerPlugin } from "../types"
+import { escapeHTML } from "../../util/escape"
 
 export interface Options {
   descriptionLength: number
@@ -8,15 +9,6 @@ export interface Options {
 
 const defaultOptions: Options = {
   descriptionLength: 150,
-}
-
-const escapeHTML = (unsafe: string) => {
-  return unsafe
-    .replaceAll("&", "&amp;")
-    .replaceAll("<", "&lt;")
-    .replaceAll(">", "&gt;")
-    .replaceAll('"', "&quot;")
-    .replaceAll("'", "&#039;")
 }
 
 export const Description: QuartzTransformerPlugin<Partial<Options> | undefined> = (userOpts) => {
@@ -27,12 +19,8 @@ export const Description: QuartzTransformerPlugin<Partial<Options> | undefined> 
       return [
         () => {
           return async (tree: HTMLRoot, file) => {
-            const frontMatterDescription = (file.data.frontmatter?.description)
+            const frontMatterDescription = file.data.frontmatter?.description
             const text = escapeHTML(toString(tree))
-            
-            // if (Array.isArray(frontMatterDescription) && frontMatterDescription.length > 0) {
-            //   frontMatterDescription = frontMatterDescription[0]
-            // } 
 
             const desc = frontMatterDescription ?? text
             const sentences = desc.replace(/\s+/g, " ").split(".")

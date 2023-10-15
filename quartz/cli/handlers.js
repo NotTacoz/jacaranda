@@ -1,4 +1,4 @@
-import { promises, readFileSync } from "fs"
+import { promises } from "fs"
 import path from "path"
 import esbuild from "esbuild"
 import chalk from "chalk"
@@ -93,11 +93,7 @@ export async function handleCreate(argv) {
         message: `Choose how to initialize the content in \`${contentFolder}\``,
         options: [
           { value: "new", label: "Empty Quartz" },
-          {
-            value: "copy",
-            label: "Copy an existing folder",
-            hint: "overwrites `content`",
-          },
+          { value: "copy", label: "Copy an existing folder", hint: "overwrites `content`" },
           {
             value: "symlink",
             label: "Symlink an existing folder",
@@ -193,9 +189,7 @@ See the [documentation](https://quartz.jzhao.xyz) for how to get started.
 
   // now, do config changes
   const configFilePath = path.join(cwd, "quartz.config.ts")
-  let configContent = await fs.promises.readFile(configFilePath, {
-    encoding: "utf-8",
-  })
+  let configContent = await fs.promises.readFile(configFilePath, { encoding: "utf-8" })
   configContent = configContent.replace(
     /markdownLinkResolution: '(.+)'/,
     `markdownLinkResolution: '${linkResolutionStrategy}'`,
@@ -490,9 +484,7 @@ export async function handleSync(argv) {
       timeStyle: "short",
     })
     spawnSync("git", ["add", "."], { stdio: "inherit" })
-    spawnSync("git", ["commit", "-m", `Quartz sync: ${currentTimestamp}`], {
-      stdio: "inherit",
-    })
+    spawnSync("git", ["commit", "-m", `Quartz sync: ${currentTimestamp}`], { stdio: "inherit" })
 
     if (contentStat.isSymbolicLink()) {
       // put symlink back
@@ -512,9 +504,7 @@ export async function handleSync(argv) {
   await popContentFolder(contentFolder)
   if (argv.push) {
     console.log("Pushing your changes")
-    spawnSync("git", ["push", "-f", ORIGIN_NAME, QUARTZ_SOURCE_BRANCH], {
-      stdio: "inherit",
-    })
+    spawnSync("git", ["push", "-f", ORIGIN_NAME, QUARTZ_SOURCE_BRANCH], { stdio: "inherit" })
   }
 
   console.log(chalk.green("Done!"))

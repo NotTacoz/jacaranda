@@ -25,16 +25,11 @@ const getOpts = ({ target }: Event): { url: URL; scroll?: boolean } | undefined 
   if ("routerIgnore" in a.dataset) return
   const { href } = a
   if (!isLocalUrl(href)) return
-  return {
-    url: new URL(href),
-    scroll: "routerNoscroll" in a.dataset ? false : undefined,
-  }
+  return { url: new URL(href), scroll: "routerNoscroll" in a.dataset ? false : undefined }
 }
 
 function notifyNav(url: FullSlug) {
-  const event: CustomEventMap["nav"] = new CustomEvent("nav", {
-    detail: { url },
-  })
+  const event: CustomEventMap["nav"] = new CustomEvent("nav", { detail: { url } })
   document.dispatchEvent(event)
 }
 
@@ -97,7 +92,7 @@ function createRouter() {
   if (typeof window !== "undefined") {
     window.addEventListener("click", async (event) => {
       const { url } = getOpts(event) ?? {}
-      if (!url) return
+      if (!url || event.ctrlKey || event.metaKey) return
       event.preventDefault()
       try {
         navigate(url, false)
