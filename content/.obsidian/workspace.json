@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notes/AE/physics/INVESTIGATION1.md",
+                "file": "notes/AE/physics/RV physics.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -24,17 +24,13 @@
             "id": "4e9e39b9a3451e2e",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "kanban",
               "state": {
-                "file": "_index.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
+                "file": "notes/AE/chemistry/chemistry 1.md"
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -89,7 +85,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 2
       },
       {
         "id": "57f26b66d7acceda",
@@ -170,7 +167,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_index.md"
+                "file": "notes/AE/physics/RV physics.md"
               }
             }
           }
@@ -187,7 +184,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_index.md",
+                "file": "notes/AE/physics/RV physics.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -214,15 +211,27 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "4e9e39b9a3451e2e",
+  "active": "b0f4b599886e8750",
   "lastOpenFiles": [
+    "notes/AE/specialist/RV specialist.md",
+    "notes/AE/chemistry/RV chemistry.md",
+    "notes/AE/methods/RV methods.md",
+    "notes/AE/chemistry/chemistry 1.md",
+    "notes/AE/english/beetlejuice essay.md",
+    "notes/AE/chemistry/CAP5.md",
+    "notes/AE/physics/RV physics.md",
+    "notes/AE/physics/heat.md",
+    "notes/helloWorld.md",
     "notes/notes.md",
+    "notes/AE/physics/INVESTIGATION1.md",
+    "notes/AE/english/WTCS-PRAC2.md",
+    "templates/daily.md",
+    "templates/tags.md",
+    "templates/post.md",
     "_index.md",
     "notes/AE 1/notes.md",
     "notes/AE 1",
-    "notes/helloWorld.md",
     "notes/AE/chemistry/Untitled.md",
-    "notes/AE/chemistry/chemistry 1.md",
     "notes/daily/2023-05-03.md",
     "notes/archive/daily/DAILY.md",
     "notes/daily/2023-04-25.md",
@@ -231,18 +240,6 @@
     "notes/daily/2023-03-07.md",
     "notes/daily/2023-04-08.md",
     "notes/AE/chemistry/lessonnotes/T2W3L2.md",
-    "notes/AE/methods/indexLaws.md",
-    "notes/AE/japanese/日本の季節.md",
-    "notes/AE/specialist/feedback/CAP1-FEEDBACK.md",
-    "notes/AE/physics/INVESTIGATION1.md",
-    "notes/AE/english/ANALYSING-TEXTS.md",
-    "notes/AE/english/WTCS-PRAC1.md",
-    "notes/AE/english/WTCS-THE-OTHER.md",
-    "notes/AE/physics/circuitsInvestigation.md",
-    "notes/AE/physics/electricalPhysics.md",
-    "notes/AE/physics/nuclearPhysics.md",
-    "notes/AE/physics/physicsReview.md",
-    "notes/AE/physics/reportChecklist.md",
     "notes/AE",
     "notes/AE/methods",
     "notes/AE/specialist",

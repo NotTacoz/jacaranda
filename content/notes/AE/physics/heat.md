@@ -59,7 +59,7 @@ date: 2023-10-04
 - always in motion, except in absolute zero.
 ### all substances have internal energy due to the motion and separation of their particles
 - internal energy refers to the total kinetic and potential energy of particles within substance.
-- - all substances have internal energy due to the motion and separation of their particles
+- all substances have internal energy due to the motion and separation of their particles
 - **kinetic energy** is the energy of movement.
 - **potential energy** is the energy stored in the bonds between particles.
 - kinetic particle model explain idea of heat as a transfer of energy.

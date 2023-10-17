@@ -4,7 +4,6 @@ tags:
   - AE
   - english
 ---
-
 1.     Discuss how your attitudes influence your response to the way a controversy is represented in at least one text.
 
 Responses are affected by the reader’s attitudes and how the text conveys certain ideas, such as if the text establishes context. This is underlined in the film “Where the Crawdads Sing” (2022) directed by Olivia Newman from screenplay by Lucy Alibar adapted from the novel of the same name. The film follows a coming-of-age story of an isolated girl named Kya, who is raised in the marsh and is suspected of the murder of a man she was once romantically involved with. My attitudes as the contemporary audience towards ideas of discrimination, isolation and relationships influence my response and positions me to be empathetic towards Kya in the representation of a murder case as the controversy.

@@ -114,180 +114,21 @@
     "2023/9/12": 18,
     "2023/9/13": 876,
     "2023/9/14": 1437,
-    "2023/9/15": 44
+    "2023/9/15": 44,
+    "2023/9/16": 69
   },
   "todaysWordCount": {
-    "notes/RV chemistry.md": {
-      "initial": 4097,
-      "current": 3997
+    "notes/AE/english/WTCS-PRAC2.md": {
+      "initial": 2492,
+      "current": 2492
     },
-    "notes/archive/AE/CHEMISTRY/course outline.md": {
-      "initial": 3989,
-      "current": 3990
+    "notes/AE/physics/heat.md": {
+      "initial": 2646,
+      "current": 2646
     },
-    "notes/daily/2023-10-15.md": {
-      "initial": 11,
-      "current": 46
-    },
-    "notes/Untitled.md": {
-      "initial": 9,
-      "current": 9
-    },
-    "notes/term 4 responding english exam practices.md": {
-      "initial": 934,
-      "current": 934
-    },
-    "notes/english/term 4 responding english exam practices.md": {
-      "initial": 933,
-      "current": 933
-    },
-    "notes/CAP5.md": {
-      "initial": 5051,
-      "current": 5050
-    },
-    "notes/catalyst.md": {
-      "initial": 114,
-      "current": 114
-    },
-    "notes/chemistry/catalyst.md": {
-      "initial": 113,
-      "current": 113
-    },
-    "notes/beetlejuice script.md": {
-      "initial": 7138,
-      "current": 7138
-    },
-    "notes/english/beetlejuice script.md": {
-      "initial": 7137,
-      "current": 7137
-    },
-    "notes/random english analysis.md": {
-      "initial": 380,
-      "current": 379
-    },
-    "notes/七五三.md": {
-      "initial": 60,
-      "current": 60
-    },
-    "notes/japanese/七五三.md": {
-      "initial": 59,
-      "current": 59
-    },
-    "notes/structural isomers dispersion force and boiling points.md": {
-      "initial": 79,
-      "current": 79
-    },
-    "notes/SIS Hazard Risk and Minimising Risk.md": {
-      "initial": 191,
-      "current": 191
-    },
-    "notes/conjugate complex numbers and multiplication and division.md": {
-      "initial": 175,
-      "current": 175
-    },
-    "notes/beetlejuice essay.md": {
-      "initial": 1320,
-      "current": 1320
-    },
-    "notes/15-09-23 practice questions.md": {
-      "initial": 105,
-      "current": 105
-    },
-    "notes/radicals.md": {
-      "initial": 25,
-      "current": 25
-    },
-    "notes/archive/10/ORGANIC-CHEMISTRY.md": {
-      "initial": 1986,
-      "current": 1985
-    },
-    "notes/CHEMISTRY/organicChem.md": {
-      "initial": 542,
-      "current": 542
-    },
-    "notes/AE/chemistry/organicChem.md": {
-      "initial": 543,
-      "current": 542
-    },
-    "notes/timBurton.md": {
-      "initial": 206,
-      "current": 206
-    },
-    "notes/AE/english/timBurton.md": {
-      "initial": 206,
-      "current": 206
-    },
-    "notes/SPECIALIST/matrices.md": {
-      "initial": 2443,
-      "current": 2443
-    },
-    "notes/AE/specialist/matrices.md": {
-      "initial": 2444,
-      "current": 2443
-    },
-    "notes/SPECIALIST/investigation.md": {
-      "initial": 35,
-      "current": 35
-    },
-    "notes/AE/specialist/investigation.md": {
-      "initial": 36,
-      "current": 39
-    },
-    "notes/SPECIALIST/inductionProof.md": {
-      "initial": 449,
-      "current": 449
-    },
-    "notes/AE/specialist/inductionProof.md": {
-      "initial": 452,
-      "current": 453
-    },
-    "notes/AE/researchAssignment1.md": {
-      "initial": 1911,
-      "current": 1911
-    },
-    "notes/AE/physics/researchAssignment1.md": {
-      "initial": 1911,
-      "current": 1911
-    },
-    "notes/PHYSICS/reportChecklist.md": {
-      "initial": 448,
-      "current": 448
-    },
-    "notes/PHYSICS/physicsReview.md": {
-      "initial": 352,
-      "current": 352
-    },
-    "notes/AE/physics/physicsReview.md": {
-      "initial": 352,
-      "current": 352
-    },
-    "notes/PHYSICS/nuclearPhysics.md": {
-      "initial": 821,
-      "current": 821
-    },
-    "notes/AE/physics/nuclearPhysics.md": {
-      "initial": 824,
-      "current": 824
-    },
-    "notes/PHYSICS/electricalPhysics.md": {
-      "initial": 2486,
-      "current": 2486
-    },
-    "notes/AE/physics/electricalPhysics.md": {
-      "initial": 2489,
-      "current": 2489
-    },
-    "notes/PHYSICS/circuitsInvestigation.md": {
-      "initial": 1656,
-      "current": 1656
-    },
-    "notes/AE/physics/circuitsInvestigation.md": {
-      "initial": 1659,
-      "current": 1659
-    },
-    "_index.md": {
-      "initial": 80,
-      "current": 84
+    "notes/AE/physics/RV physics.md": {
+      "initial": 1875,
+      "current": 1944
     }
   }
 }

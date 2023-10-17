@@ -12,7 +12,14 @@ date: 2023-09-26
 - This includes applying the relationship: $$V_{av}=\frac{s}{t},a=\frac{{v-u}}{t},v=u+at,s+ut+\frac{1}{2}at^2,v^2=u^2+2as$$
 - [ ] 3* representations, including graphs, vectors, and equations of motion, can be used qualitatively and quantitatively to describe and predict linear motion
 - [ ] 4* vertical motion is analysed by assuming the acceleration due to gravity is constant near Earth’s surface
-- [ ] 1* Newton’s three Laws of Motion describe the relationship between the force or forces acting on an object, modelled as a point mass, and the motion of the object due to the application of the force or forces
+- [x] 1* -> 4* Newton’s three Laws of Motion describe the relationship between the force or forces acting on an object, modelled as a point mass, and the motion of the object due to the application of the force or forces
+	- [x] Newton's first law states:
+		- >[!info] An object will maintain a constant velocity unless an unbalanced, external force acts on it.
+		- As the mass of the object increases, the inertia \[resistance to a change in motion of an object] increases; 
+	- [x] Newton's second law states:
+		- F = ma
+	- [x] Newton's third law states:
+		- For every action (force), there is an equal and opposite reaction (force).
 - [ ] 1* free body diagrams show the forces and net force acting on objects, from descriptions of real-life situations involving forces acting in one or two dimensions
 - This includes applying the relationships $$\text{resultant }F=ma, F_{\text{weight}}=mg$$
 - [ ] 3* momentum is a property of moving objects; it is conserved in a closed system and may be transferred from one object to another when a force acts over a time interval
@@ -22,7 +29,7 @@ date: 2023-09-26
 - [ ] 4* power is the rate of doing work or transferring energy
 - This includes applying the relationship $$P=\frac{W}{t}=\frac{\Delta E}{t}=Fv_{av}$$
 ### Science as a Human Endeavour
-1 Safety for motorists and other road users has been substantially increased through application of Newton’s laws and conservation of momentum by the development and use of devices, including: 
+1* Safety for motorists and other road users has been substantially increased through application of Newton’s laws and conservation of momentum by the development and use of devices, including: 
 - [ ] helmets
 - [ ] seatbelts
 - [ ] crumple zones
@@ -101,7 +108,8 @@ date: 2023-09-26
 - [ ] 3* a system with thermal energy has the capacity to do mechanical work \[to apply a force over a distance]; when work is done, the internal energy of the system changes 
 - [ ] 4* because energy is conserved, the change in internal energy of a system is equal to the energy added by heating, or removed by cooling, plus the work done on or by the system 
 - [ ] 2* heat transfer occurs between and within systems by conduction, convection and/or radiation 
-- [ ] 4* energy transfers and transformations in mechanical systems always result in some heat loss to the environment, so that the usable energy is reduced and the system cannot be 100 percent efficient This includes applying the relationship 100 1 % efficiency =   energy output energy input 
+- [ ] 4* energy transfers and transformations in mechanical systems always result in some heat loss to the environment, so that the usable energy is reduced and the system cannot be 100 percent efficient 
+- This includes applying the relationship 100 1 % efficiency =   energy output energy input 
 ### Science as a Human Endeavour
 - 2* The development of heating technologies that use conduction, convection, radiation and latent heat have had, and continue to have, significant social, economic and environmental impacts. These technologies include: 
 - [ ] 2* passive solar design for heating and cooling of buildings (21CLD principles)
