@@ -3,10 +3,10 @@ title: "[YEAR 11 REVISION] Chemistry"
 tags:
   - AE
   - chemistry
+  - courseOutline
 date: 2023-09-26
+kanban-plugin: basic
 ---
-
-#AE #chemistry #courseOutline
 ## **Topic 1: ATOMIC STRUCTURE**
 
 ### Essential Chemistry Skills

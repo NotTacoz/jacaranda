@@ -4,30 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "6d955969944598bc",
+        "id": "d28747e48efa8fd3",
         "type": "tabs",
         "children": [
           {
-            "id": "b0f4b599886e8750",
+            "id": "09b325d0b73180e4",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "notes/AE/physics/RV physics.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "4e9e39b9a3451e2e",
-            "type": "leaf",
-            "state": {
-              "type": "kanban",
-              "state": {
-                "file": "notes/AE/chemistry/chemistry 1.md"
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -166,9 +151,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "notes/AE/physics/RV physics.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -184,7 +167,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "notes/AE/physics/RV physics.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -211,15 +193,16 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "b0f4b599886e8750",
+  "active": "09b325d0b73180e4",
   "lastOpenFiles": [
-    "notes/AE/specialist/RV specialist.md",
-    "notes/AE/chemistry/RV chemistry.md",
-    "notes/AE/methods/RV methods.md",
     "notes/AE/chemistry/chemistry 1.md",
+    "notes/AE/chemistry/chemistry 1.1.md",
+    "notes/AE/physics/RV physics.md",
     "notes/AE/english/beetlejuice essay.md",
     "notes/AE/chemistry/CAP5.md",
-    "notes/AE/physics/RV physics.md",
+    "notes/AE/chemistry/RV chemistry.md",
+    "notes/AE/specialist/RV specialist.md",
+    "notes/AE/methods/RV methods.md",
     "notes/AE/physics/heat.md",
     "notes/helloWorld.md",
     "notes/notes.md",
@@ -239,7 +222,6 @@
     "notes/archive/_indexOld.md",
     "notes/daily/2023-03-07.md",
     "notes/daily/2023-04-08.md",
-    "notes/AE/chemistry/lessonnotes/T2W3L2.md",
     "notes/AE",
     "notes/AE/methods",
     "notes/AE/specialist",

@@ -115,20 +115,18 @@
     "2023/9/13": 876,
     "2023/9/14": 1437,
     "2023/9/15": 44,
-    "2023/9/16": 69
+    "2023/9/16": 69,
+    "2023/9/17": 1,
+    "2023/9/18": 3
   },
   "todaysWordCount": {
-    "notes/AE/english/WTCS-PRAC2.md": {
-      "initial": 2492,
-      "current": 2492
-    },
-    "notes/AE/physics/heat.md": {
-      "initial": 2646,
-      "current": 2646
+    "notes/AE/english/beetlejuice essay.md": {
+      "initial": 1322,
+      "current": 1322
     },
     "notes/AE/physics/RV physics.md": {
-      "initial": 1875,
-      "current": 1944
+      "initial": 1944,
+      "current": 1947
     }
   }
 }

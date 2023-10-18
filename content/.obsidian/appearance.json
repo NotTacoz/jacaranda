@@ -1,4 +1,8 @@
 {
   "accentColor": "#bd93f9",
-  "cssTheme": "Dracula Official"
+  "cssTheme": "Dracula Official",
+  "enabledCssSnippets": [
+    "bold",
+    "highlightr"
+  ]
 }

@@ -3685,18 +3685,18 @@
     "notes/AE/physics/RV physics.md": {
       "isDirectory": false,
       "noteCount": 1,
-      "wordCount": 2084,
+      "wordCount": 2061,
       "wordCountTowardGoal": 0,
       "wordGoal": null,
-      "pageCount": 6.946666666666666,
-      "characterCount": 12663,
-      "nonWhitespaceCharacterCount": 10514,
+      "pageCount": 6.87,
+      "characterCount": 12617,
+      "nonWhitespaceCharacterCount": 10491,
       "linkCount": 0,
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1697374564000,
-      "modifiedDate": 1697432425206,
-      "sizeInBytes": 12778
+      "modifiedDate": 1697590671250,
+      "sizeInBytes": 12753
     },
     "notes/AE/physics/INVESTIGATION1.md": {
       "isDirectory": false,
@@ -4802,6 +4802,22 @@
       "modifiedDate": 1697375275975,
       "sizeInBytes": 294
     },
+    "notes/AE/chemistry/chemistry 1.1.md": {
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 4308,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 14.36,
+      "characterCount": 25850,
+      "nonWhitespaceCharacterCount": 21003,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1697524795871,
+      "modifiedDate": 1697524968329,
+      "sizeInBytes": 26502
+    },
     "notes/AE/chemistry/thermodynamics.md": {
       "isDirectory": false,
       "noteCount": 1,
@@ -5637,18 +5653,18 @@
     "notes/AE/chemistry/RV chemistry.md": {
       "isDirectory": false,
       "noteCount": 1,
-      "wordCount": 4217,
+      "wordCount": 4214,
       "wordCountTowardGoal": 0,
       "wordGoal": null,
-      "pageCount": 14.056666666666667,
-      "characterCount": 27180,
-      "nonWhitespaceCharacterCount": 22217,
+      "pageCount": 14.046666666666667,
+      "characterCount": 27149,
+      "nonWhitespaceCharacterCount": 22190,
       "linkCount": 0,
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1697374564000,
-      "modifiedDate": 1697375279347,
-      "sizeInBytes": 27969
+      "modifiedDate": 1697524780327,
+      "sizeInBytes": 27977
     },
     "notes/AE/chemistry/MAXWELLS-LAW.md": {
       "isDirectory": false,
