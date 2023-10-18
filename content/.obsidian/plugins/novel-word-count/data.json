@@ -133,18 +133,18 @@
     "templates/daily.md": {
       "isDirectory": false,
       "noteCount": 1,
-      "wordCount": 2,
+      "wordCount": 18,
       "wordCountTowardGoal": 0,
       "wordGoal": null,
-      "pageCount": 0.006666666666666667,
-      "characterCount": 8,
-      "nonWhitespaceCharacterCount": 6,
+      "pageCount": 0.06,
+      "characterCount": 123,
+      "nonWhitespaceCharacterCount": 93,
       "linkCount": 0,
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1697374564000,
-      "modifiedDate": 1697374564000,
-      "sizeInBytes": 96
+      "modifiedDate": 1697623576837,
+      "sizeInBytes": 234
     },
     "templates/tags.md": {
       "isDirectory": false,
@@ -2273,6 +2273,22 @@
       "createdDate": 1697374564000,
       "modifiedDate": 1697594895904,
       "sizeInBytes": 1052
+    },
+    "notes/daily/2023-10-18.md": {
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 41,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.13666666666666666,
+      "characterCount": 212,
+      "nonWhitespaceCharacterCount": 159,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1697619100642,
+      "modifiedDate": 1697623566448,
+      "sizeInBytes": 293
     },
     "notes/daily/daily.md": {
       "isDirectory": false,
@@ -4501,18 +4517,18 @@
     "notes/AE/english/term 4 responding english exam practices.md": {
       "isDirectory": false,
       "noteCount": 1,
-      "wordCount": 1460,
+      "wordCount": 1250,
       "wordCountTowardGoal": 0,
       "wordGoal": null,
-      "pageCount": 4.866666666666666,
-      "characterCount": 9280,
-      "nonWhitespaceCharacterCount": 7805,
+      "pageCount": 4.166666666666667,
+      "characterCount": 8070,
+      "nonWhitespaceCharacterCount": 6806,
       "linkCount": 3,
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1697374564000,
-      "modifiedDate": 1697601268339,
-      "sizeInBytes": 9392
+      "modifiedDate": 1697601909810,
+      "sizeInBytes": 8182
     },
     "notes/AE/english/speech.md": {
       "isDirectory": false,
