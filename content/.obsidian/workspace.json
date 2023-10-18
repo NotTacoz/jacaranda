@@ -4,15 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "d28747e48efa8fd3",
+        "id": "7a4f9862485da160",
         "type": "tabs",
         "children": [
           {
-            "id": "09b325d0b73180e4",
+            "id": "51e99e1c82386c2f",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "_index.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
             }
           }
         ]
@@ -70,8 +75,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 2
+        ]
       },
       {
         "id": "57f26b66d7acceda",
@@ -151,7 +155,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "_index.md"
+              }
             }
           }
         ]
@@ -167,6 +173,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "_index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -193,8 +200,18 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "09b325d0b73180e4",
+  "active": "42b6b506b0e9d244",
   "lastOpenFiles": [
+    "notes/notes.md",
+    "notes/helloWorld.md",
+    "notes/Excalidraw/Drawing 2023-09-21 18.54.05.excalidraw.md",
+    "notes/Excalidraw/Drawing 2023-09-15 10.02.58.excalidraw.md",
+    "notes/Excalidraw/Drawing 2023-09-13 20.56.27.excalidraw.md",
+    "notes/Excalidraw/Drawing 2023-09-14 14.47.09.excalidraw.md",
+    "Excalidraw/Drawing 2023-09-18 09.58.07.excalidraw.md",
+    "notes/Excalidraw/Drawing 2023-09-15 13.42.11.excalidraw.md",
+    "notes/Excalidraw/Drawing 2023-09-13 18.38.50.excalidraw.md",
+    "notes/Excalidraw/Drawing 2023-09-20 13.41.44.excalidraw.md",
     "notes/AE/chemistry/chemistry 1.md",
     "notes/AE/chemistry/chemistry 1.1.md",
     "notes/AE/physics/RV physics.md",
@@ -204,8 +221,6 @@
     "notes/AE/specialist/RV specialist.md",
     "notes/AE/methods/RV methods.md",
     "notes/AE/physics/heat.md",
-    "notes/helloWorld.md",
-    "notes/notes.md",
     "notes/AE/physics/INVESTIGATION1.md",
     "notes/AE/english/WTCS-PRAC2.md",
     "templates/daily.md",
@@ -214,14 +229,6 @@
     "_index.md",
     "notes/AE 1/notes.md",
     "notes/AE 1",
-    "notes/AE/chemistry/Untitled.md",
-    "notes/daily/2023-05-03.md",
-    "notes/archive/daily/DAILY.md",
-    "notes/daily/2023-04-25.md",
-    "notes/archive/notes.md",
-    "notes/archive/_indexOld.md",
-    "notes/daily/2023-03-07.md",
-    "notes/daily/2023-04-08.md",
     "notes/AE",
     "notes/AE/methods",
     "notes/AE/specialist",
