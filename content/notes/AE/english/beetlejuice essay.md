@@ -5,7 +5,7 @@ tags:
   - english
 date: 2023-09-29
 ---
-Oan essay on [[notes/AE/english/beetlejuice|beetlejuice]]
+On essay on [[notes/AE/english/beetlejuice|beetlejuice]]
 ## quotes
 ### tim burton
 - 
@@ -26,7 +26,7 @@ Tim Burton describes his filmography as having “elements of horror, but they�
 ### body paragraph 1
 <u>Beetlejuice</u> employs <mark class="hltr-green">dialogue</mark> to highlight the Maitland's attitude towards the outside world, and their values of spending time with only each other, but isolating everyone else. 
 - Barbara Maitland's statement towards Jane to "leave \[them] alone \[at home]" establishes the Maitland's desire for isolation from other people,
-- Later, when Adam parks the car and runs into his hardware store, as an old man sitting outside a stereotypical small-town barbershop tries talking to Adam, he cuts him off with a quick “hello” and runs into the store, leaving the old man outside to talk to himself.
+- Later, when Adam parks the car and runs into his hardware store, he cuts off the old man who runs a stereotypical small-town barbershop with a quick “hello” and runs into the store, leaving the old man outside to talk to himself.
 - These two 
 - and they are "so glad \[they're] spending \[their] vacation at home". is expressed 
 - comments on the afterlife "Where are all the other dead people in the world?  Why is it just you and me?", 

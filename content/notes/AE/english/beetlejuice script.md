@@ -1124,7 +1124,7 @@ In fact, no one dining here
 has not been in Vanity Fair except you.  
   
 I told them you were too mean to be afraid.  
-  
+
 Don't you dare speak to others about me!  
   
 Being embarrassed in front of the few  

@@ -4,5 +4,6 @@
   "enabledCssSnippets": [
     "bold",
     "highlightr"
-  ]
+  ],
+  "baseFontSize": 16
 }
