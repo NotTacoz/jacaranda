@@ -35,3 +35,6 @@ date: 2023-09-26
 ### Properties of derivatives 2.3.13-2.3.15
 ### Applications of derivatives 2.3.16-2.3.21
 ### Anti-derivatives 2.3.22
+
+
+- revise independence test

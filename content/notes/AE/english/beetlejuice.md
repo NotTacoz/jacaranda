@@ -7,6 +7,7 @@ tags:
   - responding
 date: 2023-09-12
 ---
+![[notes/images/Pasted image 20231018191314.png|300]]
 ## film context/basic information
 from [here](https://www.gradesaver.com/beetlejuice/study-guide/literary-elements)
 - Director: Tim Burton

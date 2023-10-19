@@ -8,16 +8,55 @@
         "type": "tabs",
         "children": [
           {
-            "id": "ba737a3c14b5d90d",
+            "id": "256387a1e58b962f",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "kanban",
+              "state": {
+                "file": "notes/daily/2023-10-19.md"
+              },
+              "pinned": true
+            }
+          },
+          {
+            "id": "7632b3053a8110ca",
             "type": "leaf",
             "state": {
               "type": "kanban",
               "state": {
-                "file": "templates/daily.md"
+                "file": "notes/AE/chemistry/chemistry 1.1.md"
+              }
+            }
+          },
+          {
+            "id": "0868e6be4b0a26f7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "notes/AE/specialist/RV specialist.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "825e4917d69815ef",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "notes/AE/methods/RV methods.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -72,7 +111,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 2
       },
       {
         "id": "57f26b66d7acceda",
@@ -153,7 +193,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "templates/daily.md"
+                "file": "notes/AE/methods/RV methods.md"
               }
             }
           }
@@ -170,7 +210,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "templates/daily.md",
+                "file": "notes/AE/methods/RV methods.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -196,35 +236,38 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "ba737a3c14b5d90d",
+  "active": "825e4917d69815ef",
   "lastOpenFiles": [
-    "notes/daily/2023-10-18.md",
-    "_index.md",
-    "templates/post.md",
-    "templates/daily.md",
-    "templates/tags.md",
+    "notes/AE/physics/RV physics.md",
+    "notes/AE/chemistry/RV chemistry.md",
+    "notes/daily/2023-10-19.md",
     "notes/AE/specialist/RV specialist.md",
+    "notes/AE/chemistry/chemistry 1.1.md",
+    "notes/AE/physics/physics heat test review.md",
+    "notes/AE/specialist/conjugate complex numbers and multiplication and division.md",
+    "notes/AE/specialist/imaginary numbers.md",
+    "notes/AE/specialist/complex numbers.md",
+    "notes/AE/specialist/solutions of quadratic equations.md",
+    "notes/AE/specialist/mandelbrot set.md",
+    "notes/AE/specialist/trighardquestions.md",
+    "notes/AE/specialist/productToSumAndSumToProduct.md",
+    "notes/AE/specialist/(spec) trig revision.md",
+    "notes/AE/specialist/trigonometry.md",
+    "notes/AE/chemistry/chemistry 1.md",
+    "notes/AE/chemistry/18.     Describe how mass spectrometry can be used to establish the isotopic composition of an element..md",
+    "notes/images/Screen Shot 2023-10-19 at 9.27.18 am.png",
+    "notes/AE/chemistry/Construct a timeline of the development of the atomic model. (SHE).md",
+    "notes/stats.md",
+    "notes/images/Pasted image 20231019091231.png",
+    "notes/AE/methods/RV methods.md",
+    "notes/AE/chemistry/CAP5.md",
+    "notes/AE/english/beetlejuice essay.md",
     "notes/AE/english/term 4 responding english exam practices.md",
     "notes/AE/english/beetlejuice script.md",
-    "notes/stats.md",
-    "notes/notes.md",
-    "notes/helloWorld.md",
-    "notes/AE/english/beetlejuice essay.md",
-    "notes/AE/chemistry/CAP5.md",
-    "notes/AE/methods/RV methods.md",
-    "notes/AE/chemistry/lucarelli.md",
-    "notes/AE/chemistry/RV chemistry.md",
-    "notes/AE/chemistry/chemistry 1.md",
-    "notes/AE/physics/RV physics.md",
-    "notes/AE/english/beetlejuice.md",
-    "notes/AE/methods/lessonnotes/T1W1L2.md",
+    "notes/daily/HEX Colour Code For All School Subjects.md",
+    "notes/daily/2023-10-18.md",
+    "notes/images/Pasted image 20231018191314.png",
     "notes/images/Pasted Image 20230921185420_822.png",
-    "private/empty.md",
-    "private/private-note.md",
-    "Excalidraw/Drawing 2023-09-21 18.54.05.excalidraw.md",
-    "Excalidraw/Drawing 2023-09-15 10.02.58.excalidraw.md",
-    "Excalidraw/Drawing 2023-09-13 20.56.27.excalidraw.md",
-    "Excalidraw/Drawing 2023-09-14 14.47.09.excalidraw.md",
     "notes/AE 1",
     "notes/AE",
     "notes/AE/methods",
@@ -241,9 +284,6 @@
     "notes/images/Screen Shot 2023-08-14 at 9.13.04 am.png",
     "notes/images/Pasted image 20230509130147.png",
     "notes/images/Pasted Image 20230913184250_004.jpg",
-    "notes/images/Screen Shot 2023-03-14 at 1.45.02 pm.png",
-    "notes/images/Screen Shot 2023-08-09 at 5.55.10 pm.png",
-    "notes/images/Screen Shot 2023-03-14 at 1.51.10 pm.png",
     "Untitled.canvas",
     "Untitled 2.canvas",
     "Untitled 1.canvas"

@@ -11,33 +11,6 @@ kanban-plugin: basic
 
 ## new
 
-- [ ] 1.        Represent ions using formulae which include the number of constituent atoms and the charge on the ion.
-- [ ] 2.        Recognise, name and write the formulae of a range of ions (see Appendix 1).
-- [ ] 3.        Determine the formulae of ionic compounds from the formulae of their constituent ions (see Appendix 1).
-- [ ] 4.        Use molecular formulae to represent the number and type of atoms in a covalent molecule, and recognise some common covalent molecular substances (See Appendix 1).
-- [ ] 5.        Write and use balanced chemical equations to represent chemical reactions.
-- [ ] 6.        Define the mole as a precisely defined quantity of matter, equal to Avogadro’s number of particles.
-- [ ] 7.        Use Avogadro’s number (see Data Booklet) to convert between number of particles and moles, and vice versa.
-- [ ] 8.        Use the relationship between mass, molar mass and number of moles to convert between moles and mass, and vice versa
-- [ ] 9.        _Construct a timeline of the development of the atomic model. (SHE)_
-- [ ] 10.     _Describe and explain the role of the following scientists in the development of our atomic model: (SHE)_
-- [ ] 11.     _Explain how developments in technology have contributed to our understanding of the model of the atom. (SHE)_
-- [ ] 12.     _Research and communicate scientific ideas effectively in the format of a scientific report, including correct referencing of sources. (SIS)_
-- [ ] 13.     Describe the structure of the atom, including the locations of sub-atomic particles, holding the electrons to the nucleus.
-- [ ] 14.     Describe the properties of protons, neutrons and electrons, including relative mass and charge.
-- [ ] 15.     Use the periodic table to give an element’s symbol, atomic number, relative atomic mass, number of protons, neutrons and electrons (neutral atom or monatomic ion).
-- [ ] 16.     Define what isotopes are, and describe the similarities and differences between isotopes of the same element.
-- [ ] 17.     Define what the relative atomic mass of an element is, and explain how this is different from mass number.
-- [ ] 18.     Describe how mass spectrometry can be used to establish the isotopic composition of an element.
-- [ ] 19.     Analyse mass spectra of elements to calculate the isotopic composition.
-- [ ] 20.     Calculate relative atomic mass from isotopic composition data.
-- [ ] 21.     Define the mole as a precisely defined quantity of matter, equal to Avogadro’s number of particles.
-- [ ] 22.     Use Avogadro’s number (see Data Booklet) to convert between number of particles and moles, and vice versa.
-- [ ] 23.     Use the relationship between mass, molar mass and number of moles to convert between moles and mass, and vice versa.
-- [ ] 24.     Explain that electrons exist in distinct energy levels.
-- [ ] 25.     Use the energy level / shell model to write electron configurations for the first 20 elements, (eg: 2,8,8).
-- [ ] 26.     Explain that atomic orbitals have different energy levels, and occupy different regions of space.
-- [ ] 27.     Use the subshell (s/p/d/f) configurations to write electron arrangements for the first 20 elements (s & p only).
 - [ ] 28.     Explain how the transition of electrons between energy levels can produce atomic absorption and emission line spectra.
 - [ ] 29.     Describe and explain how flame tests and atomic absorption spectroscopy (AAS) can be used to identify elements.
 - [ ] 30.     _Conduct experimental work safely, competently and methodically, including flame tests. (SIS)_
@@ -215,10 +188,37 @@ kanban-plugin: basic
 
 ## reviewing
 
+- [ ] 12.     _Research and communicate scientific ideas effectively in the format of a scientific report, including correct referencing of sources. (SIS)_
+- [ ] 11.     _Explain how developments in technology have contributed to our understanding of the model of the atom. (SHE)_
+- [ ] 10.     _Describe and explain the role of the following scientists in the development of our atomic model: (SHE)_
+- [ ] [[notes/AE/chemistry/ATOMIC-STRUCTURES|9.        _Construct a timeline of the development of the atomic model. (SHE)_]]
 
 
 ## reviewed
 
+- [ ] 27.     Use the subshell (s/p/d/f) configurations to write electron arrangements for the first 20 elements (s & p only).
+- [ ] 26.     Explain that atomic orbitals have different energy levels, and occupy different regions of space.
+- [ ] 25.     Use the energy level / shell model to write electron configurations for the first 20 elements, (eg: 2,8,8).
+- [ ] 24.     Explain that electrons exist in distinct energy levels.
+- [ ] 23.     Use the relationship between mass, molar mass and number of moles to convert between moles and mass, and vice versa.
+- [ ] 22.     Use Avogadro’s number (see Data Booklet) to convert between number of particles and moles, and vice versa.
+- [ ] 21.     Define the mole as a precisely defined quantity of matter, equal to Avogadro’s number of particles.
+- [ ] 20.     Calculate relative atomic mass from isotopic composition data.
+- [ ] 19.     Analyse mass spectra of elements to calculate the isotopic composition.
+- [ ] [[notes/AE/chemistry/18.     Describe how mass spectrometry can be used to establish the isotopic composition of an element.|18.     Describe how mass spectrometry can be used to establish the isotopic composition of an element]]
+- [ ] 17.     Define what the relative atomic mass of an element is, and explain how this is different from mass number.
+- [ ] 16.     Define what isotopes are, and describe the similarities and differences between isotopes of the same element.
+- [ ] 15.     Use the periodic table to give an element’s symbol, atomic number, relative atomic mass, number of protons, neutrons and electrons (neutral atom or monatomic ion).
+- [ ] 14.     Describe the properties of protons, neutrons and electrons, including relative mass and charge.
+- [ ] 13.     Describe the structure of the atom, including the locations of sub-atomic particles, holding the electrons to the nucleus.
+- [ ] 8.        Use the relationship between mass, molar mass and number of moles to convert between moles and mass, and vice versa
+- [ ] 7.        Use Avogadro’s number (see Data Booklet) to convert between number of particles and moles, and vice versa.
+- [ ] 6.        Define the mole as a precisely defined quantity of matter, equal to Avogadro’s number of particles.
+- [ ] 5.        Write and use balanced chemical equations to represent chemical reactions.
+- [ ] 4.        Use molecular formulae to represent the number and type of atoms in a covalent molecule, and recognise some common covalent molecular substances (See Appendix 1).
+- [ ] 3.        Determine the formulae of ionic compounds from the formulae of their constituent ions (see Appendix 1).
+- [ ] 2.        Recognise, name and write the formulae of a range of ions (see Appendix 1).
+- [ ] 1.        Represent ions using formulae which include the number of constituent atoms and the charge on the ion.
 
 
 ## mature
