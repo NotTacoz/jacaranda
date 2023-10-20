@@ -35,7 +35,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notes/AE/specialist/RV specialist.md",
+                "file": "notes/AE/chemistry/lucarelli.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -54,9 +54,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "0448eea7eb300d73",
+            "type": "leaf",
+            "state": {
+              "type": "kanban",
+              "state": {
+                "file": "notes/AE/chemistry/RV chemistry.md"
+              }
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -193,7 +203,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "notes/AE/methods/RV methods.md"
+                "file": "notes/AE/chemistry/lucarelli.md"
               }
             }
           }
@@ -210,7 +220,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "notes/AE/methods/RV methods.md",
+                "file": "notes/AE/chemistry/lucarelli.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -236,13 +246,14 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "825e4917d69815ef",
+  "active": "0868e6be4b0a26f7",
   "lastOpenFiles": [
-    "notes/AE/physics/RV physics.md",
-    "notes/AE/chemistry/RV chemistry.md",
-    "notes/daily/2023-10-19.md",
     "notes/AE/specialist/RV specialist.md",
     "notes/AE/chemistry/chemistry 1.1.md",
+    "notes/daily/2023-10-19.md",
+    "notes/AE/chemistry/RV chemistry.md",
+    "notes/AE/methods/RV methods.md",
+    "notes/AE/physics/RV physics.md",
     "notes/AE/physics/physics heat test review.md",
     "notes/AE/specialist/conjugate complex numbers and multiplication and division.md",
     "notes/AE/specialist/imaginary numbers.md",
@@ -259,7 +270,6 @@
     "notes/AE/chemistry/Construct a timeline of the development of the atomic model. (SHE).md",
     "notes/stats.md",
     "notes/images/Pasted image 20231019091231.png",
-    "notes/AE/methods/RV methods.md",
     "notes/AE/chemistry/CAP5.md",
     "notes/AE/english/beetlejuice essay.md",
     "notes/AE/english/term 4 responding english exam practices.md",
