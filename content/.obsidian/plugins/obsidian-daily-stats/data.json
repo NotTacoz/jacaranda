@@ -118,44 +118,13 @@
     "2023/9/16": 69,
     "2023/9/17": 1,
     "2023/9/18": 770,
-    "2023/9/19": 334
+    "2023/9/19": 334,
+    "2023/9/20": 116
   },
   "todaysWordCount": {
-    "notes/Construct a timeline of the development of the atomic model. (SHE).md": {
-      "initial": 18,
-      "current": 19
-    },
-    "notes/AE/chemistry/Construct a timeline of the development of the atomic model. (SHE).md": {
-      "initial": 25,
-      "current": 128
-    },
-    "notes/AE/chemistry/chemistry 1.1.md": {
-      "initial": 3742,
-      "current": 3760
-    },
-    "notes/stats.md": {
-      "initial": 56,
-      "current": 56
-    },
-    "notes/18.     Describe how mass spectrometry can be used to establish the isotopic composition of an element..md": {
-      "initial": 24,
-      "current": 24
-    },
-    "notes/AE/chemistry/18.     Describe how mass spectrometry can be used to establish the isotopic composition of an element..md": {
-      "initial": 25,
-      "current": 138
-    },
-    "notes/physics heat test.md": {
-      "initial": 10,
-      "current": 11
-    },
-    "notes/AE/physics/physics heat test review.md": {
-      "initial": 12,
-      "current": 107
-    },
-    "notes/AE/methods/RV methods.md": {
-      "initial": 266,
-      "current": 269
+    "notes/AE/chemistry/notes/chromatography.md": {
+      "initial": 583,
+      "current": 699
     }
   }
 }

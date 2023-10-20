@@ -86,7 +86,6 @@ kanban-plugin: basic
 - [ ] 100.  _Conduct experimental work safely, competently and methodically to determine solubility of ionic compounds. (SIS)_
 - [ ] 101.  _State that potable drinking water must undergo various treatment processes to ensure it meets regulations for safe levels of solutes, including heavy metals. (SHE)_
 - [ ] 102.  _Explain why drinking water must be monitored for safe levels on solutes. (SHE)_
-- [ ] 103.  Describe the general principles of chromatography, including the role of the stationary and mobile phases.
 - [ ] 104.  Explain the importance of intermolecular forces in the chromatography process.
 - [ ] 105.  Explain how chromatography can be used to separate and identify the components of a mixture.
 - [ ] 106.  Use knowledge of the polarity of the components of a mixture to be separated to select a chromatographic method for separation.
@@ -188,6 +187,7 @@ kanban-plugin: basic
 
 ## reviewing
 
+- [ ] 103.  Describe the general principles of chromatography, including the role of the stationary and mobile phases.
 - [ ] 12.     _Research and communicate scientific ideas effectively in the format of a scientific report, including correct referencing of sources. (SIS)_
 - [ ] 11.     _Explain how developments in technology have contributed to our understanding of the model of the atom. (SHE)_
 - [ ] 10.     _Describe and explain the role of the following scientists in the development of our atomic model: (SHE)_

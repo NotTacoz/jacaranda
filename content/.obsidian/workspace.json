@@ -10,13 +10,11 @@
           {
             "id": "256387a1e58b962f",
             "type": "leaf",
-            "pinned": true,
             "state": {
               "type": "kanban",
               "state": {
-                "file": "notes/daily/2023-10-19.md"
-              },
-              "pinned": true
+                "file": "notes/daily/2023-10-20.md"
+              }
             }
           },
           {
@@ -30,38 +28,15 @@
             }
           },
           {
-            "id": "0868e6be4b0a26f7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "notes/AE/chemistry/lucarelli.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "825e4917d69815ef",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "notes/AE/methods/RV methods.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
             "id": "0448eea7eb300d73",
             "type": "leaf",
             "state": {
-              "type": "kanban",
+              "type": "markdown",
               "state": {
-                "file": "notes/AE/chemistry/RV chemistry.md"
+                "file": "notes/AE/chemistry/RV chemistry.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
               }
             }
           }
@@ -203,7 +178,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "notes/AE/chemistry/lucarelli.md"
+                "file": "notes/AE/chemistry/RV chemistry.md"
               }
             }
           }
@@ -220,7 +195,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "notes/AE/chemistry/lucarelli.md",
+                "file": "notes/AE/chemistry/RV chemistry.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -246,13 +221,16 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "0868e6be4b0a26f7",
+  "active": "0448eea7eb300d73",
   "lastOpenFiles": [
-    "notes/AE/specialist/RV specialist.md",
+    "notes/AE/chemistry/notes/chromatography.md",
+    "notes/daily/2023-10-20.md",
     "notes/AE/chemistry/chemistry 1.1.md",
-    "notes/daily/2023-10-19.md",
     "notes/AE/chemistry/RV chemistry.md",
     "notes/AE/methods/RV methods.md",
+    "notes/daily/2023-10-19.md",
+    "notes/AE/chemistry/lucarelli.md",
+    "notes/AE/specialist/RV specialist.md",
     "notes/AE/physics/RV physics.md",
     "notes/AE/physics/physics heat test review.md",
     "notes/AE/specialist/conjugate complex numbers and multiplication and division.md",
@@ -273,9 +251,6 @@
     "notes/AE/chemistry/CAP5.md",
     "notes/AE/english/beetlejuice essay.md",
     "notes/AE/english/term 4 responding english exam practices.md",
-    "notes/AE/english/beetlejuice script.md",
-    "notes/daily/HEX Colour Code For All School Subjects.md",
-    "notes/daily/2023-10-18.md",
     "notes/images/Pasted image 20231018191314.png",
     "notes/images/Pasted Image 20230921185420_822.png",
     "notes/AE 1",
