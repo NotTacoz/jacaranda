@@ -11,22 +11,6 @@ kanban-plugin: basic
 
 ## new
 
-- [ ] 28.     Explain how the transition of electrons between energy levels can produce atomic absorption and emission line spectra.
-- [ ] 29.     Describe and explain how flame tests and atomic absorption spectroscopy (AAS) can be used to identify elements.
-- [ ] 30.     _Conduct experimental work safely, competently and methodically, including flame tests. (SIS)_
-- [ ] 31.     Identify the valence electrons of an atom, and explain why these are the electrons involved in bonding and chemical reactions.
-- [ ] 32.     Explain how the stability of the valence electron shell determines the reactivity of an element.
-- [ ] 33.     Explain how the arrangement of the periodic table is based on the atomic number of the elements.
-- [ ] 34.     Describe the relationship between position on the periodic table and electronic arrangement, including the relationship between group and number of valence electrons, and between period and number of occupied electron shells.
-- [ ] 35.     Use electron configuration to identify an atom or ion and its location in the periodic table, and infer its chemical properties.
-- [ ] 36.     Describe and explain the relationship between electronic structure and chemical properties and reactivity, for elements in groups 1, 2, 13 – 18.
-- [ ] 37.     Explain the trends in reactivity for groups 1, 2, 16 & 17.
-- [ ] 38.     Define the terms ionisation energy and electronegativity.
-- [ ] 39.     Describe and explain the trends in first ionisation energy, atomic radius, valency & electronegativity in the periodic table, with reference to groups 1, 2, 13 – 18 and periods 1 – 3.
-- [ ] 40.     Describe the valency of an atom as a measure of the atom’s bonding capacity, and use the periodic table to establish the valency of an atom for periods 1 to 3.
-- [ ] 41.     Explain how the ability of atoms to form chemical bonds is related to its electronic structure, particularly the stability of the valence shell.
-- [ ] 42.     Explain how electrostatic attraction between oppositely charges species / regions leads to chemical bonds.
-- [ ] 43.     Use the periodic table to establish the type of bonding present in elements and compounds.
 - [ ] 44.     Explain why the type of bonding present in a substance defines the physical properties of that substance, including melting and boiling points, conductivity of heat and electricity, and hardness.
 - [ ] 45.     Define ions as atoms or groups of atoms that are electrically charged due to loss or gain of electrons.
 - [ ] 46.     Describe and explain how ions are held together to form an ionic lattice.
@@ -86,6 +70,7 @@ kanban-plugin: basic
 - [ ] 100.  _Conduct experimental work safely, competently and methodically to determine solubility of ionic compounds. (SIS)_
 - [ ] 101.  _State that potable drinking water must undergo various treatment processes to ensure it meets regulations for safe levels of solutes, including heavy metals. (SHE)_
 - [ ] 102.  _Explain why drinking water must be monitored for safe levels on solutes. (SHE)_
+- [ ] 103.  Describe the general principles of chromatography, including the role of the stationary and mobile phases.
 - [ ] 104.  Explain the importance of intermolecular forces in the chromatography process.
 - [ ] 105.  Explain how chromatography can be used to separate and identify the components of a mixture.
 - [ ] 106.  Use knowledge of the polarity of the components of a mixture to be separated to select a chromatographic method for separation.
@@ -187,7 +172,8 @@ kanban-plugin: basic
 
 ## reviewing
 
-- [ ] 103.  Describe the general principles of chromatography, including the role of the stationary and mobile phases.
+- [ ] 35.     Use electron configuration to identify an atom or ion and its location in the periodic table, and infer its chemical properties.
+- [ ] 30.     _Conduct experimental work safely, competently and methodically, including flame tests. (SIS)_
 - [ ] 12.     _Research and communicate scientific ideas effectively in the format of a scientific report, including correct referencing of sources. (SIS)_
 - [ ] 11.     _Explain how developments in technology have contributed to our understanding of the model of the atom. (SHE)_
 - [ ] 10.     _Describe and explain the role of the following scientists in the development of our atomic model: (SHE)_
@@ -196,6 +182,20 @@ kanban-plugin: basic
 
 ## reviewed
 
+- [ ] 43.     Use the periodic table to establish the type of bonding present in elements and compounds.
+- [ ] 42.     Explain how electrostatic attraction between oppositely charges species / regions leads to chemical bonds.
+- [ ] 41.     Explain how the ability of atoms to form chemical bonds is related to its electronic structure, particularly the stability of the valence shell.
+- [ ] 40.     Describe the valency of an atom as a measure of the atom’s bonding capacity, and use the periodic table to establish the valency of an atom for periods 1 to 3.
+- [ ] 39.     Describe and explain the trends in first ionisation energy, atomic radius, valency & electronegativity in the periodic table, with reference to groups 1, 2, 13 – 18 and periods 1 – 3.
+- [ ] 38.     Define the terms ionisation energy and electronegativity.
+- [ ] 37.     Explain the trends in reactivity for groups 1, 2, 16 & 17.
+- [ ] 36.     Describe and explain the relationship between electronic structure and chemical properties and reactivity, for elements in groups 1, 2, 13 – 18.
+- [ ] 34.     Describe the relationship between position on the periodic table and electronic arrangement, including the relationship between group and number of valence electrons, and between period and number of occupied electron shells.
+- [ ] 33.     Explain how the arrangement of the periodic table is based on the atomic number of the elements.
+- [ ] 32.     Explain how the stability of the valence electron shell determines the reactivity of an element.
+- [ ] 31.     Identify the valence electrons of an atom, and explain why these are the electrons involved in bonding and chemical reactions.
+- [ ] 29.     Describe and explain how flame tests and atomic absorption spectroscopy (AAS) can be used to identify elements.
+- [ ] 28.     Explain how the transition of electrons between energy levels can produce atomic absorption and emission line spectra.
 - [ ] 27.     Use the subshell (s/p/d/f) configurations to write electron arrangements for the first 20 elements (s & p only).
 - [ ] 26.     Explain that atomic orbitals have different energy levels, and occupy different regions of space.
 - [ ] 25.     Use the energy level / shell model to write electron configurations for the first 20 elements, (eg: 2,8,8).

@@ -2322,21 +2322,37 @@
       "modifiedDate": 1697594895904,
       "sizeInBytes": 1052
     },
+    "notes/daily/2023-10-21.md": {
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 71,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.23666666666666666,
+      "characterCount": 343,
+      "nonWhitespaceCharacterCount": 260,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1697851852340,
+      "modifiedDate": 1697851852656,
+      "sizeInBytes": 424
+    },
     "notes/daily/2023-10-20.md": {
       "isDirectory": false,
       "noteCount": 1,
-      "wordCount": 39,
+      "wordCount": 70,
       "wordCountTowardGoal": 0,
       "wordGoal": null,
-      "pageCount": 0.13,
-      "characterCount": 210,
-      "nonWhitespaceCharacterCount": 159,
+      "pageCount": 0.23333333333333334,
+      "characterCount": 343,
+      "nonWhitespaceCharacterCount": 261,
       "linkCount": 0,
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1697764190516,
-      "modifiedDate": 1697764203909,
-      "sizeInBytes": 291
+      "modifiedDate": 1697795522517,
+      "sizeInBytes": 424
     },
     "notes/daily/2023-10-19.md": {
       "isDirectory": false,
@@ -5119,7 +5135,7 @@
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1697524795871,
-      "modifiedDate": 1697764855563,
+      "modifiedDate": 1697811840336,
       "sizeInBytes": 26665
     },
     "notes/AE/chemistry/thermodynamics.md": {
