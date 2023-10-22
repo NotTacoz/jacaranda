@@ -11,8 +11,6 @@ kanban-plugin: basic
 
 ## new
 
-- [ ] 44.     Explain why the type of bonding present in a substance defines the physical properties of that substance, including melting and boiling points, conductivity of heat and electricity, and hardness.
-- [ ] 45.     Define ions as atoms or groups of atoms that are electrically charged due to loss or gain of electrons.
 - [ ] 46.     Describe and explain how ions are held together to form an ionic lattice.
 - [ ] 47.     Use understanding of ionic bonding to explain the physical properties of ionic compounds, including:
 - [ ] 48.     Calculate percentage composition of an ionic compound from the relative atomic masses of the constituent species.
@@ -172,6 +170,7 @@ kanban-plugin: basic
 
 ## reviewing
 
+- [ ] 44.     Explain why the type of bonding present in a substance defines the physical properties of that substance, including melting and boiling points, conductivity of heat and electricity, and hardness.
 - [ ] 35.     Use electron configuration to identify an atom or ion and its location in the periodic table, and infer its chemical properties.
 - [ ] 30.     _Conduct experimental work safely, competently and methodically, including flame tests. (SIS)_
 - [ ] 12.     _Research and communicate scientific ideas effectively in the format of a scientific report, including correct referencing of sources. (SIS)_
@@ -182,6 +181,7 @@ kanban-plugin: basic
 
 ## reviewed
 
+- [ ] 45.     Define ions as atoms or groups of atoms that are electrically charged due to loss or gain of electrons.
 - [ ] 43.     Use the periodic table to establish the type of bonding present in elements and compounds.
 - [ ] 42.     Explain how electrostatic attraction between oppositely charges species / regions leads to chemical bonds.
 - [ ] 41.     Explain how the ability of atoms to form chemical bonds is related to its electronic structure, particularly the stability of the valence shell.
