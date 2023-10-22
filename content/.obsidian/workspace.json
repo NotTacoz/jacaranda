@@ -8,26 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "256387a1e58b962f",
-            "type": "leaf",
-            "state": {
-              "type": "kanban",
-              "state": {
-                "file": "notes/daily/2023-10-20.md"
-              }
-            }
-          },
-          {
-            "id": "7632b3053a8110ca",
-            "type": "leaf",
-            "state": {
-              "type": "kanban",
-              "state": {
-                "file": "notes/daily/2023-10-21.md"
-              }
-            }
-          },
-          {
             "id": "0448eea7eb300d73",
             "type": "leaf",
             "state": {
@@ -64,7 +44,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -247,11 +227,11 @@
   "active": "10f57876f6366385",
   "lastOpenFiles": [
     "notes/AE/chemistry/lucarelli.md",
+    "notes/AE/chemistry/RV chemistry.md",
     "notes/AE/chemistry/chemistry 1.1.md",
     "notes/daily/2023-10-20.md",
-    "notes/AE/chemistry/RV chemistry.md",
-    "notes/AE/chemistry/CAP5.md",
     "notes/daily/2023-10-21.md",
+    "notes/AE/chemistry/CAP5.md",
     "notes/AE/specialist/RV specialist.md",
     "notes/AE/chemistry/notes/chromatography.md",
     "notes/AE/methods/RV methods.md",

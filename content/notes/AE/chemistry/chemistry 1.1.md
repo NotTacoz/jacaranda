@@ -11,9 +11,6 @@ kanban-plugin: basic
 
 ## new
 
-- [ ] 46.     Describe and explain how ions are held together to form an ionic lattice.
-- [ ] 47.     Use understanding of ionic bonding to explain the physical properties of ionic compounds, including:
-- [ ] 48.     Calculate percentage composition of an ionic compound from the relative atomic masses of the constituent species.
 - [ ] 49.     Define and describe the difference between anhydrous and hydrated salts, and explain the role of water of crystallisation.
 - [ ] 50.     Calculate the formula of an ionic compound from empirical data, including the formula of a hydrated salt.
 - [ ] 51.     Perform stoichiometric calculations in order to establish percentage composition and empirical formula of ionic compounds.
@@ -181,6 +178,9 @@ kanban-plugin: basic
 
 ## reviewed
 
+- [ ] 48.     Calculate percentage composition of an ionic compound from the relative atomic masses of the constituent species.
+- [ ] 47.     Use understanding of ionic bonding to explain the physical properties of ionic compounds, including:
+- [ ] 46.     Describe and explain how ions are held together to form an ionic lattice.
 - [ ] 45.     Define ions as atoms or groups of atoms that are electrically charged due to loss or gain of electrons.
 - [ ] 43.     Use the periodic table to establish the type of bonding present in elements and compounds.
 - [ ] 42.     Explain how electrostatic attraction between oppositely charges species / regions leads to chemical bonds.
