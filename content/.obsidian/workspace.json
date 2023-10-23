@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notes/AE/chemistry/RV chemistry.md",
+                "file": "notes/AE/english/term 4 responding english exam practices.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -37,9 +37,12 @@
             "id": "10f57876f6366385",
             "type": "leaf",
             "state": {
-              "type": "kanban",
+              "type": "markdown",
               "state": {
-                "file": "notes/AE/chemistry/chemistry 1.1.md"
+                "file": "notes/AE/specialist/inductionProof.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
               }
             }
           },
@@ -56,8 +59,7 @@
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -112,7 +114,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 2
       },
       {
         "id": "57f26b66d7acceda",
@@ -193,7 +196,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "notes/AE/chemistry/chemistry 1.1.md"
+                "file": "notes/AE/english/term 4 responding english exam practices.md"
               }
             }
           }
@@ -210,7 +213,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "notes/AE/chemistry/chemistry 1.1.md",
+                "file": "notes/AE/english/term 4 responding english exam practices.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -236,12 +239,16 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "10f57876f6366385",
+  "active": "0448eea7eb300d73",
   "lastOpenFiles": [
+    "notes/AE/english/beetlejuice script.md",
+    "notes/AE/english/beetlejuice essay.md",
+    "notes/AE/chemistry/chemistry 1.1.md",
+    "notes/AE/english/term 4 responding english exam practices.md",
+    "notes/AE/chemistry/RV chemistry.md",
+    "notes/AE/specialist/inductionProof.md",
     "notes/AE/chemistry/CAP5.md",
     "notes/AE/physics/heat.md",
-    "notes/AE/chemistry/RV chemistry.md",
-    "notes/AE/chemistry/chemistry 1.1.md",
     "notes/AE/chemistry/lucarelli.md",
     "notes/daily/2023-10-20.md",
     "notes/daily/2023-10-21.md",
@@ -260,11 +267,7 @@
     "notes/AE/specialist/productToSumAndSumToProduct.md",
     "notes/AE/specialist/(spec) trig revision.md",
     "notes/AE/specialist/trigonometry.md",
-    "notes/AE/chemistry/chemistry 1.md",
-    "notes/AE/chemistry/18.     Describe how mass spectrometry can be used to establish the isotopic composition of an element..md",
     "notes/images/Screen Shot 2023-10-19 at 9.27.18 am.png",
-    "notes/AE/chemistry/Construct a timeline of the development of the atomic model. (SHE).md",
-    "notes/stats.md",
     "notes/images/Pasted image 20231019091231.png",
     "notes/images/Pasted image 20231018191314.png",
     "notes/images/Pasted Image 20230921185420_822.png",

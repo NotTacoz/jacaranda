@@ -16,7 +16,6 @@ idk talk about family? everyone didnt have a full family
 
 ## new essay
 [WHAT IS BEETLEJUICE WITHOUT BEETLEJUICE?: THOUGHTS ON DEATH, PATRIARCHY, AND CAPITALISM.](https://justdreadfull.com/2020/11/22/what-is-beetlejuice-without-beetlejuice-thoughts-on-death-patriarchy-and-capitalism/)
-
 ## essay
 ### beetlejuice
 

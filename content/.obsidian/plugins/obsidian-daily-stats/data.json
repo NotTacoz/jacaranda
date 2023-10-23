@@ -119,12 +119,17 @@
     "2023/9/17": 1,
     "2023/9/18": 770,
     "2023/9/19": 334,
-    "2023/9/20": 116
+    "2023/9/20": 116,
+    "2023/9/23": 9
   },
   "todaysWordCount": {
-    "notes/AE/chemistry/notes/chromatography.md": {
-      "initial": 583,
-      "current": 699
+    "notes/AE/english/beetlejuice essay.md": {
+      "initial": 1317,
+      "current": 1316
+    },
+    "notes/AE/english/term 4 responding english exam practices.md": {
+      "initial": 1435,
+      "current": 1444
     }
   }
 }

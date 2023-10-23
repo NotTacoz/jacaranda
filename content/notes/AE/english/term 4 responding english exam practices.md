@@ -43,3 +43,7 @@ encouraging the audience to
 - By the end of the film, the Maitlands and the Deetzes agree to live alongside one another in harmony in the house, providing Lydia with two sets of parents. 
 - With a strong familial base in place at home, Lydia's stability has improved and she has become a happy, well-adjusted kid, showcasing the importance of a strong family base as an important theme.
 **link**
+
+**conclusion**
+rip
+come up with it on the day :>
