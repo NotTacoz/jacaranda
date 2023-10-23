@@ -11,16 +11,6 @@ kanban-plugin: basic
 
 ## new
 
-- [ ] 49.     Define and describe the difference between anhydrous and hydrated salts, and explain the role of water of crystallisation.
-- [ ] 50.     Calculate the formula of an ionic compound from empirical data, including the formula of a hydrated salt.
-- [ ] 51.     Perform stoichiometric calculations in order to establish percentage composition and empirical formula of ionic compounds.
-- [ ] 52.     Describe how metallic bonding holds metal atoms together, in a lattice of positively charged ions surrounded by delocalised electrons.
-- [ ] 53.     Explain the physical properties of metals, including:
-- [ ] 54.     Describe a covalent bond as a shared pair of electrons, resulting in electrostatic attraction between positive nuclei of the atoms and the shared electron pair.
-- [ ] 55.     Draw Lewis structures for covalent molecules, showing both bonding pairs and lone pairs of electrons.
-- [ ] 56.     Use the valence shell electron pair repulsion (VSEPR) theory along with Lewis structures to explain, predict and draw the shapes of molecules and polyatomic ions.
-- [ ] 57.     Explain the physical properties of covalent molecular substances, including:
-- [ ] 58.     Recognise some common covalent network substances, including diamond, graphite and silicon dioxide.
 - [ ] 59.     Describe the range of allotropes of elemental carbon (diamond, graphite and fullerenes), and explain why they have significantly different physical and chemical properties.
 - [ ] 60.     Explain the physical properties of covalent network substances, including:
 - [ ] 61.     Describe what nanomaterials are.
@@ -178,6 +168,16 @@ kanban-plugin: basic
 
 ## reviewed
 
+- [ ] 58.     Recognise some common covalent network substances, including diamond, graphite and silicon dioxide.
+- [ ] 57.     Explain the physical properties of covalent molecular substances, including:
+- [ ] 56.     Use the valence shell electron pair repulsion (VSEPR) theory along with Lewis structures to explain, predict and draw the shapes of molecules and polyatomic ions.
+- [ ] 55.     Draw Lewis structures for covalent molecules, showing both bonding pairs and lone pairs of electrons.
+- [ ] 54.     Describe a covalent bond as a shared pair of electrons, resulting in electrostatic attraction between positive nuclei of the atoms and the shared electron pair.
+- [ ] 53.     Explain the physical properties of metals, including:
+- [ ] 52.     Describe how metallic bonding holds metal atoms together, in a lattice of positively charged ions surrounded by delocalised electrons.
+- [ ] 51.     Perform stoichiometric calculations in order to establish percentage composition and empirical formula of ionic compounds.
+- [ ] 50.     Calculate the formula of an ionic compound from empirical data, including the formula of a hydrated salt.
+- [ ] 49.     Define and describe the difference between anhydrous and hydrated salts, and explain the role of water of crystallisation.
 - [ ] 48.     Calculate percentage composition of an ionic compound from the relative atomic masses of the constituent species.
 - [ ] 47.     Use understanding of ionic bonding to explain the physical properties of ionic compounds, including:
 - [ ] 46.     Describe and explain how ions are held together to form an ionic lattice.
