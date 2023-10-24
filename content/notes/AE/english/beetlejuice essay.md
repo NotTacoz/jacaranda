@@ -10,7 +10,22 @@ On essay on [[notes/AE/english/beetlejuice|beetlejuice]]
 ### tim burton
 - 
 ### movie
+isolation
 - lydia deetz - "My whole life is a dark room"
+- Barbara Maitland's comment towards Jane, a real estate agent, to <mark style="background: #FFFD00B0;">"leave [them] alone [at home]"</mark>
+- When the Deetzes settle into the house, the first things they do was to host a <mark style="background: #FFFD00B0;">"dinner party"</mark> <mark style="background: #FFFD00B0;">"for seven people."</mark>
+- Lydia relates to the Maitlands and their abnormal natures, stating that <mark style="background: #FFFD00B0;">“I, myself, am the strange and unusual”</mark>, to which the Maitlands told her she <mark style="background: #FFFD00B0;">"look[s] normal"</mark>.
+- This juxtaposes with the actions of Delia Deetz, who encourages Lydia and tells her that she was <mark style="background: #FFFD00B0;">"miserable in New York City"</mark> and <mark style="background: #FFFD00B0;">"out here"</mark>. 
+country vs city
+- wallpapers, adams model of town
+- <mark style="background: #FFFD00B0;">"you cover the wallpaper ... this place might be liveable."</mark>
+- <mark style="background: #FFFD00B0;">"My agent, Bernard, is bringing a woman who writes for Art in America"</mark>
+- <mark style="background: #FFFD00B0;">"Two weeks at home"</mark> is the <mark style="background: #FFFD00B0;">"the perfect vacation"</mark>
+- charles deetz struggles to relax and cannot look around without seeing a business opportunity (symptom of his urban background.)
+family of maitlands vs deetz
+- In the resolution of the film, the Maitlands ask Lydia of her grades in <mark style="background: #FFFD00B0;">"maths"</mark> and <mark style="background: #FFFD00B0;">"science"</mark>.
+- Delia Deetz stating that <mark style="background: #FFFD00B0;">"let's play family just for tonight"</mark> explains their relationships, where the they parody a fractured family, appearance of harmony becomes more important than real love
+- Delia Deetz lashing out towards Lydia, saying <mark style="background: #FFFD00B0;">"Don't you dare talk to others about me.  I'm an artist!  The only thing that scares me is being embarrassed in front of my friends."</mark> underscores her blind focus on her own social standing and art career, putting it above Lydia's angst, thinking of a waste of energy and a way of getting attention, rather than a manifestation of her depression, and a cry for help.
 
 idk talk about family? everyone didnt have a full family
 

@@ -11,20 +11,6 @@ kanban-plugin: basic
 
 ## new
 
-- [ ] 59.     Describe the range of allotropes of elemental carbon (diamond, graphite and fullerenes), and explain why they have significantly different physical and chemical properties.
-- [ ] 60.     Explain the physical properties of covalent network substances, including:
-- [ ] 61.     Describe what nanomaterials are.
-- [ ] 62.     State and describe how the properties of nanomaterials may differ from the properties of the bulk material, and give examples.
-- [ ] 63.     Identify uses of nanomaterials and suggest advantages and disadvantages to their use.
-- [ ] 64.     _Describe the potential health risks associated with the use of nanoparticles. (SHE)_
-- [ ] 65.     _Describe and explain examples of environmental concerns associated with the use of nanomaterials. (SHE)_
-- [ ] 66.     _Provide a balanced discussion of the advantages and disadvantages of nanomaterials. (SHE)_
-- [ ] 67.     Describe the difference between intramolecular bonding and intermolecular forces.
-- [ ] 68.     Compare the relative strength of ionic, covalent and metallic bonding with intermolecular forces.
-- [ ] 69.     Recognise that intermolecular forces are present in all substances, but are most significant in discussion of the properties of covalent molecular substances, due to the lack of any stronger interactions between molecules.
-- [ ] 70.     Describe how dispersion forces arise in all substances, and explain how molecular shape, and number of atoms affect the strength of dispersion forces.
-- [ ] 71.     Use knowledge of electronegativity to establish bond polarity.
-- [ ] 72.     Use understanding of molecular shape, bond polarity and symmetry to establish and explain the polarity of molecules.
 - [ ] 73.     Describe how dipole-dipole forces arise, and explain how the relative size of a molecular dipole affects the strength of dipole-dipole forces.
 - [ ] 74.     Describe how hydrogen bonding arises, end explain why this special case of dipole-dipole bonding is so much stronger than other examples of dipole-dipole bonding.
 - [ ] 75.     Draw diagrams to show how all types of intermolecular forces occur between neighbouring molecules.
@@ -157,6 +143,7 @@ kanban-plugin: basic
 
 ## reviewing
 
+- [ ] 59.     Describe the range of allotropes of elemental carbon (diamond, graphite and fullerenes), and explain why they have significantly different physical and chemical properties.
 - [ ] 44.     Explain why the type of bonding present in a substance defines the physical properties of that substance, including melting and boiling points, conductivity of heat and electricity, and hardness.
 - [ ] 35.     Use electron configuration to identify an atom or ion and its location in the periodic table, and infer its chemical properties.
 - [ ] 30.     _Conduct experimental work safely, competently and methodically, including flame tests. (SIS)_
@@ -168,6 +155,19 @@ kanban-plugin: basic
 
 ## reviewed
 
+- [ ] 72.     Use understanding of molecular shape, bond polarity and symmetry to establish and explain the polarity of molecules.
+- [ ] 71.     Use knowledge of electronegativity to establish bond polarity.
+- [ ] 70.     Describe how dispersion forces arise in all substances, and explain how molecular shape, and number of atoms affect the strength of dispersion forces.
+- [ ] 69.     Recognise that intermolecular forces are present in all substances, but are most significant in discussion of the properties of covalent molecular substances, due to the lack of any stronger interactions between molecules.
+- [ ] 68.     Compare the relative strength of ionic, covalent and metallic bonding with intermolecular forces.
+- [ ] 67.     Describe the difference between intramolecular bonding and intermolecular forces.
+- [ ] 66.     _Provide a balanced discussion of the advantages and disadvantages of nanomaterials. (SHE)_
+- [ ] 65.     _Describe and explain examples of environmental concerns associated with the use of nanomaterials. (SHE)_
+- [ ] 64.     _Describe the potential health risks associated with the use of nanoparticles. (SHE)_
+- [ ] 63.     Identify uses of nanomaterials and suggest advantages and disadvantages to their use.
+- [ ] 62.     State and describe how the properties of nanomaterials may differ from the properties of the bulk material, and give examples.
+- [ ] 61.     Describe what nanomaterials are.
+- [ ] 60.     Explain the physical properties of covalent network substances, including:
 - [ ] 58.     Recognise some common covalent network substances, including diamond, graphite and silicon dioxide.
 - [ ] 57.     Explain the physical properties of covalent molecular substances, including:
 - [ ] 56.     Use the valence shell electron pair repulsion (VSEPR) theory along with Lewis structures to explain, predict and draw the shapes of molecules and polyatomic ions.

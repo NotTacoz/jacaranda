@@ -4949,18 +4949,18 @@
     "notes/AE/english/beetlejuice essay.md": {
       "isDirectory": false,
       "noteCount": 1,
-      "wordCount": 1268,
+      "wordCount": 1582,
       "wordCountTowardGoal": 0,
       "wordGoal": null,
-      "pageCount": 4.226666666666667,
-      "characterCount": 8831,
-      "nonWhitespaceCharacterCount": 7527,
+      "pageCount": 5.273333333333333,
+      "characterCount": 11133,
+      "nonWhitespaceCharacterCount": 9512,
       "linkCount": 1,
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1697374564000,
-      "modifiedDate": 1698055483556,
-      "sizeInBytes": 8944
+      "modifiedDate": 1698056239098,
+      "sizeInBytes": 11250
     },
     "notes/AE/english/WTCS-VALUES-ATTITUDES.md": {
       "isDirectory": false,
@@ -5135,7 +5135,7 @@
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1697524795871,
-      "modifiedDate": 1697966420355,
+      "modifiedDate": 1698138786200,
       "sizeInBytes": 26665
     },
     "notes/AE/chemistry/thermodynamics.md": {

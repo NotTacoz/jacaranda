@@ -8,25 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "0448eea7eb300d73",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "notes/AE/english/term 4 responding english exam practices.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
             "id": "3086a576d615310c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notes/AE/chemistry/lucarelli.md",
+                "file": "notes/AE/english/beetlejuice essay.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -37,12 +24,9 @@
             "id": "10f57876f6366385",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "kanban",
               "state": {
-                "file": "notes/AE/specialist/inductionProof.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
+                "file": "notes/AE/chemistry/chemistry 1.1.md"
               }
             }
           },
@@ -59,7 +43,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -196,7 +181,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "notes/AE/english/term 4 responding english exam practices.md"
+                "file": "notes/AE/chemistry/chemistry 1.1.md"
               }
             }
           }
@@ -213,7 +198,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "notes/AE/english/term 4 responding english exam practices.md",
+                "file": "notes/AE/chemistry/chemistry 1.1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -239,22 +224,25 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "0448eea7eb300d73",
+  "active": "10f57876f6366385",
   "lastOpenFiles": [
-    "notes/AE/english/beetlejuice script.md",
-    "notes/AE/english/beetlejuice essay.md",
-    "notes/AE/chemistry/chemistry 1.1.md",
-    "notes/AE/english/term 4 responding english exam practices.md",
-    "notes/AE/chemistry/RV chemistry.md",
-    "notes/AE/specialist/inductionProof.md",
     "notes/AE/chemistry/CAP5.md",
-    "notes/AE/physics/heat.md",
+    "notes/AE/methods/RV methods.md",
+    "notes/AE/chemistry/RV chemistry.md",
+    "notes/AE/english/beetlejuice essay.md",
+    "notes/AE/specialist/RV specialist.md",
+    "notes/AE/english/term 4 responding english exam practices.md",
+    "notes/AE/chemistry/chemistry 1.md",
+    "notes/AE/chemistry/chemistry 1.1.md",
+    "notes/AE/english/english exam notes.md",
+    "notes/AE/english/beetlejuice script.md",
+    "notes/AE/specialist/inductionProof.md",
+    "notes/Untitled.md",
     "notes/AE/chemistry/lucarelli.md",
+    "notes/AE/physics/heat.md",
     "notes/daily/2023-10-20.md",
     "notes/daily/2023-10-21.md",
-    "notes/AE/specialist/RV specialist.md",
     "notes/AE/chemistry/notes/chromatography.md",
-    "notes/AE/methods/RV methods.md",
     "notes/daily/2023-10-19.md",
     "notes/AE/physics/RV physics.md",
     "notes/AE/physics/physics heat test review.md",
@@ -264,9 +252,6 @@
     "notes/AE/specialist/solutions of quadratic equations.md",
     "notes/AE/specialist/mandelbrot set.md",
     "notes/AE/specialist/trighardquestions.md",
-    "notes/AE/specialist/productToSumAndSumToProduct.md",
-    "notes/AE/specialist/(spec) trig revision.md",
-    "notes/AE/specialist/trigonometry.md",
     "notes/images/Screen Shot 2023-10-19 at 9.27.18 am.png",
     "notes/images/Pasted image 20231019091231.png",
     "notes/images/Pasted image 20231018191314.png",

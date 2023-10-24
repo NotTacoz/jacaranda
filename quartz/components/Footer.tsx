@@ -16,6 +16,7 @@ export default ((opts?: Options) => {
         <p>
           Created with <a href="https://quartz.jzhao.xyz/">Quartz v{version}</a>, © {year}
         </p>
+        <img src="https://moe-counter.glitch.me/get/@NotTacoz" />
         <ul>
           {Object.entries(links).map(([text, link]) => (
             <li>
