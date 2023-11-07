@@ -120,16 +120,23 @@
     "2023/9/18": 770,
     "2023/9/19": 334,
     "2023/9/20": 116,
-    "2023/9/23": 360
+    "2023/9/23": 360,
+    "2023/9/24": 0,
+    "2023/10/6": 3,
+    "2023/10/7": 386
   },
   "todaysWordCount": {
-    "notes/AE/english/beetlejuice essay.md": {
-      "initial": 1317,
-      "current": 1668
+    "notes/Gravity and Motion.md": {
+      "initial": 10,
+      "current": 11
     },
-    "notes/AE/english/term 4 responding english exam practices.md": {
-      "initial": 1435,
-      "current": 1444
+    "templates/post.md": {
+      "initial": 12,
+      "current": 13
+    },
+    "notes/AT/physics/Gravity and Motion.md": {
+      "initial": 12,
+      "current": 396
     }
   }
 }

@@ -16,6 +16,7 @@ for quick access to my specific subjects, check out:
 - [[tags/methods|methods]]
 - [[tags/english|english]]
 - [[tags/japanese|japanese]]
-( or you can look at the sidebar on the left :> )
+- 
+( or you can look at the sidebar on the right :> )
 
 check out my page [[notes/stats|stats]]

@@ -4,47 +4,23 @@
     "type": "split",
     "children": [
       {
-        "id": "b041099253a69122",
+        "id": "56a7dbec171106a3",
         "type": "tabs",
         "children": [
           {
-            "id": "3086a576d615310c",
+            "id": "157f8ec73be844a1",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notes/AE/english/beetlejuice essay.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "10f57876f6366385",
-            "type": "leaf",
-            "state": {
-              "type": "kanban",
-              "state": {
-                "file": "notes/AE/chemistry/chemistry 1.1.md"
-              }
-            }
-          },
-          {
-            "id": "5d290f2c9e59060a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "notes/AE/chemistry/CAP5.md",
+                "file": "notes/AT/physics/Gravity and Motion.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -74,7 +50,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:presentation",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -99,8 +75,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 2
+        ]
       },
       {
         "id": "57f26b66d7acceda",
@@ -180,9 +155,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "notes/AE/chemistry/chemistry 1.1.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -198,7 +171,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "notes/AE/chemistry/chemistry 1.1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -224,34 +196,41 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "10f57876f6366385",
+  "active": "2ff833ea4b32786a",
   "lastOpenFiles": [
+    "notes/AT/physics/Gravity and Motion.md",
+    "templates/daily.md",
+    "templates/tags.md",
+    "templates/post.md",
+    "notes/daily/2023-11-06.md",
+    "notes/AT/chemistry/test.md",
+    "notes/stats.md",
+    "notes/chem.md",
+    "notes/AT/specialist",
+    "notes/AT/methods",
+    "notes/AT/english",
+    "notes/AT/japanese",
+    "notes/AT/physics",
+    "notes/AT/chemistry",
+    "notes/AT",
+    "notes/notes.md",
+    "notes/helloWorld.md",
+    "tags/japanese.md",
+    "notes/AE/physics/physics electricity test feedback.md",
+    "notes/AE/chemistry/stuff needed to review chem cap4.md",
+    "notes/AE/english/feedback.md",
+    "notes/AE/chemistry/chemistry 1.1.md",
+    "notes/AE/physics/RV physics.md",
+    "notes/AE/physics/RV physics copy.md",
     "notes/AE/chemistry/CAP5.md",
-    "notes/AE/methods/RV methods.md",
-    "notes/AE/chemistry/RV chemistry.md",
     "notes/AE/english/beetlejuice essay.md",
+    "notes/AE/chemistry/ATOMIC-STRUCTURES.md",
     "notes/AE/specialist/RV specialist.md",
     "notes/AE/english/term 4 responding english exam practices.md",
+    "_index.md",
+    "notes/AE/methods/RV methods.md",
+    "notes/AE/chemistry/RV chemistry.md",
     "notes/AE/chemistry/chemistry 1.md",
-    "notes/AE/chemistry/chemistry 1.1.md",
-    "notes/AE/english/english exam notes.md",
-    "notes/AE/english/beetlejuice script.md",
-    "notes/AE/specialist/inductionProof.md",
-    "notes/Untitled.md",
-    "notes/AE/chemistry/lucarelli.md",
-    "notes/AE/physics/heat.md",
-    "notes/daily/2023-10-20.md",
-    "notes/daily/2023-10-21.md",
-    "notes/AE/chemistry/notes/chromatography.md",
-    "notes/daily/2023-10-19.md",
-    "notes/AE/physics/RV physics.md",
-    "notes/AE/physics/physics heat test review.md",
-    "notes/AE/specialist/conjugate complex numbers and multiplication and division.md",
-    "notes/AE/specialist/imaginary numbers.md",
-    "notes/AE/specialist/complex numbers.md",
-    "notes/AE/specialist/solutions of quadratic equations.md",
-    "notes/AE/specialist/mandelbrot set.md",
-    "notes/AE/specialist/trighardquestions.md",
     "notes/images/Screen Shot 2023-10-19 at 9.27.18 am.png",
     "notes/images/Pasted image 20231019091231.png",
     "notes/images/Pasted image 20231018191314.png",
@@ -259,13 +238,6 @@
     "notes/AE 1",
     "notes/AE",
     "notes/AE/methods",
-    "notes/AE/specialist",
-    "notes/AE/japanese",
-    "notes/AE/english",
-    "notes/AE/chemistry",
-    "notes/AE/physics",
-    "templates",
-    "private/val/split",
     "notes/images/Screen Shot 2023-08-21 at 2.28.30 pm.png",
     "notes/images/Screen Shot 2023-10-15 at 7.20.32 pm.png",
     "notes/images/Pasted image 20230302120119.png",

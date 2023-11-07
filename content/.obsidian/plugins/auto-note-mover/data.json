@@ -4,32 +4,32 @@
   "statusBar_trigger_indicator": false,
   "folder_tag_pattern": [
     {
-      "folder": "notes/AE/specialist",
+      "folder": "notes/AT/specialist",
       "tag": "#specialist",
       "pattern": ""
     },
     {
-      "folder": "notes/AE/chemistry",
+      "folder": "notes/AT/chemistry",
       "tag": "#chemistry",
       "pattern": ""
     },
     {
-      "folder": "notes/AE/methods",
+      "folder": "notes/AT/methods",
       "tag": "#methods",
       "pattern": ""
     },
     {
-      "folder": "notes/AE/physics",
+      "folder": "notes/AT/physics",
       "tag": "#physics",
       "pattern": ""
     },
     {
-      "folder": "notes/AE/english",
+      "folder": "notes/AT/english",
       "tag": "#english",
       "pattern": ""
     },
     {
-      "folder": "notes/AE/japanese",
+      "folder": "notes/AT/japanese",
       "tag": "#japanese",
       "pattern": ""
     },
@@ -52,6 +52,9 @@
     },
     {
       "folder": "templates"
+    },
+    {
+      "folder": "notes/AT"
     }
   ]
 }

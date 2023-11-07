@@ -11,8 +11,6 @@ kanban-plugin: basic
 
 ## new
 
-- [ ] 73.     Describe how dipole-dipole forces arise, and explain how the relative size of a molecular dipole affects the strength of dipole-dipole forces.
-- [ ] 74.     Describe how hydrogen bonding arises, end explain why this special case of dipole-dipole bonding is so much stronger than other examples of dipole-dipole bonding.
 - [ ] 75.     Draw diagrams to show how all types of intermolecular forces occur between neighbouring molecules.
 - [ ] 76.     Compare the relative strength of the types of intermolecular forces.
 - [ ] 77.     Use understanding of bond polarity, molecular shape and symmetry to establish the nature and strength of intermolecular forces present in a covalent molecular substance.
@@ -155,6 +153,8 @@ kanban-plugin: basic
 
 ## reviewed
 
+- [ ] 74.     Describe how hydrogen bonding arises, end explain why this special case of dipole-dipole bonding is so much stronger than other examples of dipole-dipole bonding.
+- [ ] 73.     Describe how dipole-dipole forces arise, and explain how the relative size of a molecular dipole affects the strength of dipole-dipole forces.
 - [ ] 72.     Use understanding of molecular shape, bond polarity and symmetry to establish and explain the polarity of molecules.
 - [ ] 71.     Use knowledge of electronegativity to establish bond polarity.
 - [ ] 70.     Describe how dispersion forces arise in all substances, and explain how molecular shape, and number of atoms affect the strength of dispersion forces.
