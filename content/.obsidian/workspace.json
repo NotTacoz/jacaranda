@@ -13,14 +13,28 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notes/AT/physics/Gravity and Motion.md",
+                "file": "notes/AT/physics/Vectors and Scalars.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "192694056fcdd331",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "notes/AT/specialist/Complex Numbers.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -198,7 +212,16 @@
   },
   "active": "2ff833ea4b32786a",
   "lastOpenFiles": [
+    "notes/AT/specialist/Complex Numbers.md",
+    "notes/images/Pasted image 20231108135338.png",
+    "notes/images/Pasted image 20231108135239.png",
+    "notes/images/Pasted image 20231108135237.png",
+    "notes/AT/physics/Vectors and Scalars.md",
+    "notes/images/Screen Shot 2023-11-08 at 9.28.54 am.png",
+    "Excalidraw/Drawing 2023-11-08 09.28.21.excalidraw.md",
     "notes/AT/physics/Gravity and Motion.md",
+    "_index.md",
+    "notes/AE/methods/indexLaws.md",
     "templates/daily.md",
     "templates/tags.md",
     "templates/post.md",
@@ -225,12 +248,6 @@
     "notes/AE/chemistry/CAP5.md",
     "notes/AE/english/beetlejuice essay.md",
     "notes/AE/chemistry/ATOMIC-STRUCTURES.md",
-    "notes/AE/specialist/RV specialist.md",
-    "notes/AE/english/term 4 responding english exam practices.md",
-    "_index.md",
-    "notes/AE/methods/RV methods.md",
-    "notes/AE/chemistry/RV chemistry.md",
-    "notes/AE/chemistry/chemistry 1.md",
     "notes/images/Screen Shot 2023-10-19 at 9.27.18 am.png",
     "notes/images/Pasted image 20231019091231.png",
     "notes/images/Pasted image 20231018191314.png",
@@ -240,10 +257,6 @@
     "notes/AE/methods",
     "notes/images/Screen Shot 2023-08-21 at 2.28.30 pm.png",
     "notes/images/Screen Shot 2023-10-15 at 7.20.32 pm.png",
-    "notes/images/Pasted image 20230302120119.png",
-    "notes/images/Screen Shot 2023-08-14 at 9.13.04 am.png",
-    "notes/images/Pasted image 20230509130147.png",
-    "notes/images/Pasted Image 20230913184250_004.jpg",
     "Untitled.canvas",
     "Untitled 2.canvas",
     "Untitled 1.canvas"

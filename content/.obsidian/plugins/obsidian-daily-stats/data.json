@@ -123,20 +123,25 @@
     "2023/9/23": 360,
     "2023/9/24": 0,
     "2023/10/6": 3,
-    "2023/10/7": 386
+    "2023/10/7": 424,
+    "2023/10/8": 697
   },
   "todaysWordCount": {
-    "notes/Gravity and Motion.md": {
-      "initial": 10,
-      "current": 11
-    },
-    "templates/post.md": {
-      "initial": 12,
-      "current": 13
-    },
     "notes/AT/physics/Gravity and Motion.md": {
-      "initial": 12,
+      "initial": 397,
       "current": 396
+    },
+    "notes/AT/physics/Vectors and Scalars.md": {
+      "initial": 48,
+      "current": 160
+    },
+    "notes/Complex Numbers.md": {
+      "initial": 9,
+      "current": 10
+    },
+    "notes/AT/specialist/Complex Numbers.md": {
+      "initial": 10,
+      "current": 594
     }
   }
 }
