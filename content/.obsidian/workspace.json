@@ -32,9 +32,22 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "a57924cbfbe1080b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "notes/AT/chemistry/Edward ATAR 12 Chemistry Seminar.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -169,7 +182,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "notes/AT/chemistry/Edward ATAR 12 Chemistry Seminar.md"
+              }
             }
           }
         ]
@@ -185,6 +200,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "notes/AT/chemistry/Edward ATAR 12 Chemistry Seminar.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -210,9 +226,11 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "2ff833ea4b32786a",
+  "active": "a57924cbfbe1080b",
   "lastOpenFiles": [
+    "notes/images/Screen Shot 2023-11-08 at 3.39.01 pm.png",
     "notes/AT/specialist/Complex Numbers.md",
+    "notes/AT/chemistry/Edward ATAR 12 Chemistry Seminar.md",
     "notes/images/Pasted image 20231108135338.png",
     "notes/images/Pasted image 20231108135239.png",
     "notes/images/Pasted image 20231108135237.png",
@@ -247,7 +265,6 @@
     "notes/AE/physics/RV physics copy.md",
     "notes/AE/chemistry/CAP5.md",
     "notes/AE/english/beetlejuice essay.md",
-    "notes/AE/chemistry/ATOMIC-STRUCTURES.md",
     "notes/images/Screen Shot 2023-10-19 at 9.27.18 am.png",
     "notes/images/Pasted image 20231019091231.png",
     "notes/images/Pasted image 20231018191314.png",

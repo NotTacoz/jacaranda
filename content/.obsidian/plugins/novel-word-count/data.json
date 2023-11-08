@@ -82,6 +82,22 @@
       "modifiedDate": 1699424534889,
       "sizeInBytes": 3295
     },
+    "notes/AT/chemistry/Edward ATAR 12 Chemistry Seminar.md": {
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 1354,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 4.513333333333334,
+      "characterCount": 8598,
+      "nonWhitespaceCharacterCount": 7072,
+      "linkCount": 0,
+      "embedCount": 1,
+      "aliases": null,
+      "createdDate": 1699425909202,
+      "modifiedDate": 1699431925152,
+      "sizeInBytes": 8689
+    },
     "notes/AT/physics/Vectors and Scalars.md": {
       "isDirectory": false,
       "noteCount": 1,
@@ -145,6 +161,22 @@
       "createdDate": 1697374564000,
       "modifiedDate": 1697376669146,
       "sizeInBytes": 301
+    },
+    "notes/images/Screen Shot 2023-11-08 at 3.39.01 pm.png": {
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 0,
+      "wordCountTowardGoal": 0,
+      "wordGoal": 0,
+      "pageCount": 0,
+      "characterCount": 0,
+      "nonWhitespaceCharacterCount": 0,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": [],
+      "createdDate": 1699429143916,
+      "modifiedDate": 1699429143916,
+      "sizeInBytes": 867259
     },
     "notes/images/Pasted image 20231108135338.png": {
       "isDirectory": false,
