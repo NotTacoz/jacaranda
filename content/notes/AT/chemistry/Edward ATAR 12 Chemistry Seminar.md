@@ -5,14 +5,21 @@ tags:
   - chemistry
 date: 2023-11-08
 ---
-- Equilibrium should be first -> Organic -> Industrial Processes & Redox
-## Redox
-- Acid and Base theory
-	- Proton donors & Proton acceptors
-- Oxidise - **losing**/donating electrons
-- Reduce - gaining electrons
+- In Ed's opinion, the course should be structured in a way which: Equilibrium should be first -> Organic -> Industrial Processes & Redox
+>[!Quote] I believe Year 12 Redox can be taught in two hours - Edward Huynh
+
+**bold** means **important terms**
+<mark style="background: #FF5582A6;">red highlight</mark> means <mark style="background: #FF5582A6;">"acceptable definitions for WACE"</mark>
+<mark style="background: #FFFD00B0;">yellow highlight</mark> means <mark style="background: #FFFD00B0;">the information is not 100% certain (either i misheard or something not fully covered in the course)</mark>
+## Redox Reactions
+- Consider the Acid and Base theory, specifically the bronsted lowry theory:
+	- There exists **Proton donor**s & **Proton acceptors**
+- Redox reactions are similar, except there are **electron donors** & **electron acceptors**
+- Some elements are said to be **oxidised** while others are said to be **reduced**
+- Oxidise - **losing**/donating electrons.
+- Reduce - gaining electrons.
 - Oxidise + Reduce = Redox
-- OILRIG
+- This can be remembered with the mnemonic OILRIG
 	- Oxidation
 	- Is
 	- Lose
@@ -29,19 +36,21 @@ date: 2023-11-08
 - anti-oxidants:
 	- prevents oxidants. oxidise to stop something else from oxidising. <mark style="background: #FF5582A6;">oxidise prefentially</mark>
 	- generally, if you want to do good in extended response, **explore beyond what your teacher is talking about.**
+### Oxidation Numbers
 - oxidation occurs reaction-wise. quantify measures/reactions.
 	- most reactions are redox reactions - as they require the transfer of electrons.
 	- oxidation numbers - used to differentiate redox reactions and other reactions (e.g. acids and bases)
+		- **a way to keep track of the extent to which an atom has gained or lost electrons.**
 		- this thing has high tendency to oxidise etc etc.
 		- compounds / molecules all has oxidation numbers.
-		- elements exist in free state - oxygen gas, metals as metals, oxidisation number of 0.
-		- monoatomic ions (Al3+). two half reactions work together combining for reaction to occur.
-		- Al goes from a state of 0 to 3+
+		- elements exist in **free state** - oxygen as gas, metals as metals, oxidisation number of 0.
+		- monoatomic ions (Al3+) have an oxidation number equal to their charge. two half reactions work together combining for reaction to occur.
+			- Al goes from a state of 0 to 3+
 		- oxidation number increases -> becoming more oxidised.
 		- if oxidation number decreases -> becomes more reduced.
-- even more ground rules. standard oxidisation numbers.
-	- hydrogen (most important): +1 except for specific case, when metal bonded to hydrogen (-1 instead of +1)
-	- oxygen: always -2, instead of peroxides (in -1)
+	- even more ground rules. standard oxidisation numbers.
+		- hydrogen <mark style="background: #FFFD00B0;">(most important)</mark>: +1 except for specific case, when metal bonded to hydrogen (metal hydrides) (-1 instead of +1)
+		- oxygen: always -2, instead of peroxides (in -1)
 	- the sum of elements oxidation numbers = charge of polyatomic ion. phosphate is po43- -> oxidation number p = 4 x -2 + 3 = 5
 - reduction potential 
 - going left -> right reducing

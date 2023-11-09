@@ -124,32 +124,25 @@
     "2023/9/24": 0,
     "2023/10/6": 3,
     "2023/10/7": 424,
-    "2023/10/8": 1897
+    "2023/10/8": 1897,
+    "2023/10/9": 459
   },
   "todaysWordCount": {
-    "notes/AT/physics/Gravity and Motion.md": {
-      "initial": 397,
-      "current": 396
+    "notes/Pearson 01 The Force Due to Gravity.md": {
+      "initial": 14,
+      "current": 15
     },
-    "notes/AT/physics/Vectors and Scalars.md": {
-      "initial": 48,
-      "current": 160
-    },
-    "notes/Complex Numbers.md": {
-      "initial": 9,
-      "current": 10
-    },
-    "notes/AT/specialist/Complex Numbers.md": {
-      "initial": 10,
-      "current": 594
-    },
-    "notes/Edward ATAR 12 C.md": {
-      "initial": 9,
-      "current": 9
+    "notes/AT/physics/Pearson 01 The Force Due to Gravity.md": {
+      "initial": 16,
+      "current": 87
     },
     "notes/AT/chemistry/Edward ATAR 12 Chemistry Seminar.md": {
-      "initial": 13,
-      "current": 1213
+      "initial": 1214,
+      "current": 1369
+    },
+    "notes/AT/specialist/Complex Numbers.md": {
+      "initial": 594,
+      "current": 826
     }
   }
 }

@@ -4,24 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "56a7dbec171106a3",
+        "id": "306556fb69f40bda",
         "type": "tabs",
         "children": [
           {
-            "id": "157f8ec73be844a1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "notes/AT/physics/Vectors and Scalars.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "192694056fcdd331",
+            "id": "2295f64e58ff8378",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -32,22 +19,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "a57924cbfbe1080b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "notes/AT/chemistry/Edward ATAR 12 Chemistry Seminar.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -121,7 +94,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 271.50390243530273
+    "width": 271.50390243530273,
+    "collapsed": true
   },
   "right": {
     "id": "8bc85ecb066bcf9c",
@@ -183,7 +157,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "notes/AT/chemistry/Edward ATAR 12 Chemistry Seminar.md"
+                "file": "notes/AT/specialist/Complex Numbers.md"
               }
             }
           }
@@ -200,7 +174,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "notes/AT/chemistry/Edward ATAR 12 Chemistry Seminar.md",
+                "file": "notes/AT/specialist/Complex Numbers.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -210,7 +184,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 270.5
+    "width": 270.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -226,15 +201,17 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "a57924cbfbe1080b",
+  "active": "2295f64e58ff8378",
   "lastOpenFiles": [
-    "notes/images/Screen Shot 2023-11-08 at 3.39.01 pm.png",
-    "notes/AT/specialist/Complex Numbers.md",
     "notes/AT/chemistry/Edward ATAR 12 Chemistry Seminar.md",
+    "notes/AT/physics/Vectors and Scalars.md",
+    "notes/AT/specialist/Complex Numbers.md",
+    "Excalidraw/Drawing 2023-11-09 11.11.03.excalidraw.md",
+    "notes/AT/physics/Pearson 01 The Force Due to Gravity.md",
+    "notes/images/Screen Shot 2023-11-08 at 3.39.01 pm.png",
     "notes/images/Pasted image 20231108135338.png",
     "notes/images/Pasted image 20231108135239.png",
     "notes/images/Pasted image 20231108135237.png",
-    "notes/AT/physics/Vectors and Scalars.md",
     "notes/images/Screen Shot 2023-11-08 at 9.28.54 am.png",
     "Excalidraw/Drawing 2023-11-08 09.28.21.excalidraw.md",
     "notes/AT/physics/Gravity and Motion.md",
@@ -264,7 +241,6 @@
     "notes/AE/physics/RV physics.md",
     "notes/AE/physics/RV physics copy.md",
     "notes/AE/chemistry/CAP5.md",
-    "notes/AE/english/beetlejuice essay.md",
     "notes/images/Screen Shot 2023-10-19 at 9.27.18 am.png",
     "notes/images/Pasted image 20231019091231.png",
     "notes/images/Pasted image 20231018191314.png",
@@ -273,7 +249,6 @@
     "notes/AE",
     "notes/AE/methods",
     "notes/images/Screen Shot 2023-08-21 at 2.28.30 pm.png",
-    "notes/images/Screen Shot 2023-10-15 at 7.20.32 pm.png",
     "Untitled.canvas",
     "Untitled 2.canvas",
     "Untitled 1.canvas"

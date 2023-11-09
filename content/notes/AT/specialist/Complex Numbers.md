@@ -39,13 +39,42 @@ date: 2023-11-08
 - in certain later topics (partial fractions for integration) it will be necessary to rewrite improper algebraic fractions in terms of proper ones.
 - We can use **polynomial division** to turn an improper algebraic fraction into a proper one!
 	- consider $$\begin{align}
-\frac{{x^2+3x+4}}{x+4} \text{ IMPROMPER RAGE} \\
-\implies\frac{{(x-1)(x+4)+8}}{x+4} \\
-=x-1+\frac{8}{x+4}\text{ proper yay! :D} 
+&\frac{{x^2+3x+4}}{x+4} \text{ IMPROMPER RAGE} \\
+&\implies\frac{{(x-1)(x+4)+8}}{x+4} \\
+&=x-1+\frac{8}{x+4}\text{ proper yay! :D} 
 \end{align}$$
 - sadler algebraic juggling ??? :P
 - dividing by linear (specifically) polynomials
 - if $P(x)$ and $(x-\alpha)$ are polynomials then $$P(x)=Q(x)(x-\alpha)+r$$
 - i.e. for any polynomials $P(x)$ and $(x-\alpha)$, either $(x-\alpha)$ is a factor of $P(x)$, or there is a polynomial multiple of $(x-\alpha)$ that differs from $P(x)$ by a constant.
+### The Remainder Theorem
+> [!note] For a polynomial $P(x)$ and a number $\alpha$, the remainder when $P(x)$ is divided by $(x-\alpha)$ is $P(\alpha)$
+
+e.g. 
+$$\begin{align}
+&P(x)=2x^3+7x^2+10x+15 \\ \\
+&P(x)=2x^3+7x^2+10x+15 \\
+&P(-2)=2(-8)+7(4)+10(-2)+15 \\
+&=7 \\ \\
+&P(x)=2x^3+7x^2+10x+15 \\
+&=(2x^2+3x+4)(x+2)+7
+\end{align}$$
+the remainder and the solution is the same!
+#### Proof
+$$\begin{align}
+&\text{Let } r \text{ be the remainder when } P(x) \text{ is divided by } (x-\alpha) \text{. Then for some polynomial } Q(x), \\
+&P(x)=Q(x)(x-\alpha)+r \\
+&\text{Hence, } P(x) = Q(\alpha)(\alpha-\alpha)+r=r \text{ as required}
+\end{align}$$
+
+### The Factor Theorem
+For a polynomial $P(x)$, $(x-\alpha)$ is a factor of $P(x)$ if and only if $P(\alpha)=0$
+#### Proof
+Suppose $x-\alpha$ is a factor of $P(x)$. Then the remainder when $P(x)$ is divided by $x-\alpha$ is 0, Hence, by the remainder theorem, $P(\alpha)=0$.
+
+Conversely, suppose that $P(\alpha)=0$. Then the remainder when $P(x)$ is divided by $(x-\alpha)$ is 0. Hence $(x-\alpha)$ is a factor of $P(x)$.
+
+if you multiply two polynomials, the degree of the product is equal to the sum of the degrees of the polynomials.
+
 ## Complex arithmetic in polar form
 ## The complex plane
