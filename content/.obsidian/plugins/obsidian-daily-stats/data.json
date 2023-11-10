@@ -125,24 +125,17 @@
     "2023/10/6": 3,
     "2023/10/7": 424,
     "2023/10/8": 1897,
-    "2023/10/9": 459
+    "2023/10/9": 744,
+    "2023/10/10": 169
   },
   "todaysWordCount": {
-    "notes/Pearson 01 The Force Due to Gravity.md": {
-      "initial": 14,
-      "current": 15
+    "notes/AT/chemistry/Redox.md": {
+      "initial": 277,
+      "current": 446
     },
-    "notes/AT/physics/Pearson 01 The Force Due to Gravity.md": {
-      "initial": 16,
-      "current": 87
-    },
-    "notes/AT/chemistry/Edward ATAR 12 Chemistry Seminar.md": {
-      "initial": 1214,
-      "current": 1369
-    },
-    "notes/AT/specialist/Complex Numbers.md": {
-      "initial": 594,
-      "current": 826
+    "notes/AT/chemistry/Edward ATAR 12 Redox Seminar Masterclass.md": {
+      "initial": 1370,
+      "current": 1370
     }
   }
 }

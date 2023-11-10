@@ -1,5 +1,5 @@
 ---
-title: Edward ATAR 12 Chemistry Seminar
+title: Edward ATAR 12 Redox Seminar Masterclass
 tags:
   - AT
   - chemistry

@@ -13,7 +13,20 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notes/AT/specialist/Complex Numbers.md",
+                "file": "notes/AT/chemistry/Redox.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "9ddf4150309b2116",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "notes/AT/chemistry/Edward ATAR 12 Redox Seminar Masterclass.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -50,7 +63,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:🐠",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -94,8 +107,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 271.50390243530273,
-    "collapsed": true
+    "width": 271.50390243530273
   },
   "right": {
     "id": "8bc85ecb066bcf9c",
@@ -157,7 +169,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "notes/AT/specialist/Complex Numbers.md"
+                "file": "notes/AT/chemistry/Redox.md"
               }
             }
           }
@@ -174,7 +186,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "notes/AT/specialist/Complex Numbers.md",
+                "file": "notes/AT/chemistry/Redox.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -203,9 +215,12 @@
   },
   "active": "2295f64e58ff8378",
   "lastOpenFiles": [
-    "notes/AT/chemistry/Edward ATAR 12 Chemistry Seminar.md",
-    "notes/AT/physics/Vectors and Scalars.md",
+    "notes/AT/chemistry/Edward ATAR 12 Redox Seminar Masterclass.md",
+    "notes/AT/chemistry/Redox.md",
+    "templates/post.md",
     "notes/AT/specialist/Complex Numbers.md",
+    "notes/AT/methods/untitled (for now).md",
+    "notes/AT/physics/Vectors and Scalars.md",
     "Excalidraw/Drawing 2023-11-09 11.11.03.excalidraw.md",
     "notes/AT/physics/Pearson 01 The Force Due to Gravity.md",
     "notes/images/Screen Shot 2023-11-08 at 3.39.01 pm.png",
@@ -219,7 +234,6 @@
     "notes/AE/methods/indexLaws.md",
     "templates/daily.md",
     "templates/tags.md",
-    "templates/post.md",
     "notes/daily/2023-11-06.md",
     "notes/AT/chemistry/test.md",
     "notes/stats.md",
@@ -239,8 +253,6 @@
     "notes/AE/english/feedback.md",
     "notes/AE/chemistry/chemistry 1.1.md",
     "notes/AE/physics/RV physics.md",
-    "notes/AE/physics/RV physics copy.md",
-    "notes/AE/chemistry/CAP5.md",
     "notes/images/Screen Shot 2023-10-19 at 9.27.18 am.png",
     "notes/images/Pasted image 20231019091231.png",
     "notes/images/Pasted image 20231018191314.png",
