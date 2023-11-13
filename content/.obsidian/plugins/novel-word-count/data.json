@@ -69,34 +69,34 @@
     "notes/AT/specialist/Complex Numbers.md": {
       "isDirectory": false,
       "noteCount": 1,
-      "wordCount": 649,
+      "wordCount": 998,
       "wordCountTowardGoal": 0,
       "wordGoal": null,
-      "pageCount": 2.1633333333333336,
-      "characterCount": 4405,
-      "nonWhitespaceCharacterCount": 3733,
+      "pageCount": 3.3266666666666667,
+      "characterCount": 6510,
+      "nonWhitespaceCharacterCount": 5482,
       "linkCount": 0,
       "embedCount": 2,
       "aliases": null,
       "createdDate": 1699422250446,
-      "modifiedDate": 1699502557521,
-      "sizeInBytes": 4480
+      "modifiedDate": 1699838369872,
+      "sizeInBytes": 6585
     },
     "notes/AT/methods/untitled (for now).md": {
       "isDirectory": false,
       "noteCount": 1,
-      "wordCount": 10,
+      "wordCount": 51,
       "wordCountTowardGoal": 0,
       "wordGoal": null,
-      "pageCount": 0.03333333333333333,
-      "characterCount": 136,
-      "nonWhitespaceCharacterCount": 126,
+      "pageCount": 0.17,
+      "characterCount": 440,
+      "nonWhitespaceCharacterCount": 388,
       "linkCount": 1,
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1699503110904,
-      "modifiedDate": 1699512848878,
-      "sizeInBytes": 222
+      "modifiedDate": 1699594898911,
+      "sizeInBytes": 526
     },
     "notes/AT/chemistry/Edward ATAR 12 Redox Seminar Masterclass.md": {
       "isDirectory": false,
@@ -117,18 +117,18 @@
     "notes/AT/chemistry/Redox.md": {
       "isDirectory": false,
       "noteCount": 1,
-      "wordCount": 506,
+      "wordCount": 515,
       "wordCountTowardGoal": 0,
       "wordGoal": null,
-      "pageCount": 1.6866666666666668,
-      "characterCount": 3324,
-      "nonWhitespaceCharacterCount": 2479,
+      "pageCount": 1.7166666666666666,
+      "characterCount": 3408,
+      "nonWhitespaceCharacterCount": 2554,
       "linkCount": 1,
-      "embedCount": 0,
+      "embedCount": 1,
       "aliases": null,
       "createdDate": 1699512863375,
-      "modifiedDate": 1699583990254,
-      "sizeInBytes": 3396
+      "modifiedDate": 1699758947959,
+      "sizeInBytes": 3480
     },
     "notes/AT/physics/Vectors and Scalars.md": {
       "isDirectory": false,
@@ -193,6 +193,22 @@
       "createdDate": 1697374564000,
       "modifiedDate": 1697376669146,
       "sizeInBytes": 301
+    },
+    "notes/images/ei eating.png": {
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 0,
+      "wordCountTowardGoal": 0,
+      "wordGoal": 0,
+      "pageCount": 0,
+      "characterCount": 0,
+      "nonWhitespaceCharacterCount": 0,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": [],
+      "createdDate": 1699586200848,
+      "modifiedDate": 1699586200848,
+      "sizeInBytes": 115687
     },
     "notes/images/Screen Shot 2023-11-08 at 3.39.01 pm.png": {
       "isDirectory": false,
@@ -2129,6 +2145,22 @@
       "createdDate": 1697374564000,
       "modifiedDate": 1697594895904,
       "sizeInBytes": 1052
+    },
+    "notes/daily/2023-10-06 birthday wishlist.md": {
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 91,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.30333333333333334,
+      "characterCount": 1167,
+      "nonWhitespaceCharacterCount": 1074,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1697374564000,
+      "modifiedDate": 1699831604556,
+      "sizeInBytes": 1255
     },
     "notes/daily/2023-11-06.md": {
       "isDirectory": false,
@@ -6114,21 +6146,21 @@
       "modifiedDate": 1697376886649,
       "sizeInBytes": 436
     },
-    "private/2023-10-06 birthday wishlist.md": {
+    "tags/at.md": {
       "isDirectory": false,
       "noteCount": 1,
-      "wordCount": 94,
+      "wordCount": 30,
       "wordCountTowardGoal": 0,
       "wordGoal": null,
-      "pageCount": 0.31333333333333335,
-      "characterCount": 1180,
-      "nonWhitespaceCharacterCount": 1084,
-      "linkCount": 0,
+      "pageCount": 0.1,
+      "characterCount": 384,
+      "nonWhitespaceCharacterCount": 278,
+      "linkCount": 6,
       "embedCount": 0,
       "aliases": null,
-      "createdDate": 1697374564000,
-      "modifiedDate": 1697375279450,
-      "sizeInBytes": 1268
+      "createdDate": 1699595294045,
+      "modifiedDate": 1699595300832,
+      "sizeInBytes": 457
     },
     "tags/specialist.md": {
       "isDirectory": false,

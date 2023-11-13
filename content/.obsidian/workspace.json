@@ -8,7 +8,7 @@
         "type": "tabs",
         "children": [
           {
-            "id": "2295f64e58ff8378",
+            "id": "9ddf4150309b2116",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -21,19 +21,20 @@
             }
           },
           {
-            "id": "9ddf4150309b2116",
+            "id": "88e8b518a429f614",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notes/AT/chemistry/Edward ATAR 12 Redox Seminar Masterclass.md",
+                "file": "notes/AT/specialist/Complex Numbers.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -169,7 +170,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "notes/AT/chemistry/Redox.md"
+                "file": "notes/AT/specialist/Complex Numbers.md"
               }
             }
           }
@@ -186,7 +187,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "notes/AT/chemistry/Redox.md",
+                "file": "notes/AT/specialist/Complex Numbers.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -213,13 +214,17 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "2295f64e58ff8378",
+  "active": "88e8b518a429f614",
   "lastOpenFiles": [
     "notes/AT/chemistry/Edward ATAR 12 Redox Seminar Masterclass.md",
+    "notes/daily/2023-10-06 birthday wishlist.md",
     "notes/AT/chemistry/Redox.md",
-    "templates/post.md",
     "notes/AT/specialist/Complex Numbers.md",
+    "tags/at.md",
+    "tags/ae.md",
     "notes/AT/methods/untitled (for now).md",
+    "notes/images/ei eating.png",
+    "templates/post.md",
     "notes/AT/physics/Vectors and Scalars.md",
     "Excalidraw/Drawing 2023-11-09 11.11.03.excalidraw.md",
     "notes/AT/physics/Pearson 01 The Force Due to Gravity.md",
@@ -250,9 +255,6 @@
     "tags/japanese.md",
     "notes/AE/physics/physics electricity test feedback.md",
     "notes/AE/chemistry/stuff needed to review chem cap4.md",
-    "notes/AE/english/feedback.md",
-    "notes/AE/chemistry/chemistry 1.1.md",
-    "notes/AE/physics/RV physics.md",
     "notes/images/Screen Shot 2023-10-19 at 9.27.18 am.png",
     "notes/images/Pasted image 20231019091231.png",
     "notes/images/Pasted image 20231018191314.png",
@@ -260,7 +262,6 @@
     "notes/AE 1",
     "notes/AE",
     "notes/AE/methods",
-    "notes/images/Screen Shot 2023-08-21 at 2.28.30 pm.png",
     "Untitled.canvas",
     "Untitled 2.canvas",
     "Untitled 1.canvas"

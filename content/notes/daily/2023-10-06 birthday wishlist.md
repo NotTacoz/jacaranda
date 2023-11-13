@@ -7,7 +7,6 @@ date: 2023-10-06
 ---
 2023 comprehensive birthday list: any item I am happy to receive.
 ## misc
-- laptop bag
 
 ## peripherals (expensive :p)
 ### keyboard

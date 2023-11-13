@@ -76,5 +76,36 @@ Conversely, suppose that $P(\alpha)=0$. Then the remainder when $P(x)$ is divide
 
 if you multiply two polynomials, the degree of the product is equal to the sum of the degrees of the polynomials.
 
+## Other stuff which is really useful to know
+### Theorem (The Fundamental Theorem of Algebra)
+- Every real polynomial equation of degree $n$ has exactly $n$ solutions (some of which may be repeated or complex).
+- Or
+- Every real polynomial $P(x)$ of degree $n\geq 1$ can be factorised as a product of $n$ linear factors $a(x-\alpha_{1})(x-\alpha_{2})\dots(x-\alpha _{n})$ where $a_{i}$ are the zeroes of $P(x)$.
+
+E.g. $$\begin{align}
+& x^4-4x^3-17x^2+110x-150 \\
+& =(x+5)(x-3)(\times-(3+i))(x-(3-i))
+\end{align}$$
+
+- $\text{Suppose P(x) is a degree 7 polynomial. What is the maximum number of stationary points the grah of y=P(x) can have?}$
+- derivative of degree 7 is degree 6(?) $\therefore$ Number of real distinct solutions = to 6, since real distinct solutions correlate to stationary points, P(x) has 6 stationary points.
+
+### Theorem (Important! - part of the course)
+- If $z$ is a complex solution to a polynomial equation (with real coefficients), then so is $\overline{z}$.
+- This means that complex solutions always in conjugate pairs, so the total number of complex solutions (with non-zero imaginary part) is always even.
+- It also means that the total number of linear factors inolving complex numbers is even
+- Conjugates comes as pairs, and you can ever have one solution without the conjugate pair
+- **What important fact does this imply about the graphs of odd degree polynomials?**
+	- Any real polynomial equation of odd degree will have at least 1 real solutions
+- odd degree: starts **up**/down and finishes **down**/up
+- even degree: starts **up**/down and finishes **up**/down
+### Theorem: Multiplicity of Factors
+- Suppose that $(x-\alpha)^n$ is a factor of $P(x)$. Then...
+- if $n$ is odd, the graph of $y=P(x)$ crosses the $x$-axis at $\alpha$
+- if $n$ is even, the graph of $y=P(x)$ 'touches' but does not cross the $x$-axis at $\alpha$
+- Consider $(x-2)^2(x+5)$
+	- both x = 2 and x = -5 is an x-axis
+	- HOWEVER, x = 2 is a parabolic shape, whilst x = -5 
+- not in the scope of the syllabus, but useful knowledge which helps you be more equipped with dealing with polynomial.
 ## Complex arithmetic in polar form
 ## The complex plane

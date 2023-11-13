@@ -5,6 +5,7 @@ tags:
   - chemistry
 date: 2023-11-09
 ---
+![[notes/images/ei eating.png|200]]
 Consider checking out the [[notes/AT/chemistry/Edward ATAR 12 Redox Seminar Masterclass|Edward ATAR 12 Redox Seminar Masterclass]] for a shortened version of the entire Redox course.
 ## Redox Introduction
 - **Red**uction & **Ox**idation
@@ -44,11 +45,11 @@ Consider checking out the [[notes/AT/chemistry/Edward ATAR 12 Redox Seminar Mast
 - Oxidation number of O in H2O: -2
 - Oxidation number of F in F2O: -1
 - Oxidation number of O in F2O: +2
-	- erm what
+	- because F is more electronegative than oxygen
 
 | elements with fixed oxidation states in their compounds | oxidation state |
 | ------------------------------------------------------- | --------------- |
-| hydrogen (except in metal hydrides - metal combined with hydrogen)                     | +1 (-1)         |
+| hydrogen (except in metal hydrides - metal combined with hydrogen & fluorine)                     | +1 (-1)         |
 | oxygen (except in peroxides)                            | -2 (-1)         |
 | group I elements                                        | +1              |
 | group II elements                                       | +2              |
@@ -76,7 +77,7 @@ Consider checking out the [[notes/AT/chemistry/Edward ATAR 12 Redox Seminar Mast
 >[!warning] 
 >BE SPECIFIC AND BE PARTICULAR. DO NOT BE VAGUE. EXPLAIN WELL AND LOGICALLY. E.G. "IT" NO GOOD 🙅
 
-- in oxidation, the thine being oxidised is called the reducing agent!
+- in oxidation, the thing being oxidised is called the reducing agent!
 	- vice versa
 	- H2O something something idk
 	- decrease in oxidation number: reducing: oxidation agent!

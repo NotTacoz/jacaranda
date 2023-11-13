@@ -126,16 +126,19 @@
     "2023/10/7": 424,
     "2023/10/8": 1897,
     "2023/10/9": 744,
-    "2023/10/10": 169
+    "2023/10/10": 232,
+    "2023/10/11": 8,
+    "2023/10/12": 3,
+    "2023/10/13": 374
   },
   "todaysWordCount": {
-    "notes/AT/chemistry/Redox.md": {
-      "initial": 277,
-      "current": 446
+    "notes/daily/2023-10-06 birthday wishlist.md": {
+      "initial": 196,
+      "current": 193
     },
-    "notes/AT/chemistry/Edward ATAR 12 Redox Seminar Masterclass.md": {
-      "initial": 1370,
-      "current": 1370
+    "notes/AT/specialist/Complex Numbers.md": {
+      "initial": 826,
+      "current": 1200
     }
   }
 }
