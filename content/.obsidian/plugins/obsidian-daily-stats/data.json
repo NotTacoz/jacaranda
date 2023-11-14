@@ -130,7 +130,7 @@
     "2023/10/11": 8,
     "2023/10/12": 3,
     "2023/10/13": 453,
-    "2023/10/14": 95
+    "2023/10/14": 688
   },
   "todaysWordCount": {
     "notes/preamble.md": {
@@ -144,6 +144,18 @@
     "notes/AT/english/14-11-23 English Class.md": {
       "initial": 65,
       "current": 105
+    },
+    "notes/AT/specialist/Complex Numbers.md": {
+      "initial": 1200,
+      "current": 1537
+    },
+    "notes/AT/chemistry/Redox.md": {
+      "initial": 537,
+      "current": 717
+    },
+    "notes/AT/physics/Vectors and Scalars.md": {
+      "initial": 160,
+      "current": 236
     }
   }
 }

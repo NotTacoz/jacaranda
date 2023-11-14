@@ -5,7 +5,8 @@ tags:
   - chemistry
 date: 2023-11-09
 ---
-![[notes/images/ei eating.png|200]]
+![[notes/images/ei eating.png|150]]
+
 Consider checking out the [[notes/AT/chemistry/Edward ATAR 12 Redox Seminar Masterclass|Edward ATAR 12 Redox Seminar Masterclass]] for a shortened version of the entire Redox course.
 ## Redox Introduction
 - **Red**uction & **Ox**idation
@@ -105,3 +106,17 @@ Iron (III) Sulphate
 - Combine it to write balanced equations!
 - Reactants go together with reactants products go together with reactants.
 - cancel everything out.
+
+## Balancing Redox Equations in Acidic Conditions
+0. Assign Oxidation Numbers
+1. Write the skeletons of the oxidation and reduction half-equations.
+2. Balance all elements other than H and O
+3. Balance the oxygen atoms by adding H2O (where needed)
+4. Balance the hydrogen atoms by adding H+ ions (where needed)
+5. Balance the charge by adding electrons, e-
+6. If the number of electrons lost in the oxidation half-reaction is not equal to the number of electrons gained in the reduction half-reaction, multiply one or both of the half-reactions by a number that will make the number of electrons gained equal to the number of electrons lost.
+7. Add the 2 half-reactions as if they were mathematical equations. The electrons will always cancel If the same formulas are found on opposite sides of the half-reactions, you can cancel them. If the same formulas are founded on the same side of both half-reactions, combine them.
+8. Check to make sure the atoms and the charges balance.
+
+## disproportionation
+- 1 substance is simultaneously oxidised and reduced

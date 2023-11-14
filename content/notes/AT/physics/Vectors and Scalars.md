@@ -23,4 +23,11 @@ date: 2023-11-07
 - Label all forces are acting on the ball:
 	- Rolling motion of the ball down the incline is the result of the sum of these two vectors, so we do not draw the rolling force
 	- ![[notes/images/Screen Shot 2023-11-08 at 9.28.54 am.png]]
-	- 
+## Boom arms
+- a boom is a type of crane which uses the tension in a rope combined with thrust provided by an arm to lift objects. 
+- boom diagram![[notes/images/Pasted image 20231114114710.png|400]]
+- $F_{\text{tension}}=F_{\text{against gravity}}+F_{\text{into arms}}$
+- a crane holds 20kg mass suspended above the ground 20degree between boom.
+	- calculate vertical tension on the rope:
+	- calculate the tension on the rope:
+	- calculate the thrust on the boom:

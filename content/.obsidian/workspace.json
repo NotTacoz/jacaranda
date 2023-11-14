@@ -11,11 +11,43 @@
             "id": "442b0d38ac01786c",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "notes/AT/specialist/Complex Numbers.md",
+                "mode": "preview",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "57bf2e53b14dbb96",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "notes/AT/chemistry/Redox.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "302912bc8736307a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "notes/AT/chemistry/Edward ATAR 12 Redox Seminar Masterclass.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -150,7 +182,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "notes/AT/chemistry/Redox.md"
+              }
             }
           }
         ]
@@ -166,6 +200,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "notes/AT/chemistry/Redox.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -192,19 +227,23 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "442b0d38ac01786c",
+  "active": "57bf2e53b14dbb96",
   "lastOpenFiles": [
     "notes/AT/chemistry/Edward ATAR 12 Redox Seminar Masterclass.md",
-    "notes/AT/english/14-11-23 English Class.md",
     "notes/AT/chemistry/Redox.md",
-    "notes/daily/2023-10-06 birthday wishlist.md",
+    "Excalidraw/Drawing 2023-11-14 11.46.19.excalidraw.md",
+    "notes/AT/physics/Vectors and Scalars.md",
+    "notes/images/Pasted image 20231114114710.png",
+    "notes/images/Pasted image 20231114114708.png",
+    "notes/AT/physics/Gravity and Motion.md",
     "notes/AT/specialist/Complex Numbers.md",
+    "notes/AT/english/14-11-23 English Class.md",
+    "notes/daily/2023-10-06 birthday wishlist.md",
     "tags/at.md",
     "tags/ae.md",
     "notes/AT/methods/untitled (for now).md",
     "notes/images/ei eating.png",
     "templates/post.md",
-    "notes/AT/physics/Vectors and Scalars.md",
     "Excalidraw/Drawing 2023-11-09 11.11.03.excalidraw.md",
     "notes/AT/physics/Pearson 01 The Force Due to Gravity.md",
     "notes/images/Screen Shot 2023-11-08 at 3.39.01 pm.png",
@@ -213,7 +252,6 @@
     "notes/images/Pasted image 20231108135237.png",
     "notes/images/Screen Shot 2023-11-08 at 9.28.54 am.png",
     "Excalidraw/Drawing 2023-11-08 09.28.21.excalidraw.md",
-    "notes/AT/physics/Gravity and Motion.md",
     "_index.md",
     "notes/AE/methods/indexLaws.md",
     "templates/daily.md",
@@ -231,12 +269,8 @@
     "notes/AT",
     "notes/notes.md",
     "notes/helloWorld.md",
-    "tags/japanese.md",
-    "notes/AE/physics/physics electricity test feedback.md",
     "notes/images/Screen Shot 2023-10-19 at 9.27.18 am.png",
     "notes/images/Pasted image 20231019091231.png",
-    "notes/images/Pasted image 20231018191314.png",
-    "notes/images/Pasted Image 20230921185420_822.png",
     "notes/AE 1",
     "notes/AE",
     "notes/AE/methods",

@@ -108,4 +108,37 @@ E.g. $$\begin{align}
 	- HOWEVER, x = 2 is a parabolic shape, whilst x = -5 
 - not in the scope of the syllabus, but useful knowledge which helps you be more equipped with dealing with polynomial.
 ## Complex arithmetic in polar form
+### Polar Form of Complex Numbers
+- An exam question says:
+- Evaluate $$(2+3i)\star(1-7i)$$
+- given that $\star$ could be +, -, $\times$, $\div$, you can choose the sign you use.
+- you would probably choose addition or subtractions, as it is easier to do than multiplication and division.
+- polar form is friendly for multiplication and subtraction.
+- reason for defining polar form is largely because it is more natural for raising powers, multiplication and division!
+- you can thing of additions and subtractions as a vector. 
+	- adding the complex number $1-7i$ translates the number by vector $\begin{pmatrix} 1\\-7 \end{pmatrix}$
+- multiplying by pure imaginary number rotates complex number 90degrees anticlockwise.
+- multiplication by a pure real number dilates complex number by a factor of the pure real number.
+- geometric interpretation of complex number multiplication.
+- when multiplying by a complex number $z$ the things determining the corresponding geometric transformations are:
+	- the distance $|z|$ from the origin (the 'magnitude' or '**modulus**')
+	- the angle $\theta$ from the positive real axis (the '**argument**')
+	- this suggests that a way of representing $z$ where $|z|$ and 0 are explicit could be useful!
+	- rewrite $z=a+bi$ so that $|z|$ and $\theta$ are explicit.
+	- **modulus** is determined using pythagorean theorem (a^2 + b^2 = c^2)
+	- $\cos \theta=\frac{a}{|z|}, \text{ so }a=|z|\cos \theta$
+	- $\sin \theta=\frac{b}{|z|}, \text{ so }b=|z|\sin \theta$
+	- $z=|z|\cos \theta+i|z|\sin \theta$ (i is put on left hand side to avoid confusion)
+	- $z=|z|(\cos \theta+i\sin \theta)$
+$$\begin{align}
+& \text{e.g. the complex number } \\
+& \frac{5}{\sqrt{ 2 }}+\frac{5}{\sqrt{ 2 }}i \\
+& \text{ has magnitude} \sqrt{ \frac{25}{2} +\frac{25}{2} }=5 \\
+& \text{and} \\
+& \text{argument} \frac{\pi}{4}. \\
+& \text{so it can be written as } 5\left(  \cos \frac{\pi}{4} +i\sin \frac{\pi}{4} \right) \\
+& \text{aka } 5 cis\left( \frac{\pi}{4} \right)
+\end{align}$$
+### principal argument
+- the angle between the vector for $z$ and the real axis has $-\pi<\theta\leq \pi$
 ## The complex plane
