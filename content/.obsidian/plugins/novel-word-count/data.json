@@ -98,6 +98,22 @@
       "modifiedDate": 1699594898911,
       "sizeInBytes": 526
     },
+    "notes/AT/english/14-11-23 English Class.md": {
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 101,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.33666666666666667,
+      "characterCount": 547,
+      "nonWhitespaceCharacterCount": 441,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1699923349239,
+      "modifiedDate": 1699923980250,
+      "sizeInBytes": 626
+    },
     "notes/AT/chemistry/Edward ATAR 12 Redox Seminar Masterclass.md": {
       "isDirectory": false,
       "noteCount": 1,
@@ -117,18 +133,18 @@
     "notes/AT/chemistry/Redox.md": {
       "isDirectory": false,
       "noteCount": 1,
-      "wordCount": 515,
+      "wordCount": 609,
       "wordCountTowardGoal": 0,
       "wordGoal": null,
-      "pageCount": 1.7166666666666666,
-      "characterCount": 3408,
-      "nonWhitespaceCharacterCount": 2554,
+      "pageCount": 2.03,
+      "characterCount": 3970,
+      "nonWhitespaceCharacterCount": 3014,
       "linkCount": 1,
       "embedCount": 1,
       "aliases": null,
       "createdDate": 1699512863375,
-      "modifiedDate": 1699758947959,
-      "sizeInBytes": 3480
+      "modifiedDate": 1699855273704,
+      "sizeInBytes": 4042
     },
     "notes/AT/physics/Vectors and Scalars.md": {
       "isDirectory": false,

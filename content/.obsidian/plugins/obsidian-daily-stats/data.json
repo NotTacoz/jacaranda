@@ -129,16 +129,21 @@
     "2023/10/10": 232,
     "2023/10/11": 8,
     "2023/10/12": 3,
-    "2023/10/13": 374
+    "2023/10/13": 453,
+    "2023/10/14": 95
   },
   "todaysWordCount": {
-    "notes/daily/2023-10-06 birthday wishlist.md": {
-      "initial": 196,
-      "current": 193
+    "notes/preamble.md": {
+      "initial": 9,
+      "current": 56
     },
-    "notes/AT/specialist/Complex Numbers.md": {
-      "initial": 826,
-      "current": 1200
+    "notes/AT/english/14-11-23 English.md": {
+      "initial": 57,
+      "current": 65
+    },
+    "notes/AT/english/14-11-23 English Class.md": {
+      "initial": 65,
+      "current": 105
     }
   }
 }

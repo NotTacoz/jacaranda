@@ -81,5 +81,27 @@ Consider checking out the [[notes/AT/chemistry/Edward ATAR 12 Redox Seminar Mast
 	- vice versa
 	- H2O something something idk
 	- decrease in oxidation number: reducing: oxidation agent!
+		- An oxidising agent accepts electrons and is itself reduced.
 	- increase in oxidation number: oxidising: reducing agent!
+		- A reducing agent donates electrons and is itself oxidised.
 	- すごい
+
+## Writing Balanced Equations
+### Practice
+Copper (I) Oxide
+- Cu2O
+Manganese (IV) Oxide
+- MnO2
+Iron (III) Sulphate
+- Fe2(SO4)3
+### New Types of Acids:
+- Chloric (I) acid
+	- Cl is +1 because O is more electronegative :)
+	- $HClO$
+- Chloric (V) acid
+	- $HClO_{3}$
+
+### Combining Half Equations
+- Combine it to write balanced equations!
+- Reactants go together with reactants products go together with reactants.
+- cancel everything out.
