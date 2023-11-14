@@ -8,25 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "442b0d38ac01786c",
+            "id": "302912bc8736307a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notes/AT/specialist/Complex Numbers.md",
-                "mode": "preview",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "57bf2e53b14dbb96",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "notes/AT/chemistry/Redox.md",
+                "file": "notes/AT/physics/SAI Introduction to Projectile Motion.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -34,7 +21,7 @@
             }
           },
           {
-            "id": "302912bc8736307a",
+            "id": "b0d99c9d9550bd29",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -46,8 +33,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -183,7 +169,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "notes/AT/chemistry/Redox.md"
+                "file": "notes/AT/physics/SAI Introduction to Projectile Motion.md"
               }
             }
           }
@@ -200,7 +186,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "notes/AT/chemistry/Redox.md",
+                "file": "notes/AT/physics/SAI Introduction to Projectile Motion.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -227,21 +213,24 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "57bf2e53b14dbb96",
+  "active": "302912bc8736307a",
   "lastOpenFiles": [
-    "notes/AT/chemistry/Edward ATAR 12 Redox Seminar Masterclass.md",
     "notes/AT/chemistry/Redox.md",
+    "notes/AT/chemistry/Edward ATAR 12 Redox Seminar Masterclass.md",
+    "notes/AT/chemistry/SAI Redox.md",
+    "Untitled.canvas",
+    "notes/AT/physics/SAI Introduction to Projectile Motion.md",
+    "notes/AT/specialist/Complex Numbers.md",
+    "notes/AT/methods/untitled (for now).md",
     "Excalidraw/Drawing 2023-11-14 11.46.19.excalidraw.md",
     "notes/AT/physics/Vectors and Scalars.md",
     "notes/images/Pasted image 20231114114710.png",
     "notes/images/Pasted image 20231114114708.png",
     "notes/AT/physics/Gravity and Motion.md",
-    "notes/AT/specialist/Complex Numbers.md",
     "notes/AT/english/14-11-23 English Class.md",
     "notes/daily/2023-10-06 birthday wishlist.md",
     "tags/at.md",
     "tags/ae.md",
-    "notes/AT/methods/untitled (for now).md",
     "notes/images/ei eating.png",
     "templates/post.md",
     "Excalidraw/Drawing 2023-11-09 11.11.03.excalidraw.md",
@@ -267,14 +256,11 @@
     "notes/AT/physics",
     "notes/AT/chemistry",
     "notes/AT",
-    "notes/notes.md",
-    "notes/helloWorld.md",
     "notes/images/Screen Shot 2023-10-19 at 9.27.18 am.png",
     "notes/images/Pasted image 20231019091231.png",
     "notes/AE 1",
     "notes/AE",
     "notes/AE/methods",
-    "Untitled.canvas",
     "Untitled 2.canvas",
     "Untitled 1.canvas"
   ]

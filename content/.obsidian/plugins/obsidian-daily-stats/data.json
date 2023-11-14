@@ -130,7 +130,7 @@
     "2023/10/11": 8,
     "2023/10/12": 3,
     "2023/10/13": 453,
-    "2023/10/14": 688
+    "2023/10/14": 1719
   },
   "todaysWordCount": {
     "notes/preamble.md": {
@@ -156,6 +156,30 @@
     "notes/AT/physics/Vectors and Scalars.md": {
       "initial": 160,
       "current": 236
+    },
+    "notes/AT/methods/untitled (for now).md": {
+      "initial": 85,
+      "current": 105
+    },
+    "notes/SAI Redox.md": {
+      "initial": 9,
+      "current": 10
+    },
+    "notes/AT/chemistry/SAI Redox.md": {
+      "initial": 10,
+      "current": 891
+    },
+    "notes/physics.md": {
+      "initial": 9,
+      "current": 43
+    },
+    "notes/SAI Introduction to Projectile Motion.md": {
+      "initial": 47,
+      "current": 48
+    },
+    "notes/AT/physics/SAI Introduction to Projectile Motion.md": {
+      "initial": 48,
+      "current": 142
     }
   }
 }

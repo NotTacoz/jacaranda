@@ -18,6 +18,22 @@
     "excludeComments": false
   },
   "cachedCounts": {
+    "Untitled.canvas": {
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 0,
+      "wordCountTowardGoal": 0,
+      "wordGoal": 0,
+      "pageCount": 0,
+      "characterCount": 0,
+      "nonWhitespaceCharacterCount": 0,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": [],
+      "createdDate": 1699957158958,
+      "modifiedDate": 1699957164913,
+      "sizeInBytes": 133
+    },
     "templates/tags.md": {
       "isDirectory": false,
       "noteCount": 1,
@@ -85,18 +101,18 @@
     "notes/AT/methods/untitled (for now).md": {
       "isDirectory": false,
       "noteCount": 1,
-      "wordCount": 51,
+      "wordCount": 64,
       "wordCountTowardGoal": 0,
       "wordGoal": null,
-      "pageCount": 0.17,
-      "characterCount": 440,
-      "nonWhitespaceCharacterCount": 388,
+      "pageCount": 0.21333333333333335,
+      "characterCount": 551,
+      "nonWhitespaceCharacterCount": 486,
       "linkCount": 1,
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1699503110904,
-      "modifiedDate": 1699594898911,
-      "sizeInBytes": 526
+      "modifiedDate": 1699940644642,
+      "sizeInBytes": 637
     },
     "notes/AT/english/14-11-23 English Class.md": {
       "isDirectory": false,
@@ -113,6 +129,22 @@
       "createdDate": 1699923349239,
       "modifiedDate": 1699923980250,
       "sizeInBytes": 626
+    },
+    "notes/AT/chemistry/SAI Redox.md": {
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 979,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 3.263333333333333,
+      "characterCount": 6740,
+      "nonWhitespaceCharacterCount": 4822,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1699948001541,
+      "modifiedDate": 1699953834694,
+      "sizeInBytes": 6808
     },
     "notes/AT/chemistry/Edward ATAR 12 Redox Seminar Masterclass.md": {
       "isDirectory": false,
@@ -145,6 +177,22 @@
       "createdDate": 1699512863375,
       "modifiedDate": 1699938026808,
       "sizeInBytes": 5101
+    },
+    "notes/AT/physics/SAI Introduction to Projectile Motion.md": {
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 141,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.47,
+      "characterCount": 837,
+      "nonWhitespaceCharacterCount": 694,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1699955250666,
+      "modifiedDate": 1699958635220,
+      "sizeInBytes": 931
     },
     "notes/AT/physics/Vectors and Scalars.md": {
       "isDirectory": false,

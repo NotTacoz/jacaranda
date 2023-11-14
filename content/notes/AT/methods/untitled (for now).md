@@ -12,3 +12,5 @@ date: 2023-11-09
 ## The Product Rule
 - The product rules allows you to determine the derivative of the **product of functions** as follows: $$\text{If } f(x)g(x)\text{, then }y'=g(x)f'(x)+f(x)g'(x)$$
 - Alternative using Leibniz notation: $$\text{If }y=uv\text{, then } \frac{dy}{dx}= v \frac{du}{dx} + u \frac{dv}{dx}$$
+## Quotient Rule
+- Let $y=\frac{u}{v}$, the differentiation of $y$ $\frac{dy}{dx}$ is $=\frac{{vu'-uv'}}{v^2}$
