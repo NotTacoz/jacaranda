@@ -21,14 +21,15 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "articles/340 Days Left of Year 12.md",
+                "file": "amob/what is an amob.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -163,7 +164,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "amob/what is an amob.md"
+              }
             }
           }
         ]
@@ -179,6 +182,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "amob/what is an amob.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -205,7 +209,7 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "03c59513b3d7d813",
+  "active": "fbbd9b1d97937800",
   "lastOpenFiles": [
     "articles/340 Days Left of Year 12.md",
     "articles/Ariadnes' Thread.md",
@@ -229,7 +233,7 @@
     "tags/methods.md",
     "notes/amob.md",
     "tags/articles.md",
-    "amob/what is an amob?.md",
+    "amob/what is an amob.md",
     "amob",
     "notes/AT/methods/Differentiation.md",
     "notes/AT/specialist/Complex Numbers.md",

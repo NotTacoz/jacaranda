@@ -1,5 +1,5 @@
 ---
-title: what is an amob?
+title: what is an amob
 tags:
   - amob
 date: 2023-11-16
