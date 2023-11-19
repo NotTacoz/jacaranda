@@ -3,6 +3,7 @@ title: Redox
 tags:
   - AT
   - chemistry
+  - redox
 date: 2023-11-09
 ---
 ![[notes/images/ei eating.png|150]]
@@ -120,3 +121,6 @@ Iron (III) Sulphate
 
 ## disproportionation
 - 1 substance is simultaneously oxidised and reduced
+- has the general equation: $$A+A\to B+C$$
+- 
+

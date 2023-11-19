@@ -31,3 +31,5 @@ date: 2023-11-07
 	- calculate vertical tension on the rope:
 	- calculate the tension on the rope:
 	- calculate the thrust on the boom:
+- ![[notes/images/Screen Shot 2023-11-15 at 8.56.42 am.png|400]]
+- consistently practicing with examples and applying different formulas is the biggest difference with year 11 and 12 based on teacher's observation!

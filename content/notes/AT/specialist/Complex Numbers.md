@@ -139,6 +139,31 @@ $$\begin{align}
 & \text{so it can be written as } 5\left(  \cos \frac{\pi}{4} +i\sin \frac{\pi}{4} \right) \\
 & \text{aka } 5 cis\left( \frac{\pi}{4} \right)
 \end{align}$$
+- geometric interpretation of complex number multiplication.
+- write z = a + bi so that |z| and $\theta$ are explicit
 ### principal argument
 - the angle between the vector for $z$ and the real axis has $-\pi<\theta\leq \pi$
+## complex number (polar form) multiplication and division
+- abbreviated notation is $cis\theta$ which stands for $\cos \theta, i\sin \theta$
+- multiplication by a complex number: 
+- $rcis\theta \times 3cis\left( \frac{\theta}{2} \right)=3rcis\left( \theta+\frac{\pi}{2} \right)$
+	- number is dilated by 3 and rotated by $\frac{\pi}{2}$
+- in general $r_{1}cis\alpha \times r_{2}cis\beta=r_{1}r_{2}cis(\alpha+\beta)$
+- be careful when adding the angle so it is within the principal argument!
+### proof
+$$\begin{align} \\
+& \text{Claim:} \\
+& \text{if }r_{1}cis\alpha \text{ and } r_{2}cis\beta \text{ are complex numbers, then} \\
+&r_{1}cis\alpha \times r_{2}cis\beta=r_{1}r_{2}cis(\alpha+\beta) \\ \\
+& \text{Proof:} \\
+LHS &= r_{1}cis\alpha+r_{2}cis\beta \\
+&= r_{1}r_{2}[(\cos\alpha i\sin \beta)(\cos\beta+i\sin \beta)] \\
+&= r_{1}r_{2}[\cos\alpha \cos\beta+i\cos\alpha \sin\beta+i\sin\alpha \cos\beta+1^2\sin \alpha \sin\beta] \\ 
+& = r_{1}r_{2}[\cos(\alpha+\beta)+i\sin(\alpha+\beta)] \\
+&=r_{1}r_{2}cis(\alpha+\beta) \\
+&=RHS \\
+&&QED
+\end{align}
+$$
+
 ## The complex plane

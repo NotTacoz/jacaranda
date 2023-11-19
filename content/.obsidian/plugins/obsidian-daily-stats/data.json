@@ -130,56 +130,56 @@
     "2023/10/11": 8,
     "2023/10/12": 3,
     "2023/10/13": 453,
-    "2023/10/14": 1719
+    "2023/10/14": 1719,
+    "2023/10/15": 523,
+    "2023/10/16": 229,
+    "2023/10/17": 8,
+    "2023/10/19": 733
   },
   "todaysWordCount": {
-    "notes/preamble.md": {
+    "notes/daily/2023-11-19.md": {
+      "initial": 25,
+      "current": 74
+    },
+    "notes/Untitled.md": {
       "initial": 9,
-      "current": 56
+      "current": 9
     },
-    "notes/AT/english/14-11-23 English.md": {
-      "initial": 57,
-      "current": 65
+    "notes/AT/japanese/AT grammar.md": {
+      "initial": 10,
+      "current": 76
     },
-    "notes/AT/english/14-11-23 English Class.md": {
-      "initial": 65,
-      "current": 105
-    },
-    "notes/AT/specialist/Complex Numbers.md": {
-      "initial": 1200,
-      "current": 1537
-    },
-    "notes/AT/chemistry/Redox.md": {
-      "initial": 537,
-      "current": 717
-    },
-    "notes/AT/physics/Vectors and Scalars.md": {
-      "initial": 160,
-      "current": 236
-    },
-    "notes/AT/methods/untitled (for now).md": {
-      "initial": 85,
-      "current": 105
-    },
-    "notes/SAI Redox.md": {
-      "initial": 9,
+    "notes/Potential form.md": {
+      "initial": 10,
       "current": 10
     },
-    "notes/AT/chemistry/SAI Redox.md": {
-      "initial": 10,
-      "current": 891
+    "notes/AT/japanese/Potential form.md": {
+      "initial": 11,
+      "current": 74
     },
-    "notes/physics.md": {
+    "notes/daily/2023-10-06 birthday wishlist.md": {
+      "initial": 193,
+      "current": 205
+    },
+    "notes/What 500 Days At The Gym Taught Me About Self-Growth.md": {
+      "initial": 18,
+      "current": 18
+    },
+    "articles/What 500 Days At The Gym Taught Me About Self-Growth.md": {
+      "initial": 19,
+      "current": 366
+    },
+    "articles/340 Days Left of Year 12.md": {
+      "initial": 222,
+      "current": 343
+    },
+    "notes/Ariadnes' Thread.md": {
+      "initial": 7,
+      "current": 8
+    },
+    "articles/Ariadnes' Thread.md": {
       "initial": 9,
-      "current": 43
-    },
-    "notes/SAI Introduction to Projectile Motion.md": {
-      "initial": 47,
-      "current": 48
-    },
-    "notes/AT/physics/SAI Introduction to Projectile Motion.md": {
-      "initial": 48,
-      "current": 142
+      "current": 83
     }
   }
 }

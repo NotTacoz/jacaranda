@@ -37,6 +37,21 @@
       "folder": "notes/daily",
       "tag": "#daily",
       "pattern": ""
+    },
+    {
+      "folder": "articles",
+      "tag": "#articles",
+      "pattern": ""
+    },
+    {
+      "folder": "amob",
+      "tag": "#amob",
+      "pattern": ""
+    },
+    {
+      "folder": "notes/AT/japanese/grammar",
+      "tag": "#grammar",
+      "pattern": ""
     }
   ],
   "use_regex_to_check_for_excluded_folder": true,

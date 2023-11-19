@@ -3,6 +3,7 @@ title: Edward ATAR 12 Redox Seminar Masterclass
 tags:
   - AT
   - chemistry
+  - redox
 date: 2023-11-08
 ---
 - In Ed's opinion, the course should be structured in a way which: Equilibrium should be first -> Organic -> Industrial Processes & Redox

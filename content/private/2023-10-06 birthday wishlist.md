@@ -7,6 +7,10 @@ date: 2023-10-06
 ---
 2023 comprehensive birthday list: any item I am happy to receive.
 ## misc
+## digital cameras
+- any digital camera
+- portable
+- ![[notes/images/Pasted image 20231119211422.png]]😃
 
 ## peripherals (expensive :p)
 ### keyboard
