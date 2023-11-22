@@ -19,3 +19,12 @@ date: 2023-11-09
 ## The Chain Rule
 - If $y=f(g(x)\text{, the derivative } \frac{dy}{dx} \text{ can be expressed as }f'(g(x))g'(x)$
 - If $y=(u)^n$, the derivative $\frac{dy}{dx}$ can be expressed as $n\times(u)^{n-1}\times u'$
+
+## Rates of Change
+- Differentiation can be used to solve problems involving rate of change.
+	- Important to know:
+		- quantity you are differentiating
+		- quantity you are differentiating with respect to,
+	- t <= 10
+	- 4/3\*pi\*(10-t)^3
+	- -4\*pi\*(10-t)^2
