@@ -4,32 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "33164cc619e8baee",
+        "id": "eb6a23480115e33f",
         "type": "tabs",
         "children": [
           {
-            "id": "03c59513b3d7d813",
+            "id": "b5467af38e2d5e21",
             "type": "leaf",
             "state": {
               "type": "empty",
               "state": {}
             }
-          },
-          {
-            "id": "fbbd9b1d97937800",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "amob/what is an amob.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -164,9 +150,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "amob/what is an amob.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -182,7 +166,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "amob/what is an amob.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -192,8 +175,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 270.5,
-    "collapsed": true
+    "width": 270.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -209,48 +191,49 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "fbbd9b1d97937800",
+  "active": "b5467af38e2d5e21",
   "lastOpenFiles": [
+    "notes/AT/chemistry/Edward ATAR 12 Redox Seminar Masterclass.md",
+    "notes/AT/chemistry/Redox.md",
+    "Excalidraw/Drawing 2023-11-21 12.35.39.excalidraw.md",
+    "notes/AT/methods/Differentiation.md",
+    "notes/AT/chemistry/SAI Redox Introduction.md",
+    "private/2023-10-06 birthday wishlist.md",
+    "notes/AT/chemistry/SAI Galvanic Cells.md",
+    "Excalidraw/Drawing 2023-11-21 17.01.35.excalidraw.md",
+    "notes/AT/methods/Derivatives.md",
+    "notes/images/Screenshot 2023-11-21 at 12.45.58 pm.png",
+    "Excalidraw/Drawing 2023-11-20 09.27.24.excalidraw.md",
+    "notes/AT/specialist/Complex Numbers.md",
+    "notes/images/Pasted image 20231120092819.png",
+    "notes/images/Pasted image 20231120092817.png",
+    "Excalidraw/Drawing 2023-11-20 09.16.57.excalidraw.md",
+    "notes/404.png",
+    "notes/images/Pasted image 20231120091733.png",
+    "notes/images/404.png",
     "articles/340 Days Left of Year 12.md",
+    "amob/what is an amob.md",
     "articles/Ariadnes' Thread.md",
     "notes/images/Pasted image 20231119221027.png",
     "articles/What 500 Days At The Gym Taught Me About Self-Growth.md",
-    "private/2023-10-06 birthday wishlist.md",
     "notes/images/Pasted image 20231119211422.png",
     "notes/daily/2023-11-19.md",
     "notes/images/Pasted image 20231119195013.png",
     "notes/images/Pasted image 20231119194748.png",
-    "notes/images/Screenshot 2023-11-19 at 7.47.07 pm.png",
-    "notes/images/Pasted image 20231119194649.png",
     "notes/AT/japanese/Potential form.md",
     "notes/AT/japanese/AT grammar.md",
     "notes/AT/japanese/grammar",
     "notes/Untitled Kanban.md",
     "todo idk.canvas",
-    "notes/AT/chemistry/Redox.md",
-    "notes/AT/chemistry/SAI Redox.md",
     "tags/amob.md",
     "tags/methods.md",
     "notes/amob.md",
     "tags/articles.md",
-    "amob/what is an amob.md",
     "amob",
-    "notes/AT/methods/Differentiation.md",
-    "notes/AT/specialist/Complex Numbers.md",
     "notes/a.md",
     "tags/daily.md",
-    "tags/chemistry.md",
-    "tags/japanese.md",
-    "tags/english.md",
-    "tags/physics.md",
-    "tags/at.md",
-    "tags/specialist.md",
     "articles",
     "home.canvas",
-    "notes/images/Screen Shot 2023-11-15 at 8.56.42 am.png",
-    "notes/images/Pasted image 20231114114710.png",
-    "notes/images/Pasted image 20231114114708.png",
-    "notes/images/ei eating.png",
     "notes/AT/specialist",
     "notes/AT/methods",
     "notes/AT/english",

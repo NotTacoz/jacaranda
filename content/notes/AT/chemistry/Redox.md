@@ -122,5 +122,43 @@ Iron (III) Sulphate
 ## disproportionation
 - 1 substance is simultaneously oxidised and reduced
 - has the general equation: $$A+A\to B+C$$
-- 
+## displacement reaction of halogens
+- describing appearance of halogens
+- ms pilling demonstration
 
+| halogens                         | halides |
+| -------------------------------- | ------- |
+| Cl2  + 2e  $\rightleftharpoons$  | 2Cl-    |
+| Br2    + 2e $\rightleftharpoons$ | 2Br-    |
+| I2  + 2e   $\rightleftharpoons$  | 2I-     |
+| (oxidising agents)               | reducing agent     |
+
+- if a substance is coloured, it is not due the halides. hence only halogens and colours are listed on page 5 of data booklet.
+- halides could be oxidised to halogens
+- series of chemical reactions, observe outcomes, and then make predictions
+1. Cl2 + Br- -> Cl- + Br2
+- ox: $2Br^-\to Br_{2}+2\overline{e}$
+- red: $Cl_{2}+2\overline{e}\to{2}Cl^-$ 
+- yellow solution added to orange solution forming orange solution (?)
+- cell potential calculations: $E_{\text{cell}}=E_{\text{red}}-E_{ox}=1.36-1.08=+0.28V$ positive, therefore feasible.
+1. $Cl_{2} + 2I^- \to 2Cl^- + I_{2}$
+- ox: 
+- red: $Cl_{2} + 2\overline{e} \to 2Cl^-$
+3. $Br_{2} + Cl^-$
+- no visible reaction
+4. $Br_{2} + 2I^- \to 2Br^- + I_{2}$
+5. $I_{2}+Cl^-$
+- no visible reaction
+6. $I_{2}+Br-$
+- no visible reaction
+
+## Galvanic Cells & Daniel Cells
+- what is galvanic cell:
+	- a galvanic cell uses two half-reactions in separate containers and makes use of the spontaneous nature of the reactions to generate an electric current. potential chemical energy converted to potential energy.
+	- the transfer of electrons in the redox reactions is harnessed through physical separation of the two half-equations.
+### daniel cells
+- this is a daniel cell
+- ![[notes/images/Screenshot 2023-11-21 at 12.45.58 pm.png]]
+- purpose of salt bridge: joins the two half cells. complete the circuit and \___ ms pilling will give booklet with better description. movement of ions in salt bridge allows flow of charge through the cell and complete the circuit.
+- purpose of high-resistance voltmeter: reduce the current because you don't want dramatic drop in voltage.
+- zinc is more reactive, so oxidises and loses electrons that flow blah blah blah blah

@@ -1,5 +1,5 @@
 ---
-title: "GRADUATION: PROLOGUE"
+title: 340 Days Left of Year 12
 tags:
   - articles
 date: 2023-11-15

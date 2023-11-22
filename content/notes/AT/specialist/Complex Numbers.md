@@ -166,4 +166,36 @@ LHS &= r_{1}cis\alpha+r_{2}cis\beta \\
 \end{align}
 $$
 
-## The complex plane
+## Regions in the Complex Plane
+> [!important] this is usually the topic with the hardest exam questions - dr pearce
+
+### set notations
+- for real numbers
+	- $\{x:1\leq x<3,x \in   R\}$
+	- all values of x: such that \____ <- these conditions are true
+	- transfer these concepts to the world of complex numbers.
+- for complex numbers
+	- $\{ z:|z|=4,z \in \mathbb{C} \}$
+		- wow this is a circle!
+		- some people call this the locus (of |z| = 4)
+	- $\{ z:|z|\leq4,z \in \mathbb{C} \}$ <- now we replace = with leq sign!
+		- by convention we just shade the circle in!
+		- anything with modulus less than or equal to 4.
+	- this can also involve the argument, rather than the modulus:
+		- $\text{represent }\{ z:argz=\frac{\pi}{6} \} \text{ on an Argand diagram.}$
+		- note that 0+0i  is excluded from the set because its argument is undefined!
+		- ![[notes/images/Pasted image 20231120091733.png|400]]
+	- sometimes the region represented by a set isn't obvious. $$\{ z:|z+8|=|z-4i| \}$$
+$$\begin{align}
+&\text{Let } z=x+yi \\
+&Then |x+yi+8| = |x+yi-4i| \\
+&\sqrt{ (x+8)^2+y^2 }=\sqrt{ x^2 + (y-4)^2 } \\
+&(x+8)^2+y^2=x^2+(y-4)^2 \\
+&x^2+16x+64+y^2=x^2+y^2-8y+16 \\
+&16x+64=-8y+16 \\
+&y=-2x-6 \\
+&\text{Hence, it is a straigh tline with a y-intercept of -6 and gradient of -2.}
+\end{align}$$
+- Alternatively, observe that $|z-a|$ is the distance between the complex numbers $z$ and $a$
+- 
+![[notes/images/Pasted image 20231120092819.png|400]]

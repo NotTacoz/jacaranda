@@ -52,6 +52,11 @@
       "folder": "notes/AT/japanese/grammar",
       "tag": "#grammar",
       "pattern": ""
+    },
+    {
+      "folder": "private",
+      "tag": "#private",
+      "pattern": ""
     }
   ],
   "use_regex_to_check_for_excluded_folder": true,

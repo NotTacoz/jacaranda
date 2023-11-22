@@ -134,56 +134,42 @@
     "2023/10/15": 523,
     "2023/10/16": 229,
     "2023/10/17": 8,
-    "2023/10/19": 733
+    "2023/10/19": 733,
+    "2023/10/20": 424,
+    "2023/10/21": 858
   },
   "todaysWordCount": {
-    "notes/daily/2023-11-19.md": {
-      "initial": 25,
-      "current": 74
+    "notes/AT/chemistry/Redox.md": {
+      "initial": 893,
+      "current": 1041
     },
-    "notes/Untitled.md": {
-      "initial": 9,
+    "notes/Derivatives.md": {
+      "initial": 8,
       "current": 9
     },
-    "notes/AT/japanese/AT grammar.md": {
+    "notes/AT/methods/Derivatives.md": {
       "initial": 10,
-      "current": 76
+      "current": 27
     },
-    "notes/Potential form.md": {
+    "notes/AT/chemistry/SAI Redox Introduction.md": {
+      "initial": 892,
+      "current": 893
+    },
+    "notes/SAI Galvanic Cells.md": {
       "initial": 10,
-      "current": 10
+      "current": 11
     },
-    "notes/AT/japanese/Potential form.md": {
-      "initial": 11,
-      "current": 74
+    "notes/AT/chemistry/SAI Galvanic Cells.md": {
+      "initial": 12,
+      "current": 626
+    },
+    "private/2023-10-06 birthday wishlist.md": {
+      "initial": 199,
+      "current": 264
     },
     "notes/daily/2023-10-06 birthday wishlist.md": {
       "initial": 193,
-      "current": 205
-    },
-    "notes/What 500 Days At The Gym Taught Me About Self-Growth.md": {
-      "initial": 18,
-      "current": 18
-    },
-    "articles/What 500 Days At The Gym Taught Me About Self-Growth.md": {
-      "initial": 19,
-      "current": 366
-    },
-    "articles/340 Days Left of Year 12.md": {
-      "initial": 222,
-      "current": 343
-    },
-    "notes/Ariadnes' Thread.md": {
-      "initial": 7,
-      "current": 8
-    },
-    "articles/Ariadnes' Thread.md": {
-      "initial": 9,
-      "current": 83
-    },
-    "amob/what is an amob.md": {
-      "initial": 24,
-      "current": 24
+      "current": 204
     }
   }
 }
