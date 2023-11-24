@@ -137,36 +137,41 @@
     "2023/10/19": 733,
     "2023/10/20": 424,
     "2023/10/21": 858,
-    "2023/10/22": 387
+    "2023/10/22": 387,
+    "2023/10/23": 235
   },
   "todaysWordCount": {
-    "notes/AT/methods/Differentiation.md": {
-      "initial": 148,
-      "current": 189
+    "notes/daily/2023-11-22.md": {
+      "initial": 36,
+      "current": 35
     },
-    "notes/Monolouges.md": {
+    "notes/Acceleration.md": {
       "initial": 8,
       "current": 9
     },
-    "notes/AT/english/Monologues.md": {
+    "notes/AT/methods/Acceleration.md": {
       "initial": 10,
-      "current": 51
+      "current": 57
     },
-    "notes/AT/english/Monologue.md": {
-      "initial": 51,
-      "current": 151
+    "notes/AT/chemistry/Redox.md": {
+      "initial": 893,
+      "current": 1078
     },
-    "notes/Untitled.md": {
-      "initial": 9,
-      "current": 9
+    "notes/Electrochemical Cells.md": {
+      "initial": 156,
+      "current": 158
     },
-    "notes/AT/english/Speech Sounds Monologue.md": {
-      "initial": 11,
-      "current": 180
+    "notes/AT/chemistry/Electrochemical Cells.md": {
+      "initial": 158,
+      "current": 11
     },
-    "notes/daily/2023-11-22.md": {
-      "initial": 13,
-      "current": 48
+    "notes/AT/chemistry/SAI Galvanic Cells.md": {
+      "initial": 627,
+      "current": 627
+    },
+    "notes/AT/chemistry/SAI Redox Introduction.md": {
+      "initial": 894,
+      "current": 894
     }
   }
 }

@@ -370,6 +370,22 @@
       "modifiedDate": 1697376886649,
       "sizeInBytes": 436
     },
+    "notes/u.md": {
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 0,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0,
+      "characterCount": 1,
+      "nonWhitespaceCharacterCount": 0,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1700789250379,
+      "modifiedDate": 1700789250727,
+      "sizeInBytes": 54
+    },
     "notes/stats.md": {
       "isDirectory": false,
       "noteCount": 1,
@@ -2597,18 +2613,18 @@
     "notes/daily/2023-11-22.md": {
       "isDirectory": false,
       "noteCount": 1,
-      "wordCount": 22,
+      "wordCount": 16,
       "wordCountTowardGoal": 0,
       "wordGoal": null,
-      "pageCount": 0.07333333333333333,
-      "characterCount": 183,
-      "nonWhitespaceCharacterCount": 161,
+      "pageCount": 0.05333333333333334,
+      "characterCount": 120,
+      "nonWhitespaceCharacterCount": 104,
       "linkCount": 0,
-      "embedCount": 2,
+      "embedCount": 1,
       "aliases": null,
       "createdDate": 1700658682319,
-      "modifiedDate": 1700660986367,
-      "sizeInBytes": 268
+      "modifiedDate": 1700696446617,
+      "sizeInBytes": 203
     },
     "notes/daily/daily.md": {
       "isDirectory": false,
@@ -3458,6 +3474,22 @@
       "modifiedDate": 1700443717229,
       "sizeInBytes": 11271
     },
+    "notes/AT/methods/Acceleration.md": {
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 49,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.16333333333333333,
+      "characterCount": 334,
+      "nonWhitespaceCharacterCount": 284,
+      "linkCount": 1,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1700712603095,
+      "modifiedDate": 1700712881204,
+      "sizeInBytes": 403
+    },
     "notes/AT/methods/Differentiation.md": {
       "isDirectory": false,
       "noteCount": 1,
@@ -3583,8 +3615,8 @@
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1699948001541,
-      "modifiedDate": 1700552952668,
-      "sizeInBytes": 6829
+      "modifiedDate": 1700721664996,
+      "sizeInBytes": 6839
     },
     "notes/AT/chemistry/SAI Galvanic Cells.md": {
       "isDirectory": false,
@@ -3599,24 +3631,24 @@
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1700552933472,
-      "modifiedDate": 1700557433363,
-      "sizeInBytes": 4353
+      "modifiedDate": 1700721660755,
+      "sizeInBytes": 4363
     },
     "notes/AT/chemistry/Redox.md": {
       "isDirectory": false,
       "noteCount": 1,
-      "wordCount": 1117,
+      "wordCount": 1161,
       "wordCountTowardGoal": 0,
       "wordGoal": null,
-      "pageCount": 3.723333333333333,
-      "characterCount": 7166,
-      "nonWhitespaceCharacterCount": 5629,
+      "pageCount": 3.87,
+      "characterCount": 7419,
+      "nonWhitespaceCharacterCount": 5839,
       "linkCount": 1,
       "embedCount": 2,
       "aliases": null,
       "createdDate": 1699512863375,
-      "modifiedDate": 1700542308992,
-      "sizeInBytes": 7250
+      "modifiedDate": 1700722659204,
+      "sizeInBytes": 7503
     },
     "notes/AT/chemistry/Edward ATAR 12 Redox Seminar Masterclass.md": {
       "isDirectory": false,

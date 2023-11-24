@@ -152,13 +152,18 @@ Iron (III) Sulphate
 6. $I_{2}+Br-$
 - no visible reaction
 
-## Galvanic Cells & Daniel Cells
+## Electrochemical Cells
+### Galvanic Cells & Daniel Cells
 - what is galvanic cell:
 	- a galvanic cell uses two half-reactions in separate containers and makes use of the spontaneous nature of the reactions to generate an electric current. potential chemical energy converted to potential energy.
 	- the transfer of electrons in the redox reactions is harnessed through physical separation of the two half-equations.
-### daniel cells
+#### daniel cells
 - this is a daniel cell
 - ![[notes/images/Screenshot 2023-11-21 at 12.45.58 pm.png]]
 - purpose of salt bridge: joins the two half cells. complete the circuit and \___ ms pilling will give booklet with better description. movement of ions in salt bridge allows flow of charge through the cell and complete the circuit.
-- purpose of high-resistance voltmeter: reduce the current because you don't want dramatic drop in voltage.
+- purpose of high-resistance voltmeter: **reduce the current because you don't want dramatic drop in voltage.**
 - zinc is more reactive, so oxidises and loses electrons that flow blah blah blah blah
+- the solid thingy is usually graphite or platnium
+## Anode and Cathode
+- An ox & Red cat
+- Anode is negative, Cathode is positive (in galvanic cells only - in electrolytic cells anode is positive and cathode is negative!)
