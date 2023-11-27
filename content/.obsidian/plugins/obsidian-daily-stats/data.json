@@ -138,40 +138,18 @@
     "2023/10/20": 424,
     "2023/10/21": 858,
     "2023/10/22": 387,
-    "2023/10/23": 235
+    "2023/10/23": 235,
+    "2023/10/24": 55,
+    "2023/10/27": 172
   },
   "todaysWordCount": {
-    "notes/daily/2023-11-22.md": {
-      "initial": 36,
-      "current": 35
+    "notes/nth roots of 1.md": {
+      "initial": 11,
+      "current": 12
     },
-    "notes/Acceleration.md": {
-      "initial": 8,
-      "current": 9
-    },
-    "notes/AT/methods/Acceleration.md": {
-      "initial": 10,
-      "current": 57
-    },
-    "notes/AT/chemistry/Redox.md": {
-      "initial": 893,
-      "current": 1078
-    },
-    "notes/Electrochemical Cells.md": {
-      "initial": 156,
-      "current": 158
-    },
-    "notes/AT/chemistry/Electrochemical Cells.md": {
-      "initial": 158,
-      "current": 11
-    },
-    "notes/AT/chemistry/SAI Galvanic Cells.md": {
-      "initial": 627,
-      "current": 627
-    },
-    "notes/AT/chemistry/SAI Redox Introduction.md": {
-      "initial": 894,
-      "current": 894
+    "notes/AT/specialist/Complex Numbers.md": {
+      "initial": 2002,
+      "current": 2173
     }
   }
 }

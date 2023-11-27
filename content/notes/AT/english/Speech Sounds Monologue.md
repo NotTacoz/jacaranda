@@ -18,5 +18,3 @@ Nodding in agreement, the girl whispered "We want her—not you."
 "I miss mama"
 "She's dead." Rye snapped back.
 "She is dead. I had a mama once, too. She's dead, too. My memories of her, dead too. Nothing stays, everything dies. In time, everything good will leave, and everything bad will leave. 
-
-Point? There was never a point. "

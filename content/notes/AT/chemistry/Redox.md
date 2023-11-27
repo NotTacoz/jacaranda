@@ -163,7 +163,13 @@ Iron (III) Sulphate
 - purpose of salt bridge: joins the two half cells. complete the circuit and \___ ms pilling will give booklet with better description. movement of ions in salt bridge allows flow of charge through the cell and complete the circuit.
 - purpose of high-resistance voltmeter: **reduce the current because you don't want dramatic drop in voltage.**
 - zinc is more reactive, so oxidises and loses electrons that flow blah blah blah blah
-- the solid thingy is usually graphite or platnium
+- the solid thingy is usually graphite or platinum.
 ## Anode and Cathode
 - An ox & Red cat
 - Anode is negative, Cathode is positive (in galvanic cells only - in electrolytic cells anode is positive and cathode is negative!)
+
+## Feasibility of a Reaction
+- A reaction is **thermodynamically feasible** if calculated $E_{\text{cell}}$ is positive.
+- choose to change sign or not -> if it is changed it is - oxidised instead.
+	- same outcome lol - depends on question on what you need to do, mathematically they are the same formula.
+	- +- oxidised depending on if sign is changed.

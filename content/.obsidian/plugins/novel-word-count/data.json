@@ -370,22 +370,6 @@
       "modifiedDate": 1697376886649,
       "sizeInBytes": 436
     },
-    "notes/u.md": {
-      "isDirectory": false,
-      "noteCount": 1,
-      "wordCount": 0,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 0,
-      "characterCount": 1,
-      "nonWhitespaceCharacterCount": 0,
-      "linkCount": 0,
-      "embedCount": 0,
-      "aliases": null,
-      "createdDate": 1700789250379,
-      "modifiedDate": 1700789250727,
-      "sizeInBytes": 54
-    },
     "notes/stats.md": {
       "isDirectory": false,
       "noteCount": 1,
@@ -3461,18 +3445,18 @@
     "notes/AT/specialist/Complex Numbers.md": {
       "isDirectory": false,
       "noteCount": 1,
-      "wordCount": 1685,
+      "wordCount": 1821,
       "wordCountTowardGoal": 0,
       "wordGoal": null,
-      "pageCount": 5.616666666666666,
-      "characterCount": 11196,
-      "nonWhitespaceCharacterCount": 9439,
+      "pageCount": 6.07,
+      "characterCount": 12000,
+      "nonWhitespaceCharacterCount": 10097,
       "linkCount": 0,
       "embedCount": 4,
       "aliases": null,
       "createdDate": 1699422250446,
-      "modifiedDate": 1700443717229,
-      "sizeInBytes": 11271
+      "modifiedDate": 1701049492129,
+      "sizeInBytes": 12075
     },
     "notes/AT/methods/Acceleration.md": {
       "isDirectory": false,
@@ -3557,18 +3541,18 @@
     "notes/AT/english/Speech Sounds Monologue.md": {
       "isDirectory": false,
       "noteCount": 1,
-      "wordCount": 157,
+      "wordCount": 150,
       "wordCountTowardGoal": 0,
       "wordGoal": null,
-      "pageCount": 0.5233333333333333,
-      "characterCount": 860,
-      "nonWhitespaceCharacterCount": 700,
+      "pageCount": 0.5,
+      "characterCount": 826,
+      "nonWhitespaceCharacterCount": 673,
       "linkCount": 0,
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1700624210398,
-      "modifiedDate": 1700625612898,
-      "sizeInBytes": 944
+      "modifiedDate": 1700790412250,
+      "sizeInBytes": 910
     },
     "notes/AT/english/Monologue.md": {
       "isDirectory": false,
@@ -3637,18 +3621,18 @@
     "notes/AT/chemistry/Redox.md": {
       "isDirectory": false,
       "noteCount": 1,
-      "wordCount": 1161,
+      "wordCount": 1223,
       "wordCountTowardGoal": 0,
       "wordGoal": null,
-      "pageCount": 3.87,
-      "characterCount": 7419,
-      "nonWhitespaceCharacterCount": 5839,
+      "pageCount": 4.076666666666667,
+      "characterCount": 7775,
+      "nonWhitespaceCharacterCount": 6130,
       "linkCount": 1,
       "embedCount": 2,
       "aliases": null,
       "createdDate": 1699512863375,
-      "modifiedDate": 1700722659204,
-      "sizeInBytes": 7503
+      "modifiedDate": 1700791370124,
+      "sizeInBytes": 7859
     },
     "notes/AT/chemistry/Edward ATAR 12 Redox Seminar Masterclass.md": {
       "isDirectory": false,

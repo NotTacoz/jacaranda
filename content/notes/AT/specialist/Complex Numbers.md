@@ -38,11 +38,14 @@ date: 2023-11-08
 	- **proper algebraic fraction**: $x^2+3x+\frac{x^2+3x+4}{x^3+2x+1}$ (numerator degree is < denominator degree) - vice versa with **improper algebraic fractions**
 - in certain later topics (partial fractions for integration) it will be necessary to rewrite improper algebraic fractions in terms of proper ones.
 - We can use **polynomial division** to turn an improper algebraic fraction into a proper one!
-	- consider $$\begin{align}
+	- consider 
+
+$$\begin{align}
 &\frac{{x^2+3x+4}}{x+4} \text{ IMPROMPER RAGE} \\
 &\implies\frac{{(x-1)(x+4)+8}}{x+4} \\
 &=x-1+\frac{8}{x+4}\text{ proper yay! :D} 
 \end{align}$$
+
 - sadler algebraic juggling ??? :P
 - dividing by linear (specifically) polynomials
 - if $P(x)$ and $(x-\alpha)$ are polynomials then $$P(x)=Q(x)(x-\alpha)+r$$
@@ -51,6 +54,7 @@ date: 2023-11-08
 > [!note] For a polynomial $P(x)$ and a number $\alpha$, the remainder when $P(x)$ is divided by $(x-\alpha)$ is $P(\alpha)$
 
 e.g. 
+
 $$\begin{align}
 &P(x)=2x^3+7x^2+10x+15 \\ \\
 &P(x)=2x^3+7x^2+10x+15 \\
@@ -59,6 +63,7 @@ $$\begin{align}
 &P(x)=2x^3+7x^2+10x+15 \\
 &=(2x^2+3x+4)(x+2)+7
 \end{align}$$
+
 the remainder and the solution is the same!
 #### Proof
 $$\begin{align}
@@ -194,8 +199,38 @@ $$\begin{align}
 &x^2+16x+64+y^2=x^2+y^2-8y+16 \\
 &16x+64=-8y+16 \\
 &y=-2x-6 \\
-&\text{Hence, it is a straigh tline with a y-intercept of -6 and gradient of -2.}
+&\text{Hence, it is a straight line with a y-intercept of -6 and gradient of -2.}
 \end{align}$$
+
 - Alternatively, observe that $|z-a|$ is the distance between the complex numbers $z$ and $a$
 - 
 ![[notes/images/Pasted image 20231120092819.png|400]]
+
+## nth roots of 1
+- in the real world:
+- $x^2=1$ solutions: $x=1$ or $x=-1$ (**2 real solutions** - 2 square roots of 1)
+- $x^3=1$ solutions: $x=1$ (**1 real solution** - 1 cube roots of 1)
+- $x^4=1$ solutions: $x=1$ or $x=-1$ (**2 real solutions** - 2 4th roots of 1)
+- etc... alternating
+- however, $x^4$ has 4 solutions (1, -1, i, -i)
+- you can solve this by factorising:
+
+$$\begin{align}
+&x^4-1=0 \\
+&(x^2)^2-1^2=0 \\
+&(x^2+1)(x^2-1)=0 \\
+&(x^2+1)(x+1)(x-1)=0 \\
+&(x-i)(x+i)(x+1)(x-1) \\
+\implies &x=\pm 1 \text{ or } \pm i
+\end{align}$$
+
+- consider $x^3$
+
+$$\begin{align}
+& x^3=1 \\
+& x^3-1=0 \\
+& \text{since we know x=1 is already a solution, divide everythign by x-1} \\
+& (x-1)(x^2-x+1)=0 \\
+& \text{use quadratic formula to solve for x} \\
+& x = \frac{1\pm\sqrt{ 3 }}{2},1
+\end{align}$$
