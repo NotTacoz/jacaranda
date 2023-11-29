@@ -4,17 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "4302432ea867488b",
+        "id": "ce37bfb02b051267",
         "type": "tabs",
         "children": [
           {
-            "id": "e7517795726ab581",
+            "id": "cd57b441716ecb08",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "notes/AT/specialist/Complex Numbers.md",
-                "mode": "preview",
+                "mode": "source",
                 "backlinks": false,
                 "source": false
               }
@@ -199,30 +199,34 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "e7517795726ab581",
+  "active": "cd57b441716ecb08",
   "lastOpenFiles": [
+    "notes/AT/chemistry/SAI Galvanic Cells.md",
+    "notes/AT/methods/Acceleration.md",
+    "notes/AT/methods/Small Change.md",
+    "notes/AT/methods/Differentiation.md",
+    "notes/AT/methods/Derivatives.md",
     "notes/AT/specialist/Complex Numbers.md",
+    "articles/Japan Trip Planning.md",
+    "notes/AT/chemistry/Edward ATAR 12 Redox Seminar Masterclass.md",
     "notes/AT/english/Monologue.md",
+    "notes/AT/chemistry/Corrosion of Metals.md",
+    "notes/re.md",
     "notes/AT/specialist/nth roots of 1.md",
     "notes/AT/japanese/AT grammar.md",
     "notes/AT/chemistry/Redox.md",
     "notes/AT/english/Speech Sounds Monologue.md",
     "notes/AE/chemistry/CAP4.md",
-    "notes/AT/chemistry/SAI Galvanic Cells.md",
     "notes/u.md",
     "notes/AT/chemistry/Electrochemical Cells.md",
     "notes/AT/chemistry/SAI Redox Introduction.md",
-    "notes/AT/methods/Acceleration.md",
     "notes/AE/methods/kinematics.md",
-    "notes/AT/methods/Differentiation.md",
     "notes/daily/2023-11-22.md",
     "notes/images/Screenshot 2023-11-22 at 9.49.37 pm.png",
     "notes/images/Screenshot 2023-11-22 at 9.11.25 pm.png",
-    "notes/AT/chemistry/Edward ATAR 12 Redox Seminar Masterclass.md",
     "Excalidraw/Drawing 2023-11-21 12.35.39.excalidraw.md",
     "private/2023-10-06 birthday wishlist.md",
     "Excalidraw/Drawing 2023-11-21 17.01.35.excalidraw.md",
-    "notes/AT/methods/Derivatives.md",
     "notes/images/Screenshot 2023-11-21 at 12.45.58 pm.png",
     "Excalidraw/Drawing 2023-11-20 09.27.24.excalidraw.md",
     "notes/images/Pasted image 20231120092819.png",
@@ -231,11 +235,7 @@
     "notes/404.png",
     "notes/images/Pasted image 20231120091733.png",
     "notes/images/404.png",
-    "articles/340 Days Left of Year 12.md",
-    "amob/what is an amob.md",
-    "articles/Ariadnes' Thread.md",
     "notes/images/Pasted image 20231119221027.png",
-    "articles/What 500 Days At The Gym Taught Me About Self-Growth.md",
     "notes/images/Pasted image 20231119211422.png",
     "notes/AT/japanese/grammar",
     "todo idk.canvas",

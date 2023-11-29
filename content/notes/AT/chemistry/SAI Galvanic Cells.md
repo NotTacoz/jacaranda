@@ -78,4 +78,11 @@ date: 2023-11-21
 1. galvanic half cells are represented as two couples: oxidised and reduced.
 2. couples are separated by a salt bridge represented by ||
 3. oxidised couple is placed before reduced couple
-4. single line '|' separates components of teh couple. within, the reactant is placed first
+4. single line '|' separates components of the couple. within, the reactant is placed first
+
+## salt bridge galvanic cells
+- salt bridge completes circuit by distributing the charge.
+- connects the two half cells together, the cations flow to anode, and anions flow to cathode.
+	- this occurs because the electrons go form anode to cathode, and cathode builds up negative charge (if there is no salt bridge)
+	- the salt bridge lets the cations go to the positive side (anode) and anions flow to negative side (cathode) to balance the charges.
+	- very cool.

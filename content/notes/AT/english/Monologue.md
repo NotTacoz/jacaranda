@@ -20,3 +20,12 @@ genre
 - look at your chosen story from the reader, what do you think is the genre?
 	- e.g. phone call is a thriller/suspense story that explores ideas surrounding gender.
 - think about how you can compose a narrative that explores the same idea/themes but in a different genre.
+- Word related to the word "unorthodox"
+	- unorthodox: opposite of anything that is expected; non-traditional, usually not accepted and contrary to what is usual.
+		- unusual plot line or order of events
+		- changing point o view
+		- alternative media, e.g. a letter, diary entry, postcard in the middle of story
+		- intersecting storylines
+		- story within a story
+		- epistolary story
+		- unreliable narrator

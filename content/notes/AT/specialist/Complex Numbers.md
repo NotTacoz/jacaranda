@@ -234,3 +234,25 @@ $$\begin{align}
 & \text{use quadratic formula to solve for x} \\
 & x = \frac{1\pm\sqrt{ 3 }}{2},1
 \end{align}$$
+
+- theorem: including complex numbers,, there are $n$ $n$th roots of 1. They have modulus 1 and are spaced at angular intervals of $\frac{2\pi}{n}$
+- more general theorem: given a non-zero complex number $z$, the total number of $n$th roots of $z$ (including complex roots) is $n$.
+	- the roots all have same modulus, and are spaced at angular intervals of $\frac{2\pi}{n}$; i.e. they form the vertices of a regular $n$-gon
+
+## powers of complex numbers (demoivres theorem)
+- suppose we have $-3+4i$
+- we can use binomial theorem, but that is BAD, use POLAR FORM for it.
+- $r_{1}cis\theta \times r_{2} cis \theta_{2}=r_{1}r_{2}cis(\theta_{1}+\theta_{2})$
+- for any positive integer $n$:
+	- $(rcis\theta)^n=r^ncis(n\times\theta)$
+- this leads to very important mathematical theorem: demoirves theorem
+
+### finding $n$th roots of a complex number
+- find three cube roots of complex number
+- $z=8cis\left( \frac{\pi}{6} \right)$
+- need to find all solutions to
+- $x^3=8cis \frac{\pi}{6}$
+- $x=\left( 8 cis \frac{\pi}{6} \right)^\left( \frac{1}{3)} \right)$
+- $x=2cis \frac{\pi}{18}$
+- but that is only 1 solution :p
+- $8cis \frac{\pi}{6} - 8cis (\frac{\pi}{6} + k 2 \pi)$ infinitely many ways of representing the argument!
