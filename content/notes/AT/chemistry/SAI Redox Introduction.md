@@ -97,3 +97,4 @@ date: 2023-11-14
 - classifications
 	- thus elements on the top left hand side of the SRP table are easily reduced (strong oxidants)
 	- thus elements on the bottom right hand side of the SRP table are easily oxidised (strong reductants)
+- sacrificial anode: strong reducing agent (more reactive) metal that will be oxidised preferentially attached to iron (or other metals) to protect it (from oxidising)

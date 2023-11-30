@@ -13,14 +13,28 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notes/AT/specialist/Complex Numbers.md",
+                "file": "notes/AT/chemistry/Edward ATAR 12 Redox Seminar Masterclass.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "2ccce01050c89585",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "notes/AT/chemistry/Redox.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -156,7 +170,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "notes/AT/specialist/Complex Numbers.md"
+                "file": "notes/AT/chemistry/Redox.md"
               }
             }
           }
@@ -173,7 +187,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "notes/AT/specialist/Complex Numbers.md",
+                "file": "notes/AT/chemistry/Redox.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -199,27 +213,28 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "cd57b441716ecb08",
+  "active": "2ccce01050c89585",
   "lastOpenFiles": [
+    "_index.md",
+    "notes/AT/chemistry/Redox.md",
+    "notes/AT/chemistry/SAI Redox Introduction.md",
+    "notes/AT/chemistry/Edward ATAR 12 Redox Seminar Masterclass.md",
+    "notes/AT/specialist/Complex Numbers.md",
     "notes/AT/chemistry/SAI Galvanic Cells.md",
     "notes/AT/methods/Acceleration.md",
     "notes/AT/methods/Small Change.md",
     "notes/AT/methods/Differentiation.md",
     "notes/AT/methods/Derivatives.md",
-    "notes/AT/specialist/Complex Numbers.md",
     "articles/Japan Trip Planning.md",
-    "notes/AT/chemistry/Edward ATAR 12 Redox Seminar Masterclass.md",
     "notes/AT/english/Monologue.md",
     "notes/AT/chemistry/Corrosion of Metals.md",
     "notes/re.md",
     "notes/AT/specialist/nth roots of 1.md",
     "notes/AT/japanese/AT grammar.md",
-    "notes/AT/chemistry/Redox.md",
     "notes/AT/english/Speech Sounds Monologue.md",
     "notes/AE/chemistry/CAP4.md",
     "notes/u.md",
     "notes/AT/chemistry/Electrochemical Cells.md",
-    "notes/AT/chemistry/SAI Redox Introduction.md",
     "notes/AE/methods/kinematics.md",
     "notes/daily/2023-11-22.md",
     "notes/images/Screenshot 2023-11-22 at 9.49.37 pm.png",
@@ -231,7 +246,6 @@
     "Excalidraw/Drawing 2023-11-20 09.27.24.excalidraw.md",
     "notes/images/Pasted image 20231120092819.png",
     "notes/images/Pasted image 20231120092817.png",
-    "Excalidraw/Drawing 2023-11-20 09.16.57.excalidraw.md",
     "notes/404.png",
     "notes/images/Pasted image 20231120091733.png",
     "notes/images/404.png",

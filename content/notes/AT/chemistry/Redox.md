@@ -173,3 +173,9 @@ Iron (III) Sulphate
 - choose to change sign or not -> if it is changed it is - oxidised instead.
 	- same outcome lol - depends on question on what you need to do, mathematically they are the same formula.
 	- +- oxidised depending on if sign is changed.
+
+## Sacrificial Anode
+- sacrificial anode: strong reducing agent (more reactive) metal that will be oxidised preferentially attached to iron (or other metals) to protect it (from oxidising)
+
+## Ms Pilling on Self Study
+>[!quote] its like any other sport - you dont do training, you dont exercise, you dont get the prize

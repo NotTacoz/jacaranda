@@ -142,16 +142,21 @@
     "2023/10/24": 55,
     "2023/10/27": 817,
     "2023/10/28": 311,
-    "2023/10/29": 1
+    "2023/10/29": 1,
+    "2023/10/30": 89
   },
   "todaysWordCount": {
-    "notes/AT/chemistry/SAI Galvanic Cells.md": {
-      "initial": 702,
-      "current": 702
+    "notes/AT/chemistry/SAI Redox Introduction.md": {
+      "initial": 895,
+      "current": 918
     },
-    "notes/AT/specialist/Complex Numbers.md": {
-      "initial": 2394,
-      "current": 2395
+    "notes/AT/chemistry/Redox.md": {
+      "initial": 1133,
+      "current": 1182
+    },
+    "_index.md": {
+      "initial": 74,
+      "current": 91
     }
   }
 }

@@ -9,6 +9,8 @@ tags:
 # welcome
 hi! this is where you can find all my [[notes/notes|notes]] and other miscellaneous [[tags/daily|stuff]].
 
+✨ currently studying [[notes/AT/chemistry/Redox|Redox]], [[notes/AT/methods/Differentiation|Differentiation]], [[notes/AT/specialist/Complex Numbers|Complex Numbers]] and [[notes/AT/physics/Projectile Motion|Projectile Motion]]
+
 for quick access to my specific subjects, check out:
 - [[tags/chemistry|chemistry]]
 - [[tags/physics|physics]]
@@ -16,7 +18,5 @@ for quick access to my specific subjects, check out:
 - [[tags/methods|methods]]
 - [[tags/english|english]]
 - [[tags/japanese|japanese]]
-
-( or you can look at the sidebar on the right :> )
 
 check out my page [[notes/stats|stats]]
