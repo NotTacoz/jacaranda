@@ -143,20 +143,25 @@
     "2023/10/27": 817,
     "2023/10/28": 311,
     "2023/10/29": 1,
-    "2023/10/30": 89
+    "2023/10/30": 246,
+    "2023/11/1": 473
   },
   "todaysWordCount": {
-    "notes/AT/chemistry/SAI Redox Introduction.md": {
-      "initial": 895,
-      "current": 918
+    "notes/Summer Study Challenge.md": {
+      "initial": 9,
+      "current": 9
     },
-    "notes/AT/chemistry/Redox.md": {
-      "initial": 1133,
-      "current": 1182
+    "notes/daily/Summer Study Challenge.md": {
+      "initial": 8,
+      "current": 10
     },
-    "_index.md": {
-      "initial": 74,
-      "current": 91
+    "notes/daily/2023 Summer Study Challenge.md": {
+      "initial": 11,
+      "current": 226
+    },
+    "articles/2023 Summer Study Challenge.md": {
+      "initial": 227,
+      "current": 483
     }
   }
 }

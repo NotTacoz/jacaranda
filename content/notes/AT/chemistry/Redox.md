@@ -179,3 +179,27 @@ Iron (III) Sulphate
 
 ## Ms Pilling on Self Study
 >[!quote] its like any other sport - you dont do training, you dont exercise, you dont get the prize
+
+## Cathodic protection
+- ICCP, Impressed Current Cathodic Protection systems are used to provide cathodic protection for pipelines, ship hulls, offshore production platforms, water treatment equipment etc.
+- principal advantage of ICCP is greater output capacity compared to sacrificial anode systems - therefore when protection is desired for large, poorly coated and bare structures ICCP is often choice.
+- it requires external DC power source that is energised by standard AC current.
+- insert cathodic protection diagram 
+	- protected structure
+	- ![[notes/images/Pasted image 20231130152043.png|500]]
+- sea water
+	- many different ions: sodium ion
+		- sodium ion -> metal
+		- too much energy, not provided
+- enough energy to turn chloride into chlorine! (oxidised) on anode
+	- moving to cathode, and chlorine is reduced to chloride
+		- if theres enough current, could happen (?)
+### sacrificial anode CP method vs impressed current CP method
+- sacrific
+	- no external source of power
+	- spontaneous reactions
+	- oxidised more readily than iron
+	- cathodic protection
+- impressed current
+	- metal and anode, less reactive, acting as cathode.
+	- non spontaneous reaction.
