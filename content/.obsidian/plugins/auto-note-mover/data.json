@@ -4,6 +4,11 @@
   "statusBar_trigger_indicator": false,
   "folder_tag_pattern": [
     {
+      "folder": "notes/AT/japanese/grammar",
+      "tag": "#grammar",
+      "pattern": ""
+    },
+    {
       "folder": "notes/AT/specialist",
       "tag": "#specialist",
       "pattern": ""
@@ -46,11 +51,6 @@
     {
       "folder": "amob",
       "tag": "#amob",
-      "pattern": ""
-    },
-    {
-      "folder": "notes/AT/japanese/grammar",
-      "tag": "#grammar",
       "pattern": ""
     },
     {

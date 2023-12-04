@@ -111,7 +111,7 @@ date: 2023-11-08
 		- all primary cells are galvanic. 
 			- DRY CELLS/LECLANCHE CELLS - NO WATER
 			- lok at battery diagram in lucarelli. (galvanic cell in industrial purposes)
-		- secondary cells are mixed.
+		- secondary cells are mi xed.
 			- discharging = galvanic, recharging is electrolytic.
 			- ![[notes/images/Screen Shot 2023-11-08 at 3.39.01 pm.png]]
 			- electrolytes cheap efficient and better.

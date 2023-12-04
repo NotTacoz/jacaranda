@@ -144,24 +144,66 @@
     "2023/10/28": 311,
     "2023/10/29": 1,
     "2023/10/30": 246,
-    "2023/11/1": 473
+    "2023/11/1": 473,
+    "2023/11/2": 17,
+    "2023/11/4": 240
   },
   "todaysWordCount": {
-    "notes/Summer Study Challenge.md": {
+    "notes/daily/2023-12-04.md": {
+      "initial": 13,
+      "current": 118
+    },
+    "notes/AT/japanese/grammar/Potential form.md": {
+      "initial": 75,
+      "current": 70
+    },
+    "notes/Untitled.md": {
       "initial": 9,
       "current": 9
     },
-    "notes/daily/Summer Study Challenge.md": {
-      "initial": 8,
+    "notes/AT/japanese/Untitled.md": {
+      "initial": 10,
+      "current": 9
+    },
+    "notes/AT/japanese/grammar/Untitled.md": {
+      "initial": 10,
+      "current": 11
+    },
+    "notes/AT/japanese/AT grammar.md": {
+      "initial": 80,
+      "current": 98
+    },
+    "notes/Volitional form.md": {
+      "initial": 9,
       "current": 10
     },
-    "notes/daily/2023 Summer Study Challenge.md": {
+    "notes/AT/japanese/grammar/Volitional form.md": {
       "initial": 11,
-      "current": 226
+      "current": 72
     },
-    "articles/2023 Summer Study Challenge.md": {
-      "initial": 227,
-      "current": 483
+    "notes/～ようと思う.md": {
+      "initial": 9,
+      "current": 9
+    },
+    "notes/AT/japanese/grammar/～ようと思う.md": {
+      "initial": 10,
+      "current": 29
+    },
+    "notes/～よてい.md": {
+      "initial": 8,
+      "current": 9
+    },
+    "notes/AT/japanese/grammar/～よてい.md": {
+      "initial": 10,
+      "current": 37
+    },
+    "notes/～はじまる、～おわる.md": {
+      "initial": 9,
+      "current": 9
+    },
+    "notes/AT/japanese/grammar/～はじまる、～おわる.md": {
+      "initial": 10,
+      "current": 17
     }
   }
 }

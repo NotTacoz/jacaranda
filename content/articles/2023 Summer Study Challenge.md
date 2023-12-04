@@ -26,3 +26,6 @@ The rules to counting study time:
 	- Meaning: If I repeat this same task for a year straight, everyday for an hour, my ATAR score would increase.
 3. It must be 100% focused, and I am not allowed to go on anything distracting that will take away from my attention.
 4. AFK time is not allowed to be tracked.
+
+## Few notes on studying Japanese
+- Tolerate the ambiguity: https://refold.la/roadmap/stage-0/b/tolerate-ambiguity

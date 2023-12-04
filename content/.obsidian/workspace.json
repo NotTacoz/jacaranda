@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notes/AT/chemistry/Edward ATAR 12 Redox Seminar Masterclass.md",
+                "file": "notes/AT/japanese/AT grammar.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -21,25 +21,12 @@
             }
           },
           {
-            "id": "2ccce01050c89585",
+            "id": "6316bac5be39d6a1",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notes/AT/chemistry/Redox.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "c6c6880dd7148635",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "articles/2023 Summer Study Challenge.md",
+                "file": "notes/AT/japanese/grammar/～はじまる、～おわる.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -47,7 +34,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -77,7 +64,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:🐠",
+                "query": "tag:gramm",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -102,7 +89,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "57f26b66d7acceda",
@@ -183,7 +171,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "articles/2023 Summer Study Challenge.md"
+                "file": "notes/AT/japanese/grammar/～はじまる、～おわる.md"
               }
             }
           }
@@ -200,7 +188,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "articles/2023 Summer Study Challenge.md",
+                "file": "notes/AT/japanese/grammar/～はじまる、～おわる.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -226,15 +214,24 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "c6c6880dd7148635",
+  "active": "6316bac5be39d6a1",
   "lastOpenFiles": [
-    "notes/Clockify.md",
-    "articles/2023 Summer Study Challenge.md",
+    "notes/AT/japanese/grammar/Potential form.md",
     "notes/AT/chemistry/Redox.md",
+    "articles/2023 Summer Study Challenge.md",
+    "notes/AT/japanese/grammar/～はじまる、～おわる.md",
+    "notes/AT/japanese/AT grammar.md",
+    "notes/AT/japanese/grammar/～よてい.md",
+    "notes/AT/japanese/grammar/～ようと思う.md",
+    "notes/AT/japanese/grammar/Volitional form.md",
+    "notes/AT/japanese/grammar/Untitled.md",
+    "notes/AT/japanese/Untitled.md",
+    "notes/daily/2023-12-04.md",
+    "notes/AT/chemistry/Edward ATAR 12 Redox Seminar Masterclass.md",
+    "notes/Clockify.md",
     "notes/images/Pasted image 20231130152043.png",
     "_index.md",
     "notes/AT/chemistry/SAI Redox Introduction.md",
-    "notes/AT/chemistry/Edward ATAR 12 Redox Seminar Masterclass.md",
     "notes/AT/specialist/Complex Numbers.md",
     "notes/AT/chemistry/SAI Galvanic Cells.md",
     "notes/AT/methods/Acceleration.md",
@@ -246,17 +243,8 @@
     "notes/AT/chemistry/Corrosion of Metals.md",
     "notes/re.md",
     "notes/AT/specialist/nth roots of 1.md",
-    "notes/AT/japanese/AT grammar.md",
-    "notes/AT/english/Speech Sounds Monologue.md",
-    "notes/AE/chemistry/CAP4.md",
-    "notes/u.md",
-    "notes/AT/chemistry/Electrochemical Cells.md",
-    "notes/AE/methods/kinematics.md",
-    "notes/daily/2023-11-22.md",
     "notes/images/Screenshot 2023-11-22 at 9.49.37 pm.png",
     "notes/images/Screenshot 2023-11-22 at 9.11.25 pm.png",
-    "Excalidraw/Drawing 2023-11-21 12.35.39.excalidraw.md",
-    "private/2023-10-06 birthday wishlist.md",
     "notes/images/Screenshot 2023-11-21 at 12.45.58 pm.png",
     "notes/images/Pasted image 20231120092819.png",
     "notes/images/Pasted image 20231120092817.png",

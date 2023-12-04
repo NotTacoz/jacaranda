@@ -15,6 +15,5 @@ date: 2023-11-19
 ## Other Uses
 ### Asking for Permission
 - "can" in english can be used for permission. e.g. "can i go to the bathroom?"
-- in japanese, potential form 
 
 https://www.youtube.com/watch?v=NcAjv--g77k
