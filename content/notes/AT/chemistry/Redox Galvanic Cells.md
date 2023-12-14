@@ -1,0 +1,40 @@
+---
+title: Redox Galvanic Cells
+tags:
+  - AT
+  - chemistry
+  - redox
+date: 2023-12-13
+---
+- concentration of reactants decrease
+- frequency of successful collisions decrease
+	- between cathode and electrolyte, anode and electrolyte
+	- rate of reaction decreases
+- if a singular reaction occurs per second
+	- current = Q/t x transfer of electrons (rate) decreases
+	- if rate of reaction goes down, the transfer of electrons is slowing down.
+- current decreases
+	- therefore emf decreases
+- what is way of fixing this?
+	- fuel cells: lit-ion battery
+		- no longer in course because research is ongoing
+		- nickel cad
+- why sulfuric acid and other polyprotic acid not allowed
+	- we are only allowed to work with H+ ions in a 1mol/L
+	- we are operating SRP => H+ > 1.0 mol/L
+	- if we change the concentration, then the order of rankings will change
+	- citric acid and organic acids are weak acids
+		- the concentration doesnt have 1mol/L of hydrogen either, if you put 1mol/L in.
+- higher elevation = lower pressure lower temperature
+	- rate of reaction decreases
+	- voltage decreases
+- electrolyte concentration and voltage developed.
+	- if concentration increases, rate of reaction increases and voltage increase.
+	- the time it last does not depend concentration, it depends on moles (?) which depends on the size of the battery.
+- concentration => ror => v
+- moles => duration
+- internal resistance
+	- corrosion of e- comp
+	- decrease ion mobility = load/acid battery (?)
+- voltage/time graph
+- 

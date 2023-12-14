@@ -4,37 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "ce37bfb02b051267",
+        "id": "9abb284d236f18bf",
         "type": "tabs",
         "children": [
           {
-            "id": "cd57b441716ecb08",
+            "id": "602643b32148db36",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "notes/AT/japanese/AT grammar.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "6316bac5be39d6a1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "notes/AT/japanese/grammar/～はじまる、～おわる.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -89,8 +70,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "57f26b66d7acceda",
@@ -109,7 +89,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 271.50390243530273
+    "width": 271.50390243530273,
+    "collapsed": true
   },
   "right": {
     "id": "8bc85ecb066bcf9c",
@@ -170,9 +151,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "notes/AT/japanese/grammar/～はじまる、～おわる.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -188,7 +167,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "notes/AT/japanese/grammar/～はじまる、～おわる.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -198,7 +176,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 270.5
+    "width": 270.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -214,35 +193,36 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "6316bac5be39d6a1",
+  "active": "602643b32148db36",
   "lastOpenFiles": [
+    "notes/AT/physics/Uniform Circular Motion.md",
+    "notes/AT/chemistry/Redox Galvanic Cells.md",
+    "articles/What It Takes To Be The Very Best (spoiler - lots of schizophrenia).md",
+    "notes/images/Screenshot 2023-12-11 at 5.39.02 pm.png",
+    "articles/2023 Summer Study Challenge.md",
+    "notes/AT/japanese/grammar/Volitional form.md",
+    "tags/articles.md",
+    "_index.md",
+    "notes/notes.md",
+    "notes/helloWorld.md",
+    "notes/AT/japanese/grammar/～ようと思う.md",
+    "notes/AT/japanese/AT grammar.md",
+    "notes/AT/japanese/grammar/～はじまる、～おわる.md",
     "notes/AT/japanese/grammar/Potential form.md",
     "notes/AT/chemistry/Redox.md",
-    "articles/2023 Summer Study Challenge.md",
-    "notes/AT/japanese/grammar/～はじまる、～おわる.md",
-    "notes/AT/japanese/AT grammar.md",
     "notes/AT/japanese/grammar/～よてい.md",
-    "notes/AT/japanese/grammar/～ようと思う.md",
-    "notes/AT/japanese/grammar/Volitional form.md",
     "notes/AT/japanese/grammar/Untitled.md",
     "notes/AT/japanese/Untitled.md",
     "notes/daily/2023-12-04.md",
     "notes/AT/chemistry/Edward ATAR 12 Redox Seminar Masterclass.md",
     "notes/Clockify.md",
     "notes/images/Pasted image 20231130152043.png",
-    "_index.md",
     "notes/AT/chemistry/SAI Redox Introduction.md",
     "notes/AT/specialist/Complex Numbers.md",
     "notes/AT/chemistry/SAI Galvanic Cells.md",
     "notes/AT/methods/Acceleration.md",
     "notes/AT/methods/Small Change.md",
     "notes/AT/methods/Differentiation.md",
-    "notes/AT/methods/Derivatives.md",
-    "articles/Japan Trip Planning.md",
-    "notes/AT/english/Monologue.md",
-    "notes/AT/chemistry/Corrosion of Metals.md",
-    "notes/re.md",
-    "notes/AT/specialist/nth roots of 1.md",
     "notes/images/Screenshot 2023-11-22 at 9.49.37 pm.png",
     "notes/images/Screenshot 2023-11-22 at 9.11.25 pm.png",
     "notes/images/Screenshot 2023-11-21 at 12.45.58 pm.png",
@@ -251,7 +231,6 @@
     "notes/404.png",
     "notes/images/Pasted image 20231120091733.png",
     "notes/images/404.png",
-    "notes/images/Pasted image 20231119221027.png",
     "notes/AT/japanese/grammar",
     "todo idk.canvas",
     "amob",
