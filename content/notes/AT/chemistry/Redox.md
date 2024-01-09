@@ -203,3 +203,26 @@ Iron (III) Sulphate
 - impressed current
 	- metal and anode, less reactive, acting as cathode.
 	- non spontaneous reaction.
+
+## Corrosion
+- oxidisation of a metal
+- usually occurs in the presence of oxygen and water vapour in the air to form metal oxide.
+### dry corrosion
+- dry corrosion/oxidation occurs when oxygens or other reactive gases in air reacts with exposed metal without the presence of a liquid. This causes an oxide layer to form over the metal, which damages its surface properties.
+	- oxide layer called rust.
+	- dry corrosion requires contact between air and metal, so oxide layer forms eventually stops (as it no longer is in contact because the layer prevents it)
+		- this stopping is known as passivation.
+- oxide layer is **porous** in some cases, and thus corrosion can continue deep into the material.
+	- known as active corrosion.
+	- porous is basically having holes
+- dry corrosion is sensitive to temperature: reacts faster under application of heat (no way rate of reaction???!)
+### 3 types of dry corrosion
+#### oxidative corrosion
+- point of contact between metal and o2 gas: o2 gas is reduce and oxidises metal
+	- this forms metal oxide.
+- metal oxide may be stable: adhere onto non-corroded metal; this prevents more contact between o2 and metal; therefore no more corrosion.
+- the metal oxide may be stable: but NOT adhere onto the non-corroded metal (i.e. might flake away): it then fails to prevent direct contact between oxygen gas and metal, and metal corrosion continues
+#### liquid metal corrosion
+- occurs when liquid metal is allowed to flow over solid metal at high temperature.
+- one example is flow of sodium metal (used as coolant) over cadmium. cadmium is corroded and sodium ions are reduced.
+#### corrosion by other gases

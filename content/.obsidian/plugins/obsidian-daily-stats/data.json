@@ -150,16 +150,31 @@
     "2023/11/8": 9,
     "2023/11/10": 0,
     "2023/11/11": 113,
-    "2023/11/13": 209
+    "2023/11/13": 209,
+    "2023/11/19": 17,
+    "2023/11/20": 216,
+    "2023/11/25": 7,
+    "2023/11/27": 263,
+    "2023/11/30": 0,
+    "2024/0/7": 86,
+    "2024/0/9": 946
   },
   "todaysWordCount": {
-    "notes/Redox Galvanic Cells.md": {
-      "initial": 10,
+    "notes/1 Year on Anki.md": {
+      "initial": 11,
       "current": 11
     },
-    "notes/AT/chemistry/Redox Galvanic Cells.md": {
-      "initial": 12,
-      "current": 220
+    "notes/1 Year of Anki.md": {
+      "initial": 15,
+      "current": 146
+    },
+    "notes/1 Year of Anki Told in Data.md": {
+      "initial": 147,
+      "current": 150
+    },
+    "articles/1 Year of Anki Told in Data.md": {
+      "initial": 149,
+      "current": 961
     }
   }
 }
