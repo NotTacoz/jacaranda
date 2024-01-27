@@ -226,3 +226,23 @@ Iron (III) Sulphate
 - occurs when liquid metal is allowed to flow over solid metal at high temperature.
 - one example is flow of sodium metal (used as coolant) over cadmium. cadmium is corroded and sodium ions are reduced.
 #### corrosion by other gases
+
+## Fuel cells
+- h2 and o2 come to make h2o
+- this is foundation of fuel cells.
+- spontaneous reaction, produce lots of energy. 
+- anode is where hydrogen are
+- cathode has oxygen
+- electrons travels from anode to cathode.
+- electrolytes block.
+- catalyst helps hydrogen gas to split apart
+### advantages
+- uses external fuel source, so not reliant on limited store capacity
+- high efficiency
+- emission-free; zero emissions, only water vapour
+- high energy density: a lot of energy in small volume
+- renewable: hydrogen can be produced from renewable energy sources, such as wind, solar, hydropower
+### disadvantages
+- high cost to produce a fuel cell
+- production/transportation/distribution/storage problems with hydrogen
+- <mark style="background: #FFFD00B0;">developing technology ? i think you have to expand on this. check practice tests later and come back. </mark>

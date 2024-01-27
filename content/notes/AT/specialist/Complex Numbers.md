@@ -98,7 +98,7 @@ E.g. $$\begin{align}
 ### Theorem (Important! - part of the course)
 - If $z$ is a complex solution to a polynomial equation (with real coefficients), then so is $\overline{z}$.
 - This means that complex solutions always in conjugate pairs, so the total number of complex solutions (with non-zero imaginary part) is always even.
-- It also means that the total number of linear factors inolving complex numbers is even
+- It also means that the total number of linear factors involving complex numbers is even
 - Conjugates comes as pairs, and you can ever have one solution without the conjugate pair
 - **What important fact does this imply about the graphs of odd degree polynomials?**
 	- Any real polynomial equation of odd degree will have at least 1 real solutions

@@ -1,0 +1,71 @@
+---
+title: Redox Prestudy
+tags:
+  - AT
+  - redox
+  - chemistry
+date: 2024-01-18
+---
+- Redox
+	- Reactions
+		- OILRIG
+			- Reduction
+				- Process involving gain of electrons
+			- Oxidation
+				- Process involving loss of electrons
+		- Oxidation Numbers
+- Electrolysis
+	- Definition
+		- A process where electricity is used to make a chemical change happen that wouldn't happen otherwise.
+	- Electrical energy from battery force non spontaneous reactions to react
+	- electrolytic cell
+		- battery
+			- + pulls electrons, oxidising.
+			- - will push electrons, reducing it.
+		- electrode
+			- definition:
+				- conductor which electricity leaves an object
+			- cathode
+				- reduction happens
+			- anode
+				- oxidation happens
+		- electrolyte
+			- needs to be molten/aqueous
+- electrochemistry
+	- electrochemical cells
+		- galvanic cells
+			- components
+				- half-cells
+					- oxidation half-cell
+					- reduction half-cell
+				- two electrodes
+					- anode
+					- cathode
+				- voltmeter (connected to external circuit)
+				- electrolyte
+				- external circuit
+				- salt bridge
+					- purpose of salt bridge
+						- prevents direct contact between oxidising and reducing agents, allowing ions to pass between them.
+					- direction of ions salt bridge
+						- anions flow towards anode, cations flow towards cathode.
+			- electron flow
+				- anode -> cathode
+			- polarity
+				- anode: negative
+				- cathode: positive
+			- daniel cell
+			- types of galvanic cells
+				- primary cell
+					- dry cell
+				- secondary cells (rechargeable)
+					- lead-acid cell
+				- fuel cell
+					- oxidant/reductant continuously fed into cell.
+		- electrolytic cells
+			- 
+- applied electrochemistry
+	- electro refining of copper
+		- copper high resistance corrosion and good conductivity of electricity makes it great metal.
+		- only useful if pure (>99.95% Cu)
+		- blister copper extracted usually (around 98% Cu)

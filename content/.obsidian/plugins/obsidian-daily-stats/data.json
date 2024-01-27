@@ -157,24 +157,20 @@
     "2023/11/27": 263,
     "2023/11/30": 0,
     "2024/0/7": 86,
-    "2024/0/9": 946
+    "2024/0/9": 977,
+    "2024/0/10": 0,
+    "2024/0/15": 0,
+    "2024/0/16": 125,
+    "2024/0/17": 130,
+    "2024/0/18": 80,
+    "2024/0/21": 872,
+    "2024/0/22": 218,
+    "2024/0/24": 126
   },
   "todaysWordCount": {
-    "notes/1 Year on Anki.md": {
-      "initial": 11,
-      "current": 11
-    },
-    "notes/1 Year of Anki.md": {
-      "initial": 15,
-      "current": 146
-    },
-    "notes/1 Year of Anki Told in Data.md": {
-      "initial": 147,
-      "current": 150
-    },
-    "articles/1 Year of Anki Told in Data.md": {
-      "initial": 149,
-      "current": 961
+    "notes/AT/chemistry/Redox.md": {
+      "initial": 1602,
+      "current": 1728
     }
   }
 }
