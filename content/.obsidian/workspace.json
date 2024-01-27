@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "4af042b522b56f59",
+        "id": "9f892cf23059128c",
         "type": "tabs",
         "children": [
           {
-            "id": "dc6f4acd811ea1cc",
+            "id": "8033973bc7ac00a3",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notes/AT/chemistry/Redox.md",
+                "file": "notes/daily/melbuni questions.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -159,7 +159,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "notes/AT/chemistry/Redox.md"
+                "file": "notes/daily/melbuni questions.md"
               }
             }
           }
@@ -176,7 +176,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "notes/AT/chemistry/Redox.md",
+                "file": "notes/daily/melbuni questions.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -203,10 +203,11 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "dc6f4acd811ea1cc",
+  "active": "8033973bc7ac00a3",
   "lastOpenFiles": [
-    "Excalidraw/Drawing 2024-01-22 19.59.56.excalidraw.md",
+    "notes/Untitled.md",
     "notes/AT/chemistry/Redox.md",
+    "Excalidraw/Drawing 2024-01-22 19.59.56.excalidraw.md",
     "notes/AT/chemistry/electrorefining-electrowining.md",
     "Excalidraw/Drawing 2024-01-22 20.11.21.excalidraw.md",
     "notes/images/Screenshot 2024-01-22 at 8.06.08 pm.png",
@@ -219,7 +220,7 @@
     "articles/1 Year of Anki Told in Data.md",
     "notes/projectile motion investigation.md",
     "articles/skincare stack.md",
-    "notes/daily/how melbuni work (from my understanding? get it checked).md",
+    "notes/daily/melbuni questions.md",
     "notes/AT/sai/video watched.md",
     "notes/extracurricular.md",
     "notes/AT/sai",
@@ -240,7 +241,6 @@
     "articles/Japan Trip Planning.md",
     "notes/AT/methods/Differentiation.md",
     "templates/post.md",
-    "templates/daily.md",
     "notes/images/Screenshot 2023-12-11 at 5.39.02 pm.png",
     "notes/AT/japanese/grammar",
     "todo idk.canvas",
