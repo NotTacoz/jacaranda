@@ -4,23 +4,37 @@
     "type": "split",
     "children": [
       {
-        "id": "9f892cf23059128c",
+        "id": "8a3b0c2f2d3a7b58",
         "type": "tabs",
         "children": [
           {
-            "id": "8033973bc7ac00a3",
+            "id": "6651fbdf281557e4",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notes/daily/melbuni questions.md",
+                "file": "notes/AT/chemistry/Equilibrium.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "23cd8bda28fb8eb4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "notes/AT/physics/circular motion experiment data.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -94,7 +108,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 271.50390243530273,
+    "width": 290,
     "collapsed": true
   },
   "right": {
@@ -159,7 +173,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "notes/daily/melbuni questions.md"
+                "file": "notes/AT/physics/circular motion experiment data.md"
               }
             }
           }
@@ -176,7 +190,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "notes/daily/melbuni questions.md",
+                "file": "notes/AT/physics/circular motion experiment data.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -203,45 +217,45 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "8033973bc7ac00a3",
+  "active": "23cd8bda28fb8eb4",
   "lastOpenFiles": [
-    "notes/Untitled.md",
+    "notes/AT/chemistry/Equilibrium.md",
+    "notes/AT/physics/circular motion experiment data.md",
+    "notes/images/Pasted image 20240206171226.png",
+    "notes/images/Screenshot 2024-02-06 at 4.10.01 pm.png",
     "notes/AT/chemistry/Redox.md",
-    "Excalidraw/Drawing 2024-01-22 19.59.56.excalidraw.md",
-    "notes/AT/chemistry/electrorefining-electrowining.md",
-    "Excalidraw/Drawing 2024-01-22 20.11.21.excalidraw.md",
-    "notes/images/Screenshot 2024-01-22 at 8.06.08 pm.png",
-    "notes/AT/chemistry/Corrosion of Metals.md",
-    "notes/AT/chemistry/corrosion.md",
-    "notes/AT/chemistry/redox questions.md",
-    "notes/AT/chemistry/Redox Prestudy.md",
-    "notes/Untitled 1.md",
-    "notes/images/Screenshot 2024-01-21 at 5.29.46 pm.png",
-    "articles/1 Year of Anki Told in Data.md",
-    "notes/projectile motion investigation.md",
-    "articles/skincare stack.md",
-    "notes/daily/melbuni questions.md",
-    "notes/AT/sai/video watched.md",
-    "notes/extracurricular.md",
-    "notes/AT/sai",
+    "notes/images/Pasted image 20240206142509.png",
     "notes/AT/specialist/Complex Numbers.md",
-    "notes/images/Screenshot 2024-01-09 at 9.27.24 pm.png",
-    "notes/images/Screenshot 2024-01-09 at 9.25.30 pm.png",
-    "notes/images/Screenshot 2024-01-09 at 9.23.28 pm.png",
-    "notes/images/Pasted image 20240109211657.png",
-    "notes/images/Pasted image 20240109211419.png",
-    "notes/images/Screenshot 2024-01-09 at 9.11.38 pm.png",
-    "notes/images/Screenshot 2024-01-09 at 9.11.32 pm.png",
-    "articles/year 12 checklist!.md",
-    "notes/daily/2023-12-30.md",
-    "articles/Reading List.md",
-    "notes/daily/2023-12-19.md",
-    "articles/2023 JAPANESE WORKFLOW.md",
-    "articles/What 500 Days At The Gym Taught Me About Self-Growth.md",
-    "articles/Japan Trip Planning.md",
+    "notes/AT/specialist/complex numbers revision.md",
+    "notes/AT/physics/Gravity and Motion.md",
+    "articles/how to study better.md",
+    "notes/images/Screenshot 2024-02-05 at 8.24.06 pm.png",
+    "notes/images/Screenshot 2024-02-05 at 8.19.39 pm.png",
+    "notes/images/Screenshot 2024-02-05 at 7.53.11 pm.png",
+    "notes/Circular Motion.md",
+    "notes/images/Pasted image 20240205121956.png",
+    "notes/images/Screenshot 2024-02-04 at 3.59.24 pm.png",
+    "notes/images/Screenshot 2024-02-04 at 3.50.39 pm.png",
+    "notes/AT/physics/Projectile Motion SIS.md",
+    "notes/AT/physics/Projectile Motion.md",
+    "notes/AT/physics/Uniform Circular Motion.md",
+    "notes/AT/physics/Vectors and Scalars.md",
+    "notes/AT/physics/SAI Introduction to Projectile Motion.md",
+    "notes/images/Screenshot 2024-02-04 at 1.24.32 pm.png",
+    "Excalidraw/Drawing 2024-02-02 13.39.43.excalidraw.md",
+    "Excalidraw/Drawing 2024-02-02 11.21.55.excalidraw.md",
+    "notes/AT/english/visual conventions.md",
+    "tags/amob.md",
+    "amob/what is an amob.md",
+    "notes/AT/methods/Acceleration.md",
     "notes/AT/methods/Differentiation.md",
-    "templates/post.md",
-    "notes/images/Screenshot 2023-12-11 at 5.39.02 pm.png",
+    "articles/2023 Summer Study Challenge.md",
+    "articles/340 Days Left of Year 12.md",
+    "articles/Ariadnes' Thread.md",
+    "articles/What 500 Days At The Gym Taught Me About Self-Growth.md",
+    "Excalidraw/Drawing 2024-02-01 14.20.47.excalidraw.md",
+    "articles/year 12 checklist!.md",
+    "notes/AT/sai",
     "notes/AT/japanese/grammar",
     "todo idk.canvas",
     "amob",

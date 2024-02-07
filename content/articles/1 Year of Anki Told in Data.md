@@ -31,7 +31,7 @@ Anyways, that is all I can think about! I might update this article if I think o
 ## Lessons
 
 ## Future
-## More Stats (fun!)x
+## More Stats (fun!)
 So, how many words do I know now? After 83+ hours of Japanese study throughout 365 days, how many words did I learn?
 ![[notes/images/Screenshot 2024-01-09 at 9.25.30 pm.png|250]]
 Keep in mind that I installed this extension only very recently (a week or so ago), so the retention may not be fully accurate. HOWEVER, assuming I retain 92.55% of all my cards, I know ~2544 cards fully, and am familiar with 2749 cards. However, there are A LOT of recaps, as I use the 1) Core 6k, 2) WACE Vocab, 3) Sentence Mined, so some cards may appear up to 3 times in the deck. I would estimate I know ~2000 words though.

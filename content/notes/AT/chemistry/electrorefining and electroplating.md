@@ -1,11 +1,14 @@
 ---
-title: electrorefining-electrowining
+title: electrorefining and electroplating
 tags:
   - AT
   - chemistry
   - redox
 date: 2024-01-22
 ---
+- electroplating
+![[notes/images/Pasted image 20240128120746.png]]
+
 - electrorefining
 	- extracting pure metal (mixture) electrolyte
 - ![[notes/images/Screenshot 2024-01-22 at 8.06.08 pm.png]]

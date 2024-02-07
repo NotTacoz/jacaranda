@@ -165,12 +165,26 @@
     "2024/0/18": 80,
     "2024/0/21": 872,
     "2024/0/22": 218,
-    "2024/0/24": 126
+    "2024/0/24": 126,
+    "2024/0/28": 510,
+    "2024/0/30": 28,
+    "2024/0/31": 560,
+    "2024/1/1": 581,
+    "2024/1/2": 591,
+    "2024/1/3": 120,
+    "2024/1/4": 1014,
+    "2024/1/5": 721,
+    "2024/1/6": 851,
+    "2024/1/7": 4
   },
   "todaysWordCount": {
-    "notes/AT/chemistry/Redox.md": {
-      "initial": 1602,
-      "current": 1728
+    "notes/circular motion experiment data.md": {
+      "initial": 66,
+      "current": 70
+    },
+    "notes/AT/physics/circular motion experiment data.md": {
+      "initial": 70,
+      "current": 70
     }
   }
 }

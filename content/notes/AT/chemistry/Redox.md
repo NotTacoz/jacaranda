@@ -6,6 +6,7 @@ tags:
   - redox
 date: 2023-11-09
 ---
+
 ![[notes/images/ei eating.png|150]]
 
 Consider checking out the [[notes/AT/chemistry/Edward ATAR 12 Redox Seminar Masterclass|Edward ATAR 12 Redox Seminar Masterclass]] for a shortened version of the entire Redox course.
@@ -30,6 +31,13 @@ Consider checking out the [[notes/AT/chemistry/Edward ATAR 12 Redox Seminar Mast
 		- 2NaCl: +1 -1
 		- increase in oxidation number: oxidation
 		- decrease in oxidation number: reduction
+## common types of redox reactions
+- metal metal ion displacement
+	- metal transfers ions 
+- halogen halide ion displacement
+	- electrons transferred to a halogen, halides to less reactive halogen
+- combustion
+- corrosion
 ## Oxidation Numbers
 - increase in oxidation number: oxidation
 - decrease in oxidation number: reduction
@@ -229,7 +237,7 @@ Iron (III) Sulphate
 
 ## Fuel cells
 - h2 and o2 come to make h2o
-- this is foundation of fuel cells.
+	- this is foundation of fuel cells.
 - spontaneous reaction, produce lots of energy. 
 - anode is where hydrogen are
 - cathode has oxygen
@@ -246,3 +254,171 @@ Iron (III) Sulphate
 - high cost to produce a fuel cell
 - production/transportation/distribution/storage problems with hydrogen
 - <mark style="background: #FFFD00B0;">developing technology ? i think you have to expand on this. check practice tests later and come back. </mark>
+## applications of redox: primary/secondary/fuel cells blah bla
+### cells and batteries
+- redox: transfer of electrons between 2 substances. separate galvanic cells and the movement of electrons between external circuit to generate electricity.
+- **electrochemical cell** is a store of chemical energy in **closed system:** closed regards with chemical substance, all reactants and products contained within the battery, but not closed with respect to energy transfer (physics concept woohoo)
+- split into *primary* and *secondary* cells (rechargeable and non-rechargeable respectively)
+- secondary cell can be discharged and recharged =D
+- size of battery means more chemicals inside which means it can run for a longer amount of time; it does not affect the voltage output.
+>[!note] a **battery** is more than one cell connected together in a series arrangement
+
+- the **electromotive force** (voltage) increases when the cell is connected together in series. voltage = sum of voltages of each cell.
+- a battery is a closed system which contains high energy reactants and low energy products in a sealed unit.
+### primary cell
+- lots and lots of primary cell but only two we learn =D they all have *relatively* similar patterns.
+- one use wonder! non reversible.
+- advantages
+	- cheap
+	- don't discharge unless power is drawn
+### zinc-carbon dry cell - **leclanche** cell
+- ![[notes/images/Screenshot 2024-02-01 at 12.49.12 pm.png|400]]
+- produces 1.5V
+- carbon is inert (non-reactive) and conductive electrode: hence why it is used. if a metal is used, it would react and that wouldn't be poggers.
+- porous fibre is like filter paper fr no cap.
+- allows outside to move between the thing and the slightly red paste; outside is zinc.
+- excess zinc is used, so it won't be entirely consumed and the zinc ions wont leak everywhere.
+- half reacitons:
+	- ox $Zn(s)\to Zn^{2+}+2e^-$
+	- red: $2MnO_{2}(s)+2NH_{4}^++2e^-\to Mn_{2}O_{3}+2NH_{3}+H_{2}O$
+	- full $2MnO_{2}(s)+2NH_{4}^++Zn(s)\to Zn^{2+}+Mn_{2}O_{3}+2NH_{3}+H_{2}O$
+- disadvantages
+	- low energy to mass ratio
+- advantages
+### alkaline cell
+- uses zinc and mangaese(IV) oxide, but uses potassium hydroxide paste as electrolyte.
+- alkaline cells do not need lots of electrolyte, so more space for reactants.
+- thus it has higher energy to mass ratio as a result.
+- ![[notes/images/Screenshot 2024-02-01 at 1.02.27 pm.png]]
+## secondary cells (rechargeable)
+- secondary cells are a massive part of the modern world
+- utilises fairly new (with regards to redox topic)
+- we make things go backwards (do, undo, redo, undo blah blah blah)
+- process that goes both ways :fire: bars
+- rechargeable cells got invented
+- chemical energy -> discharge spontaneous energy -> electrical energy -> recharge non-spontaneous reaction -> chemical energy
+- ![[notes/images/Screenshot 2024-02-02 at 1.40.16 pm.png|400]]
+- once discharged, recharged by applying **dc voltage** (have to mention dc voltage!)
+- we do not use reversible symbols in redox equations; discharge with forward arrow or recharge with a forward arrow
+### nickel metal hydride cells
+- dont need to memorise diagram
+- nickel metal hydride batteries results in high demand for nickel.
+- mysterious rare-earth metals: alloy, store hydrogen as hydride
+- recharge reverses reaction; in this case me turn the metal alloy back into hydride, so we do half reaction in opposite direction.
+- talk about polarity later
+	- ms holland will talk about electrolysis first
+### lead acid battery
+- CAR BATTERIES
+- NOT TESLA BATTERIES. REGULAR PETROL-DIESEL
+- PURPOSE IS TO TURN THE STARTER MOTOR.
+- delivers HIGH VOLTAGE and HIGH CURRENT to turn over the motor getting it starting, reducing the mechanical resistance.
+- each cell produces 2V, car battery uses 6 cells in series to output 12V
+- advantages
+	- cheap reliable
+	- very reliable, withstand many discharge-recharge cycles: long lifetime
+	- output large current
+- disadvantages
+	- low energy density
+	- safety hazards; corrosive sulphuric acid electrolyte; toxic lead compounds.
+		- if broke, waterway can say byebye
+	- environmental concern upon end of life.
+		- horrible pollutant, lead will troll the environment.
+- porous anode, to increase surface area
+- cathode made with lead (4) oxide
+- all good to go again once recharged.
+### lithium ion battery
+- lithium exists in cathode and in electrolyte.
+- cathode made with lithium cobalt oxide
+- when battery is fully charged, we shoved lithiums in graphite
+- discharge reactions:
+	- anode (-) Lic6 -> Li+ + c6 + e-
+	- cathode (+) coO2 + Li+ + e- -> LiCoO2
+	- redox: LiC6 + CoO2 -> C6 + LiCoO2
+- different materials for two different electrodes results highly energetic favourable electrodes with different materials.
+- recharged anode -> cathode, cathode -> anode.
+- fire risk
+	- banned on flights due to the fire risk they pose
+	- 1. short-circuiting
+		- porous separator keeps battery electrodes apart; charging for long periods can damage the porous membrane, removing it cause battery to discharge rapidly and generate a lot of heat.
+	- 2. overcharging
+		- when overcharged, lithium cobalt oxide releases oxygen. react with flammable electrolyte and also cobalt oxide
+	- 3. electrolyte breakdown
+		- electrolyte catches fire.
+
+## Fuel Cells
+- Does not form the definition of electrochemical cell.
+- It is not a closed system, but it is instead an **open system**.
+- It is not being used to replace batteries, we use it more often to replace a combustion engine.
+- Direct replacement to engine in vehicles.
+- Hydrogen Fuel Cell
+- Combustion Reaction of Fuel is the only reaction simplified, unless it wants you to state the half equations.
+- There are multiple kinds of fuel cells: 3 kinds of Hydrogen Oxygen cells (didn't catch what she said)
+### Hydrogen Oxygen Cell
+- Electrochemical Energy: Converts between CPE and EE
+	- Spontaneous reaction: CPE -> EE (galvanic type redox reaction)
+- Most common fuel cells
+- Ms Holland likes anode on the left=D
+- Pretty efficient, but it is a bit inefficient too, so some energy is converted to heat.
+- Structure: Electrolyte (3 types of Hydrogen Oxygen Cells)
+	- Acidic Kind: 
+		- H2SO4 sulphuric acid
+			- good for labs
+			- not good for industries
+		- phosphoric acid
+			- good for industries
+	- Alkaline: 
+		- KOH (potassium hydroxide)
+			- both lab and industries
+	- PEM (Proton Exchange Membrane)
+	- minor intricate differences between all 3
+- Porous Carbon
+	- Tiny Holes
+	- +Catalyst (sometimes)
+		- changes depending on version
+- Anode, Cathode Compartment
+- Electrical Energy comes from the movement of electrons.
+- Increase voltage by connecting batteries in series.
+- Advantages
+	- Could replace power stations, main idea is to replace fossil fuel engines and batteries, which are both pollution.
+	- Only requires Hydrogen and Oxygen, and does not produce Carbo Dioxide or pollutants.
+	- Last longer than batteries, less polluting to dispose of.
+- Disadvantages
+	- Hydrogen is a gas
+		- hard to fuel up, high flammable and not poggers.
+	- more space to store than fossil fuels or batteries
+	- Explosive when mixed with air
+		- will explode in contact with air.
+	- storage is dangerous
+	- BIGGEST ISSUE: Hydrogen gas requires energy, and its often produced using fossil fuels.
+- aqueous acidic hydrogen oxygen fuel cell: has extra thing at anode for depleted fuel and other gases to come out: catalyst provides conductive surface for thing to occur, platinum doesn't corrode (expensive for jewellery) 
+- proton exchange membrane works similar to aqueous acidic.
+- production of hydrogen
+	- hydrogen is a very reactive element
+		- reaction of hydrocarbons with steam
+		- electrolysis of acidified water
+- TRANSPORTING HYDROGEN
+	- liquify under pressure
+		- very hard tho, you can force it into liquid state with high pressure, but pressure is ridiculously low.
+		- expensive method of storage
+	- adsorption
+		- take place at low pressure and close to room temperature
+		- however, materials being used for adsorption does not last forever.
+	- absorption
+		- absorbed by solid materials, enter spaces in metal alloys lattices, forming hydrides
+		- alloys deteriorate over time, and need to be replaced regularly
+- hydrogen fuel bus
+	- since transporting is difficult, some vehicles makes hydrogen using hydrogen-rich fuels and then using it with fuel cells.
+- direct methanol fuel cells
+	- ![[notes/images/Pasted image 20240206142509.png]]
+	- anode: ch3oh + h2o -> 6h+ +6e- + co2
+	- cathode: 3/2 o2 + 6h+ + 6e- -> 3h2o
+	- redox: ch3oh + 3/2 o2 -> co2 + 2h2o
+- making ethanol
+	- less toxic more energy dense alcohol than methanol.
+	- not ready, as catalysts are not cheap !! very expensive \$\$ ahhh
+	- cheaper, more efficient catalysts capable of fully oxidising ethanol are needed.
+- pros cons fuel cells
+	- powerpoint slide on ms holland fuel cells ppt, put the slide here LATER AT SOME POINT ! THANKS!!!!
+- breath alcohol tester.
+	- fuel cell technology used to breath alcohol testers.
+	- 

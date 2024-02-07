@@ -1,9 +1,9 @@
 {
-  "accentColor": "#bd93f9",
-  "cssTheme": "Dracula Official",
+  "accentColor": "#8d42f5",
+  "cssTheme": "Encore",
   "enabledCssSnippets": [
     "bold",
     "highlightr"
   ],
-  "baseFontSize": 17
+  "baseFontSize": 19
 }
