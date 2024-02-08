@@ -175,16 +175,13 @@
     "2024/1/4": 1014,
     "2024/1/5": 721,
     "2024/1/6": 851,
-    "2024/1/7": 4
+    "2024/1/7": 527,
+    "2024/1/8": 3
   },
   "todaysWordCount": {
-    "notes/circular motion experiment data.md": {
-      "initial": 66,
-      "current": 70
-    },
-    "notes/AT/physics/circular motion experiment data.md": {
-      "initial": 70,
-      "current": 70
+    "notes/AT/chemistry/Redox.md": {
+      "initial": 3556,
+      "current": 3559
     }
   }
 }

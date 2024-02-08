@@ -421,4 +421,60 @@ Iron (III) Sulphate
 	- powerpoint slide on ms holland fuel cells ppt, put the slide here LATER AT SOME POINT ! THANKS!!!!
 - breath alcohol tester.
 	- fuel cell technology used to breath alcohol testers.
-	- 
+
+## Electrolysis of molten compounds
+>[!quote] "im dababy" - ms holland
+>
+
+>[!quote] "probably saw a year 8" - ms holland referring to arvin
+
+- non-spontaneous redox reactions
+- similarities and differences aqueous and molten
+- industrial application electro-refining, electroplating: big in WACE (and probably in pmod as well.)
+- watched GCSE Chemistry Part 1
+
+>[!question] What is electrolysis?
+>the process of using an external potential difference to supply electrical energy to enable a non-spontaneous reaction to occur.
+
+- electricity to make non-spontaneous redox reactions occur
+- many uses
+	- purifying metals (such as copper)
+	- plating metals (silver or gold)
+	- extracting reactive metals (such as aluminium)
+	- making chlorine, hydrogen (not cheapest way, but byproduct of making chlorine) and sodium hydroxide (how most sodium hydroxide is made)
+- electrolyte needs to be liquid: it doesn't have to be solution, and can be molten instead.
+	- as long as ions are mobile (free to move), it is O.K.
+	- carbon electrodes pretty popular in molten aqueous: graphite
+		- as its pretty inexpensive (? not sure if she said this) and it can withstand pretty high temperature.
+- battery pushes electrons and forces in non-spontaneous direction.
+- "this gives the theoretical minimum potential difference that must be applied for the reaction to occur"
+	- in practice, a larger potential difference is required, to overcome energy loss in the system.
+## electrolysis extracting
+- we dig up aluminium oxide, and turn it into pure aluminium
+- aluminium is very useful
+- aluminium ore (bauxite) has very high melting point.
+- the ore is dissolved in compound called cryolite, which lowers the melting point to 700.
+- inert carbon lining steel container.
+- aluminium gets reduced, sinking to bottom, oxygen oxidises into gas.
+- aluminium oxide -> aluminium + oxygen gas$$2Al_{2}O_{3}(l)\to_{4}Al(l)+3O_{2}(g)$$
+- oxygen produced at the anode will react with the carbon, producing co2, anodes are replaced periodically.
+## environmental impact
+- starting off with aluminium oxide, has to mine it
+	- mine it is bad for environment when you dig a big ass hole :3
+	- environmental ecological impact on ecosystems and animals and plants
+	- energy consumption of diesel and coal and stuff in the process of mining BAD BAD BAD !!
+- processing is expensive so we dont do in australia
+	- so we ship it across the world
+	- energy consumption from fuel, crude oil, fossil fuels.
+- go to china! cheap work yay child labour
+	- china cheap energy, cheapest coal, brown coal, low energy density and filthy!!! yucky!!!
+	- aluminium gets made there ^.^
+	- big cities in china pollutant because brown coal is getting burnt. carbon dioxide hooray!
+- aluminium gets shipped back.
+	- AHH!! scary
+- melting bauxite needs energy (comes from brown coal)
+- electrolysis requires energy (requires brown coal)
+- massive energy demand and massive environmental impact!! =D
+- recycling is good, making new aluminium is not poggers for the trees.
+	- recycle !!! - ms holland
+## Electrolysis of Solutions

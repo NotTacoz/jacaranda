@@ -4,37 +4,23 @@
     "type": "split",
     "children": [
       {
-        "id": "8a3b0c2f2d3a7b58",
+        "id": "68d6cae16ba8fff5",
         "type": "tabs",
         "children": [
           {
-            "id": "6651fbdf281557e4",
+            "id": "501bd7bea0719795",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notes/AT/chemistry/Equilibrium.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "23cd8bda28fb8eb4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "notes/AT/physics/circular motion experiment data.md",
+                "file": "notes/AT/chemistry/Redox.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -173,7 +159,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "notes/AT/physics/circular motion experiment data.md"
+                "file": "notes/AT/chemistry/Redox.md"
               }
             }
           }
@@ -190,7 +176,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "notes/AT/physics/circular motion experiment data.md",
+                "file": "notes/AT/chemistry/Redox.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -217,13 +203,15 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "23cd8bda28fb8eb4",
+  "active": "501bd7bea0719795",
   "lastOpenFiles": [
+    "notes/AT/specialist/order of specialist mathematics.md",
+    "notes/AT/chemistry/Redox.md",
+    "notes/AT/english/language devices.md",
     "notes/AT/chemistry/Equilibrium.md",
     "notes/AT/physics/circular motion experiment data.md",
     "notes/images/Pasted image 20240206171226.png",
     "notes/images/Screenshot 2024-02-06 at 4.10.01 pm.png",
-    "notes/AT/chemistry/Redox.md",
     "notes/images/Pasted image 20240206142509.png",
     "notes/AT/specialist/Complex Numbers.md",
     "notes/AT/specialist/complex numbers revision.md",
@@ -253,8 +241,6 @@
     "articles/340 Days Left of Year 12.md",
     "articles/Ariadnes' Thread.md",
     "articles/What 500 Days At The Gym Taught Me About Self-Growth.md",
-    "Excalidraw/Drawing 2024-02-01 14.20.47.excalidraw.md",
-    "articles/year 12 checklist!.md",
     "notes/AT/sai",
     "notes/AT/japanese/grammar",
     "todo idk.canvas",
