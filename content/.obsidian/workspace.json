@@ -4,11 +4,37 @@
     "type": "split",
     "children": [
       {
-        "id": "68d6cae16ba8fff5",
+        "id": "9cd61a1609a731c5",
         "type": "tabs",
         "children": [
           {
-            "id": "501bd7bea0719795",
+            "id": "04d1d5d4aff3cb9c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "notes/AT/chemistry/ATCHE COURSE OUTLINE.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "f3fea8463e0ebd8e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "articles/Focusmaxxing.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "46139ef1d075960c",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -19,8 +45,35 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "12a895eb77eaa1e1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "notes/AT/physics/Circular Motion.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "042a004258acc0f8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "notes/AT/physics/Circular Motion.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -94,8 +147,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 290,
-    "collapsed": true
+    "width": 290
   },
   "right": {
     "id": "8bc85ecb066bcf9c",
@@ -159,7 +211,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "notes/AT/chemistry/Redox.md"
+                "file": "notes/AT/physics/Circular Motion.md"
               }
             }
           }
@@ -176,7 +228,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "notes/AT/chemistry/Redox.md",
+                "file": "notes/AT/physics/Circular Motion.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -203,44 +255,44 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "501bd7bea0719795",
+  "active": "042a004258acc0f8",
   "lastOpenFiles": [
-    "notes/AT/specialist/order of specialist mathematics.md",
+    "notes/AT/physics/Circular Motion.md",
+    "notes/images/Pasted image 20240219123102.png",
+    "notes/AT/sai/questions.md",
+    "notes/AT/sai/questions",
+    "articles/Focusmaxxing.md",
+    "notes/AT/chemistry/ATCHE COURSE OUTLINE.md",
     "notes/AT/chemistry/Redox.md",
-    "notes/AT/english/language devices.md",
-    "notes/AT/chemistry/Equilibrium.md",
-    "notes/AT/physics/circular motion experiment data.md",
-    "notes/images/Pasted image 20240206171226.png",
-    "notes/images/Screenshot 2024-02-06 at 4.10.01 pm.png",
-    "notes/images/Pasted image 20240206142509.png",
-    "notes/AT/specialist/Complex Numbers.md",
-    "notes/AT/specialist/complex numbers revision.md",
-    "notes/AT/physics/Gravity and Motion.md",
-    "articles/how to study better.md",
-    "notes/images/Screenshot 2024-02-05 at 8.24.06 pm.png",
-    "notes/images/Screenshot 2024-02-05 at 8.19.39 pm.png",
-    "notes/images/Screenshot 2024-02-05 at 7.53.11 pm.png",
-    "notes/Circular Motion.md",
-    "notes/images/Pasted image 20240205121956.png",
-    "notes/images/Screenshot 2024-02-04 at 3.59.24 pm.png",
-    "notes/images/Screenshot 2024-02-04 at 3.50.39 pm.png",
-    "notes/AT/physics/Projectile Motion SIS.md",
-    "notes/AT/physics/Projectile Motion.md",
-    "notes/AT/physics/Uniform Circular Motion.md",
-    "notes/AT/physics/Vectors and Scalars.md",
-    "notes/AT/physics/SAI Introduction to Projectile Motion.md",
-    "notes/images/Screenshot 2024-02-04 at 1.24.32 pm.png",
-    "Excalidraw/Drawing 2024-02-02 13.39.43.excalidraw.md",
+    "notes/AE/chemistry/CAP1CHECKLIST.md",
+    "notes/daily/2024-02-16.md",
+    "notes/AT/chemistry/Corrosion of Metals.md",
+    "Excalidraw/Drawing 2024-02-15 13.39.36.excalidraw.md",
+    "notes/images/Screenshot 2024-02-15 at 2.15.11 pm.png",
+    "notes/images/Screenshot 2024-02-15 at 1.56.20 pm.png",
+    "notes/AT/chemistry/corrosion.md",
+    "notes/images/Screenshot 2024-02-15 at 8.32.59 am.png",
+    "Excalidraw/sloped drawing.excalidraw.md",
+    "notes/images/Screenshot 2024-02-14 at 4.09.06 pm.png",
+    "notes/images/Pasted image 20240214091543.png",
+    "notes/images/Screenshot 2024-02-14 at 9.07.38 am.png",
+    "Excalidraw/Drawing 2023-11-20 09.16.57.excalidraw.md",
+    "Excalidraw/Drawing 2023-11-20 09.27.24.excalidraw.md",
+    "Excalidraw/Drawing 2023-11-21 12.35.39.excalidraw.md",
+    "Excalidraw/Drawing 2023-11-21 17.01.35.excalidraw.md",
+    "Excalidraw/Drawing 2024-01-22 19.59.56.excalidraw.md",
+    "Excalidraw/Drawing 2024-01-22 20.11.21.excalidraw.md",
+    "Excalidraw/Drawing 2024-02-01 14.20.47.excalidraw.md",
     "Excalidraw/Drawing 2024-02-02 11.21.55.excalidraw.md",
-    "notes/AT/english/visual conventions.md",
-    "tags/amob.md",
-    "amob/what is an amob.md",
-    "notes/AT/methods/Acceleration.md",
-    "notes/AT/methods/Differentiation.md",
-    "articles/2023 Summer Study Challenge.md",
-    "articles/340 Days Left of Year 12.md",
-    "articles/Ariadnes' Thread.md",
-    "articles/What 500 Days At The Gym Taught Me About Self-Growth.md",
+    "Excalidraw/Drawing 2024-02-02 13.39.43.excalidraw.md",
+    "Excalidraw/Drawing 2023-09-14 14.47.09.excalidraw.md",
+    "Excalidraw/Drawing 2023-09-13 20.56.27.excalidraw.md",
+    "Excalidraw/Drawing 2023-09-15 10.02.58.excalidraw.md",
+    "Excalidraw/Drawing 2023-09-15 13.42.11.excalidraw.md",
+    "Excalidraw/Drawing 2023-09-21 18.54.05.excalidraw.md",
+    "notes/images/Pasted Image 20240214090102_638.png",
+    "notes/images/Pasted image 20240214085239.png",
+    "notes/images/Screenshot 2024-02-10 at 10.01.58 pm.png",
     "notes/AT/sai",
     "notes/AT/japanese/grammar",
     "todo idk.canvas",
@@ -252,7 +304,6 @@
     "notes/AT/english",
     "notes/AT/japanese",
     "notes/AT/physics",
-    "notes/AT/chemistry",
     "Untitled 2.canvas",
     "Untitled 1.canvas"
   ]

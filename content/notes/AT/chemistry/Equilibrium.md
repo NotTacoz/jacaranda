@@ -162,3 +162,38 @@ date: 2024-02-03
 	- forward reaction 
 - ![[notes/images/Pasted image 20240206171226.png]]
 - solution goes to **NET INCREASE IN CRO72-** (TYPO IN ABOVE!!)
+
+## Imposed Changes
+### imposed change 2: decreased reactant concentration
+- 5 step process
+- initial, forward, reverse reaction.
+	- talk about what happens over time, what happens when they converge
+- what happens initially we decrease concentration of reaction, less mol less likelihood to collide.
+- reverse rate of reaction
+	- if products not changed
+- when you combine acid + base -> water is created, when you add water to the system 1. there is a miniscule system, 2. increase in water doesnt really matter (?cos ig the concentration added is miniscule)
+- rate of reverse reaction is initially unaltered.
+- net reaction is higher . initially we are at equilibrium, and ? decreases, the other stays the same.
+- initially reverse rate of reaction > forward rate of reaction: reverse rate of reaction would partially increase/?? 
+- since reverse reaction is higher, we will be consumed more products than produced.
+- product \[] decreases, reactant \[] increase
+- as we are increasing our reactant concentration, our forward rate of reaction is increasing over time
+- as reverse rate is higher than forward, product conc decreases.
+- trend happens until they converge, and at that point eq is reestablished
+- hydroxide is removed from the system
+- observations
+	- talk abt what happens with each colour
+	- orange <-> yellow
+		- solution becomes more orange
+- net eq reaction
+	- if u remove ions or stuff, u are decreasing rate of eq.
+	- talk abt this =D
+#### what will cnc vs time graph look like
+- it doesnt matter where it goes, unless they tell you kc, it doesnt matter where they go
+- adding Hcl, so hydroxide decreases
+- if we r shifting to the left, dichromate & hydroxide should increase over time
+- molar ratio (?): partial increase in conc OH-, net decrease
+	- if its above, u get marked down and shit fr
+	- equilibrium is partial counteracting of imposed change
+### partial pressure
+- pressure if it existed in the container alone

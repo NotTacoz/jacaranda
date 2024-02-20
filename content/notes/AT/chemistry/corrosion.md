@@ -64,7 +64,10 @@ date: 2024-01-21
 	- **forced our target metal: cathode therefore no oxd can occur = no corrosion**
 	- drawbacks
 		- expensive: constant electricity => permanent
-		- maintenance: anode: change soil, cathode: scratch
+		- maintenance: 
+			- anode: change soil
+				- anode soil needs to be changed because the ions gets depleted n stuff 9?
+			- cathode: scratch (?)
 		- CONTEXT BASED: electricity => wont work without
 	- benefits
 		- permanent

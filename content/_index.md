@@ -9,7 +9,7 @@ tags:
 # welcome
 hi! this is where you can find all my [[notes/notes|notes]], [[tags/articles|articles]] and other miscellaneous [[tags/daily|daily happenings]].
 
-✨ currently studying [[notes/AT/chemistry/Redox|Redox]], [[notes/AT/methods/Differentiation|Differentiation]], [[notes/AT/specialist/Complex Numbers|Complex Numbers]] and [[notes/AT/physics/Projectile Motion|Projectile Motion]]
+✨ currently studying [[notes/AT/chemistry/Redox|Redox]], [[notes/AT/methods/Differentiation|Differentiation]], [[notes/AT/specialist/Complex Numbers|Complex Numbers]] and [[notes/AT/physics/Circular Motion|Circular Motion]]
 
 for quick access to my specific subjects, check out:
 - [[tags/chemistry|chemistry]]

@@ -380,7 +380,7 @@ Iron (III) Sulphate
 - Increase voltage by connecting batteries in series.
 - Advantages
 	- Could replace power stations, main idea is to replace fossil fuel engines and batteries, which are both pollution.
-	- Only requires Hydrogen and Oxygen, and does not produce Carbo Dioxide or pollutants.
+	- Only requires Hydrogen and Oxygen, and does not produce Carbon Dioxide or pollutants.
 	- Last longer than batteries, less polluting to dispose of.
 - Disadvantages
 	- Hydrogen is a gas
@@ -478,3 +478,65 @@ Iron (III) Sulphate
 - recycling is good, making new aluminium is not poggers for the trees.
 	- recycle !!! - ms holland
 ## Electrolysis of Solutions
+- In theory removing the need to melt, but in practice, adding another compound to melt.
+- Aqueous solution is used, allowing the process to take place at lower temperatures. 
+	- However, presence of water affect outcome of some electrolytic reactions.
+- Instead of molten compound, you have a solution, and provides a potential difference.
+- thought process
+	- which substances are present in the cell
+		- which substances can be oxidised
+		- which substances can be reduced
+	- which substances are the most energetically favourable at each electrode? (process for least energy overall likely most favourable, use SRP to help)
+	- which substances are present in higher concentrations? substances present at very low concentrations are less likely to produce bulk of product.
+- if there is two possible oxidation reactions, and the provided voltage allows both to occur, the two possible reactions happens simultaneously.
+- layer of solid copper forms at cathode =D
+## Electrorefining: Reactive Electrodes
+### Reactive Electrodes
+- you can replace the inert electrodes with reactive electrodes.
+- swapping out the electrodes for copper!
+- Cu (s) -> Cu (s) if copper is the most reactive thingy. E cell would = 0, and what will happen is that copper will move from the anode to cathode.
+- potential difference applied needs to be >= 0
+### Electrorefining / Electrowinning
+- Impure metal is the anode
+- Highly pure metal as cathode
+- Anodic Slime
+	- can be very valuable because sometimes gold is there :3
+## Electroplating
+- higher current, higher rate of electroplating
+	- this can be increased by increasing concentration!
+- chromium forms oxide layer that utilises passivation to protect the metal underneath.
+- oxygen and cl2 in solution.
+- products of sodium chloride solution produces three very useful products
+	- chlorine
+	- hydrogen (without use of unsustainable means)
+	- seawater; financially viable
+- chlorine is expected as product but hydrogen and NaOH is a fun surprising result.
+- if ionic compound containing mental has negative SRP< electrolysis of solution of compound will usually produce hydrogen rather than the metal.
+- if a metal has negative srp - it will struggle to be reduced (?) you get hydrogen instead sometimes
+## brine electrolysis: chloralkali process
+- solution becomes basic and you make sodium hydroxide solution!
+- most energetically favourable reactions will occur for reduction/oxidation
+- ion only membrane : allows ion through, but not gases! this stops the reactions that is spontaneous for electroplating.
+- concentration sodium chloride solution
+	- dont do competing reactions !!!
+- chloride ions being used flow through.
+- electrolysis can be used to split h2o into tis elements, hydrogen and oxygen.
+	- add something to boost its conductivity; simple solution is add sulphuric acid1
+- hydroxides -> oxygen water is an option if there are hydroxides
+- +1.23 O2 + 4h -> 2h2o
+- electrolysis of water
+	- at the negative electrode: 
+		- 2h+ + 2e- -> h2 (reduction)
+	- at the positive electrode:
+		- 4oh- -> 2h2o + o2 + 4e (oxidation)
+## CAP THINGS
+- check resources of lucarelli 7.6-7.8, 8.6-8.8
+- read pearson chapter 10, industrial examples very useful in pearson, more familiar, less likely youd get caught by it
+questions:
+- lucarelli set 11 & set 12 (q16 onwards) HAND IT NEXT WEEK
+- stawa sets 22 & 23
+- DIRECTLY PREPARE YOU!!!!!!!!!!!!!!!!!!! FOR THE CAP!!!!! DUE WEDNESDAY 21ST!!
+- ms holland %
+	- as you go along, you mark it
+	- give it a % for the piece of work
+- often examiners start short answer with things to shift modes and let you write something immediately.

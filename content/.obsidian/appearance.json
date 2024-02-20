@@ -1,9 +1,10 @@
 {
   "accentColor": "#8d42f5",
-  "cssTheme": "Encore",
+  "cssTheme": "Catppuccin",
   "enabledCssSnippets": [
     "bold",
     "highlightr"
   ],
-  "baseFontSize": 19
+  "baseFontSize": 17,
+  "theme": "obsidian"
 }
