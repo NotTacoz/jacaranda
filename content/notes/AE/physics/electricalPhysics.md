@@ -264,3 +264,4 @@ Which object did not have its charge measured accurately? Justify your choice.
     - the electrons in plastic and rubber are very tightly bound to their respective nuclei and cannot readily move from one atom to another. Non-metals do not conduct electricity very well and are known as insulators. Meanwhile silver and copper the outermost electrons are only very slightly attracted to their respective nuclei. As a consequence, metals are good conductors of electricity. In conductors, loosely held electrons can 'jump' from one atom to another and move freely throughout the material.
 
 know absolute and percentage uncertainty for the test ^\_\^
+

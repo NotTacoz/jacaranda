@@ -18,7 +18,49 @@ date: 2024-02-03
 	- Products - Reactants consistently interchange.
 	- Sometimes disruptions occur - more products are formed, or less reactants are formed.
 	- Imposed Changes: anything that disturbs dynamic equilibrium
-## ANYTHING AFTER HERE HAS NOT TURNED INTO ANKI YET!!!!!!!!!
+# ANYTHING AFTER HERE HAS NOT TURNED INTO ANKI YET!!!!!!!!!
+## Collision Theory
+- We are going to need to make sure we are ready to roll with collision theory.
+- Two sentences: More detailed collision theory, but shorter! Use precise language.
+- Anything that increases the rate of successful collisions will increase rate of reaction.
+	- **Frequency** of collisions between particles - more frequent collisions mean more frequent successful collisions.
+	- **Proportion** of collisions result in a reaction: a greater proportion will have sufficient kinetic energy to overcome activation energy
+- compound chemistry on instagram has ms holland vouch
+- temperature
+- concentration
+- pressure
+- surface area
+- catalyst
+
+## Predictions using Le Chatelier's principle
+- If a factor affecting the position of an equilibrium is altered, the position of the equilibrium shifts to oppose the effect of the change.
+- Le Chatelier's principle is only good for predicting the outcome, not explaining it.
+
+| Condition     | Effect                                                                                                                  |
+| ------------- | ----------------------------------------------------------------------------------------------------------------------- |
+| Temperature   | Increasing the temperature shifts the equilibrium in the direction that takes in heat.                                  |
+| Concentration | Increasing the concentration of a substance shifts the equilibrium in the direction that produces less of that substance |
+| Pressure      |                   Increasing the pressure shifts the equilibrium that produces less gas                                                                                                      |
+- when the temperature increased/decreased, lechatelier's principle predicts that the equilibrium will shift to decrease the temperature (partially), it does this by favouring the endothermic/exothermic reaction, which is the reverse/forward reaction, so the position of equilibrium shifts left/right.
+
+$$2NO_{2}(g) \rightleftharpoons N_{2}O_{4}(g)$$
+
+- 1kg Salt + 24 Cans + Esky + Enough water so it looks like a slushy = fast cold drinks.
+### Imposed Change: Pressure
+
+## Reversible Reactions
+$$A+B\rightleftharpoons C+D$$
+reactants, products
+- all reactions are reversible, however some reactions appear irreversible because one way is energetically unfavourable - very high activation energy and so does not proceed at any measured rate.
+- good example: neutralisation of acids and alkalis - they are an "irreversible" experience.
+
+## Dynamic Equilibrium
+- Equilibrium: Balance - When the forward and reverse reaction occurs at the same rate.
+- At Dynamic Equilibrium, reactants and products will be unchanging.
+- Dynamic: Everything is ongoing.
+- Static: Everything reaches a balance, and stops.
+
+
 - forward reaction: Reactants -> Products (low Ea for exothermic compared to Ea of endothermic)
 - ![[notes/images/Screenshot 2024-02-04 at 10.59.33 am.png|400]]
 - Reverse Reaction -> Ae is high: lower rate as compared to forward.
@@ -26,6 +68,26 @@ date: 2024-02-03
 - <u>Evolution</u>: Products increases: \[P] increases: freq of col -> ROR of R increases
 	- Reactants decrease: \[R] decrease: freq of col dec -> ROR of F decreases
 - dynamic equilibrium occurs when the forward rate of reaction equal our reverse rate of reaction.
+- a dynamic equilibrium system would have constant properties. It LOOKS like nothing is happening.
+- requirements
+	- rates of forward and reverse are equal, constant
+	- main concentration of component remain constant
+	- macroscopic properties remain constant
+	- if you break the equilibrium, it would no longer be equilibrium
+- can only happen in **closed** system: you cannot have true equilibrium in an open system
+- matter cannot be exchanged with the environments.
+- isolated system
+	- matt/matter cannot be exchanging of energy.
+- let's consider $A +B \rightleftharpoons C+D$
+- the position of equilibrium is to the left if we have lots of reactants
+- lots of product: position of equilibrium is to the right.
+
+## Positions of Equilibrium
+- if you are talking about equilibrium - talk about position of equilibrium
+- trying to push the position of equilibrium makes a lot of money.
+- we sell product for cash.
+- catalyst doe sot shift position of equilibrium
+
 - ![[notes/images/Screenshot 2024-02-04 at 11.04.32 am.png]]
 - when the shit collides and touches that is when **dynamic equilibrium** occurs.
 - a reaction is reversible if Ea(forward) and Ea(reversible) are low-moderate
@@ -197,3 +259,124 @@ date: 2024-02-03
 	- equilibrium is partial counteracting of imposed change
 ### partial pressure
 - pressure if it existed in the container alone
+
+## Changing Total Pressure of Gases
+- When changing total pressure of a closed system, this often involves altering the volume of the container.
+- Increasing volume of container decreases the pressure; vice versa.
+- LCP predicts that eq will shift to minimise the pressure change
+- If you increase pressure of the system, then partial pressure of all gases in the system increase thus system reestablishes eq by counteracting the increase of partial pressure by favouring the forward reaction as that consumes more moles (4 moles) of gases than produced (3 moles). thus equilibrium shifts to the right.
+- collision theory
+	- inc pressure: freq. collisions for ALL gaseous substances.
+	- inc rate for fwd and rev reactions.
+	- fwd reaction has more moles of gas so the increase in frequency collisions and increase of rate is greater than for reverse reaction.
+	- \[C], \[D] increases and \[A], \[B] decreases
+	- new equilibrium when rates equal.
+	- position of equilibrium has shifted RIGHT.
+- don't put conclusion at the start of the response.
+- if forward and reverse reaction has same number of moles on each side, changing total pressure may affect both rates of reaction but has no effect on the position of equilibrium.
+- adding an inert gas has no effect on rates of reaction or position of equilibrium.
+- changing total pressure by adding or removing one or more reactants or products is equivalent to changing the concentration and should be considered in this way.
+- concentration change is much more powerful than the change in pressure.
+	- you will not be served a two in one combo to save your sanity.
+- harbour process :) we will cover later
+- inc temp: inc KE particles (also inc velocity) => inc freq. collisions
+	- inc proportion of collisions with KE >= EA
+	- inc freq of successful collisions => BOTH fwd + rvs reaction rates increase.
+	- Endothermic reaction increases rate by greater extent as it requires larger activation energy, forward faster than reverse.
+	- inc \[C], \[D] dec \[A], \[B]
+	- new equilibrium when rates equal => pos of equilibrium shifted right.
+### catalyst
+- doesnt affect equilibrium
+- makes everything faster tho :)
+## other things that doesnt affect equilibrium
+- catalyst
+- surface area of solids
+	- equilibrium might be reached faster.
+- adding or removing solid substances
+- removing adding removing pure liquids
+
+## Equilibrium Constant $K_c$
+- $K=K_{c}$
+- make sure it is CAPITAL > $k$ is rate constant; works differently:-)
+- Change in Temperature changes $K_{c}$.
+- Consider the reaction:$$aA + bB \rightleftharpoons cC + dD$$
+- Equilibrium Constant is given as: $$K_{c}=\frac{{[C]^c[D]^d}}{[B]^b[A]^a}$$
+>[!Warning] 
+>Remember to write $K_{c}=$. Sounds dumb but apparently a lot of people do it.
+
+- K is a variable based on concentration.
+- You can only put substances into the equilibrium constant if their concentration is subject to change: solid or pure liquid does not appear in the equilibrium expression.
+- Include aqueous o gaseous substances
+- Exclude solid or liquid substances if the mixture is heterogeneous.
+- Include solids and liquids if the mixture is homogeneous! \* water can be a weird one,,,
+	- if water is solvent, leave it out.
+- include your state symbols, because if you do, it is an extra check/reminder for you,
+### Inferences of $K_{c}$
+- If $K_{c}>1$, concentration of products is greater than the concentration of reactants, we say that the equilibrium lies to the right, and the yield is high.
+- If $K_{c}<1$, concentration of reactants is greater than concentration of products, we say the equilibrium lies to the left, so the yield is low.
+- If $K_{c} \approx 1$, there are significant concentrations of both reactants and products at equilibrium.
+### Reaction Quotient
+- Equilibrium constant must be for a system at equilibrium. You can have a reversible reaction that isn't at eqm, but instead of solving for $K_{c}$, you can calculate for Q: the reaction quotient.
+- Same thing but for when the system is not at equilibrium at that point.
+- We can make comparisons between Q at one moment and $K_{c}$ we expect at that temperature.
+- If $Q<K_{c}$, the forward reaction is favoured. 
+	- it is shifting to the right.
+	- too much reactants, not enough products - so according to LCP, more products have to be formed!
+- If $Q>K_{c}$, the reverse reaction is favoured.
+	- it is shifting to the left.
+	- too much products, not enough reactants - so according to LCP, more reactants have to be formed =D
+### Effect of Temperature on $K_{c}$
+>[!Note] Changing the temperature changes the value of the equilibrium constant, $K_c$.
+
+- if more products are formed, Kc increased
+- if more reactants are formed, Kc decreases
+- temperature affects this.
+
+### Effect of Concentration on $K_{c}$
+- CONCENTRATION DOES NOT CHANGE KC. KC IS ONLY AT EQUILIBRIUM - SINCE EQUILIBRIUM CONSTANT IS AT EQUILIBRIUM, AND EQUILIBRIUM SHIFTS, $K_{c}$ does not change if you change the concentration of products or reactants.
+
+### Effect of Pressure
+- If partial pressure of reactant or product changes, think about this like concentration changes, equilibrium shifts to oppose the change.
+- $K_p$ is an opp - it is sent to ruin you.
+
+### Effect of Catalyst
+- doesnt do shit to equilibrium
+- doesnt do shit to equilibrium constant
+- does increase rate of reaction tho :-D
+
+## Haber Process
+- all about making ammonia
+$$N_{2}(g)+3H_{2}(g)\rightleftharpoons_{2}NH_{3}(g)$$
+## What is Ammonia
+- manufacture of fertiliser.
+- used in a lot of industrial processes and a lot of explosives (tnt)
+- made by the haber process
+- vertiasium fritz haber
+
+## Contact Process
+- similar pattern to haber process, but different
+- contact process makes sulphuric acid
+- sulphuric acid is useful for:
+	- explosives
+	- steel
+	- fertilisers
+	- paper
+	- oil
+	- nylon
+- we use sulphuric acid to make super phosphate for fertiliser as plants are deficient in phosphorus.
+- concentrated sulphuric acid is very scary.
+	- removes water from skin - v bad burns.
+- considered corrosive.
+- burning of sulphur: irreversible reaction
+	- $S(l)+O_{2}(g)\to SO_{2}(g)$
+- sulphur trioxide equilibrium: reversible
+	- $2SO_{2}(g)+O_{2}(g)\rightleftharpoons_{2}SO_{3}(g), \Delta H=-196kJ$
+- dissolve
+	- $H_{2}SO_{4}(l)+SO_{3}(g)\to H_{2}S_{2}O_{7}(l)$
+- dilute
+	- $H_{2}S_{2}O_{7}(l)+H_{2}O(l)\to 2H_{2}SO_{4}(l)+heat$
+- catalyst, vanadium (V) oxide needs 5 in its name!!
+	- pricey!! but worth it
+	- enables us to turn down pressure =)
+	- and enables us to turn down temperature which increases yield :)
+	- 

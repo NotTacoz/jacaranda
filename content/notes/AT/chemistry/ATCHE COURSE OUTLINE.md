@@ -256,6 +256,25 @@ d.     Electron flow in external circuit.
 29.  Describe and explain the differences between galvanic and electrolytic cells. 
 30.  Describe and explain how electrolytic cells are used in a range of industrial situations, including metal plating (example Silver) and refining (example purification of copper).
 ## Topic 2: EQUILIBRIUM
+|  |  | 1 |
+| ---- | ---- | ---- |
+| 1 |  |  |
+| 2 |  |  |
+| 3 |  |  |
+| 4 |  |  |
+| 5 |  |  |
+| 6 |  |  |
+| 7 |  |  |
+| 8 |  |  |
+| 9 | 23/2/24 |  |
+| 10 | 23/2/24 |  |
+| 11 |  |  |
+| 12 |  |  |
+| 13 |  |  |
+| 14 |  |  |
+| 15 |  |  |
+| 16 |  |  |
+
 1.     Use collision theory to explain and predict the effects changes in concentration, temperature, pressure, catalysts and surface area on the rate of reaction.
 2.     Describe chemical systems as either open (which allow matter and energy to be exchanged with the surroundings) or closed (which allow energy, but not matter, to be exchanged with the surroundings).
 3.     Explain observable changes in chemical and physical equilibrium systems at an atomic / molecular level. 
@@ -269,7 +288,28 @@ b.     changes in solution concentration
 c.     changes in partial pressures of gases 
 d.     addition of a catalyst
 9.     Using collision theory, explain and predict how the changes listed above affect the rates of the forward and reverse reactions, and how this may lead to a shift in the position of equilibrium. 
+- All changes in position of equilibrium can be explained using collision theory and rate of reaction.
+- When we say "it favours the forward reaction" it means "the forward reaction is faster"
+- Consider:
+	- **frequency** of collisions between reactants (for forward) and products (for reverse)
+	- **proportion** of collisions will result in a reaction in both directions - will particles be able to overcome activation energy.
+- Change in concentration.
+	- Consider $A(s)+2B(aq)\rightleftharpoons C(aq) + 3D(g)$
+	- increasing concentration of reactant increases frequency of collisions between reactants, and so increases the rate of the forward reaction.
+	- rate of the reverse reaction is initially unchanged, which upsets the equilibrium.
+	- concentration of products increases. This causes an increase in the rate of the reverse reaction. As the extra reactants are used up, the rate of the forward reaction decreases.
+	- Equilibrium is re-established once the rates of the forward and reverse reactions are equal.
+	- The position of equilibrium will have shifted to the products (the right)
+	- not the model answer: be specific with name of the chemical. name drop chemicals.
+- Adding water to change concentration
+	- small quantities of water does not change concentration
+	- adding larger quantities of water will reduce concentration of all other substances present.
+- Partial Pressure
+	- Fancy way of saying Concentration of Gas
+	- Not exactly the same thing - Be careful when making generalisations beyond scope of some things.
+	- Kc Kp not needed (?)
 10.  Predict the effect of changes in temperature on the position of equilibrium by considering the enthalpy changes of the forward and reverse reactions. 
+- 
 11.  Use equilibrium constants to qualitatively predict the relative amounts of reactants and products at equilibrium. 
 12.  Draw and interpret graphs of concentration against time and rate against time for equilibrium systems, including the effect of changes in concentration, partial pressure, total volume, total pressure and temperature. 
 13.  Write equilibrium law expressions for homogeneous and heterogeneous systems.

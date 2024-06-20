@@ -19,4 +19,6 @@ for quick access to my specific subjects, check out:
 - [[tags/english|english]]
 - [[tags/japanese|japanese]]
 
+<iframe src="https://lifeofdiscipline.com/notion/habit/clum4sc2a0007ig0g0mtfrrbo?darkTheme=1" width=800px height=340px/>
+
 check out my page [[notes/stats|stats]]

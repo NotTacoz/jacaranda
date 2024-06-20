@@ -83,5 +83,44 @@ consider coulombs law: $F=\frac{kq_{1}q_{2}}{r^2}$
 - m x a = xkg^2/m^2
 - x = m^2 s * m^-2/kg
 
-- 3.64 x 10^6
+- 3.64 x 10^6 N
 - a_c = 2,876.25 ms^2
+
+## Gravitational Field Strength
+- measure of force/unit mass of an object based on its position in the field.
+- $g=\frac{F}{m}$
+- use $N kg^{-1}$ for the unit of $g$ and not $ms^{-2}$
+	- $ms^{-2}$ -> acceleration due to gravity.
+- $F_{g}$
+- Iss 420T and 3.64 x 10^6 N grav force:
+	- g = 8.67 N kg^-1 towards earth
+- GFS
+	- 3.64 x 10^6/(5.97 × 10^24)
+	- g = 6.10 N kg^-1 to ISS
+- satellite is an object orbiting another object.
+- geo-stationary satellite: stays in one geographical position from earth - constant distance from earth
+	- above same point of earth always.
+- polar orbit satellite: goes around both poles
+- sun-synchronous: at any particular point/time during the day, it would be above the same spot on earth at the same time.
+- dr waters will have it clear in his mind: overdue questions
+- potentially question related to adichi(?) satellite
+### Work
+- 0 work of a satellite
+- if the satellite in a G-Field is moving towards the earth, then the Field is doing work on the satellite
+	- if the satellite is moving away from the work, the satellite is doing work on earth.
+- What altitude must a geostationary satellite be placed at? Fc = Fg
+	- g = Fg/m
+	- Fg = Fc = mv^2/r
+	- g = v^2/r
+	- r = ?
+	- v = 2pir^2/T = 2pir^2/(24x60x60)
+	- g = 2pir/T
+	- r = Tg / 2pi
+	- G m1m2 = m1v^2 x r
+## Kepler's Three Laws
+1. Planetary orbits around Sun follow elliptical orbit with the sun at one of the Foci.
+2. Equal areas are swept in equal times.
+3. $\frac{T^2}{r^3}=\frac{4\pi^2}{GM}$
+- Definite Questions
+	- Either \[Derive Keplers 3rd Law]
+	- Or 

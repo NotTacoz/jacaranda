@@ -5,6 +5,7 @@
     "bold",
     "highlightr"
   ],
-  "baseFontSize": 17,
-  "theme": "obsidian"
+  "baseFontSize": 22,
+  "theme": "obsidian",
+  "translucency": false
 }

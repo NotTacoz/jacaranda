@@ -173,7 +173,7 @@ Iron (III) Sulphate
 - zinc is more reactive, so oxidises and loses electrons that flow blah blah blah blah
 - the solid thingy is usually graphite or platinum.
 ## Anode and Cathode
-- An ox & Red cat
+- An Ox & Red Cat
 - Anode is negative, Cathode is positive (in galvanic cells only - in electrolytic cells anode is positive and cathode is negative!)
 
 ## Feasibility of a Reaction
@@ -540,3 +540,4 @@ questions:
 	- as you go along, you mark it
 	- give it a % for the piece of work
 - often examiners start short answer with things to shift modes and let you write something immediately.
+- awesome sauce

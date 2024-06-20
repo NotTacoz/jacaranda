@@ -50,7 +50,7 @@ _This includes deriving and applying the relationship_
 10. when an object experiences a net force at a distance from a pivot and at an angle to the lever arm, it will experience a torque or moment about that point
 *This includes applying the relationship:*
 ![[notes/images/Screenshot 2024-02-09 at 9.16.46 pm.png]]
-11. for a rigid body to be in equilibrium, the sum of the forces and the sum of the moments must be zero
+	1. for a rigid body to be in equilibrium, the sum of the forces and the sum of the moments must be zero
 _This includes applying the relationships_
 ![[notes/images/Screenshot 2024-02-09 at 9.17.08 pm.png]]
 ## **Electromagnetism**
