@@ -232,12 +232,21 @@
     "2024/5/17": 0,
     "2024/5/18": 149,
     "2024/5/19": 188,
-    "2024/5/20": 0
+    "2024/5/20": 176,
+    "2024/5/25": 136
   },
   "todaysWordCount": {
-    "Excalidraw/interferometry report.excalidraw 1.md": {
-      "initial": 5032,
-      "current": 5032
+    "notes/AT/chemistry/Test Review.md": {
+      "initial": 900,
+      "current": 899
+    },
+    "notes/AT/physics/spectra.md": {
+      "initial": 186,
+      "current": 186
+    },
+    "notes/AT/chemistry/organic chem.md": {
+      "initial": 814,
+      "current": 950
     }
   }
 }

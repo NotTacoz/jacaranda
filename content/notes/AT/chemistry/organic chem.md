@@ -119,3 +119,21 @@ carboxylic acid + alcohol -> ester + water
 	- slow and reversible
 	- ester has LOWEST boiling point, so if you boil everything and have ester as the only evaporated product, there is no more ester left to do the reverse reaction (because it evaporates away bye bye)
 	- also use as little water as possible - no aqueous solutions use neat (very concentrated) - water is NOT the solvent
+
+## amines and amides
+- nitrogen containing organic compounds
+- categorise amines by extra stuff on it like hydrogen hydrocarbon chains or benzene rings. 
+- alkyl and aryl group amines depending on benzene ring or chain ones.
+- they all smell bad.
+	- reason they have an odour is because it is volatile
+	- evolutions they smell BAD. because urine smell is avoided!!!!!!!!!!!!!!!!!
+	- produced by decomposition of rotten meat/flesh. so people who avoid rotten meat and flesh and we associate it to the smell of amines!!!!!!!
+- UNPPLEASeNT IN OBSERVAtiON!!!!!!!111
+- shape of amines is important
+	- because they are based on ammonia, their shapes are very similar as well 
+	- differ by a presence of a h shape
+- group amines as primary secondary tertiary. similar to alcohols but different. 
+	- primary has 1 R group
+	- secondary has 2 R groups
+	- tertiary is 3 R groups
+- 
