@@ -12259,24 +12259,6 @@
       "modifiedDate": 1704603139163,
       "sizeInBytes": 877
     },
-    "articles/Why Do the Rich not Retire?.md": {
-      "isCountable": true,
-      "isDirectory": false,
-      "noteCount": 1,
-      "wordCount": 158,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 0.5266666666666666,
-      "characterCount": 876,
-      "nonWhitespaceCharacterCount": 709,
-      "readingTimeInMinutes": 0.5962264150943396,
-      "linkCount": 0,
-      "embedCount": 0,
-      "aliases": null,
-      "createdDate": 1720069292542,
-      "modifiedDate": 1720070016035,
-      "sizeInBytes": 954
-    },
     "articles/how to study better.md": {
       "isCountable": true,
       "isDirectory": false,
@@ -13698,6 +13680,24 @@
       "createdDate": 1723695233843,
       "modifiedDate": 1723695302576,
       "sizeInBytes": 236
+    },
+    "articles/Why Do the Rich not Retire.md": {
+      "isCountable": true,
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 169,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.5633333333333334,
+      "characterCount": 954,
+      "nonWhitespaceCharacterCount": 772,
+      "readingTimeInMinutes": 0.6377358490566037,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1720069292542,
+      "modifiedDate": 1720070016035,
+      "sizeInBytes": 954
     }
   }
 }
