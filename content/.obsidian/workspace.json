@@ -4,69 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "fb6d8da3aebff0c0",
+        "id": "fddf06484a6bce23",
         "type": "tabs",
         "children": [
           {
-            "id": "381976d4a92af44e",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "kanban",
-              "state": {
-                "file": "notes/test and exam feedback board.md",
-                "kanbanViewState": {
-                  "kanban-plugin": "board",
-                  "list-collapse": [
-                    false,
-                    false,
-                    false,
-                    false,
-                    false,
-                    false
-                  ]
-                }
-              },
-              "pinned": true
-            }
-          },
-          {
-            "id": "a1639645ab9bee5b",
+            "id": "1489858ce5a32466",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "notes/AT/chemistry/biodiesel.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "829a2678ccd9478a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "notes/AT/chemistry/fats and oils and biodiesel.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "30d86b2726c46dd1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "notes/AT/chemistry/sai notes amino acids.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -207,9 +153,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "notes/test and exam feedback board.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -225,7 +169,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "notes/test and exam feedback board.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -253,14 +196,20 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "381976d4a92af44e",
+  "active": "1489858ce5a32466",
   "lastOpenFiles": [
+    "notes/AT/chemistry/sai notes amino acids.md",
+    "notes/AT/chemistry/fats and oils and biodiesel.md",
+    "notes/AT/chemistry/biodiesel.md",
+    "notes/test and exam feedback board.md",
+    "notes/internship notes.md",
+    "notes/images/Pasted image 20240815175618.png",
+    "notes/images/Pasted image 20240815175118.png",
+    "notes/images/Pasted image 20240815174545.png",
+    "notes/images/Pasted image 20240815174457.png",
+    "notes/t&e feedback board.md",
     "articles/Why Do the Rich not Retire.md",
     "notes/AT/chemistry/soaps and detergents.md",
-    "notes/AT/chemistry/biodiesel.md",
-    "notes/AT/chemistry/fats and oils and biodiesel.md",
-    "notes/AT/chemistry/sai notes amino acids.md",
-    "notes/test and exam feedback board.md",
     "notes/images/Pasted image 20240813170603.png",
     "notes/images/Pasted image 20240813170457.png",
     "notes/images/Pasted image 20240813161406.png",
@@ -269,13 +218,8 @@
     "notes/images/Screenshot 2024-08-12 at 6.36.58 PM.png",
     "notes/images/Pasted Image 20240812183700_061.png",
     "notes/images/Pasted image 20240809142019.png",
-    "notes/images/Pasted image 20240809141902.png",
-    "notes/images/Pasted image 20240809141534.png",
-    "notes/images/Pasted image 20240809141301.png",
-    "notes/images/Pasted image 20240809140543.png",
     "notes/AT/chemistry/Yield & Atom Economy.md",
     "notes/Untitled Kanban.md",
-    "notes/t&e feedback board.md",
     "Excalidraw/Drawing 2024-08-08 07.46.09.excalidraw.md",
     "notes/daily/2024-08-08.md",
     "Excalidraw/Drawing 2024-08-05 07.57.49.excalidraw.md",
@@ -289,8 +233,6 @@
     "notes/AE/chemistry/CAP4.md",
     "Excalidraw/Drawing 2024-07-30 13.52.21.excalidraw.md",
     "notes/AT/chemistry/proteins and amino acids.md",
-    "notes/AT/physics/bombcolatt.md",
-    "notes/AT/physics/physics 1-6-24.md",
     "Untitled.canvas",
     "notes/AT/sai/questions",
     "notes/AT/sai",
