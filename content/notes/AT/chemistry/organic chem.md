@@ -136,4 +136,18 @@ carboxylic acid + alcohol -> ester + water
 	- primary has 1 R group
 	- secondary has 2 R groups
 	- tertiary is 3 R groups
-- 
+### properties!! of amines
+- amines has higher boiling points that alkanes of a similar mass (similar number of electrons and similar strength of dispersion forces)
+- not that good hydrogen bonds. not a strong example. hydrogen bond always forms with a lone pair.
+- tertiary amines are barely polar. hydrogen bond is gone - does not exist, and the nitrogen carbon bonds barely exist.
+- smaller amines are soluble in water
+- as hydrocarbon chains get water, dispersion forces formed between them. water is terrible at dispersion forces. energetically unfavourable for the big ones to dissolve n water.
+- form with water reaction
+- bronsted lowry base - H+ acceptors
+- form salts with acids. can do this reaction in the gas phase. very dramatic smoke.
+## amides
+- amine but the carbon nextdoor is double bonded to an oxygen atom.
+### properties of amides
+- strongest hydrogen bonds so far
+- hydrogen bond below nitrogen is super polarised. 
+- no proton accepting.

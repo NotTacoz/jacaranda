@@ -233,20 +233,40 @@
     "2024/5/18": 149,
     "2024/5/19": 188,
     "2024/5/20": 176,
-    "2024/5/25": 136
+    "2024/5/25": 283,
+    "2024/5/28": 7,
+    "2024/6/1": 191,
+    "2024/6/4": 159,
+    "2024/6/19": 58,
+    "2024/6/21": 144,
+    "2024/6/23": 139,
+    "2024/6/24": 298,
+    "2024/6/25": 65,
+    "2024/6/26": 219,
+    "2024/7/1": 61,
+    "2024/7/4": 48,
+    "2024/7/6": 180,
+    "2024/7/8": 0,
+    "2024/7/9": 517,
+    "2024/7/13": 539,
+    "2024/7/15": 342
   },
   "todaysWordCount": {
-    "notes/AT/chemistry/Test Review.md": {
-      "initial": 900,
-      "current": 899
+    "notes/soaps and detergents.md": {
+      "initial": 10,
+      "current": 11
     },
-    "notes/AT/physics/spectra.md": {
-      "initial": 186,
-      "current": 186
+    "notes/AT/chemistry/soaps and detergents.md": {
+      "initial": 12,
+      "current": 337
     },
-    "notes/AT/chemistry/organic chem.md": {
-      "initial": 814,
-      "current": 950
+    "notes/biodiesel.md": {
+      "initial": 12,
+      "current": 9
+    },
+    "notes/AT/chemistry/biodiesel.md": {
+      "initial": 19,
+      "current": 35
     }
   }
 }

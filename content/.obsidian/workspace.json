@@ -4,16 +4,39 @@
     "type": "split",
     "children": [
       {
-        "id": "f05a21477637f506",
+        "id": "fb6d8da3aebff0c0",
         "type": "tabs",
         "children": [
           {
-            "id": "15b932acb304ccaf",
+            "id": "381976d4a92af44e",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "kanban",
+              "state": {
+                "file": "notes/test and exam feedback board.md",
+                "kanbanViewState": {
+                  "kanban-plugin": "board",
+                  "list-collapse": [
+                    false,
+                    false,
+                    false,
+                    false,
+                    false,
+                    false
+                  ]
+                }
+              },
+              "pinned": true
+            }
+          },
+          {
+            "id": "81adb31ece35ca9c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notes/AT/chemistry/organic chem.md",
+                "file": "notes/AT/chemistry/soaps and detergents.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -21,22 +44,12 @@
             }
           },
           {
-            "id": "30221a1c17656b3c",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/Drawing 2024-06-21 22.46.01.excalidraw.md"
-              }
-            }
-          },
-          {
-            "id": "a5e86379b132241f",
+            "id": "a1639645ab9bee5b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notes/AT/physics/spectra.md",
+                "file": "notes/AT/chemistry/biodiesel.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -44,16 +57,33 @@
             }
           },
           {
-            "id": "4e7d5734ebc1af37",
+            "id": "829a2678ccd9478a",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "notes/images/physics 22.md"
+                "file": "notes/AT/chemistry/fats and oils and biodiesel.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "30d86b2726c46dd1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "notes/AT/chemistry/sai notes amino acids.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -127,7 +157,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 290
+    "width": 290,
+    "collapsed": true
   },
   "right": {
     "id": "8bc85ecb066bcf9c",
@@ -191,7 +222,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "notes/AT/chemistry/organic chem.md"
+                "file": "notes/AT/chemistry/soaps and detergents.md"
               }
             }
           }
@@ -208,7 +239,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "notes/AT/chemistry/organic chem.md",
+                "file": "notes/AT/chemistry/soaps and detergents.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -236,44 +267,44 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "15b932acb304ccaf",
+  "active": "81adb31ece35ca9c",
   "lastOpenFiles": [
-    "notes/AT/chemistry/Acids & Bases.md",
-    "Excalidraw/Drawing 2024-06-21 22.46.01.excalidraw.md",
-    "notes/images/physics 22.md",
-    "notes/AT/physics/spectra.md",
-    "notes/AT/physics/physics 22.md",
-    "Excalidraw/Drawing 2024-06-10 11.10.20.excalidraw.md",
-    "Excalidraw/interferometry report.excalidraw.md",
-    "notes/AT/physics/interferometry report.excalidraw.md",
-    "Excalidraw/physics 22.md",
-    "notes/images/Pasted Image 20240625115335_194.png",
-    "notes/AT/chemistry/Test Review.md",
-    "notes/AT/chemistry/redox investigation + eqm.md",
-    "notes/random errors.md",
-    "notes/AT/chemistry/organic chem.md",
-    "notes/AT/physics/torque questions.md",
-    "Excalidraw/Drawing 2024-06-11 11.45.44.excalidraw.md",
-    "Excalidraw/Drawing 2024-06-06 14.13.15.excalidraw.md",
-    "Excalidraw/Drawing 2024-06-17 13.44.53.excalidraw.md",
-    "Excalidraw/Drawing 2024-06-19 21.47.03.excalidraw.md",
-    "Excalidraw/Drawing 2024-06-18 20.36.08.excalidraw.md",
+    "notes/AT/chemistry/biodiesel.md",
+    "notes/AT/chemistry/soaps and detergents.md",
+    "notes/AT/chemistry/fats and oils and biodiesel.md",
+    "notes/AT/chemistry/sai notes amino acids.md",
+    "notes/test and exam feedback board.md",
+    "notes/images/Pasted image 20240813170603.png",
+    "notes/images/Pasted image 20240813170457.png",
+    "notes/images/Pasted image 20240813161406.png",
+    "notes/AT/chemistry/enzymes.md",
+    "Excalidraw/Drawing 2024-08-12 18.36.35.excalidraw.md",
+    "notes/images/Screenshot 2024-08-12 at 6.36.58 PM.png",
+    "notes/images/Pasted Image 20240812183700_061.png",
+    "notes/images/Pasted image 20240809142019.png",
+    "notes/images/Pasted image 20240809141902.png",
+    "notes/images/Pasted image 20240809141534.png",
+    "notes/images/Pasted image 20240809141301.png",
+    "notes/images/Pasted image 20240809140543.png",
+    "notes/AT/chemistry/Yield & Atom Economy.md",
     "notes/Untitled Kanban.md",
-    "notes/stats.md",
-    "notes/AT/specialist/volumes of revolution.md",
-    "notes/images/Pasted image 20240618202942.png",
-    "notes/AT/english/English Notes.md",
-    "notes/extracurricular.md",
-    "notes/images/Pasted Image 20240616111324_807.png",
-    "notes/AT/chemistry/aldehydes and ketones.md",
-    "notes/images/Pasted Image 20240614075653_943.png",
-    "notes/images/Pasted Image 20240613142730_562.png",
-    "notes/AT/chemistry/green chemistry.md",
-    "notes/images/Pasted Image 20240612094448_362.png",
-    "notes/images/Pasted Image 20240612092335_796.png",
-    "notes/images/Pasted Image 20240611114919_071.png",
-    "notes/images/Pasted Image 20240611114745_253.png",
-    "notes/images/Pasted Image 20240611114559_640.png",
+    "notes/t&e feedback board.md",
+    "Excalidraw/Drawing 2024-08-08 07.46.09.excalidraw.md",
+    "notes/daily/2024-08-08.md",
+    "Excalidraw/Drawing 2024-08-05 07.57.49.excalidraw.md",
+    "notes/AT/chemistry/Ethanol Production.md",
+    "notes/AT/chemistry/green principles of chem.md",
+    "notes/AT/chemistry/green principles.md",
+    "Excalidraw/Drawing 2024-07-31 13.15.36.excalidraw.md",
+    "notes/AE/chemistry/CAP1CHECKLIST.md",
+    "notes/AE/chemistry/aboriginalCaseStudy.md",
+    "notes/AE/chemistry/ATOMIC-STRUCTURES.md",
+    "notes/AE/chemistry/CAP4.md",
+    "Excalidraw/Drawing 2024-07-30 13.52.21.excalidraw.md",
+    "notes/AT/chemistry/proteins and amino acids.md",
+    "notes/AT/physics/bombcolatt.md",
+    "notes/AT/physics/physics 1-6-24.md",
+    "notes/AT/chemistry/polymers.md",
     "Untitled.canvas",
     "notes/AT/sai/questions",
     "notes/AT/sai",
